@@ -7,5 +7,24 @@
 	"authors": ["invalid"],
 	"frameworkVersion": "2.33.4",
 	"contentFolders": ["cont"],
-	"updateCheck": "https://github.com/scrungofan/handler-dialogue/releases/latest/download/updates.json"
+	"updateCheck": "https://github.com/scrungofan/handler-dialogue/releases/latest/download/updates.json",
+	"options": [
+		{
+			"name": "Add earpiece",
+			"tooltip": "Add a visual earpiece to 47",
+			"type": "select",
+			"contentFolders": ["obama/piece"],
+			"enabledByDefault": true,
+			"group": "Earpiece",
+			"image": "obama/image.png"
+		},
+		{
+			"name": "No earpiece",
+			"tooltip": "Don't add a visual earpiece to 47",
+			"type": "select",
+			"contentFolders": ["obama/nopiece"],
+			"group": "Earpiece",
+			"image": "obama/127589221-photo-of-the-adult-happy-bald-man.jpg"
+		}
+	]
 }
