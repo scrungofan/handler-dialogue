@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43707_ingameintro.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43707_ingameintro_makoyana_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\Right, 47. Let's get to work. Find the Peacock.",
-                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Bien, 47. Au travail. Trouvez le Paon.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Ok, 47. Mettiamoci al lavoro. Trova il Pavone.",
-                    "de": "//[MAKOYANA]\\\\//(0,30)\\\\Gut, 47. An die Arbeit. Suchen Sie den Pfau.",
-                    "es": "//[MAKOYANA]\\\\//(0,30)\\\\Vale, 47, manos a la obra. Encuentra al Pavo Real.",
-                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Вот так, 47-й. Пора за дело. Найди Павлина.",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\好了，47。开始工作吧。找到孔雀。",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\好了，47。讓我們回去工作。找到孔雀。",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\さて、47。仕事にかかろう。ピーコックを探せ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43707_ingameintro_makoyana_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\Now, 47. First things first. You must find the Peacock.",
-                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Bon, 47, tout d'abord... vous devez trouver le Paon.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Dunque, 47, prima le cose importanti: devi trovare il Pavone.",
-                    "de": "//[MAKOYANA]\\\\//(0,30)\\\\Also, 47. Eins nach dem anderen. Sie müssen den Pfau finden.",
-                    "es": "//[MAKOYANA]\\\\//(0,30)\\\\Vale, 47, lo primero es lo primero: has de encontrar al Pavo Real.",
-                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Итак, 47-й. Для начала тебе нужно найти Павлина.",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\现在，47。第一件事。你必须找到孔雀。",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\好了，47。首先。你得先找到孔雀。",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\さあ、47。まずは大事なことから始めよう。ピーコックを探せ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43707_ingameintro_makoyana_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\What a beautiful night, 47. Find the Peacock so we can get started.",
-                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Quelle belle nuit, 47 ! Trouvez le Paon, que nous puissions commencer.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Che serata meravigliosa, 47. Trova il Pavone, così possiamo cominciare.",
-                    "de": "//[MAKOYANA]\\\\//(0,3.025)\\\\Was für eine wunderschöne Nacht, 47.//(3.025,33.025)\\\\Suchen Sie den Pfau, damit wir anfangen können.",
-                    "es": "//[MAKOYANA]\\\\//(0,2.8)\\\\Tenemos una noche estupenda, 47.//(3.6,33.6)\\\\Encuentra al Pavo Real para que podamos empezar.",
-                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Какая чудесная ночь, 47-й. Найди Павлина, и мы начнем.",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\多美好的夜晚啊，47。找到孔雀，我们就能开始了。",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\真是個美麗的夜晚，47。找到孔雀，我們才能開始。",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\美しい夜だな、47。まずは、ピーコックを探せ。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43707_ingameintro.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43707_ingameintro_makoyana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\Right, 47. Let's get to work. Find the Peacock.",
+					"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Bien, 47. Au travail. Trouvez le Paon.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Ok, 47. Mettiamoci al lavoro. Trova il Pavone.",
+					"de": "//[MAKOYANA]\\\\//(0,30)\\\\Gut, 47. An die Arbeit. Suchen Sie den Pfau.",
+					"es": "//[MAKOYANA]\\\\//(0,30)\\\\Vale, 47, manos a la obra. Encuentra al Pavo Real.",
+					"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Вот так, 47-й. Пора за дело. Найди Павлина.",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\好了，47。开始工作吧。找到孔雀。",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\好了，47。讓我們回去工作。找到孔雀。",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\さて、47。仕事にかかろう。ピーコックを探せ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43707_ingameintro_makoyana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\Now, 47. First things first. You must find the Peacock.",
+					"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Bon, 47, tout d'abord... vous devez trouver le Paon.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Dunque, 47, prima le cose importanti: devi trovare il Pavone.",
+					"de": "//[MAKOYANA]\\\\//(0,30)\\\\Also, 47. Eins nach dem anderen. Sie müssen den Pfau finden.",
+					"es": "//[MAKOYANA]\\\\//(0,30)\\\\Vale, 47, lo primero es lo primero: has de encontrar al Pavo Real.",
+					"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Итак, 47-й. Для начала тебе нужно найти Павлина.",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\现在，47。第一件事。你必须找到孔雀。",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\好了，47。首先。你得先找到孔雀。",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\さあ、47。まずは大事なことから始めよう。ピーコックを探せ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43707_ingameintro_makoyana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43707_ingameintro_makoyana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\What a beautiful night, 47. Find the Peacock so we can get started.",
+					"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Quelle belle nuit, 47 ! Trouvez le Paon, que nous puissions commencer.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Che serata meravigliosa, 47. Trova il Pavone, così possiamo cominciare.",
+					"de": "//[MAKOYANA]\\\\//(0,3.025)\\\\Was für eine wunderschöne Nacht, 47.//(3.025,33.025)\\\\Suchen Sie den Pfau, damit wir anfangen können.",
+					"es": "//[MAKOYANA]\\\\//(0,2.8)\\\\Tenemos una noche estupenda, 47.//(3.6,33.6)\\\\Encuentra al Pavo Real para que podamos empezar.",
+					"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Какая чудесная ночь, 47-й. Найди Павлина, и мы начнем.",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\多美好的夜晚啊，47。找到孔雀，我们就能开始了。",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\真是個美麗的夜晚，47。找到孔雀，我們才能開始。",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\美しい夜だな、47。まずは、ピーコックを探せ。"
+				}
+			}
+		]
+	}
 }

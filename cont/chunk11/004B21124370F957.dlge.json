@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32602_mp_reznikovalonestone.sweetdialog?/ds32602_mp_reznikovalonestone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32602_mp_reznikovalonestone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32602_mp_reznikovalonestone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32602_mp_reznikovalonestone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Warden's looking for Khabko. He's gonna split soon.",
-            "fr": "//(0,30)\\\\Le directeur cherche Khabko. Il ne va pas tarder à partir.",
-            "it": "//(0,30)\\\\Il direttore sta cercando Khabko. Scapperà presto.",
-            "de": "//(0,30)\\\\Der Gefängnisdirektor sucht nach Khabko. Er wird bald abhauen.",
-            "es": "//(0,30)\\\\El alcaide está buscando a Khabko. Va a largarse pronto.",
-            "ru": "//(0,30)\\\\Начальник тюрьмы ищет Хабко. Он скоро отправляется.",
-            "cn": "//(0,30)\\\\监狱长正在寻找卡布科。他很快就要开溜了。",
-            "tc": "//(0,30)\\\\典獄長正在找卡伯克。他快要離開了。",
-            "jp": "//(0,30)\\\\所長がカブコを探している。もうすぐ帰ってしまうぞ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32602_mp_reznikovalonestone.sweetdialog?/ds32602_mp_reznikovalonestone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32602_mp_reznikovalonestone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32602_mp_reznikovalonestone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32602_mp_reznikovalonestone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Warden's looking for Khabko. He's gonna split soon.",
+			"fr": "//(0,30)\\\\Le directeur cherche Khabko. Il ne va pas tarder à partir.",
+			"it": "//(0,30)\\\\Il direttore sta cercando Khabko. Scapperà presto.",
+			"de": "//(0,30)\\\\Der Gefängnisdirektor sucht nach Khabko. Er wird bald abhauen.",
+			"es": "//(0,30)\\\\El alcaide está buscando a Khabko. Va a largarse pronto.",
+			"ru": "//(0,30)\\\\Начальник тюрьмы ищет Хабко. Он скоро отправляется.",
+			"cn": "//(0,30)\\\\监狱长正在寻找卡布科。他很快就要开溜了。",
+			"tc": "//(0,30)\\\\典獄長正在找卡伯克。他快要離開了。",
+			"jp": "//(0,30)\\\\所長がカブコを探している。もうすぐ帰ってしまうぞ。"
+		}
+	}
 }

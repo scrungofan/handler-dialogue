@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_story/dr43212_diana47b.sweetdialog?/dr43212_diana47b_47_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "dr43212_diana47b_47_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_story/dr43212_diana47b_47_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_story/dr43212_diana47b_47_001.animset].pc_animset",
-        "languages": {
-            "en": "//[47]\\\\//(0,30)\\\\Random... disordered.",
-            "fr": "//[47]\\\\//(0,30)\\\\Gratuit. Chaotique.",
-            "it": "//[47]\\\\//(0,30)\\\\Confusione, disorientamento...",
-            "de": "//[47]\\\\//(0,30)\\\\Beliebig. Ungeordnet.",
-            "es": "//[47]\\\\//(0,30)\\\\Desorden. Caos.",
-            "ru": "//[47]\\\\//(0,30)\\\\Спонтанно. Беспорядочно.",
-            "cn": "//[47]\\\\//(0,30)\\\\随机......无序。",
-            "tc": "//[47]\\\\//(0,30)\\\\隨機。雜亂無章。",
-            "jp": "//[47]\\\\//(0,30)\\\\無作為... 無秩序に。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_story/dr43212_diana47b.sweetdialog?/dr43212_diana47b_47_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr43212_diana47b_47_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_story/dr43212_diana47b_47_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_story/dr43212_diana47b_47_001.animset].pc_animset",
+		"languages": {
+			"en": "//[47]\\\\//(0,30)\\\\Random... disordered.",
+			"fr": "//[47]\\\\//(0,30)\\\\Gratuit. Chaotique.",
+			"it": "//[47]\\\\//(0,30)\\\\Confusione, disorientamento...",
+			"de": "//[47]\\\\//(0,30)\\\\Beliebig. Ungeordnet.",
+			"es": "//[47]\\\\//(0,30)\\\\Desorden. Caos.",
+			"ru": "//[47]\\\\//(0,30)\\\\Спонтанно. Беспорядочно.",
+			"cn": "//[47]\\\\//(0,30)\\\\随机......无序。",
+			"tc": "//[47]\\\\//(0,30)\\\\隨機。雜亂無章。",
+			"jp": "//[47]\\\\//(0,30)\\\\無作為... 無秩序に。"
+		}
+	}
 }

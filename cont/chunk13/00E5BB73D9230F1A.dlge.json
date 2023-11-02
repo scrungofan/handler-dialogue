@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32052_mp_spiderlilykilled_knight.sweetdialog?/ds32052_mp_spiderlilykilled_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32052_mp_spiderlilykilled_knight_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32052_mp_spiderlilykilled_knight_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32052_mp_spiderlilykilled_knight_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\That's Spider Lily taken care of, Stone.",
-            "fr": "//(0,30)\\\\Hop, et une Spider Lily en moins, une !",
-            "it": "//(0,30)\\\\Giglio ragno è stata sistemata, Stone.",
-            "de": "//(0,30)\\\\Damit wäre die Spinnenlilie erledigt, Stone.",
-            "es": "//(0,30)\\\\Esa tal Lirio Araña ya es historia, Stone.",
-            "ru": "//(0,30)\\\\С Ликорис разобрались, Стоун.",
-            "cn": "//(0,30)\\\\斯通，蜘蛛兰已被解决。",
-            "tc": "//(0,30)\\\\彼岸花已解決，斯通。",
-            "jp": "//(0,30)\\\\ヒガンバナは片付けた、ストーン。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32052_mp_spiderlilykilled_knight.sweetdialog?/ds32052_mp_spiderlilykilled_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32052_mp_spiderlilykilled_knight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32052_mp_spiderlilykilled_knight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32052_mp_spiderlilykilled_knight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That's Spider Lily taken care of, Stone.",
+			"fr": "//(0,30)\\\\Hop, et une Spider Lily en moins, une !",
+			"it": "//(0,30)\\\\Giglio ragno è stata sistemata, Stone.",
+			"de": "//(0,30)\\\\Damit wäre die Spinnenlilie erledigt, Stone.",
+			"es": "//(0,30)\\\\Esa tal Lirio Araña ya es historia, Stone.",
+			"ru": "//(0,30)\\\\С Ликорис разобрались, Стоун.",
+			"cn": "//(0,30)\\\\斯通，蜘蛛兰已被解决。",
+			"tc": "//(0,30)\\\\彼岸花已解決，斯通。",
+			"jp": "//(0,30)\\\\ヒガンバナは片付けた、ストーン。"
+		}
+	}
 }

@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "dr20119_mp_stoneinterestingaction_stone_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_001.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Let’s see how they react to this.",
-                    "fr": "//(0,30)\\\\On va voir comment ils réagissent à ça.",
-                    "it": "//(0,30)\\\\Vediamo come reagiranno.",
-                    "de": "//(0,30)\\\\Mal schauen, wie sie darauf reagieren.",
-                    "es": "//(0,30)\\\\A ver cómo reaccionan a esto.",
-                    "ru": "//(0,30)\\\\Посмотрим, как они отреагируют.",
-                    "cn": "//(0,30)\\\\看看他们会作何反应。",
-                    "tc": "//(0,30)\\\\看看他們如何反應。",
-                    "jp": "//(0,30)\\\\どう反応するかな。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20119_mp_stoneinterestingaction_stone_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_002.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Let’s see if this achieves anything interesting.",
-                    "fr": "//(0,30)\\\\Voyons si ça sert à quelque chose.",
-                    "it": "//(0,30)\\\\Vediamo se in questo modo si ottiene qualcosa di interessante.",
-                    "de": "//(0,30)\\\\Wollen wir mal sehen, ob das etwas Interessantes bewirkt.",
-                    "es": "//(0,30)\\\\A ver si sale algo interesante de todo esto.",
-                    "ru": "//(0,30)\\\\Посмотрим, выйдет ли из этого что-то путное.",
-                    "cn": "//(0,30)\\\\来看看这么做会不会发生什么有意思的事。",
-                    "tc": "//(0,30)\\\\看看這樣下去會怎麼樣。",
-                    "jp": "//(0,30)\\\\これで何か面白いことが起きるかな。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20119_mp_stoneinterestingaction_stone_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_003.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Okay. Someone's going to be upset now.",
-                    "fr": "//(0,30)\\\\OK. J'en connais un qui va être énervé.",
-                    "it": "//(0,30)\\\\Ok. Qualcuno sta per arrabbiarsi.",
-                    "de": "//(0,30)\\\\Okay. Jetzt regt sich gleich wer auf.",
-                    "es": "//(0,30)\\\\Vale. Creo que alguien se va a enfadar.",
-                    "ru": "//(0,30)\\\\Ладно. Кто-то теперь расстроится.",
-                    "cn": "//(0,30)\\\\好吧。有人要不开心了。",
-                    "tc": "//(0,30)\\\\好吧。好像等下有人會很不高興。",
-                    "jp": "//(0,30)\\\\ああ。誰かが狼狽えるな。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20119_mp_stoneinterestingaction_stone_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Let’s see how they react to this.",
+					"fr": "//(0,30)\\\\On va voir comment ils réagissent à ça.",
+					"it": "//(0,30)\\\\Vediamo come reagiranno.",
+					"de": "//(0,30)\\\\Mal schauen, wie sie darauf reagieren.",
+					"es": "//(0,30)\\\\A ver cómo reaccionan a esto.",
+					"ru": "//(0,30)\\\\Посмотрим, как они отреагируют.",
+					"cn": "//(0,30)\\\\看看他们会作何反应。",
+					"tc": "//(0,30)\\\\看看他們如何反應。",
+					"jp": "//(0,30)\\\\どう反応するかな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20119_mp_stoneinterestingaction_stone_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Let’s see if this achieves anything interesting.",
+					"fr": "//(0,30)\\\\Voyons si ça sert à quelque chose.",
+					"it": "//(0,30)\\\\Vediamo se in questo modo si ottiene qualcosa di interessante.",
+					"de": "//(0,30)\\\\Wollen wir mal sehen, ob das etwas Interessantes bewirkt.",
+					"es": "//(0,30)\\\\A ver si sale algo interesante de todo esto.",
+					"ru": "//(0,30)\\\\Посмотрим, выйдет ли из этого что-то путное.",
+					"cn": "//(0,30)\\\\来看看这么做会不会发生什么有意思的事。",
+					"tc": "//(0,30)\\\\看看這樣下去會怎麼樣。",
+					"jp": "//(0,30)\\\\これで何か面白いことが起きるかな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20119_mp_stoneinterestingaction_stone_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20119_mp_stoneinterestingaction_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Okay. Someone's going to be upset now.",
+					"fr": "//(0,30)\\\\OK. J'en connais un qui va être énervé.",
+					"it": "//(0,30)\\\\Ok. Qualcuno sta per arrabbiarsi.",
+					"de": "//(0,30)\\\\Okay. Jetzt regt sich gleich wer auf.",
+					"es": "//(0,30)\\\\Vale. Creo que alguien se va a enfadar.",
+					"ru": "//(0,30)\\\\Ладно. Кто-то теперь расстроится.",
+					"cn": "//(0,30)\\\\好吧。有人要不开心了。",
+					"tc": "//(0,30)\\\\好吧。好像等下有人會很不高興。",
+					"jp": "//(0,30)\\\\ああ。誰かが狼狽えるな。"
+				}
+			}
+		]
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32574_mp_riotreinforceadmin_stone.sweetdialog?/ds32574_mp_riotreinforceadmin_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32574_mp_riotreinforceadmin_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32574_mp_riotreinforceadmin_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32574_mp_riotreinforceadmin_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\They're sending more guards to control the riot. Looks like they're coming from the administration building.",
-            "fr": "//(0,30)\\\\Ils envoient plus de gardiens pour contrôler l'émeute. On dirait qu'ils viennent du bâtiment administratif.",
-            "it": "//(0,30)\\\\Stanno inviando altre guardie per controllare la rivolta. Sembra che arrivino dall'edificio amministrativo.",
-            "de": "//(0,30)\\\\Sie schicken noch mehr Wachen, um den Aufstand zu kontrollieren. Sieht aus, als würden sie aus dem Verwaltungsgebäude kommen.",
-            "es": "//(0,30)\\\\Envían a más guardias para controlar el motín. Parece que vienen del pabellón administrativo.",
-            "ru": "//(0,30)\\\\Они стягивают новых охранников, чтобы подавить бунт. Кажется, они идут из административного здания.",
-            "cn": "//(0,30)\\\\他们派出了更多守卫控制暴动。看来他们是从行政楼里出来的。",
-            "tc": "//(0,30)\\\\他們在派遣更多警衛來鎮壓暴動。看起來他們是來自行政大樓。",
-            "jp": "//(0,2.185)\\\\暴動を止めるためにさらに看守を送り込むらしい。//(2.185,32.185)\\\\やつら管理棟から来るみたいだ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32574_mp_riotreinforceadmin_stone.sweetdialog?/ds32574_mp_riotreinforceadmin_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32574_mp_riotreinforceadmin_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32574_mp_riotreinforceadmin_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32574_mp_riotreinforceadmin_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\They're sending more guards to control the riot. Looks like they're coming from the administration building.",
+			"fr": "//(0,30)\\\\Ils envoient plus de gardiens pour contrôler l'émeute. On dirait qu'ils viennent du bâtiment administratif.",
+			"it": "//(0,30)\\\\Stanno inviando altre guardie per controllare la rivolta. Sembra che arrivino dall'edificio amministrativo.",
+			"de": "//(0,30)\\\\Sie schicken noch mehr Wachen, um den Aufstand zu kontrollieren. Sieht aus, als würden sie aus dem Verwaltungsgebäude kommen.",
+			"es": "//(0,30)\\\\Envían a más guardias para controlar el motín. Parece que vienen del pabellón administrativo.",
+			"ru": "//(0,30)\\\\Они стягивают новых охранников, чтобы подавить бунт. Кажется, они идут из административного здания.",
+			"cn": "//(0,30)\\\\他们派出了更多守卫控制暴动。看来他们是从行政楼里出来的。",
+			"tc": "//(0,30)\\\\他們在派遣更多警衛來鎮壓暴動。看起來他們是來自行政大樓。",
+			"jp": "//(0,2.185)\\\\暴動を止めるためにさらに看守を送り込むらしい。//(2.185,32.185)\\\\やつら管理棟から来るみたいだ。"
+		}
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32037_mp_bladefail_knight.sweetdialog?/ds32037_mp_bladefail_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32037_mp_bladefail_knight_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32037_mp_bladefail_knight_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32037_mp_bladefail_knight_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Aw hell, Stone! Blade just killed Ldong! This mission is a wash.",
-            "fr": "//(0,30)\\\\Et merde, Stone ! La lame vient de tuer Ldong ! La mission est foutue.",
-            "it": "//(0,30)\\\\Oh, diamine, Stone! La lama ha appena eliminato Ldong! La missione è fallita.",
-            "de": "//(0,30)\\\\Ach verdammt, Stone! Die Klinge hat gerade Ldong getötet! Diese Mission ist den Bach runter.",
-            "es": "//(0,30)\\\\¡Joder, Stone! ¡La Hoja acaba de matar a Ldong! La misión se ha ido a la mierda.",
-            "ru": "//(0,30)\\\\Да что такое, Стоун! Клинок только что убил Лдонга. Вся работа насмарку.",
-            "cn": "//(0,30)\\\\啊，见鬼，斯通！刀锋勇士杀死了董！任务失败了。",
-            "tc": "//(0,30)\\\\唉呦，斯通！刀鋒剛剛殺了董氏！任務搞砸了。",
-            "jp": "//(0,3.425)\\\\ちょっと、ストーン！刃がルドンを殺したわ！//(3.425,33.425)\\\\任務が泡と消えたわね。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32037_mp_bladefail_knight.sweetdialog?/ds32037_mp_bladefail_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32037_mp_bladefail_knight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32037_mp_bladefail_knight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32037_mp_bladefail_knight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Aw hell, Stone! Blade just killed Ldong! This mission is a wash.",
+			"fr": "//(0,30)\\\\Et merde, Stone ! La lame vient de tuer Ldong ! La mission est foutue.",
+			"it": "//(0,30)\\\\Oh, diamine, Stone! La lama ha appena eliminato Ldong! La missione è fallita.",
+			"de": "//(0,30)\\\\Ach verdammt, Stone! Die Klinge hat gerade Ldong getötet! Diese Mission ist den Bach runter.",
+			"es": "//(0,30)\\\\¡Joder, Stone! ¡La Hoja acaba de matar a Ldong! La misión se ha ido a la mierda.",
+			"ru": "//(0,30)\\\\Да что такое, Стоун! Клинок только что убил Лдонга. Вся работа насмарку.",
+			"cn": "//(0,30)\\\\啊，见鬼，斯通！刀锋勇士杀死了董！任务失败了。",
+			"tc": "//(0,30)\\\\唉呦，斯通！刀鋒剛剛殺了董氏！任務搞砸了。",
+			"jp": "//(0,3.425)\\\\ちょっと、ストーン！刃がルドンを殺したわ！//(3.425,33.425)\\\\任務が泡と消えたわね。"
+		}
+	}
 }

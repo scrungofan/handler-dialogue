@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43815_moregrape.sweetdialog?/pdlc43815_moregrape_azelea_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43815_moregrape_azelea_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43815_moregrape_azelea_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43815_moregrape_azelea_001.animset].pc_animset",
-        "languages": {
-            "en": "//[AZELEA]\\\\//(0,30)\\\\Good, 47. But we need more grapes.",
-            "fr": "//[AZELEA]\\\\//(0,30)\\\\Excellent, 47. Il faut cependant plus de raisin.",
-            "it": "//[AZELEA]\\\\//(0,30)\\\\Eccellente, 47. Ma abbiamo bisogno di altra uva.",
-            "de": "//[AZELEA]\\\\//(0,30)\\\\Hervorragend, 47. Aber wir brauchen mehr Trauben.",
-            "es": "//[AZELEA]\\\\//(0,30)\\\\Excelente, 47. Pero necesitamos más uvas.",
-            "ru": "//[AZELEA]\\\\//(0,30)\\\\Превосходно, 47-й. Но нам нужно больше винограда.",
-            "cn": "//[AZELEA]\\\\//(0,30)\\\\太棒了，47。但我们需要更多葡萄。",
-            "tc": "//[AZELEA]\\\\//(0,30)\\\\太好了，47。但我們需要更多葡萄。",
-            "jp": "//[AZELEA]\\\\//(0,30)\\\\素晴らしいぞ、47。でも、ブドウがもっと欲しい。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43815_moregrape.sweetdialog?/pdlc43815_moregrape_azelea_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43815_moregrape_azelea_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43815_moregrape_azelea_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43815_moregrape_azelea_001.animset].pc_animset",
+		"languages": {
+			"en": "//[AZELEA]\\\\//(0,30)\\\\Good, 47. But we need more grapes.",
+			"fr": "//[AZELEA]\\\\//(0,30)\\\\Excellent, 47. Il faut cependant plus de raisin.",
+			"it": "//[AZELEA]\\\\//(0,30)\\\\Eccellente, 47. Ma abbiamo bisogno di altra uva.",
+			"de": "//[AZELEA]\\\\//(0,30)\\\\Hervorragend, 47. Aber wir brauchen mehr Trauben.",
+			"es": "//[AZELEA]\\\\//(0,30)\\\\Excelente, 47. Pero necesitamos más uvas.",
+			"ru": "//[AZELEA]\\\\//(0,30)\\\\Превосходно, 47-й. Но нам нужно больше винограда.",
+			"cn": "//[AZELEA]\\\\//(0,30)\\\\太棒了，47。但我们需要更多葡萄。",
+			"tc": "//[AZELEA]\\\\//(0,30)\\\\太好了，47。但我們需要更多葡萄。",
+			"jp": "//[AZELEA]\\\\//(0,30)\\\\素晴らしいぞ、47。でも、ブドウがもっと欲しい。"
+		}
+	}
 }

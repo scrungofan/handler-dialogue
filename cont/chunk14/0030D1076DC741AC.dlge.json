@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "0030D1076DC741AC",
-    "DITL": "005CC166F7715F6D",
-    "CLNG": "00063B34B5153AEE",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "20000_flyin_knightandstone_knight_004",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_knight_004.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_knight_004.animset].pc_animset",
-        "languages": {
-            "en": "//[KNIGHT]\\\\//(0,2.6)\\\\We've got around fifteen minutes before the targets leave again.//(2.6,3.6)\\\\It's going to be tight.",
-            "fr": "//[KNIGHT]\\\\//(0,2.6)\\\\On a environ quinze minutes avant que les cibles ne quittent les lieux.//(2.6,3.6)\\\\Ça va être serré.",
-            "it": "//[KNIGHT]\\\\//(0,2.6)\\\\Abbiamo circa quindici minuti prima che i bersagli se ne vadano.//(2.6,5.54908)\\\\Non abbiamo molto tempo.",
-            "de": "//[KNIGHT]\\\\//(0,2.6)\\\\Wir haben etwa fünfzehn Minuten, bevor die Ziele wieder verschwinden.//(2.6,3.6)\\\\Das könnte knapp werden.",
-            "es": "//[KNIGHT]\\\\//(0,2.6)\\\\Tendremos unos quince minutos antes de que los objetivos vuelvan a irse.//(2.6,3.6)\\\\El margen es muy pequeño.",
-            "ru": "//[KNIGHT]\\\\//(0,2.6)\\\\У нас будет примерно четверть часа до того, а затем цели покинут территорию.//(2.6,3.870628)\\\\Будет непросто.",
-            "cn": "//[KNIGHT]\\\\//(0,2.6)\\\\我们大概只有十五分钟时间，之后目标就会再次离开。//(2.6,3.6)\\\\一定要抓住机会。",
-            "tc": "//[KNIGHT]\\\\//(0,30)\\\\我們在目標離開之前大概有十五分鐘。時間會很緊。",
-            "jp": "//[KNIGHT]\\\\//(0,30)\\\\ターゲットが式場を去るまで約15分。結構きついわね。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "0030D1076DC741AC",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "20000_flyin_knightandstone_knight_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_knight_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_knight_004.animset].pc_animset",
+		"languages": {
+			"en": "//[KNIGHT]\\\\//(0,2.6)\\\\We've got around fifteen minutes before the targets leave again.//(2.6,3.6)\\\\It's going to be tight.",
+			"fr": "//[KNIGHT]\\\\//(0,2.6)\\\\On a environ quinze minutes avant que les cibles ne quittent les lieux.//(2.6,3.6)\\\\Ça va être serré.",
+			"it": "//[KNIGHT]\\\\//(0,2.6)\\\\Abbiamo circa quindici minuti prima che i bersagli se ne vadano.//(2.6,5.54908)\\\\Non abbiamo molto tempo.",
+			"de": "//[KNIGHT]\\\\//(0,2.6)\\\\Wir haben etwa fünfzehn Minuten, bevor die Ziele wieder verschwinden.//(2.6,3.6)\\\\Das könnte knapp werden.",
+			"es": "//[KNIGHT]\\\\//(0,2.6)\\\\Tendremos unos quince minutos antes de que los objetivos vuelvan a irse.//(2.6,3.6)\\\\El margen es muy pequeño.",
+			"ru": "//[KNIGHT]\\\\//(0,2.6)\\\\У нас будет примерно четверть часа до того, а затем цели покинут территорию.//(2.6,3.870628)\\\\Будет непросто.",
+			"cn": "//[KNIGHT]\\\\//(0,2.6)\\\\我们大概只有十五分钟时间，之后目标就会再次离开。//(2.6,3.6)\\\\一定要抓住机会。",
+			"tc": "//[KNIGHT]\\\\//(0,30)\\\\我們在目標離開之前大概有十五分鐘。時間會很緊。",
+			"jp": "//[KNIGHT]\\\\//(0,30)\\\\ターゲットが式場を去るまで約15分。結構きついわね。"
+		}
+	}
 }

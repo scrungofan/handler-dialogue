@@ -1,49 +1,49 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20107_mp_evacinprogress_stone.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "dr20107_mp_evacinprogress_stone_stone_001",
-                "weight": 0.49999997019767584,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20107_mp_evacinprogress_stone_stone_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20107_mp_evacinprogress_stone_stone_001.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\We’re made, Knight. Let’s wrap this up before everyone is evacuated.",
-                    "fr": "//(0,30)\\\\Ils savent qu'on est là, Knight. Finissons-en vite avant qu'ils évacuent.",
-                    "it": "//(0,30)\\\\Ci hanno scoperti, Knight. Cerchiamo di concludere prima che se ne vadano tutti.",
-                    "de": "//(0,30)\\\\Wir sind erledigt, Knight. Bringen wir das hier zu Ende, bevor alle evakuiert werden.",
-                    "es": "//(0,30)\\\\Nos han detectado, Knight. Acabemos con esto antes de que los evacúen a todos.",
-                    "ru": "//(0,30)\\\\Мы попали, Найт. Нужно закончить дело, пока все не сбежали.",
-                    "cn": "//(0,30)\\\\奈特，我们被盯上了。趁现在还有人没撤离，我们赶紧完成任务吧。",
-                    "tc": "//(0,30)\\\\我們完了，奈特。在大家撤離前趕快收個尾。",
-                    "jp": "//(0,30)\\\\気付かれた。逃げられる前に終わらせるぞ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20107_mp_evacinprogress_stone_stone_002",
-                "weight": 0.49999997019767584,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20107_mp_evacinprogress_stone_stone_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20107_mp_evacinprogress_stone_stone_002.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Dammit, we’re exposed, Knight. Fire at will, we need to wrap this up quickly.",
-                    "fr": "//(0,30)\\\\Merde, on est grillés, Knight ! Tire à vue, on n'a plus de temps à perdre.",
-                    "it": "//(0,30)\\\\Maledizione, ci hanno individuati, Knight. Fuoco a volontà, dobbiamo concludere il prima possibile.",
-                    "de": "//(0,30)\\\\Verdammt! Wir sind enttarnt, Knight. Feuer frei! Wir müssen das hier schnell zu Ende bringen.",
-                    "es": "//(0,30)\\\\Mierda. ¡Estamos expuestos, Knight! Fuego a discreción. Tenemos que darnos prisa.",
-                    "ru": "//(0,30)\\\\Черт возьми, мы обнаружены, Найт! Открывай огонь, нам нужно быстро со всем управиться.",
-                    "cn": "//(0,30)\\\\可恶，奈特，我们暴露了。自由开火，我们得赶紧完成任务。",
-                    "tc": "//(0,30)\\\\該死，我們暴露了，奈特。自由開火，我們趕快收尾。",
-                    "jp": "//(0,30)\\\\畜生、気付かれた。必要なら撃て。さっさと片付けないとまずい。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20107_mp_evacinprogress_stone.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20107_mp_evacinprogress_stone_stone_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20107_mp_evacinprogress_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20107_mp_evacinprogress_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\We’re made, Knight. Let’s wrap this up before everyone is evacuated.",
+					"fr": "//(0,30)\\\\Ils savent qu'on est là, Knight. Finissons-en vite avant qu'ils évacuent.",
+					"it": "//(0,30)\\\\Ci hanno scoperti, Knight. Cerchiamo di concludere prima che se ne vadano tutti.",
+					"de": "//(0,30)\\\\Wir sind erledigt, Knight. Bringen wir das hier zu Ende, bevor alle evakuiert werden.",
+					"es": "//(0,30)\\\\Nos han detectado, Knight. Acabemos con esto antes de que los evacúen a todos.",
+					"ru": "//(0,30)\\\\Мы попали, Найт. Нужно закончить дело, пока все не сбежали.",
+					"cn": "//(0,30)\\\\奈特，我们被盯上了。趁现在还有人没撤离，我们赶紧完成任务吧。",
+					"tc": "//(0,30)\\\\我們完了，奈特。在大家撤離前趕快收個尾。",
+					"jp": "//(0,30)\\\\気付かれた。逃げられる前に終わらせるぞ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20107_mp_evacinprogress_stone_stone_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20107_mp_evacinprogress_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20107_mp_evacinprogress_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Dammit, we’re exposed, Knight. Fire at will, we need to wrap this up quickly.",
+					"fr": "//(0,30)\\\\Merde, on est grillés, Knight ! Tire à vue, on n'a plus de temps à perdre.",
+					"it": "//(0,30)\\\\Maledizione, ci hanno individuati, Knight. Fuoco a volontà, dobbiamo concludere il prima possibile.",
+					"de": "//(0,30)\\\\Verdammt! Wir sind enttarnt, Knight. Feuer frei! Wir müssen das hier schnell zu Ende bringen.",
+					"es": "//(0,30)\\\\Mierda. ¡Estamos expuestos, Knight! Fuego a discreción. Tenemos que darnos prisa.",
+					"ru": "//(0,30)\\\\Черт возьми, мы обнаружены, Найт! Открывай огонь, нам нужно быстро со всем управиться.",
+					"cn": "//(0,30)\\\\可恶，奈特，我们暴露了。自由开火，我们得赶紧完成任务。",
+					"tc": "//(0,30)\\\\該死，我們暴露了，奈特。自由開火，我們趕快收尾。",
+					"jp": "//(0,30)\\\\畜生、気付かれた。必要なら撃て。さっさと片付けないとまずい。"
+				}
+			}
+		]
+	}
 }

@@ -1,125 +1,125 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43826_feedfish.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43826_feedfish_azelea_001",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\More fish!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Plus de poisson !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Altro pesce!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Mehr Fisch!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Más pescado!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Еще рыбы!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\更多的鱼！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\更多魚！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\もっと魚を！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43826_feedfish_azelea_002",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Not enough fish! He wants more!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Pas assez de poisson ! Il en veut plus !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Il pesce non basta! Ne vuole dell'altro!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Nicht genug Fisch! Er will mehr!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡No hay suficiente pescado! ¡Quiere más!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Мало рыбы! Он хочет еще!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\鱼还不够！他要更多！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\魚還不夠！牠想要更多！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\魚が足りない！もっと欲しがっているぞ！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43826_feedfish_azelea_003",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Not enough! More Fish!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Pas assez ! Plus de poisson !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Non è abbastanza! Altro pesce!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Nicht genug! Mehr Fisch!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡No es bastante! ¡Más pescado!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Этого мало! Еще рыбы!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\还不够！更多的鱼！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\不夠！更多魚！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\足りない！魚をもっと持ってこい！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43826_feedfish_azelea_004",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_004.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_004.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Fish! Fish! Fish!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Poisson ! Poisson ! Poisson !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Pesce! Pesce! Pesce!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Fisch! Fisch! Fisch!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Pescado! ¡Pescado! ¡Pescado!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Рыба! Рыба! Рыба!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\鱼！鱼！鱼！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\魚！魚！魚！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\魚！魚！魚！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43826_feedfish_azelea_005",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_005.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_005.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Feed him more fish!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Donnez-lui plus de poisson !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Dagli altro pesce!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Füttern Sie es mit mehr Fisch!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Dale de comer más pescado!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Дай ему еще рыбы!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\喂他更多的鱼！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\餵牠更多魚們！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\魚をもっと与えろ！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43826_feedfish_azelea_006",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_006.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_006.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\More! He needs more fish!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Plus ! Il lui faut plus de poisson !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Ancora! Gli serve altro pesce!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Mehr! Es braucht mehr Fisch!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Más! ¡Necesita más pescado!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Еще! Он хочет больше рыбы!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\更多！他需要更多的鱼！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\更多！牠需要更多魚！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\もっとだ！魚がもっといるぞ！"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43826_feedfish.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43826_feedfish_azelea_001",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_001.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\More fish!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Plus de poisson !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Altro pesce!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Mehr Fisch!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡Más pescado!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Еще рыбы!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\更多的鱼！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\更多魚！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\もっと魚を！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43826_feedfish_azelea_002",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_002.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Not enough fish! He wants more!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Pas assez de poisson ! Il en veut plus !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Il pesce non basta! Ne vuole dell'altro!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Nicht genug Fisch! Er will mehr!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡No hay suficiente pescado! ¡Quiere más!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Мало рыбы! Он хочет еще!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\鱼还不够！他要更多！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\魚還不夠！牠想要更多！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\魚が足りない！もっと欲しがっているぞ！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43826_feedfish_azelea_003",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_003.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Not enough! More Fish!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Pas assez ! Plus de poisson !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Non è abbastanza! Altro pesce!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Nicht genug! Mehr Fisch!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡No es bastante! ¡Más pescado!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Этого мало! Еще рыбы!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\还不够！更多的鱼！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\不夠！更多魚！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\足りない！魚をもっと持ってこい！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43826_feedfish_azelea_004",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_004.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Fish! Fish! Fish!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Poisson ! Poisson ! Poisson !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Pesce! Pesce! Pesce!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Fisch! Fisch! Fisch!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡Pescado! ¡Pescado! ¡Pescado!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Рыба! Рыба! Рыба!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\鱼！鱼！鱼！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\魚！魚！魚！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\魚！魚！魚！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43826_feedfish_azelea_005",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_005.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Feed him more fish!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Donnez-lui plus de poisson !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Dagli altro pesce!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Füttern Sie es mit mehr Fisch!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡Dale de comer más pescado!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Дай ему еще рыбы!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\喂他更多的鱼！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\餵牠更多魚們！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\魚をもっと与えろ！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43826_feedfish_azelea_006",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43826_feedfish_azelea_006.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\More! He needs more fish!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Plus ! Il lui faut plus de poisson !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Ancora! Gli serve altro pesce!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Mehr! Es braucht mehr Fisch!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡Más! ¡Necesita más pescado!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Еще! Он хочет больше рыбы!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\更多！他需要更多的鱼！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\更多！牠需要更多魚！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\もっとだ！魚がもっといるぞ！"
+				}
+			}
+		]
+	}
 }

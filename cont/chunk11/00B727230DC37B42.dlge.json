@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32544_mp_reznikovid_stone.sweetdialog?/ds32544_mp_reznikovid_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32544_mp_reznikovid_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32544_mp_reznikovid_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32544_mp_reznikovid_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Warden Reznikov, one of the most corrupt men in Russia... What's that on his head?",
-            "fr": "//(0,30)\\\\Reznikov, l'un des hommes les plus corrompus de Russie... Qu'est-ce qu'il a sur la tête ?",
-            "it": "//(0,30)\\\\Il direttore Reznikov, uno degli uomini più corrotti della Russia... Che cos'ha in testa?",
-            "de": "//(0,30)\\\\Gefängnisdirektor Reznikov, einer der korruptesten Menschen Russlands ... Was hat er denn da auf dem Kopf?",
-            "es": "//(0,30)\\\\El alcaide Reznikov, uno de los hombres más corruptos de Rusia... ¿Qué lleva en la cabeza?",
-            "ru": "//(0,30)\\\\Начальник тюрьмы Резников. Один из самых коррумпированных людей в России. Что это у него на голове?",
-            "cn": "//(0,30)\\\\监狱长列兹尼科夫，俄国最大的腐败分子之一......他头上是什么？",
-            "tc": "//(0,30)\\\\典獄長雷茲尼克瓦是俄羅斯最腐敗的人之一......他頭上那是什麼？",
-            "jp": "//(0,30)\\\\レズニコフ所長、ロシアで最も汚職にまみれたやつの1人... 頭のあれは何だ？"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32544_mp_reznikovid_stone.sweetdialog?/ds32544_mp_reznikovid_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32544_mp_reznikovid_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32544_mp_reznikovid_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32544_mp_reznikovid_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Warden Reznikov, one of the most corrupt men in Russia... What's that on his head?",
+			"fr": "//(0,30)\\\\Reznikov, l'un des hommes les plus corrompus de Russie... Qu'est-ce qu'il a sur la tête ?",
+			"it": "//(0,30)\\\\Il direttore Reznikov, uno degli uomini più corrotti della Russia... Che cos'ha in testa?",
+			"de": "//(0,30)\\\\Gefängnisdirektor Reznikov, einer der korruptesten Menschen Russlands ... Was hat er denn da auf dem Kopf?",
+			"es": "//(0,30)\\\\El alcaide Reznikov, uno de los hombres más corruptos de Rusia... ¿Qué lleva en la cabeza?",
+			"ru": "//(0,30)\\\\Начальник тюрьмы Резников. Один из самых коррумпированных людей в России. Что это у него на голове?",
+			"cn": "//(0,30)\\\\监狱长列兹尼科夫，俄国最大的腐败分子之一......他头上是什么？",
+			"tc": "//(0,30)\\\\典獄長雷茲尼克瓦是俄羅斯最腐敗的人之一......他頭上那是什麼？",
+			"jp": "//(0,30)\\\\レズニコフ所長、ロシアで最も汚職にまみれたやつの1人... 頭のあれは何だ？"
+		}
+	}
 }

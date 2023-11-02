@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32583_mp_khabkobeating_knight.sweetdialog?/ds32583_mp_khabkobeating_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32583_mp_khabkobeating_knight_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32583_mp_khabkobeating_knight_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32583_mp_khabkobeating_knight_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Roman Khabko is beating the hell out of one of the prisoners. Looks personal. Ugh, that's ugly...",
-            "fr": "//(0,30)\\\\Roman Khabko est en train de passer l'un des prisonniers à tabac. Un règlement de compte, visiblement. Ouch, c'est pas beau à voir...",
-            "it": "//(0,30)\\\\Roman Khabko sta ammazzando di botte uno dei prigionieri. Sembra una questione personale. Ah, è terribile...",
-            "de": "//(0,30)\\\\Roman Khabko schlägt gerade einen anderen Gefangen brutal zusammen. Er nimmt es wohl persönlich. Igitt. Das sieht übel aus ...",
-            "es": "//(0,30)\\\\Roman Khabko le está pegando una señora paliza a uno de los prisioneros. Parece ser algo personal. Arg. Qué feo...",
-            "ru": "//(0,30)\\\\Роман Хабко, кажется, решил превратить одного из заключенных в котлету. Похоже, личные счеты. Ох. Мерзкое зрелище.",
-            "cn": "//(0,3.2)\\\\罗曼·卡布科正在把一名囚犯打得半死。//(3.2,33.2)\\\\看来是私人恩怨。呃，真惨呐......",
-            "tc": "//(0,30)\\\\羅曼‧卡伯克正在毒打一名囚犯。看起好像是個人恩怨。呃，真恐怖......",
-            "jp": "//(0,30)\\\\ローマン・カブコが囚人をタコ殴りにしてる。ただの暴力ね。ああ、見てられないわ..."
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32583_mp_khabkobeating_knight.sweetdialog?/ds32583_mp_khabkobeating_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32583_mp_khabkobeating_knight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32583_mp_khabkobeating_knight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32583_mp_khabkobeating_knight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Roman Khabko is beating the hell out of one of the prisoners. Looks personal. Ugh, that's ugly...",
+			"fr": "//(0,30)\\\\Roman Khabko est en train de passer l'un des prisonniers à tabac. Un règlement de compte, visiblement. Ouch, c'est pas beau à voir...",
+			"it": "//(0,30)\\\\Roman Khabko sta ammazzando di botte uno dei prigionieri. Sembra una questione personale. Ah, è terribile...",
+			"de": "//(0,30)\\\\Roman Khabko schlägt gerade einen anderen Gefangen brutal zusammen. Er nimmt es wohl persönlich. Igitt. Das sieht übel aus ...",
+			"es": "//(0,30)\\\\Roman Khabko le está pegando una señora paliza a uno de los prisioneros. Parece ser algo personal. Arg. Qué feo...",
+			"ru": "//(0,30)\\\\Роман Хабко, кажется, решил превратить одного из заключенных в котлету. Похоже, личные счеты. Ох. Мерзкое зрелище.",
+			"cn": "//(0,3.2)\\\\罗曼·卡布科正在把一名囚犯打得半死。//(3.2,33.2)\\\\看来是私人恩怨。呃，真惨呐......",
+			"tc": "//(0,30)\\\\羅曼‧卡伯克正在毒打一名囚犯。看起好像是個人恩怨。呃，真恐怖......",
+			"jp": "//(0,30)\\\\ローマン・カブコが囚人をタコ殴りにしてる。ただの暴力ね。ああ、見てられないわ..."
+		}
+	}
 }

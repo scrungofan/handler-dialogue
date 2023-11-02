@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32558_mp_missioncomplete_stone.sweetdialog?/ds32558_mp_missioncomplete_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32558_mp_missioncomplete_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32558_mp_missioncomplete_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32558_mp_missioncomplete_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Last objective complete, Knight. Let's get out of here. My body is frozen solid.",
-            "fr": "//(0,30)\\\\C'était le dernier objectif, Knight. Il est l'heure de filer. Je me les gèle...",
-            "it": "//(0,30)\\\\Ultimo obiettivo completato, Knight. Andiamocene via da qui. Sono congelato.",
-            "de": "//(0,30)\\\\Letztes Ziel abgeschlossen, Knight. Verschwinden wir von hier. Ich bin schon ganz steif gefroren.",
-            "es": "//(0,30)\\\\El último objetivo ha sido completado, Knight. Salgamos de aquí. Me he quedado tieso del frío.",
-            "ru": "//(0,30)\\\\Последняя задача выполнена, Найт. Уходим отсюда. Я замерз как собака.",
-            "cn": "//(0,30)\\\\奈特，最后一个目标已完成。我们离开这里吧。我全身都快冻僵了。",
-            "tc": "//(0,30)\\\\最後一個目標完成了，奈特。我們離開這裡吧。我動不了了。",
-            "jp": "//(0,30)\\\\最後の目標も達成だ、ナイト。ここから離れよう。もう凍えちまいそうだ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32558_mp_missioncomplete_stone.sweetdialog?/ds32558_mp_missioncomplete_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32558_mp_missioncomplete_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32558_mp_missioncomplete_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32558_mp_missioncomplete_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Last objective complete, Knight. Let's get out of here. My body is frozen solid.",
+			"fr": "//(0,30)\\\\C'était le dernier objectif, Knight. Il est l'heure de filer. Je me les gèle...",
+			"it": "//(0,30)\\\\Ultimo obiettivo completato, Knight. Andiamocene via da qui. Sono congelato.",
+			"de": "//(0,30)\\\\Letztes Ziel abgeschlossen, Knight. Verschwinden wir von hier. Ich bin schon ganz steif gefroren.",
+			"es": "//(0,30)\\\\El último objetivo ha sido completado, Knight. Salgamos de aquí. Me he quedado tieso del frío.",
+			"ru": "//(0,30)\\\\Последняя задача выполнена, Найт. Уходим отсюда. Я замерз как собака.",
+			"cn": "//(0,30)\\\\奈特，最后一个目标已完成。我们离开这里吧。我全身都快冻僵了。",
+			"tc": "//(0,30)\\\\最後一個目標完成了，奈特。我們離開這裡吧。我動不了了。",
+			"jp": "//(0,30)\\\\最後の目標も達成だ、ナイト。ここから離れよう。もう凍えちまいそうだ。"
+		}
+	}
 }

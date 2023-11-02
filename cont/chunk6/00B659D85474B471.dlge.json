@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43719_l1cmpltgood.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43719_l1cmpltgood_makoyana_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,2.95)\\\\This was not what I expected.//(2.95,5.25)\\\\I'm disappointed, 47.//(5.25,35.25)\\\\Okay, find a way out.",
-                    "fr": "//[MAKOYANA]\\\\//(0,5.2)\\\\Je ne m'attendais pas à ça... Je ressens une pointe de déception, 47.//(5.2,35.2)\\\\Bon, trouvez une issue.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Non era quello che mi aspettavo. Mi deludi, 47. Ok, trova il modo di andartene.",
-                    "de": "//[MAKOYANA]\\\\//(0,2.294)\\\\Das war nicht gerade, was ich erwartet hatte.//(2.294,4.985)\\\\Ich bin enttäuscht, 47.//(4.985,34.985)\\\\Okay, finden Sie einen Weg raus.",
-                    "es": "//[MAKOYANA]\\\\//(0,2.3)\\\\Esto no ha ido como me esperaba.//(3.1,4.7)\\\\Qué decepción, 47...//(5.4,35.4)\\\\En fin, busca una salida.",
-                    "ru": "//[MAKOYANA]\\\\//(0,2.02)\\\\Да, это не то, что мне хотелось увидеть.//(3.15,33.15)\\\\Ты разочаровал меня, 47-й. Что ж, ищи выход.",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\这和我想的不一样。我很失望，47。好吧，想办法出去。",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\這跟我的期望並不一樣。我很失望，47。好吧，找到出口。",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\期待していたのとは違うな。残念だ、47。とにかく、出口を探せ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43719_l1cmpltgood_makoyana_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,2)\\\\Not impressed.//(2,8.65)\\\\You should listen to my advice in the future. That was dull. Where is your pride?//(8.65,38.65)\\\\Just find an exit.",
-                    "fr": "//[MAKOYANA]\\\\//(0,4.65)\\\\Décevant. Vous devriez suivre mes conseils, à l'avenir.//(4.65,34.65)\\\\Quel ennui... Où est votre fierté ? Allez, trouvez une sortie.",
-                    "it": "//[MAKOYANA]\\\\//(0,4.7)\\\\Non mi hai colpito. Ti conviene ascoltare i miei consigli, d'ora in poi.//(4.7,34.7)\\\\Quella è stata una sciocchezza, dov'è il tuo orgoglio? Dai, trova un'uscita.",
-                    "de": "//[MAKOYANA]\\\\//(0,1.606)\\\\Ich zeige mich unbeeindruckt.//(1.606,4.665)\\\\Sie sollten in Zukunft auf meinen Rat hören.//(4.665,8.414)\\\\Das war öde. Wo ist denn Ihr Stolz?//(8.414,38.414)\\\\Suchen Sie einen Ausgang.",
-                    "es": "//[MAKOYANA]\\\\//(0,1.6)\\\\No me has impresionado.//(2,4.5)\\\\En el futuro, deberías hacer más caso a mis consejos...//(4.8,8.3)\\\\Ha sido muy aburrido, ¿dónde está tu orgullo?//(8.7,38.7)\\\\En fin, busca una salida...",
-                    "ru": "//[MAKOYANA]\\\\//(0,4.9)\\\\Ты меня не впечатлил. Советую прислушиваться к моим советам.//(4.9,34.9)\\\\Это была скука смертная. Где твоя гордость? Ладно, ищи выход.",
-                    "cn": "//[MAKOYANA]\\\\//(0,4.717)\\\\令人失望。你以后应该听我的建议才是。//(4.717,34.717)\\\\这太无聊了。你的尊严呢？找到出口吧。",
-                    "tc": "//[MAKOYANA]\\\\//(0,4.8)\\\\一點也不起眼，你以後應該聽聽我的建議。//(4.8,34.8)\\\\那真是太無趣了，你有自尊心嗎？去找出口吧。",
-                    "jp": "//[MAKOYANA]\\\\//(0,4.5)\\\\感心しないな。これからはアドバイスに従うことだな。//(4.5,34.5)\\\\つまらん結果だ。誇りはどこにいった？さっさと出口を探せ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43719_l1cmpltgood_makoyana_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,3.4)\\\\I don't have time for your lackluster performance.//(3.4,7.1)\\\\I need to see just how professional you are!//(7.1,37.1)\\\\Now bugger off and find an exit. I'll evaluate later.",
-                    "fr": "//[MAKOYANA]\\\\//(0,6.85)\\\\Je n'ai que faire de votre performance médiocre. Je veux voir à quel point vous êtes professionnel !//(6.85,36.85)\\\\Quittez les lieux, maintenant, voulez-vous ? Je vous évaluerai plus tard.",
-                    "it": "//[MAKOYANA]\\\\//(0,7)\\\\Non ho tempo per performance così scialbe. Voglio vedere quanto puoi essere professionale!//(7,37)\\\\Ora levati di torno e trova un'uscita. Poi ti valuterò.",
-                    "de": "//[MAKOYANA]\\\\//(0,3.097)\\\\Ich habe keine Zeit für Ihre halbgare Leistung.//(3.097,6.756)\\\\Ich muss sehen, wie professionell Sie sind!//(6.756,9.335)\\\\Jetzt verduften Sie und suchen Sie einen Ausgang.//(9.335,39.335)\\\\Ihre Bewertung mache ich später.",
-                    "es": "//[MAKOYANA]\\\\//(0,3.2)\\\\Mi tiempo es muy valioso como para perderlo con estas actuaciones tan rancias.//(3.2,6.8)\\\\¡Quiero ver lo profesional que eres!//(6.8,9.2)\\\\Bah, por ahora, limítate a encontrar una salida.//(9.7,39.7)\\\\Ya te evaluaré luego.",
-                    "ru": "//[MAKOYANA]\\\\//(0,3.444785)\\\\У меня нет времени на твои посредственные похождения.//(3.444785,7.2)\\\\В следующий раз покажи настоящий профессионализм!//(7.2,37.2)\\\\А теперь проваливай. Ищи выход. Я свяжусь с тобой позже.",
-                    "cn": "//[MAKOYANA]\\\\//(0,6.94)\\\\我可没时间看你这种无聊的表演。我要看看你有多职业！//(6.94,36.94)\\\\现在快走，找到出口。我稍后会对你的表现做评估。",
-                    "tc": "//[MAKOYANA]\\\\//(0,3.3)\\\\我沒時間來管你這種沒出息的表現。//(3.3,6.9)\\\\我要看看你到底有多厲害！//(6.9,36.9)\\\\快去找出口吧，我晚點再來評估。",
-                    "jp": "//[MAKOYANA]\\\\//(0,7)\\\\こんな地味なパフォーマンスに付き合っている暇はない。プロらしさを見たかったんだよ！//(7,37)\\\\もういい、失せろ。出口を探せ。評価は後でする。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43719_l1cmpltgood.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43719_l1cmpltgood_makoyana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,2.95)\\\\This was not what I expected.//(2.95,5.25)\\\\I'm disappointed, 47.//(5.25,35.25)\\\\Okay, find a way out.",
+					"fr": "//[MAKOYANA]\\\\//(0,5.2)\\\\Je ne m'attendais pas à ça... Je ressens une pointe de déception, 47.//(5.2,35.2)\\\\Bon, trouvez une issue.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Non era quello che mi aspettavo. Mi deludi, 47. Ok, trova il modo di andartene.",
+					"de": "//[MAKOYANA]\\\\//(0,2.294)\\\\Das war nicht gerade, was ich erwartet hatte.//(2.294,4.985)\\\\Ich bin enttäuscht, 47.//(4.985,34.985)\\\\Okay, finden Sie einen Weg raus.",
+					"es": "//[MAKOYANA]\\\\//(0,2.3)\\\\Esto no ha ido como me esperaba.//(3.1,4.7)\\\\Qué decepción, 47...//(5.4,35.4)\\\\En fin, busca una salida.",
+					"ru": "//[MAKOYANA]\\\\//(0,2.02)\\\\Да, это не то, что мне хотелось увидеть.//(3.15,33.15)\\\\Ты разочаровал меня, 47-й. Что ж, ищи выход.",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\这和我想的不一样。我很失望，47。好吧，想办法出去。",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\這跟我的期望並不一樣。我很失望，47。好吧，找到出口。",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\期待していたのとは違うな。残念だ、47。とにかく、出口を探せ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43719_l1cmpltgood_makoyana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,2)\\\\Not impressed.//(2,8.65)\\\\You should listen to my advice in the future. That was dull. Where is your pride?//(8.65,38.65)\\\\Just find an exit.",
+					"fr": "//[MAKOYANA]\\\\//(0,4.65)\\\\Décevant. Vous devriez suivre mes conseils, à l'avenir.//(4.65,34.65)\\\\Quel ennui... Où est votre fierté ? Allez, trouvez une sortie.",
+					"it": "//[MAKOYANA]\\\\//(0,4.7)\\\\Non mi hai colpito. Ti conviene ascoltare i miei consigli, d'ora in poi.//(4.7,34.7)\\\\Quella è stata una sciocchezza, dov'è il tuo orgoglio? Dai, trova un'uscita.",
+					"de": "//[MAKOYANA]\\\\//(0,1.606)\\\\Ich zeige mich unbeeindruckt.//(1.606,4.665)\\\\Sie sollten in Zukunft auf meinen Rat hören.//(4.665,8.414)\\\\Das war öde. Wo ist denn Ihr Stolz?//(8.414,38.414)\\\\Suchen Sie einen Ausgang.",
+					"es": "//[MAKOYANA]\\\\//(0,1.6)\\\\No me has impresionado.//(2,4.5)\\\\En el futuro, deberías hacer más caso a mis consejos...//(4.8,8.3)\\\\Ha sido muy aburrido, ¿dónde está tu orgullo?//(8.7,38.7)\\\\En fin, busca una salida...",
+					"ru": "//[MAKOYANA]\\\\//(0,4.9)\\\\Ты меня не впечатлил. Советую прислушиваться к моим советам.//(4.9,34.9)\\\\Это была скука смертная. Где твоя гордость? Ладно, ищи выход.",
+					"cn": "//[MAKOYANA]\\\\//(0,4.717)\\\\令人失望。你以后应该听我的建议才是。//(4.717,34.717)\\\\这太无聊了。你的尊严呢？找到出口吧。",
+					"tc": "//[MAKOYANA]\\\\//(0,4.8)\\\\一點也不起眼，你以後應該聽聽我的建議。//(4.8,34.8)\\\\那真是太無趣了，你有自尊心嗎？去找出口吧。",
+					"jp": "//[MAKOYANA]\\\\//(0,4.5)\\\\感心しないな。これからはアドバイスに従うことだな。//(4.5,34.5)\\\\つまらん結果だ。誇りはどこにいった？さっさと出口を探せ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43719_l1cmpltgood_makoyana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43719_l1cmpltgood_makoyana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,3.4)\\\\I don't have time for your lackluster performance.//(3.4,7.1)\\\\I need to see just how professional you are!//(7.1,37.1)\\\\Now bugger off and find an exit. I'll evaluate later.",
+					"fr": "//[MAKOYANA]\\\\//(0,6.85)\\\\Je n'ai que faire de votre performance médiocre. Je veux voir à quel point vous êtes professionnel !//(6.85,36.85)\\\\Quittez les lieux, maintenant, voulez-vous ? Je vous évaluerai plus tard.",
+					"it": "//[MAKOYANA]\\\\//(0,7)\\\\Non ho tempo per performance così scialbe. Voglio vedere quanto puoi essere professionale!//(7,37)\\\\Ora levati di torno e trova un'uscita. Poi ti valuterò.",
+					"de": "//[MAKOYANA]\\\\//(0,3.097)\\\\Ich habe keine Zeit für Ihre halbgare Leistung.//(3.097,6.756)\\\\Ich muss sehen, wie professionell Sie sind!//(6.756,9.335)\\\\Jetzt verduften Sie und suchen Sie einen Ausgang.//(9.335,39.335)\\\\Ihre Bewertung mache ich später.",
+					"es": "//[MAKOYANA]\\\\//(0,3.2)\\\\Mi tiempo es muy valioso como para perderlo con estas actuaciones tan rancias.//(3.2,6.8)\\\\¡Quiero ver lo profesional que eres!//(6.8,9.2)\\\\Bah, por ahora, limítate a encontrar una salida.//(9.7,39.7)\\\\Ya te evaluaré luego.",
+					"ru": "//[MAKOYANA]\\\\//(0,3.444785)\\\\У меня нет времени на твои посредственные похождения.//(3.444785,7.2)\\\\В следующий раз покажи настоящий профессионализм!//(7.2,37.2)\\\\А теперь проваливай. Ищи выход. Я свяжусь с тобой позже.",
+					"cn": "//[MAKOYANA]\\\\//(0,6.94)\\\\我可没时间看你这种无聊的表演。我要看看你有多职业！//(6.94,36.94)\\\\现在快走，找到出口。我稍后会对你的表现做评估。",
+					"tc": "//[MAKOYANA]\\\\//(0,3.3)\\\\我沒時間來管你這種沒出息的表現。//(3.3,6.9)\\\\我要看看你到底有多厲害！//(6.9,36.9)\\\\快去找出口吧，我晚點再來評估。",
+					"jp": "//[MAKOYANA]\\\\//(0,7)\\\\こんな地味なパフォーマンスに付き合っている暇はない。プロらしさを見たかったんだよ！//(7,37)\\\\もういい、失せろ。出口を探せ。評価は後でする。"
+				}
+			}
+		]
+	}
 }

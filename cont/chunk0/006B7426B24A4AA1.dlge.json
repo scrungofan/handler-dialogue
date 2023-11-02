@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40502_introtier3_lunaria_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Well done, 47. Think of the money. One more tier to go.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Bien joué, 47. Pensez à l'argent. Encore un palier, allez.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Ben fatto, 47. Pensa ai soldi. Ancora un livello.",
-                    "de": "//[LUNARIA]\\\\//(0,2.5)\\\\Gut gemacht, 47.//(2.5,4.3)\\\\Denken Sie an das Geld.//(4.3,34.3)\\\\Einen Rang gilt es noch zu holen.",
-                    "es": "//[LUNARIA]\\\\//(0,2)\\\\Bien hecho, 47.//(2.6,3.9)\\\\Piensa en el dinero.//(4.3,34.3)\\\\Falta un nivel más.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Отлично, 47-й. Думай о деньгах. Остался всего один уровень...",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\干得好，47。想一想钱。最后一个阶段。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\做得好，47。想想這些錢。還剩一關。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\よくやった、47。お金の事を考えて。もう1段階ある。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40502_introtier3_lunaria_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Good work, 47. The weight of all those coins feels good, doesn’t it? Now, go for the final round.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Hm, bon travail, 47. Le poids de toutes ces pièces est agréable, n'est-ce pas ? Allez, plus qu'une étape.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Uh, ottimo lavoro, 47. Il peso di tutte quelle monete ti fa sentire bene, vero? E ora, il round finale.",
-                    "de": "//[LUNARIA]\\\\//(0,3.1)\\\\Hm, gute Arbeit, 47.//(3.1,6.75)\\\\Das Gewicht all dieser Münzen fühlt sich gut an, nicht wahr?//(6.75,36.75)\\\\Dann auf zur letzten Runde.",
-                    "es": "//[LUNARIA]\\\\//(0,2.8)\\\\Mmm, buen trabajo 47.//(3.2,6.5)\\\\Qué bien sienta el peso de tantas monedas, ¿a que sí?//(6.8,36.8)\\\\Ahora, a por la última ronda.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Молодец, 47-й. Чувствуешь приятную тяжесть монет? Остался последний раунд.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\干得好，47。硬币沉甸甸的重量感觉很好，对吧？现在是最后一轮。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\做得好，47。這些硬幣的重量感覺很棒，對吧？現在快去最後一回合。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\いい仕事だ、47。コインの重みが心地よいのでは？さあ、ファイナルラウンドに行きなさい。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40502_introtier3_lunaria_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Yes, 47. It’s good to be rich! One final round left.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Oui, 47... c'est bon d'être riche ! Plus qu'une manche !",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Sì, 47. È bello essere ricchi! Ultimo round rimasto.",
-                    "de": "//[LUNARIA]\\\\//(0,4.8)\\\\Ja, 47. Es tut gut, reich zu sein!//(4.8,34.8)\\\\Es bleibt noch eine letzte Runde.",
-                    "es": "//[LUNARIA]\\\\//(0,1.7)\\\\Sí, 47.//(2.3,4)\\\\¡Qué gustazo ser rico!//(5,35)\\\\Queda una última ronda.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Да, 47-й! Хорошо быть богатым. Тебя ждет последний раунд.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\好啊，47。有钱的感觉就是好！还剩最后一轮。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\對，47。有錢真好！剩下一回合。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\よし、47。お金持ちになるって素敵！残すラウンドはあと1つ。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40502_introtier3_lunaria_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_001.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\Well done, 47. Think of the money. One more tier to go.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Bien joué, 47. Pensez à l'argent. Encore un palier, allez.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Ben fatto, 47. Pensa ai soldi. Ancora un livello.",
+					"de": "//[LUNARIA]\\\\//(0,2.5)\\\\Gut gemacht, 47.//(2.5,4.3)\\\\Denken Sie an das Geld.//(4.3,34.3)\\\\Einen Rang gilt es noch zu holen.",
+					"es": "//[LUNARIA]\\\\//(0,2)\\\\Bien hecho, 47.//(2.6,3.9)\\\\Piensa en el dinero.//(4.3,34.3)\\\\Falta un nivel más.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Отлично, 47-й. Думай о деньгах. Остался всего один уровень...",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\干得好，47。想一想钱。最后一个阶段。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\做得好，47。想想這些錢。還剩一關。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\よくやった、47。お金の事を考えて。もう1段階ある。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40502_introtier3_lunaria_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_002.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\Good work, 47. The weight of all those coins feels good, doesn’t it? Now, go for the final round.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Hm, bon travail, 47. Le poids de toutes ces pièces est agréable, n'est-ce pas ? Allez, plus qu'une étape.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Uh, ottimo lavoro, 47. Il peso di tutte quelle monete ti fa sentire bene, vero? E ora, il round finale.",
+					"de": "//[LUNARIA]\\\\//(0,3.1)\\\\Hm, gute Arbeit, 47.//(3.1,6.75)\\\\Das Gewicht all dieser Münzen fühlt sich gut an, nicht wahr?//(6.75,36.75)\\\\Dann auf zur letzten Runde.",
+					"es": "//[LUNARIA]\\\\//(0,2.8)\\\\Mmm, buen trabajo 47.//(3.2,6.5)\\\\Qué bien sienta el peso de tantas monedas, ¿a que sí?//(6.8,36.8)\\\\Ahora, a por la última ronda.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Молодец, 47-й. Чувствуешь приятную тяжесть монет? Остался последний раунд.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\干得好，47。硬币沉甸甸的重量感觉很好，对吧？现在是最后一轮。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\做得好，47。這些硬幣的重量感覺很棒，對吧？現在快去最後一回合。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\いい仕事だ、47。コインの重みが心地よいのでは？さあ、ファイナルラウンドに行きなさい。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40502_introtier3_lunaria_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40502_introtier3_lunaria_003.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\Yes, 47. It’s good to be rich! One final round left.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Oui, 47... c'est bon d'être riche ! Plus qu'une manche !",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Sì, 47. È bello essere ricchi! Ultimo round rimasto.",
+					"de": "//[LUNARIA]\\\\//(0,4.8)\\\\Ja, 47. Es tut gut, reich zu sein!//(4.8,34.8)\\\\Es bleibt noch eine letzte Runde.",
+					"es": "//[LUNARIA]\\\\//(0,1.7)\\\\Sí, 47.//(2.3,4)\\\\¡Qué gustazo ser rico!//(5,35)\\\\Queda una última ronda.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Да, 47-й! Хорошо быть богатым. Тебя ждет последний раунд.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\好啊，47。有钱的感觉就是好！还剩最后一轮。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\對，47。有錢真好！剩下一回合。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\よし、47。お金持ちになるって素敵！残すラウンドはあと1つ。"
+				}
+			}
+		]
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43818_l3dessertcomplete.sweetdialog?/pdlc43818_l3dessertcomplete_azelea_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43818_l3dessertcomplete_azelea_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43818_l3dessertcomplete_azelea_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43818_l3dessertcomplete_azelea_001.animset].pc_animset",
-        "languages": {
-            "en": "//[AZELEA]\\\\//(0,30)\\\\Oh, Piggy is happy! Who would not love such an excessive dish! Well done, 47.",
-            "fr": "//[AZELEA]\\\\//(0,30)\\\\Oh, Cochonnet est heureux ! Qui n'aimerait pas un plat si excessif ? Beau travail, 47.",
-            "it": "//[AZELEA]\\\\//(0,30)\\\\Oh, Maialetto è felice! Chi non apprezza un piatto così esagerato? Ben fatto, 47.",
-            "de": "//[AZELEA]\\\\//(0,30)\\\\Oh, das Schweinchen ist glücklich! Wer würde so ein überbordendes Gericht nicht lieben! Gut gemacht, 47.",
-            "es": "//[AZELEA]\\\\//(0,30)\\\\¡Oh, Cerdito está contento! ¡Quién no le estaría con un plato tan desmedido! Bien hecho, 47.",
-            "ru": "//[AZELEA]\\\\//(0,5.72)\\\\О, Хрюша счастлив! Как не влюбиться в это огромное блюдо!//(5.72,35.72)\\\\Молодчина, 47-й.",
-            "cn": "//[AZELEA]\\\\//(0,30)\\\\哦，小猪很高兴！谁会不喜欢菜量溢出呢！干得好，47。",
-            "tc": "//[AZELEA]\\\\//(0,30)\\\\噢，小豬很高興！誰不喜歡這種大餐！做得好，47。",
-            "jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんは大喜びだ！大盛りが嫌いな奴なんていない。よくやった、47。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43818_l3dessertcomplete.sweetdialog?/pdlc43818_l3dessertcomplete_azelea_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43818_l3dessertcomplete_azelea_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43818_l3dessertcomplete_azelea_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43818_l3dessertcomplete_azelea_001.animset].pc_animset",
+		"languages": {
+			"en": "//[AZELEA]\\\\//(0,30)\\\\Oh, Piggy is happy! Who would not love such an excessive dish! Well done, 47.",
+			"fr": "//[AZELEA]\\\\//(0,30)\\\\Oh, Cochonnet est heureux ! Qui n'aimerait pas un plat si excessif ? Beau travail, 47.",
+			"it": "//[AZELEA]\\\\//(0,30)\\\\Oh, Maialetto è felice! Chi non apprezza un piatto così esagerato? Ben fatto, 47.",
+			"de": "//[AZELEA]\\\\//(0,30)\\\\Oh, das Schweinchen ist glücklich! Wer würde so ein überbordendes Gericht nicht lieben! Gut gemacht, 47.",
+			"es": "//[AZELEA]\\\\//(0,30)\\\\¡Oh, Cerdito está contento! ¡Quién no le estaría con un plato tan desmedido! Bien hecho, 47.",
+			"ru": "//[AZELEA]\\\\//(0,5.72)\\\\О, Хрюша счастлив! Как не влюбиться в это огромное блюдо!//(5.72,35.72)\\\\Молодчина, 47-й.",
+			"cn": "//[AZELEA]\\\\//(0,30)\\\\哦，小猪很高兴！谁会不喜欢菜量溢出呢！干得好，47。",
+			"tc": "//[AZELEA]\\\\//(0,30)\\\\噢，小豬很高興！誰不喜歡這種大餐！做得好，47。",
+			"jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんは大喜びだ！大盛りが嫌いな奴なんていない。よくやった、47。"
+		}
+	}
 }

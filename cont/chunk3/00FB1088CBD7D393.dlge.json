@@ -1,87 +1,87 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41513_extrctreachbody_hollyhock_001",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[HOLLYHOCK]\\\\//(0,30)\\\\The Inhibitors have intercepted your body! Where are you!?",
-                    "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Les répresseurs ont intercepté votre corps ! Que faites-vous ?!",
-                    "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Gli Inibitori hanno intercettato il tuo corpo! Dove sei?!",
-                    "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Die Inhibitoren haben Ihren Körper abgefangen! Wo sind Sie?!",
-                    "es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡Los inhibidores han interceptado tu cuerpo! ¡¿Dónde estás?!",
-                    "ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Блокаторы перехватили твое тело! Где ты?",
-                    "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者截获了你的身体！你在哪儿！？",
-                    "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者攔截到你的身體了！你跑哪去了！？",
-                    "jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\インヒビターに体を横取りされたわ！あなたはどこにいるの！？"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41513_extrctreachbody_hollyhock_002",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[HOLLYHOCK]\\\\//(0,30)\\\\NO! The Inhibitors have reached your physical body! ELIMINATE THEM!",
-                    "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Non ! Les répresseurs ont atteint votre corps physique ! ÉLIMINEZ-LES !",
-                    "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\NO! Gli Inibitori hanno raggiunto il tuo corpo fisico! ELIMINALI!",
-                    "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\NEIN! Die Inhibitoren haben Ihren Körper erreicht! ELIMINIEREN SIE SIE!",
-                    "es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡No! ¡Los inhibidores han encontrado tu cuerpo físico! ¡Acaba con ellos!",
-                    "ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\НЕТ! Блокаторы добрались до твоего физического тела! УНИЧТОЖЬ ИХ!",
-                    "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\不！抑制者接触到了你的肉身！消灭他们！",
-                    "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\不！抑制者到達你的肉身了！消滅他們！",
-                    "jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\ダメよ！インヒビターがあなたの本当の体の所にやってきたわ。排除して！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41513_extrctreachbody_hollyhock_003",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[HOLLYHOCK]\\\\//(0,30)\\\\Where are you?! The Inhibitors are about to inject you!",
-                    "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Où êtes-vous ? Les répresseurs vont vous faire une injection !",
-                    "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Dove sei?! Gli Inibitori stanno per farti l'iniezione!",
-                    "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Wo sind Sie?! Die Inhibitoren wollen Ihnen etwas spritzen!",
-                    "es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡¿Dónde estás?! ¡Los inhibidores están a punto de ponerte una inyección!",
-                    "ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Где ты?! Блокаторы сейчас сделают тебе инъекцию!",
-                    "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\你在哪儿？！抑制者快要给你注射了！",
-                    "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\你在哪？！抑制者要對你的身體進行注射了！",
-                    "jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\どこに行ったの？！インヒビターに注射を打たれそうよ！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41513_extrctreachbody_hollyhock_004",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_004.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_004.animset].pc_animset",
-                "languages": {
-                    "en": "//[HOLLYHOCK]\\\\//(0,30)\\\\The Inhibitors are currently injecting poison into you!",
-                    "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Les répresseurs sont en train de vous empoisonner !",
-                    "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Gli Inibitori ti stanno iniettando il veleno!",
-                    "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Die Inhibitoren wollen Ihnen gerade Gift injizieren!",
-                    "es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡Los inhibidores te están inyectando veneno en el cuerpo!",
-                    "ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Блокаторы уже вводят тебе яд!",
-                    "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者正在给你注射毒素！",
-                    "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者正在你體內注射毒藥！",
-                    "jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\インヒビターが今、あなたの体に毒を注射しているわ！"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41513_extrctreachbody_hollyhock_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_001.animset].pc_animset",
+				"languages": {
+					"en": "//[HOLLYHOCK]\\\\//(0,30)\\\\The Inhibitors have intercepted your body! Where are you!?",
+					"fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Les répresseurs ont intercepté votre corps ! Que faites-vous ?!",
+					"it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Gli Inibitori hanno intercettato il tuo corpo! Dove sei?!",
+					"de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Die Inhibitoren haben Ihren Körper abgefangen! Wo sind Sie?!",
+					"es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡Los inhibidores han interceptado tu cuerpo! ¡¿Dónde estás?!",
+					"ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Блокаторы перехватили твое тело! Где ты?",
+					"cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者截获了你的身体！你在哪儿！？",
+					"tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者攔截到你的身體了！你跑哪去了！？",
+					"jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\インヒビターに体を横取りされたわ！あなたはどこにいるの！？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41513_extrctreachbody_hollyhock_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_002.animset].pc_animset",
+				"languages": {
+					"en": "//[HOLLYHOCK]\\\\//(0,30)\\\\NO! The Inhibitors have reached your physical body! ELIMINATE THEM!",
+					"fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Non ! Les répresseurs ont atteint votre corps physique ! ÉLIMINEZ-LES !",
+					"it": "//[HOLLYHOCK]\\\\//(0,30)\\\\NO! Gli Inibitori hanno raggiunto il tuo corpo fisico! ELIMINALI!",
+					"de": "//[HOLLYHOCK]\\\\//(0,30)\\\\NEIN! Die Inhibitoren haben Ihren Körper erreicht! ELIMINIEREN SIE SIE!",
+					"es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡No! ¡Los inhibidores han encontrado tu cuerpo físico! ¡Acaba con ellos!",
+					"ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\НЕТ! Блокаторы добрались до твоего физического тела! УНИЧТОЖЬ ИХ!",
+					"cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\不！抑制者接触到了你的肉身！消灭他们！",
+					"tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\不！抑制者到達你的肉身了！消滅他們！",
+					"jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\ダメよ！インヒビターがあなたの本当の体の所にやってきたわ。排除して！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41513_extrctreachbody_hollyhock_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_003.animset].pc_animset",
+				"languages": {
+					"en": "//[HOLLYHOCK]\\\\//(0,30)\\\\Where are you?! The Inhibitors are about to inject you!",
+					"fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Où êtes-vous ? Les répresseurs vont vous faire une injection !",
+					"it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Dove sei?! Gli Inibitori stanno per farti l'iniezione!",
+					"de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Wo sind Sie?! Die Inhibitoren wollen Ihnen etwas spritzen!",
+					"es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡¿Dónde estás?! ¡Los inhibidores están a punto de ponerte una inyección!",
+					"ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Где ты?! Блокаторы сейчас сделают тебе инъекцию!",
+					"cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\你在哪儿？！抑制者快要给你注射了！",
+					"tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\你在哪？！抑制者要對你的身體進行注射了！",
+					"jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\どこに行ったの？！インヒビターに注射を打たれそうよ！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41513_extrctreachbody_hollyhock_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41513_extrctreachbody_hollyhock_004.animset].pc_animset",
+				"languages": {
+					"en": "//[HOLLYHOCK]\\\\//(0,30)\\\\The Inhibitors are currently injecting poison into you!",
+					"fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Les répresseurs sont en train de vous empoisonner !",
+					"it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Gli Inibitori ti stanno iniettando il veleno!",
+					"de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Die Inhibitoren wollen Ihnen gerade Gift injizieren!",
+					"es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡Los inhibidores te están inyectando veneno en el cuerpo!",
+					"ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Блокаторы уже вводят тебе яд!",
+					"cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者正在给你注射毒素！",
+					"tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者正在你體內注射毒藥！",
+					"jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\インヒビターが今、あなたの体に毒を注射しているわ！"
+				}
+			}
+		]
+	}
 }

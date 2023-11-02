@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "dr20083_mp_timeout5mins_knight_knight_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_001.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Stone, heads up. Five minutes remaining.",
-                    "fr": "//(0,30)\\\\Stone, attention. Il te reste cinq minutes.",
-                    "it": "//(0,30)\\\\Stone, stai all'erta. Mancano cinque minuti.",
-                    "de": "//(0,30)\\\\Stone, aufgepasst. Es bleiben noch fünf Minuten.",
-                    "es": "//(0,30)\\\\Atención, Stone. Quedan cinco minutos.",
-                    "ru": "//(0,30)\\\\Стоун, внимание. Осталось пять минут.",
-                    "cn": "//(0,30)\\\\斯通，注意。还剩五分钟。",
-                    "tc": "//(0,30)\\\\斯通，注意了。剩五分鐘。",
-                    "jp": "//(0,30)\\\\ストーン、聞いて。残りあと5分よ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20083_mp_timeout5mins_knight_knight_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_002.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Five-minute warning, Stone. Let's get cracking.",
-                    "fr": "//(0,30)\\\\Plus que cinq minutes, Stone. Accélère le rythme.",
-                    "it": "//(0,30)\\\\Attenzione, meno cinque minuti, Stone. Diamoci una mossa.",
-                    "de": "//(0,30)\\\\Fünf-Minuten-Warnung, Stone. Legen wir einen Zahn zu.",
-                    "es": "//(0,30)\\\\Stone, quedan cinco minutos. Date prisa.",
-                    "ru": "//(0,30)\\\\У нас еще пять минут, Стоун. Пора ускориться.",
-                    "cn": "//(0,30)\\\\斯通，五分钟警告。我们利索点。",
-                    "tc": "//(0,30)\\\\五分鐘警告，斯通。我們動作快。",
-                    "jp": "//(0,30)\\\\あと5分よ、ストーン。終わらせましょう。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20083_mp_timeout5mins_knight_knight_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_003.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Just five minutes to go before they duck out, Stone.",
-                    "fr": "//(0,30)\\\\Encore cinq minutes avant qu'ils ne s'éclipsent, Stone.",
-                    "it": "//(0,30)\\\\Ancora cinque minuti prima che taglino la corda, Stone.",
-                    "de": "//(0,30)\\\\Nur noch fünf Minuten, bevor alle sich wegducken, Stone.",
-                    "es": "//(0,30)\\\\Quedan cinco minutos para que se larguen, Stone.",
-                    "ru": "//(0,30)\\\\Через пять минут они смоются, Стоун.",
-                    "cn": "//(0,30)\\\\斯通，再过五分钟他们就要溜了。",
-                    "tc": "//(0,30)\\\\他們再五分鐘就會離開了，斯通。",
-                    "jp": "//(0,30)\\\\奴らが出ていくまであと5分よ、ストーン。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20083_mp_timeout5mins_knight_knight_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Stone, heads up. Five minutes remaining.",
+					"fr": "//(0,30)\\\\Stone, attention. Il te reste cinq minutes.",
+					"it": "//(0,30)\\\\Stone, stai all'erta. Mancano cinque minuti.",
+					"de": "//(0,30)\\\\Stone, aufgepasst. Es bleiben noch fünf Minuten.",
+					"es": "//(0,30)\\\\Atención, Stone. Quedan cinco minutos.",
+					"ru": "//(0,30)\\\\Стоун, внимание. Осталось пять минут.",
+					"cn": "//(0,30)\\\\斯通，注意。还剩五分钟。",
+					"tc": "//(0,30)\\\\斯通，注意了。剩五分鐘。",
+					"jp": "//(0,30)\\\\ストーン、聞いて。残りあと5分よ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20083_mp_timeout5mins_knight_knight_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Five-minute warning, Stone. Let's get cracking.",
+					"fr": "//(0,30)\\\\Plus que cinq minutes, Stone. Accélère le rythme.",
+					"it": "//(0,30)\\\\Attenzione, meno cinque minuti, Stone. Diamoci una mossa.",
+					"de": "//(0,30)\\\\Fünf-Minuten-Warnung, Stone. Legen wir einen Zahn zu.",
+					"es": "//(0,30)\\\\Stone, quedan cinco minutos. Date prisa.",
+					"ru": "//(0,30)\\\\У нас еще пять минут, Стоун. Пора ускориться.",
+					"cn": "//(0,30)\\\\斯通，五分钟警告。我们利索点。",
+					"tc": "//(0,30)\\\\五分鐘警告，斯通。我們動作快。",
+					"jp": "//(0,30)\\\\あと5分よ、ストーン。終わらせましょう。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20083_mp_timeout5mins_knight_knight_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20083_mp_timeout5mins_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Just five minutes to go before they duck out, Stone.",
+					"fr": "//(0,30)\\\\Encore cinq minutes avant qu'ils ne s'éclipsent, Stone.",
+					"it": "//(0,30)\\\\Ancora cinque minuti prima che taglino la corda, Stone.",
+					"de": "//(0,30)\\\\Nur noch fünf Minuten, bevor alle sich wegducken, Stone.",
+					"es": "//(0,30)\\\\Quedan cinco minutos para que se larguen, Stone.",
+					"ru": "//(0,30)\\\\Через пять минут они смоются, Стоун.",
+					"cn": "//(0,30)\\\\斯通，再过五分钟他们就要溜了。",
+					"tc": "//(0,30)\\\\他們再五分鐘就會離開了，斯通。",
+					"jp": "//(0,30)\\\\奴らが出ていくまであと5分よ、ストーン。"
+				}
+			}
+		]
+	}
 }

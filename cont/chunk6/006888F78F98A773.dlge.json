@@ -1,87 +1,87 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43824_remembertokill.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43824_remembertokill_azelea_001",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\No, 47 – you need to use the right tool to claim your food.",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Non, 47. Vous devez utiliser l'outil adéquat pour récolter les aliments.",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\No, 47, devi usare lo strumento giusto per ottenere il cibo.",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Nein, 47 – Sie müssen das richtige Werkzeug verwenden, um das Essen zu besorgen.",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\No, 47. Tienes que emplear el útil de trabajo adecuado para conseguir tu comida.",
-                    "ru": "//[AZELEA]\\\\//(0,1.356196)\\\\Нет, 47-й.//(1.356196,31.3562)\\\\Используй подходящий инструмент, чтобы добыть еду.",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\不，47——你要用正确的工具才能获得食物。",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\不，47－－你得用正確的工具來取得食物。",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\ダメだ、47。正しい道具を使わないと食べ物は手に入らない。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43824_remembertokill_azelea_002",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Wrong, 47. You must eliminate them with the right tool.",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Faux, 47. Vous devez les éliminer avec les bons outils.",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Sbagliato, 47. Devi completare le eliminazioni con lo strumento giusto.",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Falsch, 47. Sie müssen sie mit dem richtigen Werkzeug eliminieren.",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\Mal, 47. Debes eliminarlos con la herramienta adecuada.",
-                    "ru": "//[AZELEA]\\\\//(0,1.356196)\\\\Неверно, 47-й.//(1.356196,31.3562)\\\\Устраняй их с помощью правильного инструмента.",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\错了，47。你必须用正确的工具消灭他们。",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\錯了，47。你必須使用正確的道具消滅它們。",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\違うぞ、47。正しい道具を使って排除しないとダメだ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43824_remembertokill_azelea_003",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\47. To hunt for food, you must use the right tool for the right kill.",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Quand on chasse pour de la nourriture, 47, il faut utiliser le bon outil pour la bonne proie.",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\47. Per procacciarti il cibo, devo usare lo strumento giusto per l'eliminazione giusta.",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\47. Um Nahrung zu erjagen, brauchen Sie das richtige Werkzeug für den richtigen Kill.",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\47. Para matar y conseguir comida, debes usar el útil apropiado.",
-                    "ru": "//[AZELEA]\\\\//(0,2.092393)\\\\47-й. Чтобы добыть еду,//(2.092393,32.09239)\\\\ты должен убивать добычу правильным инструментом.",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\47。要获取食物，你必须用正确的工具击杀正确的目标。",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\47，要取得食物，你得使用正確的工具來取得擊殺。",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\47、食べ物を手に入れるには、正しい道具を使って正しく排除しろ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43824_remembertokill_azelea_004",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_004.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_004.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\You need the right tools to harvest the correct food, 47.",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Vous avez besoin des bons outils pour récolter les bons aliments, 47.",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Ti serve lo strumento giusto per ottenere il cibo corretto, 47.",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Sie brauchen das richtige Werkzeug, um die richtige Nahrung zu besorgen, 47.",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\Necesitas las herramientas adecuadas para conseguir los alimentos correctos, 47.",
-                    "ru": "//[AZELEA]\\\\//(0,1.592393)\\\\Тебе нужен правильный инструмент,//(1.592393,31.59239)\\\\чтобы добыть необходимую пищу, 47-й.",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\你需要正确的工具才能收获正确的食物，47。",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\你需要正確的工具來採集正確的食物，47。",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\正しい道具を使わなければ正しい食材は手に入らないぞ、47。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43824_remembertokill.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43824_remembertokill_azelea_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_001.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\No, 47 – you need to use the right tool to claim your food.",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Non, 47. Vous devez utiliser l'outil adéquat pour récolter les aliments.",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\No, 47, devi usare lo strumento giusto per ottenere il cibo.",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Nein, 47 – Sie müssen das richtige Werkzeug verwenden, um das Essen zu besorgen.",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\No, 47. Tienes que emplear el útil de trabajo adecuado para conseguir tu comida.",
+					"ru": "//[AZELEA]\\\\//(0,1.356196)\\\\Нет, 47-й.//(1.356196,31.3562)\\\\Используй подходящий инструмент, чтобы добыть еду.",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\不，47——你要用正确的工具才能获得食物。",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\不，47－－你得用正確的工具來取得食物。",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\ダメだ、47。正しい道具を使わないと食べ物は手に入らない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43824_remembertokill_azelea_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_002.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Wrong, 47. You must eliminate them with the right tool.",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Faux, 47. Vous devez les éliminer avec les bons outils.",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Sbagliato, 47. Devi completare le eliminazioni con lo strumento giusto.",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Falsch, 47. Sie müssen sie mit dem richtigen Werkzeug eliminieren.",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\Mal, 47. Debes eliminarlos con la herramienta adecuada.",
+					"ru": "//[AZELEA]\\\\//(0,1.356196)\\\\Неверно, 47-й.//(1.356196,31.3562)\\\\Устраняй их с помощью правильного инструмента.",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\错了，47。你必须用正确的工具消灭他们。",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\錯了，47。你必須使用正確的道具消滅它們。",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\違うぞ、47。正しい道具を使って排除しないとダメだ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43824_remembertokill_azelea_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_003.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\47. To hunt for food, you must use the right tool for the right kill.",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Quand on chasse pour de la nourriture, 47, il faut utiliser le bon outil pour la bonne proie.",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\47. Per procacciarti il cibo, devo usare lo strumento giusto per l'eliminazione giusta.",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\47. Um Nahrung zu erjagen, brauchen Sie das richtige Werkzeug für den richtigen Kill.",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\47. Para matar y conseguir comida, debes usar el útil apropiado.",
+					"ru": "//[AZELEA]\\\\//(0,2.092393)\\\\47-й. Чтобы добыть еду,//(2.092393,32.09239)\\\\ты должен убивать добычу правильным инструментом.",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\47。要获取食物，你必须用正确的工具击杀正确的目标。",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\47，要取得食物，你得使用正確的工具來取得擊殺。",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\47、食べ物を手に入れるには、正しい道具を使って正しく排除しろ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43824_remembertokill_azelea_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43824_remembertokill_azelea_004.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\You need the right tools to harvest the correct food, 47.",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Vous avez besoin des bons outils pour récolter les bons aliments, 47.",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Ti serve lo strumento giusto per ottenere il cibo corretto, 47.",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Sie brauchen das richtige Werkzeug, um die richtige Nahrung zu besorgen, 47.",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\Necesitas las herramientas adecuadas para conseguir los alimentos correctos, 47.",
+					"ru": "//[AZELEA]\\\\//(0,1.592393)\\\\Тебе нужен правильный инструмент,//(1.592393,31.59239)\\\\чтобы добыть необходимую пищу, 47-й.",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\你需要正确的工具才能收获正确的食物，47。",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\你需要正確的工具來採集正確的食物，47。",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\正しい道具を使わなければ正しい食材は手に入らないぞ、47。"
+				}
+			}
+		]
+	}
 }

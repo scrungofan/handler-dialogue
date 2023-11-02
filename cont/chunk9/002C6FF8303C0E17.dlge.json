@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32069_mp_bladesick.sweetdialog?/ds32069_mp_bladesick_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32069_mp_bladesick_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32069_mp_bladesick_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32069_mp_bladesick_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Stone, \"The Blade\" isn't looking too sharp. If you catch my drift...",
-            "fr": "//(0,30)\\\\Stone, La lame n'a pas l'air dans son assiette, si tu vois ce que je veux dire...",
-            "it": "//(0,30)\\\\Stone, \"la Lama\" non sembra molto \"affilata\". Se capisci cosa intendo...",
-            "de": "//(0,30)\\\\Stone, „die Klinge“ sieht nicht gerade messerscharf aus, wenn Sie verstehen, was ich meine ...",
-            "es": "//(0,30)\\\\Stone, «la Hoja» no parece estar muy fina. No sé si me sigues...",
-            "ru": "//(0,30)\\\\Стоун, Клинок, кажется, туповат. Если ты понимаешь, о чем я.",
-            "cn": "//(0,30)\\\\斯通，“刀锋勇士”看起来不太舒服。你懂我意思吧......",
-            "tc": "//(0,30)\\\\斯通，「刀鋒」似乎不太舒服，你懂我的意思吧......",
-            "jp": "//(0,30)\\\\ストーン、「刃」はそんなに鋭そうには見えないわね。わかるでしょ..."
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32069_mp_bladesick.sweetdialog?/ds32069_mp_bladesick_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32069_mp_bladesick_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32069_mp_bladesick_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32069_mp_bladesick_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Stone, \"The Blade\" isn't looking too sharp. If you catch my drift...",
+			"fr": "//(0,30)\\\\Stone, La lame n'a pas l'air dans son assiette, si tu vois ce que je veux dire...",
+			"it": "//(0,30)\\\\Stone, \"la Lama\" non sembra molto \"affilata\". Se capisci cosa intendo...",
+			"de": "//(0,30)\\\\Stone, „die Klinge“ sieht nicht gerade messerscharf aus, wenn Sie verstehen, was ich meine ...",
+			"es": "//(0,30)\\\\Stone, «la Hoja» no parece estar muy fina. No sé si me sigues...",
+			"ru": "//(0,30)\\\\Стоун, Клинок, кажется, туповат. Если ты понимаешь, о чем я.",
+			"cn": "//(0,30)\\\\斯通，“刀锋勇士”看起来不太舒服。你懂我意思吧......",
+			"tc": "//(0,30)\\\\斯通，「刀鋒」似乎不太舒服，你懂我的意思吧......",
+			"jp": "//(0,30)\\\\ストーン、「刃」はそんなに鋭そうには見えないわね。わかるでしょ..."
+		}
+	}
 }

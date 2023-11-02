@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32075_mp_cranekills3_stone.sweetdialog?/ds32075_mp_cranekills3_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32075_mp_cranekills3_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32075_mp_cranekills3_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32075_mp_cranekills3_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Alright! That was pretty effective!",
-            "fr": "//(0,30)\\\\Bien ! C'était plutôt efficace !",
-            "it": "//(0,30)\\\\Bene! Ha dato davvero un buon risultato!",
-            "de": "//(0,30)\\\\Alles klar! Das war ziemlich effektiv!",
-            "es": "//(0,30)\\\\¡Vale! ¡Ha sido muy efectivo!",
-            "ru": "//(0,30)\\\\Вот и всё! Неплохо вышло, да?",
-            "cn": "//(0,30)\\\\漂亮！这种方法十分好用！",
-            "tc": "//(0,30)\\\\好了！這效率真不錯！",
-            "jp": "//(0,30)\\\\よし、効果ばつぐんだ！"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32075_mp_cranekills3_stone.sweetdialog?/ds32075_mp_cranekills3_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32075_mp_cranekills3_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32075_mp_cranekills3_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32075_mp_cranekills3_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Alright! That was pretty effective!",
+			"fr": "//(0,30)\\\\Bien ! C'était plutôt efficace !",
+			"it": "//(0,30)\\\\Bene! Ha dato davvero un buon risultato!",
+			"de": "//(0,30)\\\\Alles klar! Das war ziemlich effektiv!",
+			"es": "//(0,30)\\\\¡Vale! ¡Ha sido muy efectivo!",
+			"ru": "//(0,30)\\\\Вот и всё! Неплохо вышло, да?",
+			"cn": "//(0,30)\\\\漂亮！这种方法十分好用！",
+			"tc": "//(0,30)\\\\好了！這效率真不錯！",
+			"jp": "//(0,30)\\\\よし、効果ばつぐんだ！"
+		}
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41507_l2killextrct02.sweetdialog?/pdlc41507_l2killextrct02_hollyhock_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc41507_l2killextrct02_hollyhock_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41507_l2killextrct02_hollyhock_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41507_l2killextrct02_hollyhock_001.animset].pc_animset",
-        "languages": {
-            "en": "//[HOLLYHOCK]\\\\//(0,5.2)\\\\Yes! You eliminated all the Inhibitors on this round.//(5.2,7.4)\\\\Feels good.//(7.4,37.4)\\\\But time is ticking! You need to quickly prepare for the next wave! Go!",
-            "fr": "//[HOLLYHOCK]\\\\//(0,8.86)\\\\Oui ! Vous avez éliminé tous les répresseurs de cette manche. Excellent... mais l'heure tourne !//(8.86,38.86)\\\\Dépêchez-vous de vous préparer pour la prochaine vague !",
-            "it": "//[HOLLYHOCK]\\\\//(0,5.7)\\\\Sì! Hai eliminato tutti gli Inibitori in questo round.//(5.7,35.7)\\\\Che bella sensazione. Ma il tempo scorre! Devi prepararti in fretta alla prossima ondata! Vai!",
-            "de": "//[HOLLYHOCK]\\\\//(0,7.35)\\\\Ja! Sie haben alle Inhibitoren in dieser Runde eliminiert. Fühlt sich gut an.//(7.35,37.35)\\\\Aber die Zeit läuft ab! Sie müssen sich schnell auf die nächste Welle vorbereiten! Los!",
-            "es": "//[HOLLYHOCK]\\\\//(0,7.405276)\\\\¡Sí! Has acabado con todos los inhibidores de esta ronda. Sienta bien, ¿eh?//(7.405276,37.40528)\\\\Pero no te despistes, que tienes que prepararte para la próxima ronda. ¡Vamos!",
-            "ru": "//[HOLLYHOCK]\\\\//(0,5.652)\\\\Да! Ты убил всех блокаторов в этом раунде.//(5.652,9)\\\\Мне это нравится. Но время идет!//(9,39)\\\\Тебе нужно подготовиться к следующей атаке! Вперед!",
-            "cn": "//[HOLLYHOCK]\\\\//(0,7.3)\\\\就是这样！你消灭了本回合所有的抑制者。感觉真棒。//(7.3,37.3)\\\\但时间不等人！你需要尽快准备好迎接下一波！去吧！",
-            "tc": "//[HOLLYHOCK]\\\\//(0,8.8)\\\\好！你消滅了本回合所有的抑制者。感覺真棒，但時間有限！//(8.8,38.8)\\\\你得趕快為下一波做好準備！快上！",
-            "jp": "//[HOLLYHOCK]\\\\//(0,7.368)\\\\いいわ！このラウンドのインヒビターを全部排除したわ。いい気分ね。//(7.368,37.368)\\\\でも時間が足りないわ！急いで次の襲撃に備えて！行って！"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41507_l2killextrct02.sweetdialog?/pdlc41507_l2killextrct02_hollyhock_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc41507_l2killextrct02_hollyhock_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41507_l2killextrct02_hollyhock_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41507_l2killextrct02_hollyhock_001.animset].pc_animset",
+		"languages": {
+			"en": "//[HOLLYHOCK]\\\\//(0,5.2)\\\\Yes! You eliminated all the Inhibitors on this round.//(5.2,7.4)\\\\Feels good.//(7.4,37.4)\\\\But time is ticking! You need to quickly prepare for the next wave! Go!",
+			"fr": "//[HOLLYHOCK]\\\\//(0,8.86)\\\\Oui ! Vous avez éliminé tous les répresseurs de cette manche. Excellent... mais l'heure tourne !//(8.86,38.86)\\\\Dépêchez-vous de vous préparer pour la prochaine vague !",
+			"it": "//[HOLLYHOCK]\\\\//(0,5.7)\\\\Sì! Hai eliminato tutti gli Inibitori in questo round.//(5.7,35.7)\\\\Che bella sensazione. Ma il tempo scorre! Devi prepararti in fretta alla prossima ondata! Vai!",
+			"de": "//[HOLLYHOCK]\\\\//(0,7.35)\\\\Ja! Sie haben alle Inhibitoren in dieser Runde eliminiert. Fühlt sich gut an.//(7.35,37.35)\\\\Aber die Zeit läuft ab! Sie müssen sich schnell auf die nächste Welle vorbereiten! Los!",
+			"es": "//[HOLLYHOCK]\\\\//(0,7.405276)\\\\¡Sí! Has acabado con todos los inhibidores de esta ronda. Sienta bien, ¿eh?//(7.405276,37.40528)\\\\Pero no te despistes, que tienes que prepararte para la próxima ronda. ¡Vamos!",
+			"ru": "//[HOLLYHOCK]\\\\//(0,5.652)\\\\Да! Ты убил всех блокаторов в этом раунде.//(5.652,9)\\\\Мне это нравится. Но время идет!//(9,39)\\\\Тебе нужно подготовиться к следующей атаке! Вперед!",
+			"cn": "//[HOLLYHOCK]\\\\//(0,7.3)\\\\就是这样！你消灭了本回合所有的抑制者。感觉真棒。//(7.3,37.3)\\\\但时间不等人！你需要尽快准备好迎接下一波！去吧！",
+			"tc": "//[HOLLYHOCK]\\\\//(0,8.8)\\\\好！你消滅了本回合所有的抑制者。感覺真棒，但時間有限！//(8.8,38.8)\\\\你得趕快為下一波做好準備！快上！",
+			"jp": "//[HOLLYHOCK]\\\\//(0,7.368)\\\\いいわ！このラウンドのインヒビターを全部排除したわ。いい気分ね。//(7.368,37.368)\\\\でも時間が足りないわ！急いで次の襲撃に備えて！行って！"
+		}
+	}
 }

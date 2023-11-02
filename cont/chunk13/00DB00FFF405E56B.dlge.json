@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32032_mp_bladeid_stone.sweetdialog?/ds32032_mp_bladeid_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32032_mp_bladeid_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32032_mp_bladeid_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32032_mp_bladeid_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,2.63)\\\\So that's the infamous Colonel Jin Noo.//(2.63,32.63)\\\\Master of close combat and nicknamed \"The Blade\".",
-            "fr": "//(0,3.076687)\\\\Alors voici le fameux colonel Jin Noo...//(3.076687,33.07669)\\\\C'est un expert du combat rapproché, d'où lui est venu son surnom de \"La lame\".",
-            "it": "//(0,30)\\\\Allora quello è il famigerato colonnello Jin Noo. Maestro del combattimento corpo a corpo e soprannominato \"la Lama\".",
-            "de": "//(0,30)\\\\Das ist also der berüchtigte Oberst Jin Noo. Ein exzellenter Nahkämpfer mit dem Spitznamen „die Klinge“.",
-            "es": "//(0,30)\\\\Así que ese es el famoso coronel Jin Noo. Maestro del combate cuerpo a cuerpo, más conocido como «la Hoja».",
-            "ru": "//(0,30)\\\\Ага, это и есть тот самый полковник Джим Ну. Мастер ближнего боя по прозвищу Клинок.",
-            "cn": "//(0,30)\\\\那个就是恶名昭著的诺金上校啊。他精通近距离战斗，外号“刀锋勇士”。",
-            "tc": "//(0,30)\\\\那就是惡名昭彰的樓金上校，他是一名近戰大師，且擁有「刀鋒」的綽號。",
-            "jp": "//(0,2.885)\\\\あれが悪名高きジン・ヌー大佐か。//(2.885,32.885)\\\\近接格闘の達人で、「刃」というあだ名がついている。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32032_mp_bladeid_stone.sweetdialog?/ds32032_mp_bladeid_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32032_mp_bladeid_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32032_mp_bladeid_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32032_mp_bladeid_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.63)\\\\So that's the infamous Colonel Jin Noo.//(2.63,32.63)\\\\Master of close combat and nicknamed \"The Blade\".",
+			"fr": "//(0,3.076687)\\\\Alors voici le fameux colonel Jin Noo...//(3.076687,33.07669)\\\\C'est un expert du combat rapproché, d'où lui est venu son surnom de \"La lame\".",
+			"it": "//(0,30)\\\\Allora quello è il famigerato colonnello Jin Noo. Maestro del combattimento corpo a corpo e soprannominato \"la Lama\".",
+			"de": "//(0,30)\\\\Das ist also der berüchtigte Oberst Jin Noo. Ein exzellenter Nahkämpfer mit dem Spitznamen „die Klinge“.",
+			"es": "//(0,30)\\\\Así que ese es el famoso coronel Jin Noo. Maestro del combate cuerpo a cuerpo, más conocido como «la Hoja».",
+			"ru": "//(0,30)\\\\Ага, это и есть тот самый полковник Джим Ну. Мастер ближнего боя по прозвищу Клинок.",
+			"cn": "//(0,30)\\\\那个就是恶名昭著的诺金上校啊。他精通近距离战斗，外号“刀锋勇士”。",
+			"tc": "//(0,30)\\\\那就是惡名昭彰的樓金上校，他是一名近戰大師，且擁有「刀鋒」的綽號。",
+			"jp": "//(0,2.885)\\\\あれが悪名高きジン・ヌー大佐か。//(2.885,32.885)\\\\近接格闘の達人で、「刃」というあだ名がついている。"
+		}
+	}
 }

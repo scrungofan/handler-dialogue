@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32055_mp_dragoneyekilled_stone.sweetdialog?/ds32055_mp_dragoneyekilled_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32055_mp_dragoneyekilled_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32055_mp_dragoneyekilled_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32055_mp_dragoneyekilled_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Knight, Captain Kwai has been dealt with.",
-            "fr": "//(0,30)\\\\C'est bon, Kwai ne nous embêtera plus, Knight.",
-            "it": "//(0,30)\\\\Knight, il capitano Kwai è stato sistemato.",
-            "de": "//(0,30)\\\\Knight, Hauptmann Kwai wurde erledigt.",
-            "es": "//(0,30)\\\\Knight, ya me he ocupado del capitán Kwai.",
-            "ru": "//(0,30)\\\\Найт, с капитаном Квай разобрались.",
-            "cn": "//(0,30)\\\\奈特，葵上尉已被解决。",
-            "tc": "//(0,30)\\\\奈特，桂上尉已經處理掉了。",
-            "jp": "//(0,30)\\\\ナイト、カイ大尉の始末はつけたぜ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32055_mp_dragoneyekilled_stone.sweetdialog?/ds32055_mp_dragoneyekilled_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32055_mp_dragoneyekilled_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32055_mp_dragoneyekilled_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32055_mp_dragoneyekilled_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Knight, Captain Kwai has been dealt with.",
+			"fr": "//(0,30)\\\\C'est bon, Kwai ne nous embêtera plus, Knight.",
+			"it": "//(0,30)\\\\Knight, il capitano Kwai è stato sistemato.",
+			"de": "//(0,30)\\\\Knight, Hauptmann Kwai wurde erledigt.",
+			"es": "//(0,30)\\\\Knight, ya me he ocupado del capitán Kwai.",
+			"ru": "//(0,30)\\\\Найт, с капитаном Квай разобрались.",
+			"cn": "//(0,30)\\\\奈特，葵上尉已被解决。",
+			"tc": "//(0,30)\\\\奈特，桂上尉已經處理掉了。",
+			"jp": "//(0,30)\\\\ナイト、カイ大尉の始末はつけたぜ。"
+		}
+	}
 }

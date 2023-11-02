@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc44009_47killpraise_frangipani_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[FRANGIPANI]\\\\//(0,2)\\\\Target eliminated.//(2,32)\\\\Nice one.",
-                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible éliminée. Joli.",
-                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio eliminato. Bel colpo.",
-                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Gut gemacht.",
-                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo eliminado. Muy bien.",
-                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель устранена. Хорошо.",
-                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭。干得好。",
-                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標已消滅，漂亮。",
-                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲット排除。上出来だ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc44009_47killpraise_frangipani_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[FRANGIPANI]\\\\//(0,30)\\\\Target down. Not bad.",
-                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible abattue. Pas mal.",
-                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio a terra. Non male.",
-                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Nicht schlecht.",
-                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo abatido. No está mal.",
-                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель уничтожена. Неплохо.",
-                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭。还不错。",
-                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標已倒下，不錯。",
-                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲットダウン。悪くない。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc44009_47killpraise_frangipani_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[FRANGIPANI]\\\\//(0,30)\\\\Target eliminated. That was one for the textbooks.",
-                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible éliminée. Et d'une grande propreté.",
-                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio eliminato. Quello era da manuale.",
-                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Das war einer fürs Lehrbuch.",
-                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo eliminado. Esa va a pasar a la historia.",
-                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель устранена. Этот метод достоин учебника.",
-                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭。教科书式的击杀。",
-                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標已被消滅，真是乾淨俐落。",
-                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲット排除。お手本にしたいぐらい完璧だったよ。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc44009_47killpraise_frangipani_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_001.animset].pc_animset",
+				"languages": {
+					"en": "//[FRANGIPANI]\\\\//(0,2)\\\\Target eliminated.//(2,32)\\\\Nice one.",
+					"fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible éliminée. Joli.",
+					"it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio eliminato. Bel colpo.",
+					"de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Gut gemacht.",
+					"es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo eliminado. Muy bien.",
+					"ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель устранена. Хорошо.",
+					"cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭。干得好。",
+					"tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標已消滅，漂亮。",
+					"jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲット排除。上出来だ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc44009_47killpraise_frangipani_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_002.animset].pc_animset",
+				"languages": {
+					"en": "//[FRANGIPANI]\\\\//(0,30)\\\\Target down. Not bad.",
+					"fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible abattue. Pas mal.",
+					"it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio a terra. Non male.",
+					"de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Nicht schlecht.",
+					"es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo abatido. No está mal.",
+					"ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель уничтожена. Неплохо.",
+					"cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭。还不错。",
+					"tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標已倒下，不錯。",
+					"jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲットダウン。悪くない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc44009_47killpraise_frangipani_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44009_47killpraise_frangipani_003.animset].pc_animset",
+				"languages": {
+					"en": "//[FRANGIPANI]\\\\//(0,30)\\\\Target eliminated. That was one for the textbooks.",
+					"fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible éliminée. Et d'une grande propreté.",
+					"it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio eliminato. Quello era da manuale.",
+					"de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Das war einer fürs Lehrbuch.",
+					"es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo eliminado. Esa va a pasar a la historia.",
+					"ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель устранена. Этот метод достоин учебника.",
+					"cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭。教科书式的击杀。",
+					"tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標已被消滅，真是乾淨俐落。",
+					"jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲット排除。お手本にしたいぐらい完璧だったよ。"
+				}
+			}
+		]
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41506_l1killextrct01.sweetdialog?/pdlc41506_l1killextrct01_hollyhock_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc41506_l1killextrct01_hollyhock_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41506_l1killextrct01_hollyhock_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41506_l1killextrct01_hollyhock_001.animset].pc_animset",
-        "languages": {
-            "en": "//[HOLLYHOCK]\\\\//(0,5)\\\\Well done, All Inhibitors are dead.//(5,35)\\\\But it's not over yet! Quick! Prepare for the next wave.",
-            "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Bien joué. Vous avez eu tous les répresseurs. Mais ce n'est pas fini ! Préparez-vous pour la suivante ! Vite !",
-            "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Ben fatto, tutti gli Inibitori sono morti. Ma non è ancora finita! Veloce! Preparati per la prossima ondata.",
-            "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Gut gemacht. Alle Inhibitoren sind tot. Aber es ist noch nicht vorbei! Schnell! Machen Sie sich für die nächste Welle bereit.",
-            "es": "//[HOLLYHOCK]\\\\//(0.05,4.826687)\\\\¡Buen trabajo! Todos los inhibidores han caído.//(4.826687,34.82669)\\\\¡Pero esto aún no ha terminado! ¡Prepárate para la próxima oleada, rápido!",
-            "ru": "//[HOLLYHOCK]\\\\//(0,7.55)\\\\Отлично. Блокаторы мертвы. Но всё только начинается.//(7.55,37.55)\\\\Быстрее! Приготовься к следующей волне!",
-            "cn": "//[HOLLYHOCK]\\\\//(0,5.2)\\\\干得好，所有抑制者都死了。//(5.2,35.2)\\\\但事情还没结束！快！准备面对下一波。",
-            "tc": "//[HOLLYHOCK]\\\\//(0,7)\\\\做得好，所有抑制者都死了，不過還沒結束呢！//(7,37)\\\\快為下一波做好準備。",
-            "jp": "//[HOLLYHOCK]\\\\//(0,5.05)\\\\よくやったわ。インヒビターは全員死んだわ。//(5.05,35.05)\\\\でも、まだ終わりじゃない！急いで！次の襲撃に備えて！"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41506_l1killextrct01.sweetdialog?/pdlc41506_l1killextrct01_hollyhock_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc41506_l1killextrct01_hollyhock_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41506_l1killextrct01_hollyhock_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41506_l1killextrct01_hollyhock_001.animset].pc_animset",
+		"languages": {
+			"en": "//[HOLLYHOCK]\\\\//(0,5)\\\\Well done, All Inhibitors are dead.//(5,35)\\\\But it's not over yet! Quick! Prepare for the next wave.",
+			"fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Bien joué. Vous avez eu tous les répresseurs. Mais ce n'est pas fini ! Préparez-vous pour la suivante ! Vite !",
+			"it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Ben fatto, tutti gli Inibitori sono morti. Ma non è ancora finita! Veloce! Preparati per la prossima ondata.",
+			"de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Gut gemacht. Alle Inhibitoren sind tot. Aber es ist noch nicht vorbei! Schnell! Machen Sie sich für die nächste Welle bereit.",
+			"es": "//[HOLLYHOCK]\\\\//(0.05,4.826687)\\\\¡Buen trabajo! Todos los inhibidores han caído.//(4.826687,34.82669)\\\\¡Pero esto aún no ha terminado! ¡Prepárate para la próxima oleada, rápido!",
+			"ru": "//[HOLLYHOCK]\\\\//(0,7.55)\\\\Отлично. Блокаторы мертвы. Но всё только начинается.//(7.55,37.55)\\\\Быстрее! Приготовься к следующей волне!",
+			"cn": "//[HOLLYHOCK]\\\\//(0,5.2)\\\\干得好，所有抑制者都死了。//(5.2,35.2)\\\\但事情还没结束！快！准备面对下一波。",
+			"tc": "//[HOLLYHOCK]\\\\//(0,7)\\\\做得好，所有抑制者都死了，不過還沒結束呢！//(7,37)\\\\快為下一波做好準備。",
+			"jp": "//[HOLLYHOCK]\\\\//(0,5.05)\\\\よくやったわ。インヒビターは全員死んだわ。//(5.05,35.05)\\\\でも、まだ終わりじゃない！急いで！次の襲撃に備えて！"
+		}
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32551_mp_reznikovfail_knight.sweetdialog?/ds32551_mp_reznikovfail_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32551_mp_reznikovfail_knight_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32551_mp_reznikovfail_knight_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32551_mp_reznikovfail_knight_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Aw hell, we lost the warden! We need to get out of here.",
-            "fr": "//(0,30)\\\\Et merde, on a perdu le directeur ! Allez, on décampe.",
-            "it": "//(0,30)\\\\Diavolo, abbiamo perso il direttore! Dobbiamo andarcene da qui.",
-            "de": "//(0,30)\\\\Ach, zum Teufel! Wir haben den Gefängnisdirektor verloren! Wir müssen von hier verschwinden.",
-            "es": "//(0,30)\\\\¡Ay, joder! ¡Hemos perdido al alcaide! Tenemos que salir de aquí.",
-            "ru": "//(0,30)\\\\Ах, твою ж мать! Начальник тюрьмы ушел. Пора валить отсюда.",
-            "cn": "//(0,30)\\\\啊，见鬼，监狱长不见了！我们得离开这里。",
-            "tc": "//(0,30)\\\\糟糕，我們追丟了典獄長！我們必須離開這裡。",
-            "jp": "//(0,30)\\\\最悪、所長を見失ったわ！ここを離れないと。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32551_mp_reznikovfail_knight.sweetdialog?/ds32551_mp_reznikovfail_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32551_mp_reznikovfail_knight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32551_mp_reznikovfail_knight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32551_mp_reznikovfail_knight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Aw hell, we lost the warden! We need to get out of here.",
+			"fr": "//(0,30)\\\\Et merde, on a perdu le directeur ! Allez, on décampe.",
+			"it": "//(0,30)\\\\Diavolo, abbiamo perso il direttore! Dobbiamo andarcene da qui.",
+			"de": "//(0,30)\\\\Ach, zum Teufel! Wir haben den Gefängnisdirektor verloren! Wir müssen von hier verschwinden.",
+			"es": "//(0,30)\\\\¡Ay, joder! ¡Hemos perdido al alcaide! Tenemos que salir de aquí.",
+			"ru": "//(0,30)\\\\Ах, твою ж мать! Начальник тюрьмы ушел. Пора валить отсюда.",
+			"cn": "//(0,30)\\\\啊，见鬼，监狱长不见了！我们得离开这里。",
+			"tc": "//(0,30)\\\\糟糕，我們追丟了典獄長！我們必須離開這裡。",
+			"jp": "//(0,30)\\\\最悪、所長を見失ったわ！ここを離れないと。"
+		}
+	}
 }

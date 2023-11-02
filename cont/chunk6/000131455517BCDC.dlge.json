@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43710_stairs.sweetdialog?/pdlc43710_stairs_makoyana_002.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43710_stairs_makoyana_002",
-        "soundtag": "Voiceover_Handler_Dream",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43710_stairs_makoyana_002.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43710_stairs_makoyana_002.animset].pc_animset",
-        "languages": {
-            "en": "//[MAKOYANA]\\\\//(0,30)\\\\Yes, the long staircase. Ascend them and greet the Peacock.",
-            "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Oui, le grand escalier. Montez, et saluez le Paon.",
-            "it": "//[MAKOYANA]\\\\//(0,30)\\\\Sì, la lunga scalinata. Percorrila tutta e saluta il Pavone.",
-            "de": "//[MAKOYANA]\\\\//(0,30)\\\\Ja, die lange Treppe. Gehen Sie sie hoch und begrüßen Sie den Pfau.",
-            "es": "//[MAKOYANA]\\\\//(0,30)\\\\Sí, la escalera grande. Sube y saluda al Pavo Real.",
-            "ru": "//[MAKOYANA]\\\\//(0,2.092393)\\\\Да, это длинная лестница.//(2.092393,32.09239)\\\\Поднимись по ступеням и поздоровайся с Павлином.",
-            "cn": "//[MAKOYANA]\\\\//(0,30)\\\\没错，长长的楼梯。爬上去，和孔雀打个招呼。",
-            "tc": "//[MAKOYANA]\\\\//(0,30)\\\\對，這道長階梯。爬上去和孔雀見面。",
-            "jp": "//[MAKOYANA]\\\\//(0,30)\\\\長い階段だ。上へ昇って、ピーコックに会え。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43710_stairs.sweetdialog?/pdlc43710_stairs_makoyana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43710_stairs_makoyana_002",
+		"soundtag": "Voiceover_Handler_Dream",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43710_stairs_makoyana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43710_stairs_makoyana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[MAKOYANA]\\\\//(0,30)\\\\Yes, the long staircase. Ascend them and greet the Peacock.",
+			"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Oui, le grand escalier. Montez, et saluez le Paon.",
+			"it": "//[MAKOYANA]\\\\//(0,30)\\\\Sì, la lunga scalinata. Percorrila tutta e saluta il Pavone.",
+			"de": "//[MAKOYANA]\\\\//(0,30)\\\\Ja, die lange Treppe. Gehen Sie sie hoch und begrüßen Sie den Pfau.",
+			"es": "//[MAKOYANA]\\\\//(0,30)\\\\Sí, la escalera grande. Sube y saluda al Pavo Real.",
+			"ru": "//[MAKOYANA]\\\\//(0,2.092393)\\\\Да, это длинная лестница.//(2.092393,32.09239)\\\\Поднимись по ступеням и поздоровайся с Павлином.",
+			"cn": "//[MAKOYANA]\\\\//(0,30)\\\\没错，长长的楼梯。爬上去，和孔雀打个招呼。",
+			"tc": "//[MAKOYANA]\\\\//(0,30)\\\\對，這道長階梯。爬上去和孔雀見面。",
+			"jp": "//[MAKOYANA]\\\\//(0,30)\\\\長い階段だ。上へ昇って、ピーコックに会え。"
+		}
+	}
 }

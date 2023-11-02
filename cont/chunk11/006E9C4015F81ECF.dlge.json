@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32588_mp_releasesignal_stone.sweetdialog?/ds32588_mp_releasesignal_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32588_mp_releasesignal_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32588_mp_releasesignal_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32588_mp_releasesignal_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Flag signal activated. Our intel indicates this means Khabko's getting ready to leave the prison with the warden.",
-            "fr": "//(0,30)\\\\Signal activé. D'après nos infos, ça veut dire que Khabko s'apprête à quitter la prison avec le directeur.",
-            "it": "//(0,30)\\\\Segnale della bandiera attivato. Secondo le nostre informazioni, significa che Khabko si sta preparando per abbandonare la prigione con il direttore.",
-            "de": "//(0,30)\\\\Signalflagge aktiviert. Laut unseren Infos heißt das, dass sich Khabko bereit macht, das Gefängnis mit dem Direktor zu verlassen.",
-            "es": "//(0,30)\\\\Han activado la bandera señalizadora. Según la información que tenemos, eso significa que Khabko se prepara para salir de la prisión con el alcaide.",
-            "ru": "//(0,30)\\\\Сигнальный флажок выброшен. По нашим данным, после условного сигнала Хабко начнет готовиться к выходу из тюрьмы.",
-            "cn": "//(0,30)\\\\旗帜信号已启动。我们的情报指出这意味着卡布科已经准备好和监狱长一起离开监狱了。",
-            "tc": "//(0,30)\\\\旗幟信號已啟動。我們的情報指出這代表卡伯克即將和典獄長一起離開監獄。",
-            "jp": "//(0,30)\\\\旗のシグナルが出た。情報によれば、カブコが所長と刑務所を出る合図らしい。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32588_mp_releasesignal_stone.sweetdialog?/ds32588_mp_releasesignal_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32588_mp_releasesignal_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32588_mp_releasesignal_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32588_mp_releasesignal_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Flag signal activated. Our intel indicates this means Khabko's getting ready to leave the prison with the warden.",
+			"fr": "//(0,30)\\\\Signal activé. D'après nos infos, ça veut dire que Khabko s'apprête à quitter la prison avec le directeur.",
+			"it": "//(0,30)\\\\Segnale della bandiera attivato. Secondo le nostre informazioni, significa che Khabko si sta preparando per abbandonare la prigione con il direttore.",
+			"de": "//(0,30)\\\\Signalflagge aktiviert. Laut unseren Infos heißt das, dass sich Khabko bereit macht, das Gefängnis mit dem Direktor zu verlassen.",
+			"es": "//(0,30)\\\\Han activado la bandera señalizadora. Según la información que tenemos, eso significa que Khabko se prepara para salir de la prisión con el alcaide.",
+			"ru": "//(0,30)\\\\Сигнальный флажок выброшен. По нашим данным, после условного сигнала Хабко начнет готовиться к выходу из тюрьмы.",
+			"cn": "//(0,30)\\\\旗帜信号已启动。我们的情报指出这意味着卡布科已经准备好和监狱长一起离开监狱了。",
+			"tc": "//(0,30)\\\\旗幟信號已啟動。我們的情報指出這代表卡伯克即將和典獄長一起離開監獄。",
+			"jp": "//(0,30)\\\\旗のシグナルが出た。情報によれば、カブコが所長と刑務所を出る合図らしい。"
+		}
+	}
 }

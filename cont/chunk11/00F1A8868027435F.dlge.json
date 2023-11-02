@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32547_mp_reznikovescaping_knight.sweetdialog?/ds32547_mp_reznikovescaping_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32547_mp_reznikovescaping_knight_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32547_mp_reznikovescaping_knight_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32547_mp_reznikovescaping_knight_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\The warden's heading out. We gotta stop him.",
-            "fr": "//(0,30)\\\\Le directeur se dirige vers la sortie. Il faut l'arrêter à tout prix.",
-            "it": "//(0,30)\\\\Il direttore sta uscendo. Dobbiamo fermarlo.",
-            "de": "//(0,30)\\\\Der Gefängnisdirektor ist auf dem Weg nach draußen. Wir müssen ihn aufhalten.",
-            "es": "//(0,30)\\\\El alcaide va hacia la salida. Debemos detenerlo.",
-            "ru": "//(0,30)\\\\Начальник тюрьмы уходит. Мы должны его остановить.",
-            "cn": "//(0,30)\\\\监狱长要出去了。我们得阻止他。",
-            "tc": "//(0,30)\\\\典獄長要離開了。我們得阻止他。",
-            "jp": "//(0,30)\\\\所長が逃走を開始。阻止しないと。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32547_mp_reznikovescaping_knight.sweetdialog?/ds32547_mp_reznikovescaping_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32547_mp_reznikovescaping_knight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32547_mp_reznikovescaping_knight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32547_mp_reznikovescaping_knight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\The warden's heading out. We gotta stop him.",
+			"fr": "//(0,30)\\\\Le directeur se dirige vers la sortie. Il faut l'arrêter à tout prix.",
+			"it": "//(0,30)\\\\Il direttore sta uscendo. Dobbiamo fermarlo.",
+			"de": "//(0,30)\\\\Der Gefängnisdirektor ist auf dem Weg nach draußen. Wir müssen ihn aufhalten.",
+			"es": "//(0,30)\\\\El alcaide va hacia la salida. Debemos detenerlo.",
+			"ru": "//(0,30)\\\\Начальник тюрьмы уходит. Мы должны его остановить.",
+			"cn": "//(0,30)\\\\监狱长要出去了。我们得阻止他。",
+			"tc": "//(0,30)\\\\典獄長要離開了。我們得阻止他。",
+			"jp": "//(0,30)\\\\所長が逃走を開始。阻止しないと。"
+		}
+	}
 }

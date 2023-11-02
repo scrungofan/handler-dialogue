@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "00F1ABB75BB65348",
-    "DITL": "005CC166F7715F6D",
-    "CLNG": "00063B34B5153AEE",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "dr20099_mp_langescaped_stone_stone_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_001.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Ah, damn it! Lang escaped. Mission’s over, Knight.",
-                    "fr": "//(0,30)\\\\Non ! Lang s'est échappé ! C'est fini, Knight.",
-                    "it": "//(0,30)\\\\Ah, maledizione! Lang è scappato. La missione è fallita, Knight.",
-                    "de": "//(0,30)\\\\Ach verdammt! Lang ist entkommen. Die Mission ist vorbei, Knight.",
-                    "es": "//(0,30)\\\\¡Arg, mierda! Lang ha escapado. Se acabó la misión, Knight.",
-                    "ru": "//(0,30)\\\\Вот черт! ЛЭНГ сбежал. Задание окончено, Найт.",
-                    "cn": "//(0,30)\\\\啊，见鬼！朗逃走了。任务结束了，奈特。",
-                    "tc": "//(0,30)\\\\啊，該死！朗逃了。任務結束了，奈特。",
-                    "jp": "//(0,30)\\\\クソ！ラングが逃げたぞ。任務失敗だ、ナイト。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20099_mp_langescaped_stone_stone_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_002.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Lang has escaped. I’m shutting down the mission. Let’s get out of here.",
-                    "fr": "//(0,30)\\\\Lang s'est échappé. Je mets un terme à la mission. On n'a plus rien à faire ici.",
-                    "it": "//(0,30)\\\\Lang è fuggito. Termino qui la missione. Andiamocene.",
-                    "de": "//(0,30)\\\\Lang ist entkommen. Ich breche hiermit die Mission ab. Verschwinden wir von hier.",
-                    "es": "//(0,30)\\\\Lang ha escapado. Voy a abortar la misión. Salgamos de aquí.",
-                    "ru": "//(0,30)\\\\ЛЭНГУ удалось сбежать. Я прекращаю задание. Уходим.",
-                    "cn": "//(0,30)\\\\朗跑了。任务中止。我们走吧。",
-                    "tc": "//(0,30)\\\\朗逃脫了。我得結束任務了。我們走吧。",
-                    "jp": "//(0,30)\\\\ラングが逃げた。任務中断だ。撤退するぞ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20099_mp_langescaped_stone_stone_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_003.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Aw, hell, Lang got away. Mission failed.",
-                    "fr": "//(0,30)\\\\C'est pas vrai ! Lang s'est enfui ! C'est un échec.",
-                    "it": "//(0,30)\\\\Oh, diavolo, Lang se n'è andato. Missione fallita.",
-                    "de": "//(0,30)\\\\Ach Dreck! Lang hat sich aus dem Staub gemacht. Mission gescheitert.",
-                    "es": "//(0,30)\\\\Oh, mierda. Lang ha huido. Misión fallida.",
-                    "ru": "//(0,30)\\\\Вот черт, ЛЭНГ ушел. Задание накрылось.",
-                    "cn": "//(0,30)\\\\啊，见鬼，被朗给跑了。任务失败。",
-                    "tc": "//(0,30)\\\\啊，糟糕，朗逃走了。任務失敗了。",
-                    "jp": "//(0,30)\\\\なんてこった。ラングが逃げたぞ。任務失敗だ。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00F1ABB75BB65348",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20099_mp_langescaped_stone_stone_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Ah, damn it! Lang escaped. Mission’s over, Knight.",
+					"fr": "//(0,30)\\\\Non ! Lang s'est échappé ! C'est fini, Knight.",
+					"it": "//(0,30)\\\\Ah, maledizione! Lang è scappato. La missione è fallita, Knight.",
+					"de": "//(0,30)\\\\Ach verdammt! Lang ist entkommen. Die Mission ist vorbei, Knight.",
+					"es": "//(0,30)\\\\¡Arg, mierda! Lang ha escapado. Se acabó la misión, Knight.",
+					"ru": "//(0,30)\\\\Вот черт! ЛЭНГ сбежал. Задание окончено, Найт.",
+					"cn": "//(0,30)\\\\啊，见鬼！朗逃走了。任务结束了，奈特。",
+					"tc": "//(0,30)\\\\啊，該死！朗逃了。任務結束了，奈特。",
+					"jp": "//(0,30)\\\\クソ！ラングが逃げたぞ。任務失敗だ、ナイト。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20099_mp_langescaped_stone_stone_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Lang has escaped. I’m shutting down the mission. Let’s get out of here.",
+					"fr": "//(0,30)\\\\Lang s'est échappé. Je mets un terme à la mission. On n'a plus rien à faire ici.",
+					"it": "//(0,30)\\\\Lang è fuggito. Termino qui la missione. Andiamocene.",
+					"de": "//(0,30)\\\\Lang ist entkommen. Ich breche hiermit die Mission ab. Verschwinden wir von hier.",
+					"es": "//(0,30)\\\\Lang ha escapado. Voy a abortar la misión. Salgamos de aquí.",
+					"ru": "//(0,30)\\\\ЛЭНГУ удалось сбежать. Я прекращаю задание. Уходим.",
+					"cn": "//(0,30)\\\\朗跑了。任务中止。我们走吧。",
+					"tc": "//(0,30)\\\\朗逃脫了。我得結束任務了。我們走吧。",
+					"jp": "//(0,30)\\\\ラングが逃げた。任務中断だ。撤退するぞ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20099_mp_langescaped_stone_stone_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20099_mp_langescaped_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Aw, hell, Lang got away. Mission failed.",
+					"fr": "//(0,30)\\\\C'est pas vrai ! Lang s'est enfui ! C'est un échec.",
+					"it": "//(0,30)\\\\Oh, diavolo, Lang se n'è andato. Missione fallita.",
+					"de": "//(0,30)\\\\Ach Dreck! Lang hat sich aus dem Staub gemacht. Mission gescheitert.",
+					"es": "//(0,30)\\\\Oh, mierda. Lang ha huido. Misión fallida.",
+					"ru": "//(0,30)\\\\Вот черт, ЛЭНГ ушел. Задание накрылось.",
+					"cn": "//(0,30)\\\\啊，见鬼，被朗给跑了。任务失败。",
+					"tc": "//(0,30)\\\\啊，糟糕，朗逃走了。任務失敗了。",
+					"jp": "//(0,30)\\\\なんてこった。ラングが逃げたぞ。任務失敗だ。"
+				}
+			}
+		]
+	}
 }

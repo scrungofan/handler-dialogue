@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41005_vitalityhits50_harebell_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Half way.",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Mi-chemin.",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Sei a metà.",
-                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Halb durch.",
-                    "es": "//[HAREBELL]\\\\//(0,1.4)\\\\La mitad.",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Уже половина.",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\一半了。",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\一半了。",
-                    "jp": "//[HAREBELL]\\\\//(0,1.3)\\\\半分だ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41005_vitalityhits50_harebell_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,2.5)\\\\So much for being the snail, 47.//(2.5,32.5)\\\\You're at 50 percent.",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Vous parlez d'un escargot, 47... Déjà 50 %.",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Tanti saluti all'essere la lumaca, 47. Sei al cinquanta per cento.",
-                    "de": "//[HAREBELL]\\\\//(0,2.45)\\\\Von wegen wie die Schnecken, 47.//(2.85,32.85)\\\\Sie sind bei 50 Prozent.",
-                    "es": "//[HAREBELL]\\\\//(0,2.5)\\\\No te veo yo muy caracol, 47.//(2.9,4.9)\\\\Estás al 50 %.",
-                    "ru": "//[HAREBELL]\\\\//(0,3)\\\\Да уж, 47-й, улитка из тебя не очень.//(3,33)\\\\Осталось 50 процентов.",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\看来扮蜗牛也不过如此，47。你已经一半了。",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\看來當蝸牛也不過如此，47。你已經在百分之五十了。",
-                    "jp": "//[HAREBELL]\\\\//(0,5)\\\\それでもカタツムリのつもりか、47？50パーセントだ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41005_vitalityhits50_harebell_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,2.5)\\\\Where are you now? 50?//(3.85,33.85)\\\\I wish I was surprised.",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Où en êtes-vous, alors ? Déjà 50 % ? Si seulement ça m'étonnait.",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\A che punto sei? Cinquanta? Vorrei poter dire di essere sorpreso.",
-                    "de": "//[HAREBELL]\\\\//(0,2.6)\\\\Wo sind Sie jetzt? Bei 50?//(4,34)\\\\Ich wünschte, ich wäre überrascht.",
-                    "es": "//[HAREBELL]\\\\//(0,1)\\\\¿Cómo vas?//(1.8,3.6)\\\\¿Al 50?//(4,5.6)\\\\Ojalá me pillara de sorpresa.",
-                    "ru": "//[HAREBELL]\\\\//(0,4.3)\\\\Ну что, сколько осталось? 50 процентов?//(4.3,34.3)\\\\Неудивительно.",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\你到哪了？50？我真是一点都不惊讶。",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\剩多少了？五十？我一點也不意外。",
-                    "jp": "//[HAREBELL]\\\\//(0,5.7)\\\\今どのぐらいだ？50？驚きはしないが。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41005_vitalityhits50_harebell_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_001.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\Half way.",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Mi-chemin.",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Sei a metà.",
+					"de": "//[HAREBELL]\\\\//(0,30)\\\\Halb durch.",
+					"es": "//[HAREBELL]\\\\//(0,1.4)\\\\La mitad.",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\Уже половина.",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\一半了。",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\一半了。",
+					"jp": "//[HAREBELL]\\\\//(0,1.3)\\\\半分だ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41005_vitalityhits50_harebell_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_002.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,2.5)\\\\So much for being the snail, 47.//(2.5,32.5)\\\\You're at 50 percent.",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Vous parlez d'un escargot, 47... Déjà 50 %.",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Tanti saluti all'essere la lumaca, 47. Sei al cinquanta per cento.",
+					"de": "//[HAREBELL]\\\\//(0,2.45)\\\\Von wegen wie die Schnecken, 47.//(2.85,32.85)\\\\Sie sind bei 50 Prozent.",
+					"es": "//[HAREBELL]\\\\//(0,2.5)\\\\No te veo yo muy caracol, 47.//(2.9,4.9)\\\\Estás al 50 %.",
+					"ru": "//[HAREBELL]\\\\//(0,3)\\\\Да уж, 47-й, улитка из тебя не очень.//(3,33)\\\\Осталось 50 процентов.",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\看来扮蜗牛也不过如此，47。你已经一半了。",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\看來當蝸牛也不過如此，47。你已經在百分之五十了。",
+					"jp": "//[HAREBELL]\\\\//(0,5)\\\\それでもカタツムリのつもりか、47？50パーセントだ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41005_vitalityhits50_harebell_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41005_vitalityhits50_harebell_003.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,2.5)\\\\Where are you now? 50?//(3.85,33.85)\\\\I wish I was surprised.",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Où en êtes-vous, alors ? Déjà 50 % ? Si seulement ça m'étonnait.",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\A che punto sei? Cinquanta? Vorrei poter dire di essere sorpreso.",
+					"de": "//[HAREBELL]\\\\//(0,2.6)\\\\Wo sind Sie jetzt? Bei 50?//(4,34)\\\\Ich wünschte, ich wäre überrascht.",
+					"es": "//[HAREBELL]\\\\//(0,1)\\\\¿Cómo vas?//(1.8,3.6)\\\\¿Al 50?//(4,5.6)\\\\Ojalá me pillara de sorpresa.",
+					"ru": "//[HAREBELL]\\\\//(0,4.3)\\\\Ну что, сколько осталось? 50 процентов?//(4.3,34.3)\\\\Неудивительно.",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\你到哪了？50？我真是一点都不惊讶。",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\剩多少了？五十？我一點也不意外。",
+					"jp": "//[HAREBELL]\\\\//(0,5.7)\\\\今どのぐらいだ？50？驚きはしないが。"
+				}
+			}
+		]
+	}
 }

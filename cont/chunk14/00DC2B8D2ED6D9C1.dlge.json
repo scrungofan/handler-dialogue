@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "00DC2B8D2ED6D9C1",
-    "DITL": "005CC166F7715F6D",
-    "CLNG": "00063B34B5153AEE",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "20000_flyin_knightandstone_stone_003",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_stone_003.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_stone_003.animset].pc_animset",
-        "languages": {
-            "en": "//[STONE]\\\\//(0,3.5)\\\\Lang is arriving shortly in the car with his daughter.//(3.5,8)\\\\Lee is en route with a helicopter and should be landing any minute.//(8,11.89146)\\\\Maison's been here all day, setting up and entertaining guests.",
-            "fr": "//[STONE]\\\\//(0,3.5)\\\\Lang ne devrait pas tarder à arriver en voiture avec sa fille.//(3.5,8)\\\\Lee va arriver d'ici quelques instants par hélicoptère.//(8,11.89146)\\\\Maison est sur place depuis ce matin, à s'occuper des préparatifs et recevoir les invités.",
-            "it": "//[STONE]\\\\//(0,3.5)\\\\Lang sta per arrivare in auto con la figlia.//(3.5,8)\\\\Lee sta arrivando in elicottero e dovrebbe atterrare a breve.//(8,11.89146)\\\\Maison è stato qui tutto il giorno a completare i preparativi e intrattenere gli ospiti.",
-            "de": "//[STONE]\\\\//(0,3.5)\\\\Lang trifft in Kürze per Auto mit seiner Tochter ein.//(3.5,8)\\\\Lee ist per Helikopter auf dem Weg und sollte jeden Moment landen.//(8,16.75872)\\\\Maison ist schon den ganzen Tag hier, und kümmert sich um den Aufbau und die Gäste.",
-            "es": "//[STONE]\\\\//(0,3.5)\\\\Lang llegará dentro de poco en coche, con su hija.//(3.5,8)\\\\Lee viene en helicóptero y debería aterrizar en cualquier momento.//(8,11.89146)\\\\Maison lleva aquí todo el día, organizando y entreteniendo a los invitados.",
-            "ru": "//[STONE]\\\\//(0,3.5)\\\\ЛЭНГ вместе с дочерью скоро прибудут на машине.//(3.5,8)\\\\Вертолет ЛИ в пути, прибывает с минуты на минуту.//(8,11.89146)\\\\МЕЗОН здесь с утра, улаживает свадебные дела и развлекает гостей.",
-            "cn": "//[STONE]\\\\//(0,3.5)\\\\朗很快就会和他女儿乘车抵达。//(3.5,8)\\\\李正在坐直升机赶来的路上，应该随时都会到。//(8,11.89146)\\\\米森一整天都呆在这里，为婚礼做准备，以及招待来宾。",
-            "tc": "//[STONE]\\\\//(0,3.5)\\\\朗和他的女兒不久後會搭車抵達。//(3.5,8)\\\\李正透過直升機前往並隨時都可能抵達。//(8,38)\\\\梅森整天都待在這裡，準備東西並娛樂客人。",
-            "jp": "//[STONE]\\\\//(0,7.806)\\\\ラングと娘は間もなく車で到着する。リーはヘリコプターで向かっていて、こっちももうすぐ到着だ。//(7.806,37.806)\\\\メゾンは1日中準備と招待客の相手をしている。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "00DC2B8D2ED6D9C1",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "20000_flyin_knightandstone_stone_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_stone_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_stone_003.animset].pc_animset",
+		"languages": {
+			"en": "//[STONE]\\\\//(0,3.5)\\\\Lang is arriving shortly in the car with his daughter.//(3.5,8)\\\\Lee is en route with a helicopter and should be landing any minute.//(8,11.89146)\\\\Maison's been here all day, setting up and entertaining guests.",
+			"fr": "//[STONE]\\\\//(0,3.5)\\\\Lang ne devrait pas tarder à arriver en voiture avec sa fille.//(3.5,8)\\\\Lee va arriver d'ici quelques instants par hélicoptère.//(8,11.89146)\\\\Maison est sur place depuis ce matin, à s'occuper des préparatifs et recevoir les invités.",
+			"it": "//[STONE]\\\\//(0,3.5)\\\\Lang sta per arrivare in auto con la figlia.//(3.5,8)\\\\Lee sta arrivando in elicottero e dovrebbe atterrare a breve.//(8,11.89146)\\\\Maison è stato qui tutto il giorno a completare i preparativi e intrattenere gli ospiti.",
+			"de": "//[STONE]\\\\//(0,3.5)\\\\Lang trifft in Kürze per Auto mit seiner Tochter ein.//(3.5,8)\\\\Lee ist per Helikopter auf dem Weg und sollte jeden Moment landen.//(8,16.75872)\\\\Maison ist schon den ganzen Tag hier, und kümmert sich um den Aufbau und die Gäste.",
+			"es": "//[STONE]\\\\//(0,3.5)\\\\Lang llegará dentro de poco en coche, con su hija.//(3.5,8)\\\\Lee viene en helicóptero y debería aterrizar en cualquier momento.//(8,11.89146)\\\\Maison lleva aquí todo el día, organizando y entreteniendo a los invitados.",
+			"ru": "//[STONE]\\\\//(0,3.5)\\\\ЛЭНГ вместе с дочерью скоро прибудут на машине.//(3.5,8)\\\\Вертолет ЛИ в пути, прибывает с минуты на минуту.//(8,11.89146)\\\\МЕЗОН здесь с утра, улаживает свадебные дела и развлекает гостей.",
+			"cn": "//[STONE]\\\\//(0,3.5)\\\\朗很快就会和他女儿乘车抵达。//(3.5,8)\\\\李正在坐直升机赶来的路上，应该随时都会到。//(8,11.89146)\\\\米森一整天都呆在这里，为婚礼做准备，以及招待来宾。",
+			"tc": "//[STONE]\\\\//(0,3.5)\\\\朗和他的女兒不久後會搭車抵達。//(3.5,8)\\\\李正透過直升機前往並隨時都可能抵達。//(8,38)\\\\梅森整天都待在這裡，準備東西並娛樂客人。",
+			"jp": "//[STONE]\\\\//(0,7.806)\\\\ラングと娘は間もなく車で到着する。リーはヘリコプターで向かっていて、こっちももうすぐ到着だ。//(7.806,37.806)\\\\メゾンは1日中準備と招待客の相手をしている。"
+		}
+	}
 }

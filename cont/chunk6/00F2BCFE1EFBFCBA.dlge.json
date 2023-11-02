@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43812_l2maincomplete.sweetdialog?/pdlc43812_l2maincomplete_azelea_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43812_l2maincomplete_azelea_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43812_l2maincomplete_azelea_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43812_l2maincomplete_azelea_001.animset].pc_animset",
-        "languages": {
-            "en": "//[AZELEA]\\\\//(0,30)\\\\Excellent, 47. Excess is what makes this dish so much more delish.",
-            "fr": "//[AZELEA]\\\\//(0,30)\\\\Excellent, 47. C'est l'excès qui rend ce plat encore meilleur.",
-            "it": "//[AZELEA]\\\\//(0,30)\\\\Eccellente, 47. È l'eccesso a rendere questo piatto così delizioso.",
-            "de": "//[AZELEA]\\\\//(0,30)\\\\Hervorragend, 47. Der Überfluss macht dieses Gericht erst richtig köstlich.",
-            "es": "//[AZELEA]\\\\//(0,30)\\\\Excelente, 47. El exceso es lo que hace de este plato una mayor delicia.",
-            "ru": "//[AZELEA]\\\\//(0,30)\\\\Превосходно, 47-й. Излишки делают это блюдо еще вкуснее.",
-            "cn": "//[AZELEA]\\\\//(0,30)\\\\太棒了，47。溢出的部分使这道菜更加美味。",
-            "tc": "//[AZELEA]\\\\//(0,30)\\\\太好了，47。食物多多益善。",
-            "jp": "//[AZELEA]\\\\//(0,30)\\\\素晴らしいぞ、47。大盛りの方が美味そうに見えるものだ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43812_l2maincomplete.sweetdialog?/pdlc43812_l2maincomplete_azelea_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43812_l2maincomplete_azelea_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43812_l2maincomplete_azelea_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43812_l2maincomplete_azelea_001.animset].pc_animset",
+		"languages": {
+			"en": "//[AZELEA]\\\\//(0,30)\\\\Excellent, 47. Excess is what makes this dish so much more delish.",
+			"fr": "//[AZELEA]\\\\//(0,30)\\\\Excellent, 47. C'est l'excès qui rend ce plat encore meilleur.",
+			"it": "//[AZELEA]\\\\//(0,30)\\\\Eccellente, 47. È l'eccesso a rendere questo piatto così delizioso.",
+			"de": "//[AZELEA]\\\\//(0,30)\\\\Hervorragend, 47. Der Überfluss macht dieses Gericht erst richtig köstlich.",
+			"es": "//[AZELEA]\\\\//(0,30)\\\\Excelente, 47. El exceso es lo que hace de este plato una mayor delicia.",
+			"ru": "//[AZELEA]\\\\//(0,30)\\\\Превосходно, 47-й. Излишки делают это блюдо еще вкуснее.",
+			"cn": "//[AZELEA]\\\\//(0,30)\\\\太棒了，47。溢出的部分使这道菜更加美味。",
+			"tc": "//[AZELEA]\\\\//(0,30)\\\\太好了，47。食物多多益善。",
+			"jp": "//[AZELEA]\\\\//(0,30)\\\\素晴らしいぞ、47。大盛りの方が美味そうに見えるものだ。"
+		}
+	}
 }

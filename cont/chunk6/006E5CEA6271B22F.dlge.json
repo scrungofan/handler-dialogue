@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_story/dr43213_diana47c.sweetdialog?/dr43213_diana47c_diana_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "dr43213_diana47c_diana_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_story/dr43213_diana47c_diana_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_story/dr43213_diana47c_diana_001.animset].pc_animset",
-        "languages": {
-            "en": "//[DIANA]\\\\//(0,30)\\\\Well, we are here. Basic training starts at 0600 hrs...",
-            "fr": "//[DIANA]\\\\//(0,30)\\\\Bref. Nous y sommes. L'entraînement commence à six heures.",
-            "it": "//[DIANA]\\\\//(0,30)\\\\Ok, eccoci qui. L'addestramento di base inizia alle sei in punto.",
-            "de": "//[DIANA]\\\\//(0,30)\\\\So, da wären wir. Die Grundausbildung beginnt um 0-600.",
-            "es": "//[DIANA]\\\\//(0,30)\\\\Bueno, ya estamos aquí. El entrenamiento básico comenzará a las 6: 00.",
-            "ru": "//[DIANA]\\\\//(0,2.1)\\\\Ну, вот мы и на месте.//(2.1,32.1)\\\\Начальный курс стартует в 06: 00.",
-            "cn": "//[DIANA]\\\\//(0,30)\\\\我们到了。基础训练早上6点开始。",
-            "tc": "//[DIANA]\\\\//(0,30)\\\\嗯，我們到了。基礎訓練會在 0600 點開始......",
-            "jp": "//[DIANA]\\\\//(0,30)\\\\さあ、ここよ。基本訓練は6時に始まるわ..."
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_story/dr43213_diana47c.sweetdialog?/dr43213_diana47c_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr43213_diana47c_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_story/dr43213_diana47c_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_story/dr43213_diana47c_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Well, we are here. Basic training starts at 0600 hrs...",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Bref. Nous y sommes. L'entraînement commence à six heures.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Ok, eccoci qui. L'addestramento di base inizia alle sei in punto.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\So, da wären wir. Die Grundausbildung beginnt um 0-600.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Bueno, ya estamos aquí. El entrenamiento básico comenzará a las 6: 00.",
+			"ru": "//[DIANA]\\\\//(0,2.1)\\\\Ну, вот мы и на месте.//(2.1,32.1)\\\\Начальный курс стартует в 06: 00.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\我们到了。基础训练早上6点开始。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\嗯，我們到了。基礎訓練會在 0600 點開始......",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\さあ、ここよ。基本訓練は6時に始まるわ..."
+		}
+	}
 }

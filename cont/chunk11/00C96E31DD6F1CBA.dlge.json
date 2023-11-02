@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32566_mp_riotwestbuildingfire_stone.sweetdialog?/ds32566_mp_riotwestbuildingfire_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32566_mp_riotwestbuildingfire_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32566_mp_riotwestbuildingfire_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32566_mp_riotwestbuildingfire_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,1.908589)\\\\Fire's growing inside the west building.//(1.908589,31.90859)\\\\If anyone's in there, they're not gonna make it.",
-            "fr": "//(0,30)\\\\Le feu se répand dans le bâtiment ouest. S'il y a quelqu'un là-bas, je ne donne pas cher de sa peau...",
-            "it": "//(0,30)\\\\Il fuoco sta montando all'interno dell'edificio ovest. Se c'è dentro qualcuno, non sopravviverà.",
-            "de": "//(0,30)\\\\Das Feuer im Westgebäude greift immer mehr um sich. Wenn jemand da drin ist, wird er das nicht überleben.",
-            "es": "//(0,30)\\\\El fuego va en aumento en el interior del pabellón oeste. Si hay alguien ahí dentro, dudo que salga con vida.",
-            "ru": "//(0,30)\\\\В западном корпусе разгорается пожар. Если там кто-то еще есть, они все погибнут.",
-            "cn": "//(0,30)\\\\西大楼内部的火势正在蔓延。里面的人必死无疑。",
-            "tc": "//(0,30)\\\\西大樓裡的火越來越大了。如果有人在裡面，他們死定了。",
-            "jp": "//(0,30)\\\\西棟で火の手が上がってる。あそこにいる人は助からないだろうな。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32566_mp_riotwestbuildingfire_stone.sweetdialog?/ds32566_mp_riotwestbuildingfire_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32566_mp_riotwestbuildingfire_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32566_mp_riotwestbuildingfire_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32566_mp_riotwestbuildingfire_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.908589)\\\\Fire's growing inside the west building.//(1.908589,31.90859)\\\\If anyone's in there, they're not gonna make it.",
+			"fr": "//(0,30)\\\\Le feu se répand dans le bâtiment ouest. S'il y a quelqu'un là-bas, je ne donne pas cher de sa peau...",
+			"it": "//(0,30)\\\\Il fuoco sta montando all'interno dell'edificio ovest. Se c'è dentro qualcuno, non sopravviverà.",
+			"de": "//(0,30)\\\\Das Feuer im Westgebäude greift immer mehr um sich. Wenn jemand da drin ist, wird er das nicht überleben.",
+			"es": "//(0,30)\\\\El fuego va en aumento en el interior del pabellón oeste. Si hay alguien ahí dentro, dudo que salga con vida.",
+			"ru": "//(0,30)\\\\В западном корпусе разгорается пожар. Если там кто-то еще есть, они все погибнут.",
+			"cn": "//(0,30)\\\\西大楼内部的火势正在蔓延。里面的人必死无疑。",
+			"tc": "//(0,30)\\\\西大樓裡的火越來越大了。如果有人在裡面，他們死定了。",
+			"jp": "//(0,30)\\\\西棟で火の手が上がってる。あそこにいる人は助からないだろうな。"
+		}
+	}
 }

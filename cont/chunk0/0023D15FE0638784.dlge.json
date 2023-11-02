@@ -1,87 +1,87 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40507_allobjctandcash_lunaria_001",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Doesn’t that make you feel good? All that blood money. All those prices. Greed is good.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Ça fait du bien, n'est-ce pas ? Le prix du sang... Tous ces prix. L'avidité est bonne.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Non è una sensazione piacevole? Tutti quei soldi sporchi di sangue. Quelle taglie. L'avidità è bellissima.",
-                    "de": "//[LUNARIA]\\\\//(0,3.05)\\\\Fühlt man sich dabei nicht gut?//(3.05,33.05)\\\\All dieses Blutgeld. All diese Preise. Gier ist gut.",
-                    "es": "//[LUNARIA]\\\\//(0,5.1)\\\\¿A que sienta bien todo ese dinero manchado de sangre?//(5.1,6.8)\\\\Todo ese botín.//(7.3,37.3)\\\\La avaricia es buena.",
-                    "ru": "//[LUNARIA]\\\\//(0,3.2)\\\\Скажи, ты чувствуешь удовольствие?//(3.2,33.2)\\\\От этих кровавых денег? От награды? Алчность прекрасна.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\这种感觉难道不好吗？所有的血钱。所有的代价。贪婪即美德。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\這樣感覺是不是很好？這些染血的錢。這些價格。貪婪真是件好事。",
-                    "jp": "//[LUNARIA]\\\\//(0,7.25)\\\\いい気分にならない？血塗られた、見返りの報酬。何にでも値段がついてる。//(7.25,37.25)\\\\欲望って素晴らしい。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40507_allobjctandcash_lunaria_002",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\You've reaped all the goodness. Well done.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous avez récolté tout le bien qu'elle pouvait vous apporter. Bien joué.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Hai ottenuto tutto quello che potevi. Ben fatto.",
-                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Sie haben all die Früchte geerntet. Gut gemacht.",
-                    "es": "//[LUNARIA]\\\\//(0,2.4)\\\\Has cosechado todo lo bueno que podía darte.//(2.7,4.6)\\\\Bien hecho.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Ты собрал свою жатву. Просто прекрасно.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\你收获了所有的美好。干得好。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\你取得了所有好東西，做得好。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\いいところを全てかき集めた。よくやった。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40507_allobjctandcash_lunaria_003",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Well done, 47. Your greed is truly disturbing. Good for you.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Beau travail, 47. Votre avidité est sans pareille... Félicitations.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Ben fatto, 47. La tua avidità è davvero preoccupante. Buon per te.",
-                    "de": "//[LUNARIA]\\\\//(0,6.2)\\\\Gut gemacht, 47. Ihre Gier ist wirklich verstörend.//(6.2,36.2)\\\\Gut für Sie.",
-                    "es": "//[LUNARIA]\\\\//(0,2.4)\\\\Bien hecho, 47.//(2.7,5.5)\\\\Tu avaricia es de lo más inquietante.//(6.3,7.9)\\\\Enhorabuena.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Отлично, 47-й. Твоя алчность даже обескураживает. Ты молодец.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\干得好，47。你的贪婪真是令人不安。真好。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\做得好，47。你的貪婪真是恐怖。很好。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\よくやった、47。呆れるほど欲張りね。いいことだ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40507_allobjctandcash_lunaria_004",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_004.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_004.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\You did it, 47. Feels good, doesn’t it? All those coins? All those rewards? Perfect to fill that dark void in your soul.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous avez réussi, 47. C'est bon, n'est-ce pas ? Toutes ces pièces, ces récompenses ? Idéal pour combler le vide de votre âme.",
-                    "it": "//[LUNARIA]\\\\//(0,2.3)\\\\Ce l'hai fatta, 47.//(2.3,6.9)\\\\Ti piacciono, eh? Tutte quelle monete? Tutte quelle ricompense?//(6.9,36.9)\\\\Perfette per riempire il vuoto profondo della tua anima.",
-                    "de": "//[LUNARIA]\\\\//(0,2.25)\\\\Sie haben es geschafft, 47.//(2.25,6.9)\\\\Fühlt sich gut an, oder? All diese Münzen? All diese Belohnungen?//(6.9,36.9)\\\\Perfekt, um die dunkle Leere in Ihrer Seele zu füllen.",
-                    "es": "//[LUNARIA]\\\\//(0,2)\\\\Lo has conseguido, 47.//(2.3,6.7)\\\\Qué bien sientan todas esas monedas, todas esas recompensas, ¿verdad?//(7,10.5)\\\\Perfectas para llenar el negro hueco de tu alma.",
-                    "ru": "//[LUNARIA]\\\\//(0,5.39)\\\\Ты сделал это, 47-й. Приятное чувство, правда? Столько монет...//(5.39,35.39)\\\\Столько наград... Лишь бы заполнить зияющую пустоту в душе.",
-                    "cn": "//[LUNARIA]\\\\//(0,4.2)\\\\你做到了，47。感觉不错，对吧？//(4.2,34.2)\\\\所有的硬币？所有的奖励？完美地填补了你内心的邪恶空虚。",
-                    "tc": "//[LUNARIA]\\\\//(0,4.3)\\\\你成功了，47。這感覺不錯吧？//(4.3,34.3)\\\\這麼多硬幣？這麼多獎勵？最適合用來填滿你空虛的靈魂了。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\やった、47。気分いいのでは？コインと報酬にまみれて。魂の空洞を満たすのにピッタリ。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40507_allobjctandcash_lunaria_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_001.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\Doesn’t that make you feel good? All that blood money. All those prices. Greed is good.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Ça fait du bien, n'est-ce pas ? Le prix du sang... Tous ces prix. L'avidité est bonne.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Non è una sensazione piacevole? Tutti quei soldi sporchi di sangue. Quelle taglie. L'avidità è bellissima.",
+					"de": "//[LUNARIA]\\\\//(0,3.05)\\\\Fühlt man sich dabei nicht gut?//(3.05,33.05)\\\\All dieses Blutgeld. All diese Preise. Gier ist gut.",
+					"es": "//[LUNARIA]\\\\//(0,5.1)\\\\¿A que sienta bien todo ese dinero manchado de sangre?//(5.1,6.8)\\\\Todo ese botín.//(7.3,37.3)\\\\La avaricia es buena.",
+					"ru": "//[LUNARIA]\\\\//(0,3.2)\\\\Скажи, ты чувствуешь удовольствие?//(3.2,33.2)\\\\От этих кровавых денег? От награды? Алчность прекрасна.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\这种感觉难道不好吗？所有的血钱。所有的代价。贪婪即美德。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\這樣感覺是不是很好？這些染血的錢。這些價格。貪婪真是件好事。",
+					"jp": "//[LUNARIA]\\\\//(0,7.25)\\\\いい気分にならない？血塗られた、見返りの報酬。何にでも値段がついてる。//(7.25,37.25)\\\\欲望って素晴らしい。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40507_allobjctandcash_lunaria_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_002.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\You've reaped all the goodness. Well done.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous avez récolté tout le bien qu'elle pouvait vous apporter. Bien joué.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Hai ottenuto tutto quello che potevi. Ben fatto.",
+					"de": "//[LUNARIA]\\\\//(0,30)\\\\Sie haben all die Früchte geerntet. Gut gemacht.",
+					"es": "//[LUNARIA]\\\\//(0,2.4)\\\\Has cosechado todo lo bueno que podía darte.//(2.7,4.6)\\\\Bien hecho.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Ты собрал свою жатву. Просто прекрасно.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\你收获了所有的美好。干得好。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\你取得了所有好東西，做得好。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\いいところを全てかき集めた。よくやった。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40507_allobjctandcash_lunaria_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_003.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\Well done, 47. Your greed is truly disturbing. Good for you.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Beau travail, 47. Votre avidité est sans pareille... Félicitations.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Ben fatto, 47. La tua avidità è davvero preoccupante. Buon per te.",
+					"de": "//[LUNARIA]\\\\//(0,6.2)\\\\Gut gemacht, 47. Ihre Gier ist wirklich verstörend.//(6.2,36.2)\\\\Gut für Sie.",
+					"es": "//[LUNARIA]\\\\//(0,2.4)\\\\Bien hecho, 47.//(2.7,5.5)\\\\Tu avaricia es de lo más inquietante.//(6.3,7.9)\\\\Enhorabuena.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Отлично, 47-й. Твоя алчность даже обескураживает. Ты молодец.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\干得好，47。你的贪婪真是令人不安。真好。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\做得好，47。你的貪婪真是恐怖。很好。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\よくやった、47。呆れるほど欲張りね。いいことだ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40507_allobjctandcash_lunaria_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40507_allobjctandcash_lunaria_004.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\You did it, 47. Feels good, doesn’t it? All those coins? All those rewards? Perfect to fill that dark void in your soul.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous avez réussi, 47. C'est bon, n'est-ce pas ? Toutes ces pièces, ces récompenses ? Idéal pour combler le vide de votre âme.",
+					"it": "//[LUNARIA]\\\\//(0,2.3)\\\\Ce l'hai fatta, 47.//(2.3,6.9)\\\\Ti piacciono, eh? Tutte quelle monete? Tutte quelle ricompense?//(6.9,36.9)\\\\Perfette per riempire il vuoto profondo della tua anima.",
+					"de": "//[LUNARIA]\\\\//(0,2.25)\\\\Sie haben es geschafft, 47.//(2.25,6.9)\\\\Fühlt sich gut an, oder? All diese Münzen? All diese Belohnungen?//(6.9,36.9)\\\\Perfekt, um die dunkle Leere in Ihrer Seele zu füllen.",
+					"es": "//[LUNARIA]\\\\//(0,2)\\\\Lo has conseguido, 47.//(2.3,6.7)\\\\Qué bien sientan todas esas monedas, todas esas recompensas, ¿verdad?//(7,10.5)\\\\Perfectas para llenar el negro hueco de tu alma.",
+					"ru": "//[LUNARIA]\\\\//(0,5.39)\\\\Ты сделал это, 47-й. Приятное чувство, правда? Столько монет...//(5.39,35.39)\\\\Столько наград... Лишь бы заполнить зияющую пустоту в душе.",
+					"cn": "//[LUNARIA]\\\\//(0,4.2)\\\\你做到了，47。感觉不错，对吧？//(4.2,34.2)\\\\所有的硬币？所有的奖励？完美地填补了你内心的邪恶空虚。",
+					"tc": "//[LUNARIA]\\\\//(0,4.3)\\\\你成功了，47。這感覺不錯吧？//(4.3,34.3)\\\\這麼多硬幣？這麼多獎勵？最適合用來填滿你空虛的靈魂了。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\やった、47。気分いいのでは？コインと報酬にまみれて。魂の空洞を満たすのにピッタリ。"
+				}
+			}
+		]
+	}
 }

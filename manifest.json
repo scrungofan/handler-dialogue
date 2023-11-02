@@ -1,10 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"id": "invalid.earpiecevoices",
 	"name": "Handler earpiece dialogue",
 	"description": "Makes all handler dialogue have a radio sound filter for added realism. No longer will Diana be speaking directly inside your head.",
 	"authors": ["invalid"],
-	"frameworkVersion": "2.33.3",
-	"contentFolders": ["cont"]
+	"frameworkVersion": "2.33.4",
+	"contentFolders": ["cont"],
+	"updateCheck": "https://github.com/scrungofan/handler-dialogue/releases/latest/download/updates.json"
 }

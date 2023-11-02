@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32598_mp_khabkoonmove_stone.sweetdialog?/ds32598_mp_khabkoonmove_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32598_mp_khabkoonmove_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32598_mp_khabkoonmove_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32598_mp_khabkoonmove_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\The big man is moving. Let's keep an eye on him.",
-            "fr": "//(0,30)\\\\L'armoire à glace est en mouvement. Il ne faut pas le quitter des yeux.",
-            "it": "//(0,30)\\\\L'omone si sta muovendo. Teniamolo d'occhio.",
-            "de": "//(0,30)\\\\Der große Kerl ist in Bewegung. Behalten wir ihn lieber im Auge.",
-            "es": "//(0,30)\\\\El grandullón se ha puesto en marcha. No lo perdamos de vista.",
-            "ru": "//(0,30)\\\\Здоровяк куда-то направился. Лучше за ним присмотреть.",
-            "cn": "//(0,30)\\\\大块头开始移动了。我们盯紧他。",
-            "tc": "//(0,30)\\\\這大塊頭開始行動了。我們持續觀察他。",
-            "jp": "//(0,30)\\\\デカブツが動き出した。見張っておこう。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32598_mp_khabkoonmove_stone.sweetdialog?/ds32598_mp_khabkoonmove_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32598_mp_khabkoonmove_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32598_mp_khabkoonmove_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32598_mp_khabkoonmove_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\The big man is moving. Let's keep an eye on him.",
+			"fr": "//(0,30)\\\\L'armoire à glace est en mouvement. Il ne faut pas le quitter des yeux.",
+			"it": "//(0,30)\\\\L'omone si sta muovendo. Teniamolo d'occhio.",
+			"de": "//(0,30)\\\\Der große Kerl ist in Bewegung. Behalten wir ihn lieber im Auge.",
+			"es": "//(0,30)\\\\El grandullón se ha puesto en marcha. No lo perdamos de vista.",
+			"ru": "//(0,30)\\\\Здоровяк куда-то направился. Лучше за ним присмотреть.",
+			"cn": "//(0,30)\\\\大块头开始移动了。我们盯紧他。",
+			"tc": "//(0,30)\\\\這大塊頭開始行動了。我們持續觀察他。",
+			"jp": "//(0,30)\\\\デカブツが動き出した。見張っておこう。"
+		}
+	}
 }

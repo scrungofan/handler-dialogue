@@ -1,144 +1,144 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41012_47standstill_harebell_001",
-                "weight": 0.14285714285714285,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\I'll make a good little snail out of you yet, 47...",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Je ferai de vous un bel escargot, 47.",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Farò di te una brava lumachina, 47...",
-                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Ich mache schon noch eine gute Schnecke aus Ihnen, 47 ...",
-                    "es": "//[HAREBELL]\\\\//(0,3.8)\\\\Aún voy a hacer de ti un buen caracol después de todo, 47...",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Я еще сделаю из тебя отличную улитку, 47-й...",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\我真想把你变成一只小蜗牛，47......",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\我會把你變成一隻乖乖的小蝸牛，47......",
-                    "jp": "//[HAREBELL]\\\\//(0,3.75)\\\\お前は良いカタツムリになりそうだな、47..."
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41012_47standstill_harebell_002",
-                "weight": 0.14285714285714285,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,0.6)\\\\See?//(1.55,31.55)\\\\There's no harm in a little self-care, 47...",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Vous voyez ? Il n'y a pas de mal à vouloir se préserver, 47...",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Vedi? Non c'è niente di male a volersi bene, 47...",
-                    "de": "//[HAREBELL]\\\\//(0,0.7)\\\\Sehen Sie?//(1.4,31.4)\\\\Es schadet nicht, auf sich selbst zu achten, 47 ...",
-                    "es": "//[HAREBELL]\\\\//(0,30)\\\\¿Ves? No hay nada malo en cuidarse un poco, 47...",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Вот видишь, 47-й, не грех иногда расслабиться...",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\你看吧？自我保护一点没错的，47......",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\你看吧？好好自我照料一下自己有什麼關係，47......",
-                    "jp": "//[HAREBELL]\\\\//(0,4.77)\\\\ほらな？セルフケアしても罰は当たらないのさ、47..."
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41012_47standstill_harebell_003",
-                "weight": 0.14285714285714285,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Ahh...",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Ahh...",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Aah...",
-                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Ahh ...",
-                    "es": "//[HAREBELL]\\\\//(0,30)\\\\Aaah...",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\О-ох.",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\啊......",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\啊......",
-                    "jp": "//[HAREBELL]\\\\//(0,1.2)\\\\ああ..."
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41012_47standstill_harebell_004",
-                "weight": 0.14285714285714285,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_004.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_004.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Maybe you are learning...",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Peut-être apprenez-vous...",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Forse cominci a imparare...",
-                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Vielleicht lernen Sie ja dazu ...",
-                    "es": "//[HAREBELL]\\\\//(0,2.8)\\\\A lo mejor ya vas aprendiendo...",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\А из тебя выйдет толк.",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\或许你终于学乖了......",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\或許你終於學乖了......",
-                    "jp": "//[HAREBELL]\\\\//(0,2.85)\\\\少しは学んでいるようだな..."
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41012_47standstill_harebell_005",
-                "weight": 0.14285714285714285,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_005.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_005.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\You could practically stay here forever...",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Vous pourriez rester ici pour toujours, finalement...",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Magari potresti rimanere qui per sempre...",
-                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Sie könnten praktisch ewig hier bleiben ...",
-                    "es": "//[HAREBELL]\\\\//(0,2.8)\\\\Prácticamente, podrías quedarte aquí toda la eternidad...",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Вообще-то, ты можешь оставаться здесь вечно...",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\你可以在这里永远待下去......",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\你簡直可以永遠待在這裡......",
-                    "jp": "//[HAREBELL]\\\\//(0,2.745)\\\\文字通り、ずっとここにいてもいいんだぞ..."
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41012_47standstill_harebell_006",
-                "weight": 0.14285714285714285,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_006.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_006.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\This is nice...",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\C'est bien...",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Che bello...",
-                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Das ist gut ...",
-                    "es": "//[HAREBELL]\\\\//(0,1.75)\\\\Eso está bien...",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Что ж, неплохо...",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\真不错......",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\這樣真不錯......",
-                    "jp": "//[HAREBELL]\\\\//(0,1.45)\\\\これはいい..."
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41012_47standstill_harebell_007",
-                "weight": 0.14285714285714285,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_007.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_007.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Take your time, they're not going anywhere.",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Prenez votre temps, personne ne va nulle part.",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Fai con calma, non andranno da nessuna parte.",
-                    "de": "//[HAREBELL]\\\\//(0,1.05)\\\\Lassen Sie sich Zeit.//(1.95,3.5)\\\\Die gehen nirgendwohin.",
-                    "es": "//[HAREBELL]\\\\//(0,3.8)\\\\Tómate tu tiempo, no se irán a ninguna parte.",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Не спеши. Они ведь никуда не денутся.",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\放轻松，他们哪也去不了。",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\慢慢來，他們哪裡也別想去。",
-                    "jp": "//[HAREBELL]\\\\//(0,3.575)\\\\慌てるな、やつらはどこへもいかない。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41012_47standstill_harebell_001",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_001.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\I'll make a good little snail out of you yet, 47...",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Je ferai de vous un bel escargot, 47.",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Farò di te una brava lumachina, 47...",
+					"de": "//[HAREBELL]\\\\//(0,30)\\\\Ich mache schon noch eine gute Schnecke aus Ihnen, 47 ...",
+					"es": "//[HAREBELL]\\\\//(0,3.8)\\\\Aún voy a hacer de ti un buen caracol después de todo, 47...",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\Я еще сделаю из тебя отличную улитку, 47-й...",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\我真想把你变成一只小蜗牛，47......",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\我會把你變成一隻乖乖的小蝸牛，47......",
+					"jp": "//[HAREBELL]\\\\//(0,3.75)\\\\お前は良いカタツムリになりそうだな、47..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41012_47standstill_harebell_002",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_002.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,0.6)\\\\See?//(1.55,31.55)\\\\There's no harm in a little self-care, 47...",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Vous voyez ? Il n'y a pas de mal à vouloir se préserver, 47...",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Vedi? Non c'è niente di male a volersi bene, 47...",
+					"de": "//[HAREBELL]\\\\//(0,0.7)\\\\Sehen Sie?//(1.4,31.4)\\\\Es schadet nicht, auf sich selbst zu achten, 47 ...",
+					"es": "//[HAREBELL]\\\\//(0,30)\\\\¿Ves? No hay nada malo en cuidarse un poco, 47...",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\Вот видишь, 47-й, не грех иногда расслабиться...",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\你看吧？自我保护一点没错的，47......",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\你看吧？好好自我照料一下自己有什麼關係，47......",
+					"jp": "//[HAREBELL]\\\\//(0,4.77)\\\\ほらな？セルフケアしても罰は当たらないのさ、47..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41012_47standstill_harebell_003",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_003.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\Ahh...",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Ahh...",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Aah...",
+					"de": "//[HAREBELL]\\\\//(0,30)\\\\Ahh ...",
+					"es": "//[HAREBELL]\\\\//(0,30)\\\\Aaah...",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\О-ох.",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\啊......",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\啊......",
+					"jp": "//[HAREBELL]\\\\//(0,1.2)\\\\ああ..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41012_47standstill_harebell_004",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_004.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\Maybe you are learning...",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Peut-être apprenez-vous...",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Forse cominci a imparare...",
+					"de": "//[HAREBELL]\\\\//(0,30)\\\\Vielleicht lernen Sie ja dazu ...",
+					"es": "//[HAREBELL]\\\\//(0,2.8)\\\\A lo mejor ya vas aprendiendo...",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\А из тебя выйдет толк.",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\或许你终于学乖了......",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\或許你終於學乖了......",
+					"jp": "//[HAREBELL]\\\\//(0,2.85)\\\\少しは学んでいるようだな..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41012_47standstill_harebell_005",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_005.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\You could practically stay here forever...",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Vous pourriez rester ici pour toujours, finalement...",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Magari potresti rimanere qui per sempre...",
+					"de": "//[HAREBELL]\\\\//(0,30)\\\\Sie könnten praktisch ewig hier bleiben ...",
+					"es": "//[HAREBELL]\\\\//(0,2.8)\\\\Prácticamente, podrías quedarte aquí toda la eternidad...",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\Вообще-то, ты можешь оставаться здесь вечно...",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\你可以在这里永远待下去......",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\你簡直可以永遠待在這裡......",
+					"jp": "//[HAREBELL]\\\\//(0,2.745)\\\\文字通り、ずっとここにいてもいいんだぞ..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41012_47standstill_harebell_006",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_006.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\This is nice...",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\C'est bien...",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Che bello...",
+					"de": "//[HAREBELL]\\\\//(0,30)\\\\Das ist gut ...",
+					"es": "//[HAREBELL]\\\\//(0,1.75)\\\\Eso está bien...",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\Что ж, неплохо...",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\真不错......",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\這樣真不錯......",
+					"jp": "//[HAREBELL]\\\\//(0,1.45)\\\\これはいい..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41012_47standstill_harebell_007",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41012_47standstill_harebell_007.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\Take your time, they're not going anywhere.",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Prenez votre temps, personne ne va nulle part.",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Fai con calma, non andranno da nessuna parte.",
+					"de": "//[HAREBELL]\\\\//(0,1.05)\\\\Lassen Sie sich Zeit.//(1.95,3.5)\\\\Die gehen nirgendwohin.",
+					"es": "//[HAREBELL]\\\\//(0,3.8)\\\\Tómate tu tiempo, no se irán a ninguna parte.",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\Не спеши. Они ведь никуда не денутся.",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\放轻松，他们哪也去不了。",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\慢慢來，他們哪裡也別想去。",
+					"jp": "//[HAREBELL]\\\\//(0,3.575)\\\\慌てるな、やつらはどこへもいかない。"
+				}
+			}
+		]
+	}
 }

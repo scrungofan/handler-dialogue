@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32051_mp_bladekilled_stone.sweetdialog?/ds32051_mp_bladekilled_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32051_mp_bladekilled_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32051_mp_bladekilled_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32051_mp_bladekilled_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Colonel Noo is eliminated. No more Blade to worry about, Knight.",
-            "fr": "//(0,30)\\\\Colonel Noo éliminé, Knight. La lame n'est plus une menace.",
-            "it": "//(0,30)\\\\Il colonnello Noo è stato eliminato. Non c'è più alcuna Lama di cui preoccuparsi, Knight.",
-            "de": "//(0,30)\\\\Oberst Noo wurde eliminiert. Keine Klinge mehr, um die man sich sorgen muss, Knight.",
-            "es": "//(0,30)\\\\Coronel Noo eliminado. Ya no tendremos que preocuparnos por la Hoja, Knight.",
-            "ru": "//(0,30)\\\\Полковник Ну устранён. О Клинке можно больше не переживать, Найт.",
-            "cn": "//(0,30)\\\\已消灭诺上校。奈特，不必再为刀锋勇士发愁了。",
-            "tc": "//(0,30)\\\\樓上校已消滅。不用再擔心刀鋒了，奈特。",
-            "jp": "//(0,30)\\\\ヌー大佐の排除成功。刃に気をもむ必要もなくなったな、ナイト。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32051_mp_bladekilled_stone.sweetdialog?/ds32051_mp_bladekilled_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32051_mp_bladekilled_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32051_mp_bladekilled_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32051_mp_bladekilled_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Colonel Noo is eliminated. No more Blade to worry about, Knight.",
+			"fr": "//(0,30)\\\\Colonel Noo éliminé, Knight. La lame n'est plus une menace.",
+			"it": "//(0,30)\\\\Il colonnello Noo è stato eliminato. Non c'è più alcuna Lama di cui preoccuparsi, Knight.",
+			"de": "//(0,30)\\\\Oberst Noo wurde eliminiert. Keine Klinge mehr, um die man sich sorgen muss, Knight.",
+			"es": "//(0,30)\\\\Coronel Noo eliminado. Ya no tendremos que preocuparnos por la Hoja, Knight.",
+			"ru": "//(0,30)\\\\Полковник Ну устранён. О Клинке можно больше не переживать, Найт.",
+			"cn": "//(0,30)\\\\已消灭诺上校。奈特，不必再为刀锋勇士发愁了。",
+			"tc": "//(0,30)\\\\樓上校已消滅。不用再擔心刀鋒了，奈特。",
+			"jp": "//(0,30)\\\\ヌー大佐の排除成功。刃に気をもむ必要もなくなったな、ナイト。"
+		}
+	}
 }

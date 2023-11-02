@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_story/dr43215_diana47e.sweetdialog?/dr43215_diana47e_diana_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "dr43215_diana47e_diana_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_story/dr43215_diana47e_diana_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_story/dr43215_diana47e_diana_001.animset].pc_animset",
-        "languages": {
-            "en": "//[DIANA]\\\\//(0,30)\\\\Perhaps I see possibility where others see limitation.",
-            "fr": "//[DIANA]\\\\//(0,30)\\\\Peut-être que là où les autres voient des limites, je vois des possibilités.",
-            "it": "//[DIANA]\\\\//(0,30)\\\\Forse vedo delle possibilità dove altri vedono dei limiti.",
-            "de": "//[DIANA]\\\\//(0,30)\\\\Vielleicht sehe ich ja Chancen, wo andere Grenzen sehen.",
-            "es": "//[DIANA]\\\\//(0,30)\\\\Tal vez donde otros vean limitaciones, yo veo posibilidades.",
-            "ru": "//[DIANA]\\\\//(0,30)\\\\Наверное, я вижу возможности там, где другие видят лишь недостатки.",
-            "cn": "//[DIANA]\\\\//(0,30)\\\\也许别人眼中的缺陷在我眼中就是潜力。",
-            "tc": "//[DIANA]\\\\//(0,30)\\\\也許別人眼中的缺憾在我眼中就是潛力。",
-            "jp": "//[DIANA]\\\\//(0,30)\\\\他が限界を感じていても、私は可能性を感じる。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/rat/43000_story/dr43215_diana47e.sweetdialog?/dr43215_diana47e_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr43215_diana47e_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/rat/43000_story/dr43215_diana47e_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/rat/43000_story/dr43215_diana47e_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Perhaps I see possibility where others see limitation.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Peut-être que là où les autres voient des limites, je vois des possibilités.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Forse vedo delle possibilità dove altri vedono dei limiti.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Vielleicht sehe ich ja Chancen, wo andere Grenzen sehen.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Tal vez donde otros vean limitaciones, yo veo posibilidades.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Наверное, я вижу возможности там, где другие видят лишь недостатки.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\也许别人眼中的缺陷在我眼中就是潜力。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\也許別人眼中的缺憾在我眼中就是潛力。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\他が限界を感じていても、私は可能性を感じる。"
+		}
+	}
 }

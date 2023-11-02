@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43723_l2reactgood.sweetdialog?/pdlc43723_l2reactgood_makoyana_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43723_l2reactgood_makoyana_001",
-        "soundtag": "Voiceover_Handler_Dream",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43723_l2reactgood_makoyana_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43723_l2reactgood_makoyana_001.animset].pc_animset",
-        "languages": {
-            "en": "//[MAKOYANA]\\\\//(0,30)\\\\Well, I'm sure that will get the job done – but without much fanfare.",
-            "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Hm, ça fera certainement le travail, oui... mais sans le moindre éclat.",
-            "it": "//[MAKOYANA]\\\\//(0,30)\\\\Beh, quello ti farà portare a termine il lavoro... senza infamia e senza lode.",
-            "de": "//[MAKOYANA]\\\\//(0,30)\\\\Nun, ich bin mir sicher, Sie schaffen das – aber ohne viel Trara.",
-            "es": "//[MAKOYANA]\\\\//(0,30)\\\\Bueno, supongo que eso servirá para completar el trabajo..., pero sin muchos alardes, la verdad.",
-            "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Что ж, это поможет тебе выполнить задание — но без особого изящества.",
-            "cn": "//[MAKOYANA]\\\\//(0,30)\\\\好吧，我相信你能完成任务，但这没什么可值得夸耀的。",
-            "tc": "//[MAKOYANA]\\\\//(0,30)\\\\嗯，我相信這樣就能完成任務，但一點也不花俏。",
-            "jp": "//[MAKOYANA]\\\\//(0,30)\\\\確かに、それでも仕事は片付くだろう。でも、見せ場はないぞ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43723_l2reactgood.sweetdialog?/pdlc43723_l2reactgood_makoyana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43723_l2reactgood_makoyana_001",
+		"soundtag": "Voiceover_Handler_Dream",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43723_l2reactgood_makoyana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43723_l2reactgood_makoyana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[MAKOYANA]\\\\//(0,30)\\\\Well, I'm sure that will get the job done – but without much fanfare.",
+			"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Hm, ça fera certainement le travail, oui... mais sans le moindre éclat.",
+			"it": "//[MAKOYANA]\\\\//(0,30)\\\\Beh, quello ti farà portare a termine il lavoro... senza infamia e senza lode.",
+			"de": "//[MAKOYANA]\\\\//(0,30)\\\\Nun, ich bin mir sicher, Sie schaffen das – aber ohne viel Trara.",
+			"es": "//[MAKOYANA]\\\\//(0,30)\\\\Bueno, supongo que eso servirá para completar el trabajo..., pero sin muchos alardes, la verdad.",
+			"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Что ж, это поможет тебе выполнить задание — но без особого изящества.",
+			"cn": "//[MAKOYANA]\\\\//(0,30)\\\\好吧，我相信你能完成任务，但这没什么可值得夸耀的。",
+			"tc": "//[MAKOYANA]\\\\//(0,30)\\\\嗯，我相信這樣就能完成任務，但一點也不花俏。",
+			"jp": "//[MAKOYANA]\\\\//(0,30)\\\\確かに、それでも仕事は片付くだろう。でも、見せ場はないぞ。"
+		}
+	}
 }

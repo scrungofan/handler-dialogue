@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc44010_47killshame_frangipani_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[FRANGIPANI]\\\\//(0,30)\\\\Target down, technically.",
-                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible abattue, techniquement.",
-                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio a terra, tecnicamente.",
-                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Technisch betrachtet.",
-                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo abatido. Técnicamente, al menos.",
-                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель уничтожена. Формально.",
-                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭。毫无亮点。",
-                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標倒下，算是吧。",
-                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲットダウン、厳密に言えばね。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc44010_47killshame_frangipani_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[FRANGIPANI]\\\\//(0,30)\\\\Target eliminated. You're not getting any style points for that, though.",
-                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible éliminée. Cependant, vous n'aurez pas les points de style.",
-                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio eliminato. Non riceverai punti stile, però.",
-                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Aber Punkte für Stil kriegen Sie dafür nicht.",
-                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo eliminado, aunque no te vas a llevar ningún punto de estilo.",
-                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель устранена. Правда, бонусных очков за стиль тебе не видать.",
-                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭。不过没有华丽度加分。",
-                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標已消滅，不過這挺難看的。",
-                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲット排除。でも、今のでは、スタイル加点はなしだね。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc44010_47killshame_frangipani_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[FRANGIPANI]\\\\//(0,30)\\\\Target down, but that was nothing to write home about.",
-                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible abattue, mais ça n'avait rien de très glorieux.",
-                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio a terra, ma non era niente di veramente degno di nota.",
-                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Aber das war nichts zum Angeben.",
-                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo abatido, pero tampoco es que vaya a pasar a la historia.",
-                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель уничтожена, но исполнение было посредственным.",
-                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭，但没什么了不起的。",
-                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標倒下，但也沒什麼了不起的。",
-                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲットダウン、でも大騒ぎするほどの出来ではなかったね。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc44010_47killshame_frangipani_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_001.animset].pc_animset",
+				"languages": {
+					"en": "//[FRANGIPANI]\\\\//(0,30)\\\\Target down, technically.",
+					"fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible abattue, techniquement.",
+					"it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio a terra, tecnicamente.",
+					"de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Technisch betrachtet.",
+					"es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo abatido. Técnicamente, al menos.",
+					"ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель уничтожена. Формально.",
+					"cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭。毫无亮点。",
+					"tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標倒下，算是吧。",
+					"jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲットダウン、厳密に言えばね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc44010_47killshame_frangipani_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_002.animset].pc_animset",
+				"languages": {
+					"en": "//[FRANGIPANI]\\\\//(0,30)\\\\Target eliminated. You're not getting any style points for that, though.",
+					"fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible éliminée. Cependant, vous n'aurez pas les points de style.",
+					"it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio eliminato. Non riceverai punti stile, però.",
+					"de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Aber Punkte für Stil kriegen Sie dafür nicht.",
+					"es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo eliminado, aunque no te vas a llevar ningún punto de estilo.",
+					"ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель устранена. Правда, бонусных очков за стиль тебе не видать.",
+					"cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭。不过没有华丽度加分。",
+					"tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標已消滅，不過這挺難看的。",
+					"jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲット排除。でも、今のでは、スタイル加点はなしだね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc44010_47killshame_frangipani_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44010_47killshame_frangipani_003.animset].pc_animset",
+				"languages": {
+					"en": "//[FRANGIPANI]\\\\//(0,30)\\\\Target down, but that was nothing to write home about.",
+					"fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Cible abattue, mais ça n'avait rien de très glorieux.",
+					"it": "//[FRANGIPANI]\\\\//(0,30)\\\\Bersaglio a terra, ma non era niente di veramente degno di nota.",
+					"de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ziel neutralisiert. Aber das war nichts zum Angeben.",
+					"es": "//[FRANGIPANI]\\\\//(0,30)\\\\Objetivo abatido, pero tampoco es que vaya a pasar a la historia.",
+					"ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Цель уничтожена, но исполнение было посредственным.",
+					"cn": "//[FRANGIPANI]\\\\//(0,30)\\\\目标已消灭，但没什么了不起的。",
+					"tc": "//[FRANGIPANI]\\\\//(0,30)\\\\目標倒下，但也沒什麼了不起的。",
+					"jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ターゲットダウン、でも大騒ぎするほどの出来ではなかったね。"
+				}
+			}
+		]
+	}
 }

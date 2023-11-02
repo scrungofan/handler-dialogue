@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41504_prep02.sweetdialog?/pdlc41504_prep02_hollyhock_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc41504_prep02_hollyhock_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41504_prep02_hollyhock_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41504_prep02_hollyhock_001.animset].pc_animset",
-        "languages": {
-            "en": "//[HOLLYHOCK]\\\\//(0,3.3)\\\\47! This is not over yet.//(3.3,33.3)\\\\Prepare for the next wave. Make them suffer!",
-            "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Ce n'est pas fini, 47 ! Préparez-vous pour la vague suivante. Faites-les souffrir !",
-            "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\47! Non è ancora finita. Preparati alla prossima ondata. Falli soffrire!",
-            "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\47! Es ist noch nicht vorbei. Machen Sie sich für die nächste Welle bereit. Lassen Sie sie leiden!",
-            "es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡47, esto aún no ha terminado! Prepárate para la próxima oleada. ¡Haz que sufran!",
-            "ru": "//[HOLLYHOCK]\\\\//(0,3.45)\\\\47-й, ничего еще не закончилось!//(3.45,33.45)\\\\Готовься к следующей волне! Сделай им больно.",
-            "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\47！事情还没有结束。准备面对下一波。让他们生不如死！",
-            "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\47！還沒結束呢，為下一波做準備。讓他們體驗一下痛苦的滋味！",
-            "jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\47！まだ終わりじゃないわ。次の波に備えて。苦しめてやるのよ！"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41504_prep02.sweetdialog?/pdlc41504_prep02_hollyhock_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc41504_prep02_hollyhock_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41504_prep02_hollyhock_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41504_prep02_hollyhock_001.animset].pc_animset",
+		"languages": {
+			"en": "//[HOLLYHOCK]\\\\//(0,3.3)\\\\47! This is not over yet.//(3.3,33.3)\\\\Prepare for the next wave. Make them suffer!",
+			"fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Ce n'est pas fini, 47 ! Préparez-vous pour la vague suivante. Faites-les souffrir !",
+			"it": "//[HOLLYHOCK]\\\\//(0,30)\\\\47! Non è ancora finita. Preparati alla prossima ondata. Falli soffrire!",
+			"de": "//[HOLLYHOCK]\\\\//(0,30)\\\\47! Es ist noch nicht vorbei. Machen Sie sich für die nächste Welle bereit. Lassen Sie sie leiden!",
+			"es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡47, esto aún no ha terminado! Prepárate para la próxima oleada. ¡Haz que sufran!",
+			"ru": "//[HOLLYHOCK]\\\\//(0,3.45)\\\\47-й, ничего еще не закончилось!//(3.45,33.45)\\\\Готовься к следующей волне! Сделай им больно.",
+			"cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\47！事情还没有结束。准备面对下一波。让他们生不如死！",
+			"tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\47！還沒結束呢，為下一波做準備。讓他們體驗一下痛苦的滋味！",
+			"jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\47！まだ終わりじゃないわ。次の波に備えて。苦しめてやるのよ！"
+		}
+	}
 }

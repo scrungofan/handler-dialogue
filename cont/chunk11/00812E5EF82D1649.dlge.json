@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32596_mp_khabkosick_stone.sweetdialog?/ds32596_mp_khabkosick_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32596_mp_khabkosick_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32596_mp_khabkosick_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32596_mp_khabkosick_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Looks like the prison food isn't entirely agreeing with Khabko's stomach...",
-            "fr": "//(0,30)\\\\On dirait que l'estomac de Khabko ne supporte pas la nourriture de la prison.",
-            "it": "//(0,30)\\\\A quanto pare il cibo della prigione non è proprio l'ideale per lo stomaco di Khabko...",
-            "de": "//(0,30)\\\\Sieht aus, als wäre Khabko das Knastessen auf den Magen geschlagen ...",
-            "es": "//(0,30)\\\\Parece que la comida de la prisión no le está sentando muy bien a Khabko...",
-            "ru": "//(0,30)\\\\Кажется, желудок Хабко не слишком-то хорошо переваривает тюремный рацион...",
-            "cn": "//(0,30)\\\\看来监狱里的饭菜并不合卡布科的胃口......",
-            "tc": "//(0,30)\\\\看起來監獄食物不太合卡伯克的胃口......",
-            "jp": "//(0,30)\\\\刑務所の食事はカブコの胃には合わなかったようだな..."
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32596_mp_khabkosick_stone.sweetdialog?/ds32596_mp_khabkosick_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32596_mp_khabkosick_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32596_mp_khabkosick_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32596_mp_khabkosick_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Looks like the prison food isn't entirely agreeing with Khabko's stomach...",
+			"fr": "//(0,30)\\\\On dirait que l'estomac de Khabko ne supporte pas la nourriture de la prison.",
+			"it": "//(0,30)\\\\A quanto pare il cibo della prigione non è proprio l'ideale per lo stomaco di Khabko...",
+			"de": "//(0,30)\\\\Sieht aus, als wäre Khabko das Knastessen auf den Magen geschlagen ...",
+			"es": "//(0,30)\\\\Parece que la comida de la prisión no le está sentando muy bien a Khabko...",
+			"ru": "//(0,30)\\\\Кажется, желудок Хабко не слишком-то хорошо переваривает тюремный рацион...",
+			"cn": "//(0,30)\\\\看来监狱里的饭菜并不合卡布科的胃口......",
+			"tc": "//(0,30)\\\\看起來監獄食物不太合卡伯克的胃口......",
+			"jp": "//(0,30)\\\\刑務所の食事はカブコの胃には合わなかったようだな..."
+		}
+	}
 }

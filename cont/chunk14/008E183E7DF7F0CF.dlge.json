@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "008E183E7DF7F0CF",
-    "DITL": "005CC166F7715F6D",
-    "CLNG": "00063B34B5153AEE",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "dr20113_mp_leeescaped_stone_stone_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_001.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Damn, we lost Doris Lee. She got away. Mission over, Knight.",
-                    "fr": "//(0,30)\\\\Merde, on a perdu Doris Lee. Elle est s'enfuie. C'est fini, Knight.",
-                    "it": "//(0,30)\\\\Maledizione, abbiamo perso Doris Lee. Se n'è andata. Missione fallita, Knight.",
-                    "de": "//(0,30)\\\\Mist! Doris Lee ist entwischt. Sie hat sich aus dem Staub gemacht. Die Mission ist vorbei, Knight.",
-                    "es": "//(0,30)\\\\Mierda, hemos perdido a Doris Lee. Ha huido. Se acabó la misión, Knight.",
-                    "ru": "//(0,30)\\\\Дьявол, мы упустили ДОРИС ЛИ. Она ушла. Задание окончено, Найт.",
-                    "cn": "//(0,30)\\\\可恶，朵丽丝·李不见踪影了。她逃走了。任务结束了，奈特。",
-                    "tc": "//(0,30)\\\\該死，追丟了朵麗絲．李。她跑了。任務結束了，奈特。",
-                    "jp": "//(0,30)\\\\畜生、ドリス・リーに逃げられた。任務失敗だ、ナイト。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20113_mp_leeescaped_stone_stone_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_002.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Doris Lee managed to escape. Mission is over.",
-                    "fr": "//(0,30)\\\\Doris Lee a réussi à quitter les lieux. La mission est terminée.",
-                    "it": "//(0,30)\\\\Doris Lee è riuscita a scappare. La missione è finita.",
-                    "de": "//(0,30)\\\\Doris Lee konnte entkommen. Die Mission ist vorbei.",
-                    "es": "//(0,30)\\\\Doris Lee ha logrado escapar. Se acabó la misión.",
-                    "ru": "//(0,30)\\\\ДОРИС ЛИ удалось скрыться. Задание окончено.",
-                    "cn": "//(0,30)\\\\朵丽丝·李设法逃走了。任务结束。",
-                    "tc": "//(0,30)\\\\朵麗絲．李逃脫了。任務結束了。",
-                    "jp": "//(0,30)\\\\ドリス・リーが逃げたぞ。任務失敗だ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20113_mp_leeescaped_stone_stone_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_003.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\The mission’s a failure, Knight. Doris Lee slipped away.",
-                    "fr": "//(0,30)\\\\On a échoué, Knight. Doris Lee nous a filé entre doigts.",
-                    "it": "//(0,30)\\\\La missione è un fallimento, Knight. Doris Lee se l'è svignata.",
-                    "de": "//(0,30)\\\\Die Mission ist gescheitert, Knight. Doris Lee ist uns entschlüpft.",
-                    "es": "//(0,30)\\\\La misión ha sido un fracaso, Knight. Hemos perdido a Doris Lee.",
-                    "ru": "//(0,30)\\\\Задание провалено, Найт. ДОРИС ЛИ скрылась.",
-                    "cn": "//(0,30)\\\\任务失败，奈特。朵丽丝·李溜走了。",
-                    "tc": "//(0,30)\\\\任務失敗了，奈特。朵麗絲．李逃了。",
-                    "jp": "//(0,30)\\\\任務失敗だ、ナイト。ドリス・リーに逃げられた。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "008E183E7DF7F0CF",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20113_mp_leeescaped_stone_stone_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Damn, we lost Doris Lee. She got away. Mission over, Knight.",
+					"fr": "//(0,30)\\\\Merde, on a perdu Doris Lee. Elle est s'enfuie. C'est fini, Knight.",
+					"it": "//(0,30)\\\\Maledizione, abbiamo perso Doris Lee. Se n'è andata. Missione fallita, Knight.",
+					"de": "//(0,30)\\\\Mist! Doris Lee ist entwischt. Sie hat sich aus dem Staub gemacht. Die Mission ist vorbei, Knight.",
+					"es": "//(0,30)\\\\Mierda, hemos perdido a Doris Lee. Ha huido. Se acabó la misión, Knight.",
+					"ru": "//(0,30)\\\\Дьявол, мы упустили ДОРИС ЛИ. Она ушла. Задание окончено, Найт.",
+					"cn": "//(0,30)\\\\可恶，朵丽丝·李不见踪影了。她逃走了。任务结束了，奈特。",
+					"tc": "//(0,30)\\\\該死，追丟了朵麗絲．李。她跑了。任務結束了，奈特。",
+					"jp": "//(0,30)\\\\畜生、ドリス・リーに逃げられた。任務失敗だ、ナイト。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20113_mp_leeescaped_stone_stone_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Doris Lee managed to escape. Mission is over.",
+					"fr": "//(0,30)\\\\Doris Lee a réussi à quitter les lieux. La mission est terminée.",
+					"it": "//(0,30)\\\\Doris Lee è riuscita a scappare. La missione è finita.",
+					"de": "//(0,30)\\\\Doris Lee konnte entkommen. Die Mission ist vorbei.",
+					"es": "//(0,30)\\\\Doris Lee ha logrado escapar. Se acabó la misión.",
+					"ru": "//(0,30)\\\\ДОРИС ЛИ удалось скрыться. Задание окончено.",
+					"cn": "//(0,30)\\\\朵丽丝·李设法逃走了。任务结束。",
+					"tc": "//(0,30)\\\\朵麗絲．李逃脫了。任務結束了。",
+					"jp": "//(0,30)\\\\ドリス・リーが逃げたぞ。任務失敗だ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20113_mp_leeescaped_stone_stone_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20113_mp_leeescaped_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The mission’s a failure, Knight. Doris Lee slipped away.",
+					"fr": "//(0,30)\\\\On a échoué, Knight. Doris Lee nous a filé entre doigts.",
+					"it": "//(0,30)\\\\La missione è un fallimento, Knight. Doris Lee se l'è svignata.",
+					"de": "//(0,30)\\\\Die Mission ist gescheitert, Knight. Doris Lee ist uns entschlüpft.",
+					"es": "//(0,30)\\\\La misión ha sido un fracaso, Knight. Hemos perdido a Doris Lee.",
+					"ru": "//(0,30)\\\\Задание провалено, Найт. ДОРИС ЛИ скрылась.",
+					"cn": "//(0,30)\\\\任务失败，奈特。朵丽丝·李溜走了。",
+					"tc": "//(0,30)\\\\任務失敗了，奈特。朵麗絲．李逃了。",
+					"jp": "//(0,30)\\\\任務失敗だ、ナイト。ドリス・リーに逃げられた。"
+				}
+			}
+		]
+	}
 }

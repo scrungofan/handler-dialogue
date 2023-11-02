@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43709_killanyway.sweetdialog?/pdlc43709_killanyway_makoyana_002.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43709_killanyway_makoyana_002",
-        "soundtag": "Voiceover_Handler_Dream",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43709_killanyway_makoyana_002.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43709_killanyway_makoyana_002.animset].pc_animset",
-        "languages": {
-            "en": "//[MAKOYANA]\\\\//(0,30)\\\\Have you had your fun? Can we get back to business?",
-            "fr": "//[MAKOYANA]\\\\//(0,30)\\\\C'est bon, vous vous êtes bien amusé ? On peut reprendre ?",
-            "it": "//[MAKOYANA]\\\\//(0,30)\\\\Ti sei divertito? Ora possiamo rimetterci al lavoro?",
-            "de": "//[MAKOYANA]\\\\//(0,30)\\\\Hatten Sie Ihren Spaß? Können wir jetzt zum Geschäft zurück?",
-            "es": "//[MAKOYANA]\\\\//(0,30)\\\\¿Ya te has divertido? ¿Podemos volver al trabajo?",
-            "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ну что, развлекся? Может, вернемся к делу?",
-            "cn": "//[MAKOYANA]\\\\//(0,30)\\\\你玩得开心吗？我们能干正事了吗？",
-            "tc": "//[MAKOYANA]\\\\//(0,30)\\\\你玩得還開心嗎？我們能回到正事了嗎？",
-            "jp": "//[MAKOYANA]\\\\//(0,30)\\\\気が済んだか？仕事に戻れ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43709_killanyway.sweetdialog?/pdlc43709_killanyway_makoyana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43709_killanyway_makoyana_002",
+		"soundtag": "Voiceover_Handler_Dream",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43709_killanyway_makoyana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43709_killanyway_makoyana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[MAKOYANA]\\\\//(0,30)\\\\Have you had your fun? Can we get back to business?",
+			"fr": "//[MAKOYANA]\\\\//(0,30)\\\\C'est bon, vous vous êtes bien amusé ? On peut reprendre ?",
+			"it": "//[MAKOYANA]\\\\//(0,30)\\\\Ti sei divertito? Ora possiamo rimetterci al lavoro?",
+			"de": "//[MAKOYANA]\\\\//(0,30)\\\\Hatten Sie Ihren Spaß? Können wir jetzt zum Geschäft zurück?",
+			"es": "//[MAKOYANA]\\\\//(0,30)\\\\¿Ya te has divertido? ¿Podemos volver al trabajo?",
+			"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ну что, развлекся? Может, вернемся к делу?",
+			"cn": "//[MAKOYANA]\\\\//(0,30)\\\\你玩得开心吗？我们能干正事了吗？",
+			"tc": "//[MAKOYANA]\\\\//(0,30)\\\\你玩得還開心嗎？我們能回到正事了嗎？",
+			"jp": "//[MAKOYANA]\\\\//(0,30)\\\\気が済んだか？仕事に戻れ。"
+		}
+	}
 }

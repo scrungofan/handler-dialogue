@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32600_sp_reznikovpilotmeetstone.sweetdialog?/ds32600_sp_reznikovpilotmeetstone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32600_sp_reznikovpilotmeetstone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32600_sp_reznikovpilotmeetstone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32600_sp_reznikovpilotmeetstone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Warden Reznikov is talking to the pilot. I think they're getting ready to leave soon.",
-            "fr": "//(0,30)\\\\Reznikov est en train de parler au pilote. Je crois qu'ils se préparent à décoller le plus vite possible.",
-            "it": "//(0,30)\\\\Il direttore Reznikov sta parlando con il pilota. Credo che si stiano preparando per partire.",
-            "de": "//(0,30)\\\\Gefängnisdirektor Reznikov spricht mit dem Piloten. Ich glaube, sie machen sich bereit, das Gefängnis zu verlassen.",
-            "es": "//(0,30)\\\\El alcaide Reznikov está hablando con el piloto. Creo que se están preparando para despegar pronto.",
-            "ru": "//(0,30)\\\\Начальник тюрьмы Резников беседует о чем-то с пилотом. Кажется, они собираются улетать.",
-            "cn": "//(0,30)\\\\监狱长列兹尼科夫正在和飞行员说话。我感觉他们很快就要准备离开了。",
-            "tc": "//(0,30)\\\\典獄長雷茲尼克瓦正在和駕駛員說話。我看他們準備要離開了。",
-            "jp": "//(0,30)\\\\レズニコフ所長がパイロットと話してる。逃げる準備をしてるんだろう。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32600_sp_reznikovpilotmeetstone.sweetdialog?/ds32600_sp_reznikovpilotmeetstone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32600_sp_reznikovpilotmeetstone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32600_sp_reznikovpilotmeetstone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32600_sp_reznikovpilotmeetstone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Warden Reznikov is talking to the pilot. I think they're getting ready to leave soon.",
+			"fr": "//(0,30)\\\\Reznikov est en train de parler au pilote. Je crois qu'ils se préparent à décoller le plus vite possible.",
+			"it": "//(0,30)\\\\Il direttore Reznikov sta parlando con il pilota. Credo che si stiano preparando per partire.",
+			"de": "//(0,30)\\\\Gefängnisdirektor Reznikov spricht mit dem Piloten. Ich glaube, sie machen sich bereit, das Gefängnis zu verlassen.",
+			"es": "//(0,30)\\\\El alcaide Reznikov está hablando con el piloto. Creo que se están preparando para despegar pronto.",
+			"ru": "//(0,30)\\\\Начальник тюрьмы Резников беседует о чем-то с пилотом. Кажется, они собираются улетать.",
+			"cn": "//(0,30)\\\\监狱长列兹尼科夫正在和飞行员说话。我感觉他们很快就要准备离开了。",
+			"tc": "//(0,30)\\\\典獄長雷茲尼克瓦正在和駕駛員說話。我看他們準備要離開了。",
+			"jp": "//(0,30)\\\\レズニコフ所長がパイロットと話してる。逃げる準備をしてるんだろう。"
+		}
+	}
 }

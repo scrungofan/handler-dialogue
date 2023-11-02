@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/edgy/fox/42000_story/dr42002_fox_exitmoment.sweetdialog?/dr42002_fox_exitmoment_47_005.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "dr42002_fox_exitmoment_47_005",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/edgy/fox/42000_story/dr42002_fox_exitmoment_47_005.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/edgy/fox/42000_story/dr42002_fox_exitmoment_47_005.animset].pc_animset",
-        "languages": {
-            "en": "//[47]\\\\//(0,30)\\\\On my way.",
-            "fr": "//[47]\\\\//(0,30)\\\\J'arrive.",
-            "it": "//[47]\\\\//(0,30)\\\\Arrivo.",
-            "de": "//[47]\\\\//(0,30)\\\\Bin unterwegs.",
-            "es": "//[47]\\\\//(0,30)\\\\Voy para allá.",
-            "ru": "//[47]\\\\//(0,30)\\\\Уже иду.",
-            "cn": "//[47]\\\\//(0,30)\\\\我这就来。",
-            "tc": "//[47]\\\\//(0,30)\\\\我現在過去。",
-            "jp": "//[47]\\\\//(0,30)\\\\これから向かう。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/edgy/fox/42000_story/dr42002_fox_exitmoment.sweetdialog?/dr42002_fox_exitmoment_47_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr42002_fox_exitmoment_47_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/edgy/fox/42000_story/dr42002_fox_exitmoment_47_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/edgy/fox/42000_story/dr42002_fox_exitmoment_47_005.animset].pc_animset",
+		"languages": {
+			"en": "//[47]\\\\//(0,30)\\\\On my way.",
+			"fr": "//[47]\\\\//(0,30)\\\\J'arrive.",
+			"it": "//[47]\\\\//(0,30)\\\\Arrivo.",
+			"de": "//[47]\\\\//(0,30)\\\\Bin unterwegs.",
+			"es": "//[47]\\\\//(0,30)\\\\Voy para allá.",
+			"ru": "//[47]\\\\//(0,30)\\\\Уже иду.",
+			"cn": "//[47]\\\\//(0,30)\\\\我这就来。",
+			"tc": "//[47]\\\\//(0,30)\\\\我現在過去。",
+			"jp": "//[47]\\\\//(0,30)\\\\これから向かう。"
+		}
+	}
 }

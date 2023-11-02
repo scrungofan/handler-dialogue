@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32593_mp_foodpoisoned_knight.sweetdialog?/ds32593_mp_foodpoisoned_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32593_mp_foodpoisoned_knight_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32593_mp_foodpoisoned_knight_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32593_mp_foodpoisoned_knight_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\That's certainly going to spice up Khabko's meal...",
-            "fr": "//(0,30)\\\\Voilà qui devrait donner un peu de goût au repas de Khabko...",
-            "it": "//(0,30)\\\\Darà certamente un tocco in più al cibo di Khabko...",
-            "de": "//(0,30)\\\\Das dürfte Khabkos Essen eine ganz neue Schärfe verleihen ...",
-            "es": "//(0,30)\\\\Esto le va a dar un poco más de sabor a la comida de Khabko.",
-            "ru": "//(0,30)\\\\Это наверняка придаст трапезе Хабко остроты...",
-            "cn": "//(0,30)\\\\这样就给卡布科的饭菜里加了点“猛料”......",
-            "tc": "//(0,30)\\\\這樣幫卡伯克的餐點加點料......",
-            "jp": "//(0,30)\\\\これでカブコの食事に隠し味が入った..."
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32593_mp_foodpoisoned_knight.sweetdialog?/ds32593_mp_foodpoisoned_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32593_mp_foodpoisoned_knight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32593_mp_foodpoisoned_knight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32593_mp_foodpoisoned_knight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That's certainly going to spice up Khabko's meal...",
+			"fr": "//(0,30)\\\\Voilà qui devrait donner un peu de goût au repas de Khabko...",
+			"it": "//(0,30)\\\\Darà certamente un tocco in più al cibo di Khabko...",
+			"de": "//(0,30)\\\\Das dürfte Khabkos Essen eine ganz neue Schärfe verleihen ...",
+			"es": "//(0,30)\\\\Esto le va a dar un poco más de sabor a la comida de Khabko.",
+			"ru": "//(0,30)\\\\Это наверняка придаст трапезе Хабко остроты...",
+			"cn": "//(0,30)\\\\这样就给卡布科的饭菜里加了点“猛料”......",
+			"tc": "//(0,30)\\\\這樣幫卡伯克的餐點加點料......",
+			"jp": "//(0,30)\\\\これでカブコの食事に隠し味が入った..."
+		}
+	}
 }

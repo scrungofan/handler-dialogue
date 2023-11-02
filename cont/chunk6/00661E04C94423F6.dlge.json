@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43723_l2reactgood.sweetdialog?/pdlc43723_l2reactgood_makoyana_002.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43723_l2reactgood_makoyana_002",
-        "soundtag": "Voiceover_Handler_Dream",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43723_l2reactgood_makoyana_002.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43723_l2reactgood_makoyana_002.animset].pc_animset",
-        "languages": {
-            "en": "//[MAKOYANA]\\\\//(0,4.8)\\\\Once again you take the easy and obvious choice, 47.//(4.8,34.8)\\\\Where is your sense of pride?",
-            "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Vous choisissez encore une fois l'évidente facilité, 47. Avez-vous donc perdu toute fierté ?",
-            "it": "//[MAKOYANA]\\\\//(0,30)\\\\Hai di nuovo scelto la via più semplice e più ovvia, 47. Dov'è il tuo senso dell'orgoglio?",
-            "de": "//[MAKOYANA]\\\\//(0,4.033)\\\\Wieder nehmen Sie die leichte, offensichtliche Wahl, 47.//(4.828,34.828)\\\\Wo ist denn Ihr Stolz?",
-            "es": "//[MAKOYANA]\\\\//(0,4.3)\\\\Una vez más, 47 ha optado por la opción más sencilla y evidente.//(5,35)\\\\¿Es que no tienes orgullo?",
-            "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ты опять принимаешь простое и очевидное решение, 47-й. Где твоя гордость?",
-            "cn": "//[MAKOYANA]\\\\//(0,30)\\\\你又一次选择了轻松和平淡，47。你的尊严呢？",
-            "tc": "//[MAKOYANA]\\\\//(0,30)\\\\你又選擇了簡單、明顯的道路，47。你難道一點驕傲感也沒有？",
-            "jp": "//[MAKOYANA]\\\\//(0,30)\\\\また楽な方を選んだのか、47。プライドはどこに行った？"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43723_l2reactgood.sweetdialog?/pdlc43723_l2reactgood_makoyana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43723_l2reactgood_makoyana_002",
+		"soundtag": "Voiceover_Handler_Dream",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43723_l2reactgood_makoyana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43723_l2reactgood_makoyana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[MAKOYANA]\\\\//(0,4.8)\\\\Once again you take the easy and obvious choice, 47.//(4.8,34.8)\\\\Where is your sense of pride?",
+			"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Vous choisissez encore une fois l'évidente facilité, 47. Avez-vous donc perdu toute fierté ?",
+			"it": "//[MAKOYANA]\\\\//(0,30)\\\\Hai di nuovo scelto la via più semplice e più ovvia, 47. Dov'è il tuo senso dell'orgoglio?",
+			"de": "//[MAKOYANA]\\\\//(0,4.033)\\\\Wieder nehmen Sie die leichte, offensichtliche Wahl, 47.//(4.828,34.828)\\\\Wo ist denn Ihr Stolz?",
+			"es": "//[MAKOYANA]\\\\//(0,4.3)\\\\Una vez más, 47 ha optado por la opción más sencilla y evidente.//(5,35)\\\\¿Es que no tienes orgullo?",
+			"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ты опять принимаешь простое и очевидное решение, 47-й. Где твоя гордость?",
+			"cn": "//[MAKOYANA]\\\\//(0,30)\\\\你又一次选择了轻松和平淡，47。你的尊严呢？",
+			"tc": "//[MAKOYANA]\\\\//(0,30)\\\\你又選擇了簡單、明顯的道路，47。你難道一點驕傲感也沒有？",
+			"jp": "//[MAKOYANA]\\\\//(0,30)\\\\また楽な方を選んだのか、47。プライドはどこに行った？"
+		}
+	}
 }

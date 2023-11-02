@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43712_peacockintro.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43712_peacockintro_makoyana_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,6.05)\\\\The majestic Peacock. Proud and beautiful.//(6.05,36.05)\\\\It brings gifts, but don't be tempted to choose the obvious.",
-                    "fr": "//[MAKOYANA]\\\\//(0,5.9)\\\\Le Paon, dans toute sa majesté. Fier et beau.//(5.9,35.9)\\\\Il est généreux, mais évitez le choix évident.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Il maestoso Pavone. Fiero e bellissimo. Porta doni, ma non farti tentare dalla scelta più ovvia.",
-                    "de": "//[MAKOYANA]\\\\//(0,5.396)\\\\Der majestätische Pfau. Stolz und schön.//(5.396,35.396)\\\\Er bringt Gaben, doch lassen Sie sich nicht dazu verführen, das Offensichtliche zu wählen.",
-                    "es": "//[MAKOYANA]\\\\//(0,5.5)\\\\El majestuoso Pavo Real, tan orgulloso como hermoso.//(6,36)\\\\Trae regalos consigo, pero no caigas en la tentación de coger lo evidente.",
-                    "ru": "//[MAKOYANA]\\\\//(0,6.15)\\\\Великолепный Павлин. Горделивый и прекрасный.//(6.15,36.15)\\\\Он подносит дары, но не искушайся очевидным.",
-                    "cn": "//[MAKOYANA]\\\\//(0,5.966)\\\\漂亮的孔雀。骄傲且美丽。//(5.966,35.966)\\\\它带来了礼物，但别一时冲动选最明显的。",
-                    "tc": "//[MAKOYANA]\\\\//(0,6)\\\\美麗的孔雀，既驕傲又漂亮。//(6,36)\\\\牠帶來了禮物，但別選擇明顯最好的選項。",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\偉大なるピーコック。誇り高く美しい。贈り物をもたらしてくれるが、見た目で選ぶなよ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43712_peacockintro_makoyana_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,4.8)\\\\Look at that! The majestic Peacock.//(4.8,34.8)\\\\It bears tempting gifts. Don't fall for the soft option.",
-                    "fr": "//[MAKOYANA]\\\\//(0,4.6)\\\\Regardez ! Le Paon, si majestueux...//(4.6,8.65)\\\\Ses cadeaux sont tentants.//(8.65,38.65)\\\\Ne cédez pas à la facilité.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Guarda un po'! Il maestoso Pavone. Porta con sé dei doni molto allettanti, ma non scegliere l'opzione più facile.",
-                    "de": "//[MAKOYANA]\\\\//(0,4.352)\\\\Sieh sich das einer an! Der majestätische Pfau.//(4.352,34.352)\\\\Er hat verführerische Gaben. Fallen Sie nicht auf die sanfte Option herein.",
-                    "es": "//[MAKOYANA]\\\\//(0,1.5)\\\\¡Fíjate!//(2,7.5)\\\\Es el majestuoso Pavo Real y trae regalos muy atractivos.//(8.7,38.7)\\\\No caigas en la opción más fácil.",
-                    "ru": "//[MAKOYANA]\\\\//(0,4.335)\\\\Посмотри на это! Великолепный Павлин.//(4.335,34.335)\\\\Он принес тебе дары. Однако остерегайся легких путей.",
-                    "cn": "//[MAKOYANA]\\\\//(0,4.74)\\\\看那个！漂亮的孔雀。//(4.74,34.74)\\\\它带来了诱人的礼物。别选最容易的。",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\你看！是美麗的孔雀。牠帶來了誘人的禮物。別選簡單的選項。",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\見ろ！偉大なるピーコックだ。魅惑的な贈り物を持っている。慎重に選べよ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43712_peacockintro_makoyana_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,6.8)\\\\Oh, the beautiful Peacock... and with gifts.//(6.8,36.8)\\\\Now, 47. You must resist temptation – it wants to make a fool of you.",
-                    "fr": "//[MAKOYANA]\\\\//(0,6.8)\\\\Oh, le superbe Paon... et avec des cadeaux.//(6.8,36.8)\\\\Maintenant, 47, vous devez résister à la tentation. Il veut se moquer de vous.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Oh, il bellissimo Pavone... che porta regali. Ora, 47, devi resistere alla tentazione... vuole prendersi gioco di te.",
-                    "de": "//[MAKOYANA]\\\\//(0,6.172)\\\\Oh, der wunderschöne Pfau ... und er hat Gaben dabei.//(6.172,36.172)\\\\Also, 47. Jetzt müssen Sie der Verführung widerstehen: Er will Sie zum Narren halten.",
-                    "es": "//[MAKOYANA]\\\\//(0,5.9)\\\\Anda, el hermoso Pavo Real... ¡y trae regalos!//(7,13.2)\\\\Vale, 47, debes resistir la tentación...//(14.2,44.2)\\\\Quiere burlarse de ti...",
-                    "ru": "//[MAKOYANA]\\\\//(0,7.2)\\\\О, великолепный Павлин... А при нем дары.//(7.2,37.2)\\\\Будь осторожен, 47-й. Остерегайся искушения: он хочет одурачить тебя.",
-                    "cn": "//[MAKOYANA]\\\\//(0,6.838)\\\\噢，美丽的孔雀......带着礼物。//(6.838,36.838)\\\\现在，47。你必须抵制诱惑，它想戏弄你。",
-                    "tc": "//[MAKOYANA]\\\\//(0,6.8)\\\\噢，美麗的孔雀......還帶來了禮物。//(6.8,36.8)\\\\現在 47，你必須抗拒誘惑，牠想要耍你。",
-                    "jp": "//[MAKOYANA]\\\\//(0,6.9)\\\\ああ、美しきピーコック... 贈り物を持っている。//(6.9,36.9)\\\\さあ、47。誘惑に負けるなよ。恥をかくことになるぞ。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43712_peacockintro.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43712_peacockintro_makoyana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,6.05)\\\\The majestic Peacock. Proud and beautiful.//(6.05,36.05)\\\\It brings gifts, but don't be tempted to choose the obvious.",
+					"fr": "//[MAKOYANA]\\\\//(0,5.9)\\\\Le Paon, dans toute sa majesté. Fier et beau.//(5.9,35.9)\\\\Il est généreux, mais évitez le choix évident.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Il maestoso Pavone. Fiero e bellissimo. Porta doni, ma non farti tentare dalla scelta più ovvia.",
+					"de": "//[MAKOYANA]\\\\//(0,5.396)\\\\Der majestätische Pfau. Stolz und schön.//(5.396,35.396)\\\\Er bringt Gaben, doch lassen Sie sich nicht dazu verführen, das Offensichtliche zu wählen.",
+					"es": "//[MAKOYANA]\\\\//(0,5.5)\\\\El majestuoso Pavo Real, tan orgulloso como hermoso.//(6,36)\\\\Trae regalos consigo, pero no caigas en la tentación de coger lo evidente.",
+					"ru": "//[MAKOYANA]\\\\//(0,6.15)\\\\Великолепный Павлин. Горделивый и прекрасный.//(6.15,36.15)\\\\Он подносит дары, но не искушайся очевидным.",
+					"cn": "//[MAKOYANA]\\\\//(0,5.966)\\\\漂亮的孔雀。骄傲且美丽。//(5.966,35.966)\\\\它带来了礼物，但别一时冲动选最明显的。",
+					"tc": "//[MAKOYANA]\\\\//(0,6)\\\\美麗的孔雀，既驕傲又漂亮。//(6,36)\\\\牠帶來了禮物，但別選擇明顯最好的選項。",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\偉大なるピーコック。誇り高く美しい。贈り物をもたらしてくれるが、見た目で選ぶなよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43712_peacockintro_makoyana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,4.8)\\\\Look at that! The majestic Peacock.//(4.8,34.8)\\\\It bears tempting gifts. Don't fall for the soft option.",
+					"fr": "//[MAKOYANA]\\\\//(0,4.6)\\\\Regardez ! Le Paon, si majestueux...//(4.6,8.65)\\\\Ses cadeaux sont tentants.//(8.65,38.65)\\\\Ne cédez pas à la facilité.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Guarda un po'! Il maestoso Pavone. Porta con sé dei doni molto allettanti, ma non scegliere l'opzione più facile.",
+					"de": "//[MAKOYANA]\\\\//(0,4.352)\\\\Sieh sich das einer an! Der majestätische Pfau.//(4.352,34.352)\\\\Er hat verführerische Gaben. Fallen Sie nicht auf die sanfte Option herein.",
+					"es": "//[MAKOYANA]\\\\//(0,1.5)\\\\¡Fíjate!//(2,7.5)\\\\Es el majestuoso Pavo Real y trae regalos muy atractivos.//(8.7,38.7)\\\\No caigas en la opción más fácil.",
+					"ru": "//[MAKOYANA]\\\\//(0,4.335)\\\\Посмотри на это! Великолепный Павлин.//(4.335,34.335)\\\\Он принес тебе дары. Однако остерегайся легких путей.",
+					"cn": "//[MAKOYANA]\\\\//(0,4.74)\\\\看那个！漂亮的孔雀。//(4.74,34.74)\\\\它带来了诱人的礼物。别选最容易的。",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\你看！是美麗的孔雀。牠帶來了誘人的禮物。別選簡單的選項。",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\見ろ！偉大なるピーコックだ。魅惑的な贈り物を持っている。慎重に選べよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43712_peacockintro_makoyana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43712_peacockintro_makoyana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,6.8)\\\\Oh, the beautiful Peacock... and with gifts.//(6.8,36.8)\\\\Now, 47. You must resist temptation – it wants to make a fool of you.",
+					"fr": "//[MAKOYANA]\\\\//(0,6.8)\\\\Oh, le superbe Paon... et avec des cadeaux.//(6.8,36.8)\\\\Maintenant, 47, vous devez résister à la tentation. Il veut se moquer de vous.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Oh, il bellissimo Pavone... che porta regali. Ora, 47, devi resistere alla tentazione... vuole prendersi gioco di te.",
+					"de": "//[MAKOYANA]\\\\//(0,6.172)\\\\Oh, der wunderschöne Pfau ... und er hat Gaben dabei.//(6.172,36.172)\\\\Also, 47. Jetzt müssen Sie der Verführung widerstehen: Er will Sie zum Narren halten.",
+					"es": "//[MAKOYANA]\\\\//(0,5.9)\\\\Anda, el hermoso Pavo Real... ¡y trae regalos!//(7,13.2)\\\\Vale, 47, debes resistir la tentación...//(14.2,44.2)\\\\Quiere burlarse de ti...",
+					"ru": "//[MAKOYANA]\\\\//(0,7.2)\\\\О, великолепный Павлин... А при нем дары.//(7.2,37.2)\\\\Будь осторожен, 47-й. Остерегайся искушения: он хочет одурачить тебя.",
+					"cn": "//[MAKOYANA]\\\\//(0,6.838)\\\\噢，美丽的孔雀......带着礼物。//(6.838,36.838)\\\\现在，47。你必须抵制诱惑，它想戏弄你。",
+					"tc": "//[MAKOYANA]\\\\//(0,6.8)\\\\噢，美麗的孔雀......還帶來了禮物。//(6.8,36.8)\\\\現在 47，你必須抗拒誘惑，牠想要耍你。",
+					"jp": "//[MAKOYANA]\\\\//(0,6.9)\\\\ああ、美しきピーコック... 贈り物を持っている。//(6.9,36.9)\\\\さあ、47。誘惑に負けるなよ。恥をかくことになるぞ。"
+				}
+			}
+		]
+	}
 }

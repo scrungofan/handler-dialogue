@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32048_mp_missiondonerand_stone.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "ds32048_mp_missiondonerand_stone_stone_mp_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_001.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,4.104)\\\\Alright, that's an end to the Heavenly Guard. Nice work, Knight.//(4.104,34.104)\\\\I'll signal the recovery team and tell them the hostages are clear for extraction.",
-                    "fr": "//(0,3.05)\\\\Parfait, voilà qui règle le problème de la Garde céleste.//(3.05,4.2)\\\\Beau boulot, Knight.//(4.2,34.2)\\\\Je vais prévenir l'équipe d'extraction pour qu'ils récupèrent les otages.",
-                    "it": "//(0,4.3)\\\\Bene, questa è la fine della Guardia celestiale. Ottimo lavoro, Knight.//(4.3,34.3)\\\\Comunico alla squadra di recupero che è il momento di salvare gli ostaggi.",
-                    "de": "//(0,30)\\\\Alles klar. Damit wäre die Himmlische Garde am Ende. Gute Arbeit, Knight. Ich gebe dem Rettungstrupp Bescheid und sage ihm, dass die Geiseln extrahiert werden können.",
-                    "es": "//(0,30)\\\\Vale, la Guardia Celestial ha pasado a mejor vida. Buen trabajo, Knight. Avisaré al equipo de extracción y les diré que ya pueden recoger a los rehenes.",
-                    "ru": "//(0,30)\\\\Ну что, вот и пришёл конец «Небесной гвардии». Отличная работа, Найт. Я отправлю сюда команду спасателей, чтобы вытащили заложников.",
-                    "cn": "//(0,30)\\\\很好，神圣护卫已经完了。干得漂亮，奈特。我会通知接应小队说人质已做好了撤离准备。",
-                    "tc": "//(0,30)\\\\好了，天衛到此為止了。做得好，奈特。我會告知回收團隊，他們可以來取回人質了。",
-                    "jp": "//(0,4.245)\\\\よし、天の警護もこれで終わりだ。よくやった、ナイト。//(4.245,34.245)\\\\救出チームに信号を送り、人質を救出できることを伝える。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "ds32048_mp_missiondonerand_stone_stone_mp_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_002.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,3.21)\\\\Nicely done, Knight. Extraction team is ready to pick up the hostages.//(3.21,33.21)\\\\We should be done here.",
-                    "fr": "//(0,3.5)\\\\Bien joué, Knight. L'équipe d'extraction se tient prête pour les otages.//(3.5,33.5)\\\\On peut déguerpir d'ici.",
-                    "it": "//(0,30)\\\\Ben fatto, Knight. La squadra di recupero è pronta per portare in salvo gli ostaggi. Qui abbiamo finito.",
-                    "de": "//(0,30)\\\\Gut gemacht, Knight. Der Extraktionstrupp ist bereit, die Geiseln abzuholen. Wir sollten hier fertig sein.",
-                    "es": "//(0,30)\\\\Buen trabajo, Knight. El equipo de extracción está preparado para recoger a los rehenes. Nuestra labor aquí ha terminado.",
-                    "ru": "//(0,30)\\\\Молодец, Найт. Мои люди уже готовы подобрать заложников. Здесь нам больше делать нечего.",
-                    "cn": "//(0,30)\\\\干得漂亮，奈特。接应小队已经准备好接走人质了。我们应该没别的事了。",
-                    "tc": "//(0,30)\\\\做得好，奈特。回收團隊準備好接取人質了。我們應該能收工了。",
-                    "jp": "//(0,3.53)\\\\良い腕だ、ナイト。救出チームが人質を保護しに行く。//(3.53,33.53)\\\\俺たちの仕事はここまでだ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "ds32048_mp_missiondonerand_stone_stone_mp_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_003.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,1.724294)\\\\Not half-bad, Knight.//(1.724294,5.818)\\\\Hostages should be picked up by the extraction team in a few minutes.//(5.818,35.818)\\\\I'll let our employer know.",
-                    "fr": "//(0,1.8)\\\\C'était pas si mal, Knight.//(1.8,5.65)\\\\Les otages devraient être tirés de là d'ici quelques minutes.//(5.65,35.65)\\\\Je vais prévenir le client.",
-                    "it": "//(0,30)\\\\Non male, Knight. La squadra di recupero libererà gli ostaggi tra pochi minuti. Informo il nostro capo.",
-                    "de": "//(0,30)\\\\Gar nicht mal schlecht, Knight. Die Geiseln dürften in ein paar Minuten vom Extraktionstrupp abgeholt werden. Ich lasse es unseren Auftraggeber wissen.",
-                    "es": "//(0,30)\\\\Ni tan mal, Knight. El equipo de extracción recogerá a los rehenes dentro de unos minutos. Avisaré a nuestro jefe.",
-                    "ru": "//(0,30)\\\\Неплохо, Найт. Через пару минут заложников заберут отсюда. А я сообщу обо всем нашему заказчику.",
-                    "cn": "//(0,30)\\\\还不赖嘛，奈特。接应小队应该会在几分钟之后把人质接走。我会把情况通知老板的。",
-                    "tc": "//(0,30)\\\\還不錯，奈特。人質應該在幾分鐘內就會被回收團隊接走，我會告知我們的雇主。",
-                    "jp": "//(0,1.855)\\\\悪くない仕事だったぜ、ナイト。//(1.855,5.49)\\\\人質は救出チームがすぐに保護するだろう。//(5.49,35.49)\\\\雇い主に報告しておくよ。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32048_mp_missiondonerand_stone.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds32048_mp_missiondonerand_stone_stone_mp_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.104)\\\\Alright, that's an end to the Heavenly Guard. Nice work, Knight.//(4.104,34.104)\\\\I'll signal the recovery team and tell them the hostages are clear for extraction.",
+					"fr": "//(0,3.05)\\\\Parfait, voilà qui règle le problème de la Garde céleste.//(3.05,4.2)\\\\Beau boulot, Knight.//(4.2,34.2)\\\\Je vais prévenir l'équipe d'extraction pour qu'ils récupèrent les otages.",
+					"it": "//(0,4.3)\\\\Bene, questa è la fine della Guardia celestiale. Ottimo lavoro, Knight.//(4.3,34.3)\\\\Comunico alla squadra di recupero che è il momento di salvare gli ostaggi.",
+					"de": "//(0,30)\\\\Alles klar. Damit wäre die Himmlische Garde am Ende. Gute Arbeit, Knight. Ich gebe dem Rettungstrupp Bescheid und sage ihm, dass die Geiseln extrahiert werden können.",
+					"es": "//(0,30)\\\\Vale, la Guardia Celestial ha pasado a mejor vida. Buen trabajo, Knight. Avisaré al equipo de extracción y les diré que ya pueden recoger a los rehenes.",
+					"ru": "//(0,30)\\\\Ну что, вот и пришёл конец «Небесной гвардии». Отличная работа, Найт. Я отправлю сюда команду спасателей, чтобы вытащили заложников.",
+					"cn": "//(0,30)\\\\很好，神圣护卫已经完了。干得漂亮，奈特。我会通知接应小队说人质已做好了撤离准备。",
+					"tc": "//(0,30)\\\\好了，天衛到此為止了。做得好，奈特。我會告知回收團隊，他們可以來取回人質了。",
+					"jp": "//(0,4.245)\\\\よし、天の警護もこれで終わりだ。よくやった、ナイト。//(4.245,34.245)\\\\救出チームに信号を送り、人質を救出できることを伝える。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds32048_mp_missiondonerand_stone_stone_mp_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.21)\\\\Nicely done, Knight. Extraction team is ready to pick up the hostages.//(3.21,33.21)\\\\We should be done here.",
+					"fr": "//(0,3.5)\\\\Bien joué, Knight. L'équipe d'extraction se tient prête pour les otages.//(3.5,33.5)\\\\On peut déguerpir d'ici.",
+					"it": "//(0,30)\\\\Ben fatto, Knight. La squadra di recupero è pronta per portare in salvo gli ostaggi. Qui abbiamo finito.",
+					"de": "//(0,30)\\\\Gut gemacht, Knight. Der Extraktionstrupp ist bereit, die Geiseln abzuholen. Wir sollten hier fertig sein.",
+					"es": "//(0,30)\\\\Buen trabajo, Knight. El equipo de extracción está preparado para recoger a los rehenes. Nuestra labor aquí ha terminado.",
+					"ru": "//(0,30)\\\\Молодец, Найт. Мои люди уже готовы подобрать заложников. Здесь нам больше делать нечего.",
+					"cn": "//(0,30)\\\\干得漂亮，奈特。接应小队已经准备好接走人质了。我们应该没别的事了。",
+					"tc": "//(0,30)\\\\做得好，奈特。回收團隊準備好接取人質了。我們應該能收工了。",
+					"jp": "//(0,3.53)\\\\良い腕だ、ナイト。救出チームが人質を保護しに行く。//(3.53,33.53)\\\\俺たちの仕事はここまでだ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds32048_mp_missiondonerand_stone_stone_mp_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32048_mp_missiondonerand_stone_stone_mp_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.724294)\\\\Not half-bad, Knight.//(1.724294,5.818)\\\\Hostages should be picked up by the extraction team in a few minutes.//(5.818,35.818)\\\\I'll let our employer know.",
+					"fr": "//(0,1.8)\\\\C'était pas si mal, Knight.//(1.8,5.65)\\\\Les otages devraient être tirés de là d'ici quelques minutes.//(5.65,35.65)\\\\Je vais prévenir le client.",
+					"it": "//(0,30)\\\\Non male, Knight. La squadra di recupero libererà gli ostaggi tra pochi minuti. Informo il nostro capo.",
+					"de": "//(0,30)\\\\Gar nicht mal schlecht, Knight. Die Geiseln dürften in ein paar Minuten vom Extraktionstrupp abgeholt werden. Ich lasse es unseren Auftraggeber wissen.",
+					"es": "//(0,30)\\\\Ni tan mal, Knight. El equipo de extracción recogerá a los rehenes dentro de unos minutos. Avisaré a nuestro jefe.",
+					"ru": "//(0,30)\\\\Неплохо, Найт. Через пару минут заложников заберут отсюда. А я сообщу обо всем нашему заказчику.",
+					"cn": "//(0,30)\\\\还不赖嘛，奈特。接应小队应该会在几分钟之后把人质接走。我会把情况通知老板的。",
+					"tc": "//(0,30)\\\\還不錯，奈特。人質應該在幾分鐘內就會被回收團隊接走，我會告知我們的雇主。",
+					"jp": "//(0,1.855)\\\\悪くない仕事だったぜ、ナイト。//(1.855,5.49)\\\\人質は救出チームがすぐに保護するだろう。//(5.49,35.49)\\\\雇い主に報告しておくよ。"
+				}
+			}
+		]
+	}
 }

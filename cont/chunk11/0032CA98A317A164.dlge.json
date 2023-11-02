@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32581_mp_riotlethalforce_knight.sweetdialog?/ds32581_mp_riotlethalforce_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32581_mp_riotlethalforce_knight_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32581_mp_riotlethalforce_knight_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32581_mp_riotlethalforce_knight_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Heads up. The warden's authorized the use of lethal force against the rioting prisoners.",
-            "fr": "//(0,30)\\\\Stone. Le directeur a autorisé l'usage de la force létale sur les émeutiers.",
-            "it": "//(0,30)\\\\Occhio. Il direttore ha autorizzato l'uso di misure letali contro i detenuti in rivolta.",
-            "de": "//(0,30)\\\\Aufgepasst. Der Gefängnisdirektor hat Erlaubnis gegeben, dass tödliche Waffengewalt gegen die aufständischen Gefangenen eingesetzt werden darf.",
-            "es": "//(0,30)\\\\Atención. El alcaide ha autorizado el uso de fuerza letal contra los prisioneros amotinados.",
-            "ru": "//(0,30)\\\\Внимание. Начальник тюрьмы разрешил применять летальное оружие против бунтовщиков.",
-            "cn": "//(0,30)\\\\注意。监狱长已经授权对暴动的囚犯使用致命性武器。",
-            "tc": "//(0,30)\\\\注意了。典獄長已授權對暴動的囚犯使用致命武力。",
-            "jp": "//(0,30)\\\\気を付けて。所長が暴動に例の傭兵集団を向かわせたわ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32581_mp_riotlethalforce_knight.sweetdialog?/ds32581_mp_riotlethalforce_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32581_mp_riotlethalforce_knight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32581_mp_riotlethalforce_knight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32581_mp_riotlethalforce_knight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Heads up. The warden's authorized the use of lethal force against the rioting prisoners.",
+			"fr": "//(0,30)\\\\Stone. Le directeur a autorisé l'usage de la force létale sur les émeutiers.",
+			"it": "//(0,30)\\\\Occhio. Il direttore ha autorizzato l'uso di misure letali contro i detenuti in rivolta.",
+			"de": "//(0,30)\\\\Aufgepasst. Der Gefängnisdirektor hat Erlaubnis gegeben, dass tödliche Waffengewalt gegen die aufständischen Gefangenen eingesetzt werden darf.",
+			"es": "//(0,30)\\\\Atención. El alcaide ha autorizado el uso de fuerza letal contra los prisioneros amotinados.",
+			"ru": "//(0,30)\\\\Внимание. Начальник тюрьмы разрешил применять летальное оружие против бунтовщиков.",
+			"cn": "//(0,30)\\\\注意。监狱长已经授权对暴动的囚犯使用致命性武器。",
+			"tc": "//(0,30)\\\\注意了。典獄長已授權對暴動的囚犯使用致命武力。",
+			"jp": "//(0,30)\\\\気を付けて。所長が暴動に例の傭兵集団を向かわせたわ。"
+		}
+	}
 }

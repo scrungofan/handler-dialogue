@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32065_mp_craneactivated.sweetdialog?/ds32065_mp_craneactivated_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32065_mp_craneactivated_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32065_mp_craneactivated_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32065_mp_craneactivated_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\FYI, crane's moving.",
-            "fr": "//(0,30)\\\\La grue bouge, pour info.",
-            "it": "//(0,30)\\\\Ti informo che la gru è in movimento.",
-            "de": "//(0,30)\\\\Nur zur Information: Der Kran bewegt sich.",
-            "es": "//(0,30)\\\\Para que conste, la grúa se está moviendo.",
-            "ru": "//(0,30)\\\\Кстати, кран двигается.",
-            "cn": "//(0,30)\\\\对了，起重机正在移动。",
-            "tc": "//(0,30)\\\\對了，起重機正在移動。",
-            "jp": "//(0,30)\\\\教えてあげるけど、クレーンが動き出したわよ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32065_mp_craneactivated.sweetdialog?/ds32065_mp_craneactivated_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32065_mp_craneactivated_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32065_mp_craneactivated_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32065_mp_craneactivated_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\FYI, crane's moving.",
+			"fr": "//(0,30)\\\\La grue bouge, pour info.",
+			"it": "//(0,30)\\\\Ti informo che la gru è in movimento.",
+			"de": "//(0,30)\\\\Nur zur Information: Der Kran bewegt sich.",
+			"es": "//(0,30)\\\\Para que conste, la grúa se está moviendo.",
+			"ru": "//(0,30)\\\\Кстати, кран двигается.",
+			"cn": "//(0,30)\\\\对了，起重机正在移动。",
+			"tc": "//(0,30)\\\\對了，起重機正在移動。",
+			"jp": "//(0,30)\\\\教えてあげるけど、クレーンが動き出したわよ。"
+		}
+	}
 }

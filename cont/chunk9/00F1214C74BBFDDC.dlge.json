@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "dr20085_mp_timeout2mins_knight_knight_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_001.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Stone, get that rear of yours into gear. We're down to two minutes here.",
-                    "fr": "//(0,30)\\\\Remue-toi un peu, Stone. Il ne reste plus que deux minutes.",
-                    "it": "//(0,30)\\\\Stone, vedi di darti una mossa. Ci restano solo due minuti.",
-                    "de": "//(0,30)\\\\Stone, setzen Sie Ihren Hintern mal in Bewegung. Wir haben hier nur noch zwei Minuten.",
-                    "es": "//(0,30)\\\\Stone, más te vale mover el culo. Ya solo nos quedan dos minutos.",
-                    "ru": "//(0,30)\\\\Стоун, давай, пошевеливайся. У нас всего две минуты.",
-                    "cn": "//(0,30)\\\\斯通，别再磨蹭了。我们只剩两分钟了。",
-                    "tc": "//(0,30)\\\\斯通，別拖拖拉拉的。我們只剩兩分鐘了。",
-                    "jp": "//(0,30)\\\\ストーン、急いで。あと2分しかないわ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20085_mp_timeout2mins_knight_knight_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_002.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\We're looking at just two minutes now, Stone. I think it's time to end this.",
-                    "fr": "//(0,30)\\\\Il reste seulement deux minutes, Stone. On ferait mieux d'en finir rapidement.",
-                    "it": "//(0,30)\\\\Ora abbiamo solo due minuti, Stone. Direi che è ora di farla finita.",
-                    "de": "//(0,30)\\\\Wir haben jetzt nur noch zwei Minuten, Stone. Ich glaube, es wird Zeit, das hier zu beenden.",
-                    "es": "//(0,30)\\\\Tan solo quedan dos minutos, Stone. Va siendo hora de acabar con esto.",
-                    "ru": "//(0,30)\\\\Осталось всего две минуты, Стоун. Думаю, пора заканчивать.",
-                    "cn": "//(0,30)\\\\斯通，我们只剩两分钟了。是时候做个了断了。",
-                    "tc": "//(0,30)\\\\我們現在只剩下兩分鐘了，斯通。該結束這任務了。",
-                    "jp": "//(0,30)\\\\ストーン、あと2分よ。終わらせましょう。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20085_mp_timeout2mins_knight_knight_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_003.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Let's clean this house, Stone. We're two minutes from extract.",
-                    "fr": "//(0,30)\\\\Finis le travail, Stone. Deux minutes avant extraction.",
-                    "it": "//(0,30)\\\\Ripuliamo questa casa, Stone. Siamo a due minuti dall'estrazione.",
-                    "de": "//(0,30)\\\\Räumen wir dieses Haus auf, Stone. Wir haben noch zwei Minuten bis zur Extraktion.",
-                    "es": "//(0,30)\\\\Hay que hacer limpieza, Stone. Estamos a dos minutos de la extracción.",
-                    "ru": "//(0,30)\\\\Пора всё подчистить и уходить, Стоун. Две минуты до эвакуации.",
-                    "cn": "//(0,30)\\\\我们肃清房子里的目标吧。距撤离还剩两分钟。",
-                    "tc": "//(0,30)\\\\我們來清場吧，斯通。離撤離剩下兩分鐘了。",
-                    "jp": "//(0,30)\\\\さっさと片付けましょう。撤退まで2分よ。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20085_mp_timeout2mins_knight_knight_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Stone, get that rear of yours into gear. We're down to two minutes here.",
+					"fr": "//(0,30)\\\\Remue-toi un peu, Stone. Il ne reste plus que deux minutes.",
+					"it": "//(0,30)\\\\Stone, vedi di darti una mossa. Ci restano solo due minuti.",
+					"de": "//(0,30)\\\\Stone, setzen Sie Ihren Hintern mal in Bewegung. Wir haben hier nur noch zwei Minuten.",
+					"es": "//(0,30)\\\\Stone, más te vale mover el culo. Ya solo nos quedan dos minutos.",
+					"ru": "//(0,30)\\\\Стоун, давай, пошевеливайся. У нас всего две минуты.",
+					"cn": "//(0,30)\\\\斯通，别再磨蹭了。我们只剩两分钟了。",
+					"tc": "//(0,30)\\\\斯通，別拖拖拉拉的。我們只剩兩分鐘了。",
+					"jp": "//(0,30)\\\\ストーン、急いで。あと2分しかないわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20085_mp_timeout2mins_knight_knight_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\We're looking at just two minutes now, Stone. I think it's time to end this.",
+					"fr": "//(0,30)\\\\Il reste seulement deux minutes, Stone. On ferait mieux d'en finir rapidement.",
+					"it": "//(0,30)\\\\Ora abbiamo solo due minuti, Stone. Direi che è ora di farla finita.",
+					"de": "//(0,30)\\\\Wir haben jetzt nur noch zwei Minuten, Stone. Ich glaube, es wird Zeit, das hier zu beenden.",
+					"es": "//(0,30)\\\\Tan solo quedan dos minutos, Stone. Va siendo hora de acabar con esto.",
+					"ru": "//(0,30)\\\\Осталось всего две минуты, Стоун. Думаю, пора заканчивать.",
+					"cn": "//(0,30)\\\\斯通，我们只剩两分钟了。是时候做个了断了。",
+					"tc": "//(0,30)\\\\我們現在只剩下兩分鐘了，斯通。該結束這任務了。",
+					"jp": "//(0,30)\\\\ストーン、あと2分よ。終わらせましょう。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20085_mp_timeout2mins_knight_knight_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20085_mp_timeout2mins_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Let's clean this house, Stone. We're two minutes from extract.",
+					"fr": "//(0,30)\\\\Finis le travail, Stone. Deux minutes avant extraction.",
+					"it": "//(0,30)\\\\Ripuliamo questa casa, Stone. Siamo a due minuti dall'estrazione.",
+					"de": "//(0,30)\\\\Räumen wir dieses Haus auf, Stone. Wir haben noch zwei Minuten bis zur Extraktion.",
+					"es": "//(0,30)\\\\Hay que hacer limpieza, Stone. Estamos a dos minutos de la extracción.",
+					"ru": "//(0,30)\\\\Пора всё подчистить и уходить, Стоун. Две минуты до эвакуации.",
+					"cn": "//(0,30)\\\\我们肃清房子里的目标吧。距撤离还剩两分钟。",
+					"tc": "//(0,30)\\\\我們來清場吧，斯通。離撤離剩下兩分鐘了。",
+					"jp": "//(0,30)\\\\さっさと片付けましょう。撤退まで2分よ。"
+				}
+			}
+		]
+	}
 }

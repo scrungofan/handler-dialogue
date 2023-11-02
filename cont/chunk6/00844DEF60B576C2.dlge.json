@@ -1,30 +1,30 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43810_l2morefish.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43810_l2morefish_azelea_001",
-                "weight": 1.0,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43810_l2morefish_azelea_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43810_l2morefish_azelea_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Hmm. Delicious. That's enough meat for now. Piggy still needs more fish. Go!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Hmm. Délicieux. C'est assez de viande pour le moment. Cochonnet veut toujours plus de poisson. Allez !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Mmm. Che delizia. Per ora la carne è sufficiente. Maialetto ha bisogno di altro pesce. Vai!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Hm. Köstlich. Das reicht fürs Erste an Fleisch. Das Schweinchen braucht immer noch mehr Fisch. Los!",
-                    "es": "//[AZELEA]\\\\//(0,2.2)\\\\Mmm. Riquísima.//(2.45,3.9)\\\\Tenemos suficiente carne por ahora.//(3.9,33.9)\\\\Cerdito todavía necesita más pescado. ¡Ve!",
-                    "ru": "//[AZELEA]\\\\//(0,3.708589)\\\\Хм-м. Вкуснотища. Столько мяса пока хватит.//(3.708589,33.70859)\\\\Но у Хрюши еще маловато рыбы. Вперед!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\嗯。美味。这么多肉就够了。小猪还想要更多鱼。快！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\嗯，好吃，這些肉就夠了。小豬還要更多魚，快去！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\うーん、うまい。肉はもう十分だ。でも魚が足りないぞ。行け！"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43810_l2morefish.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43810_l2morefish_azelea_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43810_l2morefish_azelea_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43810_l2morefish_azelea_001.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Hmm. Delicious. That's enough meat for now. Piggy still needs more fish. Go!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Hmm. Délicieux. C'est assez de viande pour le moment. Cochonnet veut toujours plus de poisson. Allez !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Mmm. Che delizia. Per ora la carne è sufficiente. Maialetto ha bisogno di altro pesce. Vai!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Hm. Köstlich. Das reicht fürs Erste an Fleisch. Das Schweinchen braucht immer noch mehr Fisch. Los!",
+					"es": "//[AZELEA]\\\\//(0,2.2)\\\\Mmm. Riquísima.//(2.45,3.9)\\\\Tenemos suficiente carne por ahora.//(3.9,33.9)\\\\Cerdito todavía necesita más pescado. ¡Ve!",
+					"ru": "//[AZELEA]\\\\//(0,3.708589)\\\\Хм-м. Вкуснотища. Столько мяса пока хватит.//(3.708589,33.70859)\\\\Но у Хрюши еще маловато рыбы. Вперед!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\嗯。美味。这么多肉就够了。小猪还想要更多鱼。快！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\嗯，好吃，這些肉就夠了。小豬還要更多魚，快去！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\うーん、うまい。肉はもう十分だ。でも魚が足りないぞ。行け！"
+				}
+			}
+		]
+	}
 }

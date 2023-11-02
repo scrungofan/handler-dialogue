@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32044_mp_bladeescape_stone.sweetdialog?/ds32044_mp_bladeescape_stone_knight_mp_002.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32044_mp_bladeescape_stone_knight_mp_002",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32044_mp_bladeescape_stone_knight_mp_002.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32044_mp_bladeescape_stone_knight_mp_002.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Not on my watch!",
-            "fr": "//(0,30)\\\\C'est ce qu'on va voir !",
-            "it": "//(0,30)\\\\Non finché ci sono io.",
-            "de": "//(0,30)\\\\Nicht, solange ich da bin!",
-            "es": "//(0,30)\\\\¡No si yo puedo evitarlo!",
-            "ru": "//(0,30)\\\\Нет уж, только не в мою смену!",
-            "cn": "//(0,30)\\\\有我在就别想！",
-            "tc": "//(0,30)\\\\你休想！",
-            "jp": "//(0,30)\\\\そうはさせない！"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32044_mp_bladeescape_stone.sweetdialog?/ds32044_mp_bladeescape_stone_knight_mp_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32044_mp_bladeescape_stone_knight_mp_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32044_mp_bladeescape_stone_knight_mp_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32044_mp_bladeescape_stone_knight_mp_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Not on my watch!",
+			"fr": "//(0,30)\\\\C'est ce qu'on va voir !",
+			"it": "//(0,30)\\\\Non finché ci sono io.",
+			"de": "//(0,30)\\\\Nicht, solange ich da bin!",
+			"es": "//(0,30)\\\\¡No si yo puedo evitarlo!",
+			"ru": "//(0,30)\\\\Нет уж, только не в мою смену!",
+			"cn": "//(0,30)\\\\有我在就别想！",
+			"tc": "//(0,30)\\\\你休想！",
+			"jp": "//(0,30)\\\\そうはさせない！"
+		}
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41503_prep01.sweetdialog?/pdlc41503_prep01_hollyhock_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc41503_prep01_hollyhock_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41503_prep01_hollyhock_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41503_prep01_hollyhock_001.animset].pc_animset",
-        "languages": {
-            "en": "//[HOLLYHOCK]\\\\//(0,3.55)\\\\They will be here soon! Start preparing!//(3.55,33.55)\\\\Remember: Your very identity is at stake.",
-            "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Ils seront bientôt là ! Préparez-vous ! N'oubliez pas : c'est votre identité qui est en jeu.",
-            "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Arriveranno a breve! Inizia a prepararti! E ricorda: in gioco c'è la tua vera identità.",
-            "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Sie werden bald hier sein! Machen Sie sich bereit! Denken Sie dran: Ihre Identität steht auf dem Spiel.",
-            "es": "//[HOLLYHOCK]\\\\//(0,3.564785)\\\\¡Empieza a prepararte, que no tardarán en llegar!//(3.564785,33.56479)\\\\Recuerda que lo que está en juego es tu propia identidad.",
-            "ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Скоро они будут здесь! Пора готовиться! И помни: на кону твоя личность.",
-            "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\他们很快就会到！开始准备吧！记住：你的本体受到了威胁。",
-            "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\他們快到了！快開始做準備！記得了：這可是攸關你的名聲。",
-            "jp": "//[HOLLYHOCK]\\\\//(0,4.1)\\\\もうすぐ来るわよ！準備を始めて！//(4.1,34.1)\\\\忘れないで、あなたのアイデンティティがかかっているのよ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41503_prep01.sweetdialog?/pdlc41503_prep01_hollyhock_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc41503_prep01_hollyhock_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41503_prep01_hollyhock_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41503_prep01_hollyhock_001.animset].pc_animset",
+		"languages": {
+			"en": "//[HOLLYHOCK]\\\\//(0,3.55)\\\\They will be here soon! Start preparing!//(3.55,33.55)\\\\Remember: Your very identity is at stake.",
+			"fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Ils seront bientôt là ! Préparez-vous ! N'oubliez pas : c'est votre identité qui est en jeu.",
+			"it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Arriveranno a breve! Inizia a prepararti! E ricorda: in gioco c'è la tua vera identità.",
+			"de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Sie werden bald hier sein! Machen Sie sich bereit! Denken Sie dran: Ihre Identität steht auf dem Spiel.",
+			"es": "//[HOLLYHOCK]\\\\//(0,3.564785)\\\\¡Empieza a prepararte, que no tardarán en llegar!//(3.564785,33.56479)\\\\Recuerda que lo que está en juego es tu propia identidad.",
+			"ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Скоро они будут здесь! Пора готовиться! И помни: на кону твоя личность.",
+			"cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\他们很快就会到！开始准备吧！记住：你的本体受到了威胁。",
+			"tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\他們快到了！快開始做準備！記得了：這可是攸關你的名聲。",
+			"jp": "//[HOLLYHOCK]\\\\//(0,4.1)\\\\もうすぐ来るわよ！準備を始めて！//(4.1,34.1)\\\\忘れないで、あなたのアイデンティティがかかっているのよ。"
+		}
+	}
 }

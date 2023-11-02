@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41011_vitoffhouse.sweetdialog?/pdlc41011_vitoffhouse_harebell_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc41011_vitoffhouse_harebell_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41011_vitoffhouse_harebell_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41011_vitoffhouse_harebell_001.animset].pc_animset",
-        "languages": {
-            "en": "//[HAREBELL]\\\\//(0,4)\\\\I should probably say something about what a diligent pupil you are, blah blah blah...//(4.8,34.8)\\\\Ugh, feel free to show yourself out.",
-            "fr": "//[HAREBELL]\\\\//(0,4.6)\\\\C'est le moment où je suis censé dire à quel point vous êtes bon élève, tout ça...//(4.6,34.6)\\\\Bref. Vous savez où est la sortie.",
-            "it": "//[HAREBELL]\\\\//(0,4.9)\\\\Dovrei probabilmente lodarti per essere un allievo diligente, bla bla bla...//(4.9,6.4)\\\\Vai pure, la porta sai dov'è.",
-            "de": "//[HAREBELL]\\\\//(0,3.95)\\\\Ich sollte wohl sagen, was für ein gelehriger Schüler Sie sind, bla, bla, bla ...//(4.8,6.75)\\\\Sie finden bestimmt allein raus.",
-            "es": "//[HAREBELL]\\\\//(0,4)\\\\Quizá debería decirte algo sobre lo buen alumno que eres y bla, bla, bla...//(5.1,6.7)\\\\Sal cuando quieras.",
-            "ru": "//[HAREBELL]\\\\//(0,1.9)\\\\Что, надо похвалить тебя за то,//(1.9,5)\\\\что ты такой прилежный ученик и всё такое?//(5,35)\\\\В общем, можешь идти.",
-            "cn": "//[HAREBELL]\\\\//(0,5.1)\\\\我也许应该说点什么，表扬一下你这位勤奋的好学生......//(5.1,35.1)\\\\你想走就走吧。",
-            "tc": "//[HAREBELL]\\\\//(0,5)\\\\我也許應該說點什麼，好好表揚一下你如此的勤奮......//(5,35)\\\\你想走就走吧。",
-            "jp": "//[HAREBELL]\\\\//(0,4.125)\\\\なんて真面目な生徒なんだと褒めてやるべきなんだろうが...//(5,6.5)\\\\勝手に出口を見つけて帰ってくれ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41011_vitoffhouse.sweetdialog?/pdlc41011_vitoffhouse_harebell_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc41011_vitoffhouse_harebell_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41011_vitoffhouse_harebell_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41011_vitoffhouse_harebell_001.animset].pc_animset",
+		"languages": {
+			"en": "//[HAREBELL]\\\\//(0,4)\\\\I should probably say something about what a diligent pupil you are, blah blah blah...//(4.8,34.8)\\\\Ugh, feel free to show yourself out.",
+			"fr": "//[HAREBELL]\\\\//(0,4.6)\\\\C'est le moment où je suis censé dire à quel point vous êtes bon élève, tout ça...//(4.6,34.6)\\\\Bref. Vous savez où est la sortie.",
+			"it": "//[HAREBELL]\\\\//(0,4.9)\\\\Dovrei probabilmente lodarti per essere un allievo diligente, bla bla bla...//(4.9,6.4)\\\\Vai pure, la porta sai dov'è.",
+			"de": "//[HAREBELL]\\\\//(0,3.95)\\\\Ich sollte wohl sagen, was für ein gelehriger Schüler Sie sind, bla, bla, bla ...//(4.8,6.75)\\\\Sie finden bestimmt allein raus.",
+			"es": "//[HAREBELL]\\\\//(0,4)\\\\Quizá debería decirte algo sobre lo buen alumno que eres y bla, bla, bla...//(5.1,6.7)\\\\Sal cuando quieras.",
+			"ru": "//[HAREBELL]\\\\//(0,1.9)\\\\Что, надо похвалить тебя за то,//(1.9,5)\\\\что ты такой прилежный ученик и всё такое?//(5,35)\\\\В общем, можешь идти.",
+			"cn": "//[HAREBELL]\\\\//(0,5.1)\\\\我也许应该说点什么，表扬一下你这位勤奋的好学生......//(5.1,35.1)\\\\你想走就走吧。",
+			"tc": "//[HAREBELL]\\\\//(0,5)\\\\我也許應該說點什麼，好好表揚一下你如此的勤奮......//(5,35)\\\\你想走就走吧。",
+			"jp": "//[HAREBELL]\\\\//(0,4.125)\\\\なんて真面目な生徒なんだと褒めてやるべきなんだろうが...//(5,6.5)\\\\勝手に出口を見つけて帰ってくれ。"
+		}
+	}
 }

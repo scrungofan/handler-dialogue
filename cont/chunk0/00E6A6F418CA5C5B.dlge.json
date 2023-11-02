@@ -1,87 +1,87 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40503_spottarget_lunaria_001",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\There! That one has coins... your coins! You know what to do.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Là ! Cette cible a des pièces... vos pièces... Vous savez quoi faire.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Ecco! Quel bersaglio ha le monete... le tue monete. Sai cosa fare.",
-                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Da! Hier finden Sie Münzen ... Ihre Münzen. Sie wissen, was zu tun ist.",
-                    "es": "//[LUNARIA]\\\\//(0,0.9)\\\\¡Ahí!//(1.2,2.7)\\\\Esa persona tiene monedas...//(2.7,3.8)\\\\tus monedas.//(4.3,34.3)\\\\Ya sabes qué hacer.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Вот и твоя жертва! И у нее есть монеты. Твои монеты! Ты знаешь, что делать.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\那里！那里有硬币......属于你的硬币！你知道该怎么办。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\那邊！那裡有些硬幣......你的硬幣！你知道該怎麼做。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\そこ！あのターゲットはコインを持っている... あなたのコインを！何をすべきかは分かるよね？"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40503_spottarget_lunaria_002",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\You see them? They have coins. Coins that should belong to you.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous les voyez ? Ils ont des pièces. Des pièces qui vous reviennent de droit.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Vedi? Ha le monete. Monete che dovrebbero appartenere a te.",
-                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Sehen Sie das? Da hat wer Münzen. Münzen, die Ihnen gehören sollten.",
-                    "es": "//[LUNARIA]\\\\//(0,0.9)\\\\¿Lo ves?//(1.1,2)\\\\Tiene monedas.//(2.2,32.2)\\\\Monedas que deberían ser tuyas.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Видишь их? У них есть монетки. Эти монетки должны стать твоими.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\看到他们了吗？他们有硬币。属于你的硬币。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\你看見了嗎？他們有硬幣，那些應該是你的硬幣。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\見えている？あそこにいるターゲットたちは、コインを持っている。本来あなたが持つべきはずの。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40503_spottarget_lunaria_003",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\There is a target – who has coins that should belong to you. Now, go!",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Une cible possède des pièces qui devraient vous appartenir. Allez-y !",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\C'è un bersaglio con delle monete che dovrebbero appartenere a te. Vai!",
-                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Da ist ein Ziel, das Münzen hat, die Ihnen gehören sollten. Los geht’s!",
-                    "es": "//[LUNARIA]\\\\//(0,3.8)\\\\Hay un objetivo que tiene monedas que deberían ser tuyas.//(4.7,34.7)\\\\¡Adelante!",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\А вот и цель. У нее есть монеты, которые должны стать твоими. Вперед!",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\目标出现，他身上有属于你的硬币。现在，行动！",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\那裡有個目標，他手中有屬於你的硬幣。快上！",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\ターゲットがいる。あなたのコインを持って。さあ、行きなさい！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40503_spottarget_lunaria_004",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_004.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_004.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\See that person? They have your coins. Take them!",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous voyez cette personne ? Elle a vos pièces. Reprenez-les !",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Vedi quella persona? Ha le tue monete. Prendile!",
-                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Sehen Sie diese Person? Sie hat Münzen. Holen Sie sich sie!",
-                    "es": "//[LUNARIA]\\\\//(0,1.2)\\\\¿Ves a esa persona?//(1.7,3.2)\\\\Tiene monedas que son tuyas.//(3.8,33.8)\\\\¡Cógelas!",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Видишь этого человека? У него твои монеты. Забери их!",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\看到那个人了吧？他有你的硬币。干掉他！",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\看見那個人了嗎？他有你的硬幣。把它奪過來！",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\あそこの人が見える？あなたのコインを持っている。取り返して！"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40503_spottarget_lunaria_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_001.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\There! That one has coins... your coins! You know what to do.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Là ! Cette cible a des pièces... vos pièces... Vous savez quoi faire.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Ecco! Quel bersaglio ha le monete... le tue monete. Sai cosa fare.",
+					"de": "//[LUNARIA]\\\\//(0,30)\\\\Da! Hier finden Sie Münzen ... Ihre Münzen. Sie wissen, was zu tun ist.",
+					"es": "//[LUNARIA]\\\\//(0,0.9)\\\\¡Ahí!//(1.2,2.7)\\\\Esa persona tiene monedas...//(2.7,3.8)\\\\tus monedas.//(4.3,34.3)\\\\Ya sabes qué hacer.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Вот и твоя жертва! И у нее есть монеты. Твои монеты! Ты знаешь, что делать.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\那里！那里有硬币......属于你的硬币！你知道该怎么办。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\那邊！那裡有些硬幣......你的硬幣！你知道該怎麼做。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\そこ！あのターゲットはコインを持っている... あなたのコインを！何をすべきかは分かるよね？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40503_spottarget_lunaria_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_002.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\You see them? They have coins. Coins that should belong to you.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous les voyez ? Ils ont des pièces. Des pièces qui vous reviennent de droit.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Vedi? Ha le monete. Monete che dovrebbero appartenere a te.",
+					"de": "//[LUNARIA]\\\\//(0,30)\\\\Sehen Sie das? Da hat wer Münzen. Münzen, die Ihnen gehören sollten.",
+					"es": "//[LUNARIA]\\\\//(0,0.9)\\\\¿Lo ves?//(1.1,2)\\\\Tiene monedas.//(2.2,32.2)\\\\Monedas que deberían ser tuyas.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Видишь их? У них есть монетки. Эти монетки должны стать твоими.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\看到他们了吗？他们有硬币。属于你的硬币。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\你看見了嗎？他們有硬幣，那些應該是你的硬幣。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\見えている？あそこにいるターゲットたちは、コインを持っている。本来あなたが持つべきはずの。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40503_spottarget_lunaria_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_003.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\There is a target – who has coins that should belong to you. Now, go!",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Une cible possède des pièces qui devraient vous appartenir. Allez-y !",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\C'è un bersaglio con delle monete che dovrebbero appartenere a te. Vai!",
+					"de": "//[LUNARIA]\\\\//(0,30)\\\\Da ist ein Ziel, das Münzen hat, die Ihnen gehören sollten. Los geht’s!",
+					"es": "//[LUNARIA]\\\\//(0,3.8)\\\\Hay un objetivo que tiene monedas que deberían ser tuyas.//(4.7,34.7)\\\\¡Adelante!",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\А вот и цель. У нее есть монеты, которые должны стать твоими. Вперед!",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\目标出现，他身上有属于你的硬币。现在，行动！",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\那裡有個目標，他手中有屬於你的硬幣。快上！",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\ターゲットがいる。あなたのコインを持って。さあ、行きなさい！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40503_spottarget_lunaria_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40503_spottarget_lunaria_004.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\See that person? They have your coins. Take them!",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous voyez cette personne ? Elle a vos pièces. Reprenez-les !",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Vedi quella persona? Ha le tue monete. Prendile!",
+					"de": "//[LUNARIA]\\\\//(0,30)\\\\Sehen Sie diese Person? Sie hat Münzen. Holen Sie sich sie!",
+					"es": "//[LUNARIA]\\\\//(0,1.2)\\\\¿Ves a esa persona?//(1.7,3.2)\\\\Tiene monedas que son tuyas.//(3.8,33.8)\\\\¡Cógelas!",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Видишь этого человека? У него твои монеты. Забери их!",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\看到那个人了吧？他有你的硬币。干掉他！",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\看見那個人了嗎？他有你的硬幣。把它奪過來！",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\あそこの人が見える？あなたのコインを持っている。取り返して！"
+				}
+			}
+		]
+	}
 }

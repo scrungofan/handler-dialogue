@@ -1,87 +1,87 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40504_kill1sttier_lunaria_001",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Excellent. Don’t forget the coins.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Excellent. N'oubliez pas les pièces.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Perfetto. Non dimenticare le monete.",
-                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Hervorragend. Vergessen Sie die Münzen nicht.",
-                    "es": "//[LUNARIA]\\\\//(1.3,2.2)\\\\Excelente.//(2.8,4.9)\\\\Que no se te olviden las monedas.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Превосходно. И не забудь про монеты.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\很好。别忘了硬币。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\太好了，別忘了硬幣。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\素晴らしい。コインを忘れないでね。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40504_kill1sttier_lunaria_002",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Good job, 47. Now, take their coins.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Beau travail, 47. Maintenant, prenez les pièces.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Ottimo lavoro, 47. Ora prendi le monete.",
-                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Gute Arbeit, 47. Jetzt holen Sie sich die Münzen.",
-                    "es": "//[LUNARIA]\\\\//(0,2.1)\\\\Buen trabajo, 47.//(2.4,32.4)\\\\Ahora, coge sus monedas.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Отлично, 47-й. А теперь забирай свои монеты.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\干得漂亮，47。现在拿走他们的硬币。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\做得好，47。現在快把它們的硬幣奪過來。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\やったね、47。さあ、コインを取って。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40504_kill1sttier_lunaria_003",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Well done. Now, take their coins. They belong to you.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Parfait. Maintenant, récupérez les pièces. Elles vous appartiennent.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Ben fatto. Adesso prendi quelle monete. Appartengono a te.",
-                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Gut gemacht. Jetzt holen Sie sich die Münzen. Sie gehören Ihnen.",
-                    "es": "//[LUNARIA]\\\\//(0,1.6)\\\\Bien hecho.//(2.2,4.1)\\\\Ahora, coge sus monedas.//(4.4,34.4)\\\\Te pertenecen.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Превосходно. Теперь пора забрать монеты. Они твои по праву.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\干得好。现在拿走他们的硬币。它们属于你了。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\做得好。現在把硬幣拿來。那些是你的。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\よくやった。さあ、コインを取って。あなたのものだから。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc40504_kill1sttier_lunaria_004",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_004.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_004.animset].pc_animset",
-                "languages": {
-                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Impressive. Take their coins. They are yours now.",
-                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Impressionnant. Prenez ses pièces. Elles sont à vous, maintenant.",
-                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Notevole. Prendi le sue monete. Sono tue adesso.",
-                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Beeindruckend. Holen Sie sich die Münzen. Sie gehören jetzt Ihnen.",
-                    "es": "//[LUNARIA]\\\\//(0,1.9)\\\\Impresionante.//(1.9,3.5)\\\\Coge sus monedas.//(3.5,33.5)\\\\Ahora son tuyas.",
-                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Впечатляет. Забирай монеты. Теперь они твои.",
-                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\厉害。拿走他们的硬币。它们现在是你的了。",
-                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\真厲害，去取他們的硬幣。那些是你的了。",
-                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\お見事。コインを取って。あなたのものになったから。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40504_kill1sttier_lunaria_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_001.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\Excellent. Don’t forget the coins.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Excellent. N'oubliez pas les pièces.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Perfetto. Non dimenticare le monete.",
+					"de": "//[LUNARIA]\\\\//(0,30)\\\\Hervorragend. Vergessen Sie die Münzen nicht.",
+					"es": "//[LUNARIA]\\\\//(1.3,2.2)\\\\Excelente.//(2.8,4.9)\\\\Que no se te olviden las monedas.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Превосходно. И не забудь про монеты.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\很好。别忘了硬币。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\太好了，別忘了硬幣。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\素晴らしい。コインを忘れないでね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40504_kill1sttier_lunaria_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_002.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\Good job, 47. Now, take their coins.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Beau travail, 47. Maintenant, prenez les pièces.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Ottimo lavoro, 47. Ora prendi le monete.",
+					"de": "//[LUNARIA]\\\\//(0,30)\\\\Gute Arbeit, 47. Jetzt holen Sie sich die Münzen.",
+					"es": "//[LUNARIA]\\\\//(0,2.1)\\\\Buen trabajo, 47.//(2.4,32.4)\\\\Ahora, coge sus monedas.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Отлично, 47-й. А теперь забирай свои монеты.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\干得漂亮，47。现在拿走他们的硬币。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\做得好，47。現在快把它們的硬幣奪過來。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\やったね、47。さあ、コインを取って。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40504_kill1sttier_lunaria_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_003.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\Well done. Now, take their coins. They belong to you.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Parfait. Maintenant, récupérez les pièces. Elles vous appartiennent.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Ben fatto. Adesso prendi quelle monete. Appartengono a te.",
+					"de": "//[LUNARIA]\\\\//(0,30)\\\\Gut gemacht. Jetzt holen Sie sich die Münzen. Sie gehören Ihnen.",
+					"es": "//[LUNARIA]\\\\//(0,1.6)\\\\Bien hecho.//(2.2,4.1)\\\\Ahora, coge sus monedas.//(4.4,34.4)\\\\Te pertenecen.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Превосходно. Теперь пора забрать монеты. Они твои по праву.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\干得好。现在拿走他们的硬币。它们属于你了。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\做得好。現在把硬幣拿來。那些是你的。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\よくやった。さあ、コインを取って。あなたのものだから。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc40504_kill1sttier_lunaria_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40504_kill1sttier_lunaria_004.animset].pc_animset",
+				"languages": {
+					"en": "//[LUNARIA]\\\\//(0,30)\\\\Impressive. Take their coins. They are yours now.",
+					"fr": "//[LUNARIA]\\\\//(0,30)\\\\Impressionnant. Prenez ses pièces. Elles sont à vous, maintenant.",
+					"it": "//[LUNARIA]\\\\//(0,30)\\\\Notevole. Prendi le sue monete. Sono tue adesso.",
+					"de": "//[LUNARIA]\\\\//(0,30)\\\\Beeindruckend. Holen Sie sich die Münzen. Sie gehören jetzt Ihnen.",
+					"es": "//[LUNARIA]\\\\//(0,1.9)\\\\Impresionante.//(1.9,3.5)\\\\Coge sus monedas.//(3.5,33.5)\\\\Ahora son tuyas.",
+					"ru": "//[LUNARIA]\\\\//(0,30)\\\\Впечатляет. Забирай монеты. Теперь они твои.",
+					"cn": "//[LUNARIA]\\\\//(0,30)\\\\厉害。拿走他们的硬币。它们现在是你的了。",
+					"tc": "//[LUNARIA]\\\\//(0,30)\\\\真厲害，去取他們的硬幣。那些是你的了。",
+					"jp": "//[LUNARIA]\\\\//(0,30)\\\\お見事。コインを取って。あなたのものになったから。"
+				}
+			}
+		]
+	}
 }

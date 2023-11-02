@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc44012_47wins_frangipani_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[FRANGIPANI]\\\\//(0,2.1)\\\\I would've lost money on that bet.//(2.1,32.1)\\\\We'll see if you can keep it up.",
-                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\J'aurais perdu de l'argent sur ce pari. Voyons si vous tiendrez la cadence.",
-                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Ci avrei scommesso e avrei perso. Vedremo se saprai mantenere questo ritmo.",
-                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Bei der Wette hätte ich Geld verloren. Wir werden sehen, ob Sie da Schritt halten können.",
-                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\No habría perdido dinero en esa apuesta. Veremos si consigues mantener el ritmo.",
-                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Я бы проспорил такое пари. Посмотрим, хватит ли у тебя сил дальше.",
-                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\真是令人意想不到。我们来看看你能否保持下去。",
-                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\真是令人意外，我們來看看你能不能保持下去。",
-                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\危うく賭けに負けるところだったよ。次はもっと頑張ってね。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc44012_47wins_frangipani_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[FRANGIPANI]\\\\//(0,3.076687)\\\\I can't believe you took that round.//(3.076687,33.07669)\\\\Must have been a fluke.",
-                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\J'ai peine à croire que vous ayez remporté cette manche. Un coup de chance.",
-                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Non riesco a credere che tu abbia vinto quel round. Deve essere stato un colpo di fortuna.",
-                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ich kann kaum glauben, dass Sie sich diese Runde geholt haben. Muss ein Ausreißer gewesen sein.",
-                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Me parece increíble que te hayas llevado esa ronda. Ha debido ser un golpe de suerte.",
-                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Поверить не могу, что ты взял этот раунд. Видимо, по случайности.",
-                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\不敢相信那回合你居然赢了。肯定是侥幸。",
-                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\真不敢相信，你竟然贏了那一回合。肯定是狗屎運。",
-                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\あなたがあのラウンドを取るとは思わなかった。まぐれだろうね。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc44012_47wins_frangipani_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[FRANGIPANI]\\\\//(0,30)\\\\He let you have that one.",
-                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Il vous a donné la manche.",
-                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Quello te l'ha lasciato.",
-                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Den hat er Ihnen überlassen.",
-                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Pfff. Te ha dejado ganar, está claro.",
-                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Пф. Да он тебе поддался.",
-                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\嘁。他故意让你赢的。",
-                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\切，那是他在放水。",
-                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ふうー。彼が取らせてくれたんじゃない。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc44012_47wins_frangipani_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_001.animset].pc_animset",
+				"languages": {
+					"en": "//[FRANGIPANI]\\\\//(0,2.1)\\\\I would've lost money on that bet.//(2.1,32.1)\\\\We'll see if you can keep it up.",
+					"fr": "//[FRANGIPANI]\\\\//(0,30)\\\\J'aurais perdu de l'argent sur ce pari. Voyons si vous tiendrez la cadence.",
+					"it": "//[FRANGIPANI]\\\\//(0,30)\\\\Ci avrei scommesso e avrei perso. Vedremo se saprai mantenere questo ritmo.",
+					"de": "//[FRANGIPANI]\\\\//(0,30)\\\\Bei der Wette hätte ich Geld verloren. Wir werden sehen, ob Sie da Schritt halten können.",
+					"es": "//[FRANGIPANI]\\\\//(0,30)\\\\No habría perdido dinero en esa apuesta. Veremos si consigues mantener el ritmo.",
+					"ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Я бы проспорил такое пари. Посмотрим, хватит ли у тебя сил дальше.",
+					"cn": "//[FRANGIPANI]\\\\//(0,30)\\\\真是令人意想不到。我们来看看你能否保持下去。",
+					"tc": "//[FRANGIPANI]\\\\//(0,30)\\\\真是令人意外，我們來看看你能不能保持下去。",
+					"jp": "//[FRANGIPANI]\\\\//(0,30)\\\\危うく賭けに負けるところだったよ。次はもっと頑張ってね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc44012_47wins_frangipani_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_002.animset].pc_animset",
+				"languages": {
+					"en": "//[FRANGIPANI]\\\\//(0,3.076687)\\\\I can't believe you took that round.//(3.076687,33.07669)\\\\Must have been a fluke.",
+					"fr": "//[FRANGIPANI]\\\\//(0,30)\\\\J'ai peine à croire que vous ayez remporté cette manche. Un coup de chance.",
+					"it": "//[FRANGIPANI]\\\\//(0,30)\\\\Non riesco a credere che tu abbia vinto quel round. Deve essere stato un colpo di fortuna.",
+					"de": "//[FRANGIPANI]\\\\//(0,30)\\\\Ich kann kaum glauben, dass Sie sich diese Runde geholt haben. Muss ein Ausreißer gewesen sein.",
+					"es": "//[FRANGIPANI]\\\\//(0,30)\\\\Me parece increíble que te hayas llevado esa ronda. Ha debido ser un golpe de suerte.",
+					"ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Поверить не могу, что ты взял этот раунд. Видимо, по случайности.",
+					"cn": "//[FRANGIPANI]\\\\//(0,30)\\\\不敢相信那回合你居然赢了。肯定是侥幸。",
+					"tc": "//[FRANGIPANI]\\\\//(0,30)\\\\真不敢相信，你竟然贏了那一回合。肯定是狗屎運。",
+					"jp": "//[FRANGIPANI]\\\\//(0,30)\\\\あなたがあのラウンドを取るとは思わなかった。まぐれだろうね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc44012_47wins_frangipani_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44012_47wins_frangipani_003.animset].pc_animset",
+				"languages": {
+					"en": "//[FRANGIPANI]\\\\//(0,30)\\\\He let you have that one.",
+					"fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Il vous a donné la manche.",
+					"it": "//[FRANGIPANI]\\\\//(0,30)\\\\Quello te l'ha lasciato.",
+					"de": "//[FRANGIPANI]\\\\//(0,30)\\\\Den hat er Ihnen überlassen.",
+					"es": "//[FRANGIPANI]\\\\//(0,30)\\\\Pfff. Te ha dejado ganar, está claro.",
+					"ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Пф. Да он тебе поддался.",
+					"cn": "//[FRANGIPANI]\\\\//(0,30)\\\\嘁。他故意让你赢的。",
+					"tc": "//[FRANGIPANI]\\\\//(0,30)\\\\切，那是他在放水。",
+					"jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ふうー。彼が取らせてくれたんじゃない。"
+				}
+			}
+		]
+	}
 }

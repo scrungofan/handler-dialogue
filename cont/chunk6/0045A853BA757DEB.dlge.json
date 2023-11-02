@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43708_dontkill.sweetdialog?/pdlc43708_dontkill_makoyana_002.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43708_dontkill_makoyana_002",
-        "soundtag": "Voiceover_Handler_Dream",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43708_dontkill_makoyana_002.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43708_dontkill_makoyana_002.animset].pc_animset",
-        "languages": {
-            "en": "//[MAKOYANA]\\\\//(0,30)\\\\Not worth your time.",
-            "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Ça n'en vaut pas la peine.",
-            "it": "//[MAKOYANA]\\\\//(0,30)\\\\Non perdere tempo.",
-            "de": "//[MAKOYANA]\\\\//(0,30)\\\\Das lohnt Ihre Zeit nicht.",
-            "es": "//[MAKOYANA]\\\\//(0,30)\\\\No merece la pena.",
-            "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Не трать время.",
-            "cn": "//[MAKOYANA]\\\\//(0,30)\\\\不值得你花时间。",
-            "tc": "//[MAKOYANA]\\\\//(0,30)\\\\這不值得你去浪費時間。",
-            "jp": "//[MAKOYANA]\\\\//(0,30)\\\\くだらないことに時間をかけるな。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43708_dontkill.sweetdialog?/pdlc43708_dontkill_makoyana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43708_dontkill_makoyana_002",
+		"soundtag": "Voiceover_Handler_Dream",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43708_dontkill_makoyana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43708_dontkill_makoyana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[MAKOYANA]\\\\//(0,30)\\\\Not worth your time.",
+			"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Ça n'en vaut pas la peine.",
+			"it": "//[MAKOYANA]\\\\//(0,30)\\\\Non perdere tempo.",
+			"de": "//[MAKOYANA]\\\\//(0,30)\\\\Das lohnt Ihre Zeit nicht.",
+			"es": "//[MAKOYANA]\\\\//(0,30)\\\\No merece la pena.",
+			"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Не трать время.",
+			"cn": "//[MAKOYANA]\\\\//(0,30)\\\\不值得你花时间。",
+			"tc": "//[MAKOYANA]\\\\//(0,30)\\\\這不值得你去浪費時間。",
+			"jp": "//[MAKOYANA]\\\\//(0,30)\\\\くだらないことに時間をかけるな。"
+		}
+	}
 }

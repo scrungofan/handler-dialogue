@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32584_mp_khabkobeating_stone.sweetdialog?/ds32584_mp_khabkobeating_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32584_mp_khabkobeating_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32584_mp_khabkobeating_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32584_mp_khabkobeating_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Khabko's laying down a mighty beating on one of the other prisoners. Looks bad...",
-            "fr": "//(0,30)\\\\Khabko est en train de défoncer un autre prisonnier. ... Il n'y va pas de main morte.",
-            "it": "//(0,30)\\\\Khabko sta facendo a pezzi uno degli altri prigionieri. La situazione sembra brutta...",
-            "de": "//(0,30)\\\\Khabko verpasst gerade einem anderen Gefangenen eine mächtige Abreibung. Sieht übel aus ...",
-            "es": "//(0,30)\\\\Roman Khabko está zurrando de lo lindo a uno de los prisioneros. Tiene mala pinta...",
-            "ru": "//(0,30)\\\\Хабко избивает одного из заключенных и не собирается останавливаться. Похоже, дело серьезное.",
-            "cn": "//(0,30)\\\\卡布科正在对一名囚犯拳打脚踢。真惨......",
-            "tc": "//(0,30)\\\\卡伯克正在痛揍另一名囚犯。看起來很糟糕......",
-            "jp": "//(0,30)\\\\カブコが囚人をボコボコにしてるな。悪趣味な..."
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32584_mp_khabkobeating_stone.sweetdialog?/ds32584_mp_khabkobeating_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32584_mp_khabkobeating_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32584_mp_khabkobeating_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32584_mp_khabkobeating_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Khabko's laying down a mighty beating on one of the other prisoners. Looks bad...",
+			"fr": "//(0,30)\\\\Khabko est en train de défoncer un autre prisonnier. ... Il n'y va pas de main morte.",
+			"it": "//(0,30)\\\\Khabko sta facendo a pezzi uno degli altri prigionieri. La situazione sembra brutta...",
+			"de": "//(0,30)\\\\Khabko verpasst gerade einem anderen Gefangenen eine mächtige Abreibung. Sieht übel aus ...",
+			"es": "//(0,30)\\\\Roman Khabko está zurrando de lo lindo a uno de los prisioneros. Tiene mala pinta...",
+			"ru": "//(0,30)\\\\Хабко избивает одного из заключенных и не собирается останавливаться. Похоже, дело серьезное.",
+			"cn": "//(0,30)\\\\卡布科正在对一名囚犯拳打脚踢。真惨......",
+			"tc": "//(0,30)\\\\卡伯克正在痛揍另一名囚犯。看起來很糟糕......",
+			"jp": "//(0,30)\\\\カブコが囚人をボコボコにしてるな。悪趣味な..."
+		}
+	}
 }

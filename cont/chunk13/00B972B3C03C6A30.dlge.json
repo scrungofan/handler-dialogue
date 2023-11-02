@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32033_mp_dragoneyeid_knight.sweetdialog?/ds32033_mp_dragoneyeid_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32033_mp_dragoneyeid_knight_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32033_mp_dragoneyeid_knight_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32033_mp_dragoneyeid_knight_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,3.958)\\\\Well, it's certainly not hard to see why they call this guy \"Dragon Eye\".//(3.958,33.958)\\\\Mean looking guy, isn't he?",
-            "fr": "//(0,3.45)\\\\On comprend tout à fait pourquoi il se fait appeler Œil de dragon quand on le voit.//(3.45,33.45)\\\\Terrifiant, n'est-ce pas ?",
-            "it": "//(0,30)\\\\Beh, si capisce subito perché questo tizio è soprannominato \"Occhio di drago\". Ha proprio l'aria da cattivo, eh?",
-            "de": "//(0,30)\\\\Nun, es ist sicher nicht schwer zu erkennen, warum man diesen Kerl „das Drachenauge“ nennt. Fies aussehender Typ, oder nicht?",
-            "es": "//(0,30)\\\\Bueno, entiendo por qué llaman a este tipo «Ojo de Dragón». Tiene pinta de tipo duro, ¿eh?",
-            "ru": "//(0,30)\\\\Ну, по крайней мере, понятно, почему этого парня называют Глазом дракона. Жуткий у него видок, да?",
-            "cn": "//(0,30)\\\\嗯，难怪这家伙人称“龙眼”。看起来还挺凶的呢。",
-            "tc": "//(0,30)\\\\嗯，也難怪這傢伙會被稱為「獨眼龍」。他看起來挺凶悍的，是吧？",
-            "jp": "//(0,30)\\\\この男が「龍の目」と呼ばれる理由はすぐにわかる。納得の面構えでしょ？"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32033_mp_dragoneyeid_knight.sweetdialog?/ds32033_mp_dragoneyeid_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32033_mp_dragoneyeid_knight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32033_mp_dragoneyeid_knight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32033_mp_dragoneyeid_knight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.958)\\\\Well, it's certainly not hard to see why they call this guy \"Dragon Eye\".//(3.958,33.958)\\\\Mean looking guy, isn't he?",
+			"fr": "//(0,3.45)\\\\On comprend tout à fait pourquoi il se fait appeler Œil de dragon quand on le voit.//(3.45,33.45)\\\\Terrifiant, n'est-ce pas ?",
+			"it": "//(0,30)\\\\Beh, si capisce subito perché questo tizio è soprannominato \"Occhio di drago\". Ha proprio l'aria da cattivo, eh?",
+			"de": "//(0,30)\\\\Nun, es ist sicher nicht schwer zu erkennen, warum man diesen Kerl „das Drachenauge“ nennt. Fies aussehender Typ, oder nicht?",
+			"es": "//(0,30)\\\\Bueno, entiendo por qué llaman a este tipo «Ojo de Dragón». Tiene pinta de tipo duro, ¿eh?",
+			"ru": "//(0,30)\\\\Ну, по крайней мере, понятно, почему этого парня называют Глазом дракона. Жуткий у него видок, да?",
+			"cn": "//(0,30)\\\\嗯，难怪这家伙人称“龙眼”。看起来还挺凶的呢。",
+			"tc": "//(0,30)\\\\嗯，也難怪這傢伙會被稱為「獨眼龍」。他看起來挺凶悍的，是吧？",
+			"jp": "//(0,30)\\\\この男が「龍の目」と呼ばれる理由はすぐにわかる。納得の面構えでしょ？"
+		}
+	}
 }

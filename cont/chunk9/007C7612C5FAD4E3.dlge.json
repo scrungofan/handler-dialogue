@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "dr20108_mp_evacinprogress_knight_knight_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_001.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Oh no, they’ve begun evac. Let’s kick this up a gear.",
-                    "fr": "//(0,30)\\\\Mince, ils ont commencé à évacuer. Il est temps de passer à la vitesse supérieure.",
-                    "it": "//(0,30)\\\\Oh no, hanno iniziato a far evacuare tutti quanti. Vediamo di premere sull'acceleratore.",
-                    "de": "//(0,30)\\\\Oh nein! Man hat mit der Evakuierung begonnen. Legen wir mal einen Zahn zu.",
-                    "es": "//(0,30)\\\\Oh, no. Han comenzado la evacuación. Tendremos que acelerar.",
-                    "ru": "//(0,30)\\\\О нет, они начали эвакуацию. Давай-ка прибавим оборотов!",
-                    "cn": "//(0,30)\\\\不好，他们开始撤退了。我们加快速度。",
-                    "tc": "//(0,30)\\\\噢不，他們要開始撤離了。我們動作加快。",
-                    "jp": "//(0,30)\\\\まずい、避難し始めたわ！急ぎましょう。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20108_mp_evacinprogress_knight_knight_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_002.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\They’ve raised the alarm, Stone. We need to pop ‘em before they all escape.",
-                    "fr": "//(0,30)\\\\Ils ont sonné l'alarme, Stone. Il faut les éliminer avant qu'ils partent.",
-                    "it": "//(0,30)\\\\Hanno dato l'allarme, Stone. Dobbiamo sparargli prima che scappino tutti.",
-                    "de": "//(0,30)\\\\Man hat den Alarm ausgelöst, Stone. Wir müssen sie erledigen, bevor alle entkommen können.",
-                    "es": "//(0,30)\\\\Han dado la alarma, Stone. Debemos eliminarlos antes de que escapen.",
-                    "ru": "//(0,30)\\\\Они подняли тревогу, Стоун. Нужно прикончить их, пока не сбежали.",
-                    "cn": "//(0,30)\\\\斯通，他们拉响了警报。趁他们还没全部撤离，我们得干掉他们。",
-                    "tc": "//(0,30)\\\\他們響起了警報，斯通。我們得在他們逃脫前幹掉他們。",
-                    "jp": "//(0,30)\\\\警報が鳴ったわ、ストーン。逃げられる前に片付けないと。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20108_mp_evacinprogress_knight_knight_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_003.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\The alarm’s gone off. Everyone’s running for it, Stone. Let’s wrap this up.",
-                    "fr": "//(0,30)\\\\L'alarme a été déclenchée. Ils se font tous la malle, Stone ! Remue-toi.",
-                    "it": "//(0,30)\\\\L'allarme è partito. Se ne stanno andando tutti, Stone. Concludiamo.",
-                    "de": "//(0,30)\\\\Der Alarm ist losgegangen. Alle nehmen die Beine in die Hand, Stone. Ziehen wir einen Schlussstrich.",
-                    "es": "//(0,30)\\\\Ha saltado la alarma. Todo el mundo está huyendo, Stone. Acabemos con esto.",
-                    "ru": "//(0,30)\\\\Подняли тревогу. Все убегают, Стоун. Нужно заканчивать с этим.",
-                    "cn": "//(0,30)\\\\警报声响了。斯通，人人都在逃命。我们快把任务完成吧。",
-                    "tc": "//(0,30)\\\\警報響起了。大家都在逃跑，斯通。我們趕快結束這事。",
-                    "jp": "//(0,30)\\\\警報が鳴ったわ。皆逃げ出してる。早く終わらせましょう。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20108_mp_evacinprogress_knight_knight_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Oh no, they’ve begun evac. Let’s kick this up a gear.",
+					"fr": "//(0,30)\\\\Mince, ils ont commencé à évacuer. Il est temps de passer à la vitesse supérieure.",
+					"it": "//(0,30)\\\\Oh no, hanno iniziato a far evacuare tutti quanti. Vediamo di premere sull'acceleratore.",
+					"de": "//(0,30)\\\\Oh nein! Man hat mit der Evakuierung begonnen. Legen wir mal einen Zahn zu.",
+					"es": "//(0,30)\\\\Oh, no. Han comenzado la evacuación. Tendremos que acelerar.",
+					"ru": "//(0,30)\\\\О нет, они начали эвакуацию. Давай-ка прибавим оборотов!",
+					"cn": "//(0,30)\\\\不好，他们开始撤退了。我们加快速度。",
+					"tc": "//(0,30)\\\\噢不，他們要開始撤離了。我們動作加快。",
+					"jp": "//(0,30)\\\\まずい、避難し始めたわ！急ぎましょう。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20108_mp_evacinprogress_knight_knight_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\They’ve raised the alarm, Stone. We need to pop ‘em before they all escape.",
+					"fr": "//(0,30)\\\\Ils ont sonné l'alarme, Stone. Il faut les éliminer avant qu'ils partent.",
+					"it": "//(0,30)\\\\Hanno dato l'allarme, Stone. Dobbiamo sparargli prima che scappino tutti.",
+					"de": "//(0,30)\\\\Man hat den Alarm ausgelöst, Stone. Wir müssen sie erledigen, bevor alle entkommen können.",
+					"es": "//(0,30)\\\\Han dado la alarma, Stone. Debemos eliminarlos antes de que escapen.",
+					"ru": "//(0,30)\\\\Они подняли тревогу, Стоун. Нужно прикончить их, пока не сбежали.",
+					"cn": "//(0,30)\\\\斯通，他们拉响了警报。趁他们还没全部撤离，我们得干掉他们。",
+					"tc": "//(0,30)\\\\他們響起了警報，斯通。我們得在他們逃脫前幹掉他們。",
+					"jp": "//(0,30)\\\\警報が鳴ったわ、ストーン。逃げられる前に片付けないと。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20108_mp_evacinprogress_knight_knight_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20108_mp_evacinprogress_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The alarm’s gone off. Everyone’s running for it, Stone. Let’s wrap this up.",
+					"fr": "//(0,30)\\\\L'alarme a été déclenchée. Ils se font tous la malle, Stone ! Remue-toi.",
+					"it": "//(0,30)\\\\L'allarme è partito. Se ne stanno andando tutti, Stone. Concludiamo.",
+					"de": "//(0,30)\\\\Der Alarm ist losgegangen. Alle nehmen die Beine in die Hand, Stone. Ziehen wir einen Schlussstrich.",
+					"es": "//(0,30)\\\\Ha saltado la alarma. Todo el mundo está huyendo, Stone. Acabemos con esto.",
+					"ru": "//(0,30)\\\\Подняли тревогу. Все убегают, Стоун. Нужно заканчивать с этим.",
+					"cn": "//(0,30)\\\\警报声响了。斯通，人人都在逃命。我们快把任务完成吧。",
+					"tc": "//(0,30)\\\\警報響起了。大家都在逃跑，斯通。我們趕快結束這事。",
+					"jp": "//(0,30)\\\\警報が鳴ったわ。皆逃げ出してる。早く終わらせましょう。"
+				}
+			}
+		]
+	}
 }

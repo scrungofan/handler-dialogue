@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32080_mp_toiletshot2.sweetdialog?/ds32080_mp_toiletshot2_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32080_mp_toiletshot2_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32080_mp_toiletshot2_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32080_mp_toiletshot2_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Yeah, they're going to need a plumber to fix that...",
-            "fr": "//(0,30)\\\\J'espère qu'ils ont un bon plombier...",
-            "it": "//(0,30)\\\\Già, servirà un idraulico per sistemarlo...",
-            "de": "//(0,30)\\\\Tja, die werden einen Klempner brauchen, um das zu reparieren ...",
-            "es": "//(0,30)\\\\Pues van a necesitar a un fontanero para arreglar eso...",
-            "ru": "//(0,30)\\\\Ага. Теперь им точно понадобится сантехник...",
-            "cn": "//(0,30)\\\\嘿嘿，他们得找水管工来才能修好了。",
-            "tc": "//(0,30)\\\\嗯，這下他們可得找個水工來修這東西......",
-            "jp": "//(0,30)\\\\あれの修理には配管工が必要だな..."
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32080_mp_toiletshot2.sweetdialog?/ds32080_mp_toiletshot2_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32080_mp_toiletshot2_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32080_mp_toiletshot2_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32080_mp_toiletshot2_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Yeah, they're going to need a plumber to fix that...",
+			"fr": "//(0,30)\\\\J'espère qu'ils ont un bon plombier...",
+			"it": "//(0,30)\\\\Già, servirà un idraulico per sistemarlo...",
+			"de": "//(0,30)\\\\Tja, die werden einen Klempner brauchen, um das zu reparieren ...",
+			"es": "//(0,30)\\\\Pues van a necesitar a un fontanero para arreglar eso...",
+			"ru": "//(0,30)\\\\Ага. Теперь им точно понадобится сантехник...",
+			"cn": "//(0,30)\\\\嘿嘿，他们得找水管工来才能修好了。",
+			"tc": "//(0,30)\\\\嗯，這下他們可得找個水工來修這東西......",
+			"jp": "//(0,30)\\\\あれの修理には配管工が必要だな..."
+		}
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32563_mp_rioteastbuildingfire_knight.sweetdialog?/ds32563_mp_rioteastbuildingfire_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32563_mp_rioteastbuildingfire_knight_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32563_mp_rioteastbuildingfire_knight_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32563_mp_rioteastbuildingfire_knight_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\East tower is on fire. These prisoners are really getting into it. Anyone caught in there will not make it out alive.",
-            "fr": "//(0,30)\\\\La tour est a pris feu. On peut dire que les prisonniers ont de l'énergie à revendre. Quiconque est pris là-dedans n'y survivra pas.",
-            "it": "//(0,30)\\\\La torre est va a fuoco. I detenuti ci stanno andando pesante. Chiunque ci si troverà in mezzo non ne uscirà vivo.",
-            "de": "//(0,30)\\\\Der Ostturm steht in Flammen. Diese Häftlinge steigern sich aber ganz schön rein. Jeder, der dort hineingerät, kommt lebend nicht mehr raus.",
-            "es": "//(0,30)\\\\La torre del este está en llamas. Estos prisioneros le están poniendo muchas ganas. Dudo mucho que la gente atrapada ahí pueda salir con vida.",
-            "ru": "//(0,30)\\\\Восточная вышка горит. Заключенные разошлись не на шутку. Те, кто сейчас находится там, не выживут.",
-            "cn": "//(0,30)\\\\东部塔楼失火了。这些囚犯动真格的了。里面的人必死无疑。",
-            "tc": "//(0,30)\\\\東塔著火了。這些囚犯越來越激動了。被困在那裡的人都死定了。",
-            "jp": "//(0,3.92)\\\\東棟に火が付いた。囚人たちも本気になってきたみたいね。//(3.92,33.92)\\\\あれに巻き込まれたら誰も生きて出てこれないでしょう。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32563_mp_rioteastbuildingfire_knight.sweetdialog?/ds32563_mp_rioteastbuildingfire_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32563_mp_rioteastbuildingfire_knight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32563_mp_rioteastbuildingfire_knight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32563_mp_rioteastbuildingfire_knight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\East tower is on fire. These prisoners are really getting into it. Anyone caught in there will not make it out alive.",
+			"fr": "//(0,30)\\\\La tour est a pris feu. On peut dire que les prisonniers ont de l'énergie à revendre. Quiconque est pris là-dedans n'y survivra pas.",
+			"it": "//(0,30)\\\\La torre est va a fuoco. I detenuti ci stanno andando pesante. Chiunque ci si troverà in mezzo non ne uscirà vivo.",
+			"de": "//(0,30)\\\\Der Ostturm steht in Flammen. Diese Häftlinge steigern sich aber ganz schön rein. Jeder, der dort hineingerät, kommt lebend nicht mehr raus.",
+			"es": "//(0,30)\\\\La torre del este está en llamas. Estos prisioneros le están poniendo muchas ganas. Dudo mucho que la gente atrapada ahí pueda salir con vida.",
+			"ru": "//(0,30)\\\\Восточная вышка горит. Заключенные разошлись не на шутку. Те, кто сейчас находится там, не выживут.",
+			"cn": "//(0,30)\\\\东部塔楼失火了。这些囚犯动真格的了。里面的人必死无疑。",
+			"tc": "//(0,30)\\\\東塔著火了。這些囚犯越來越激動了。被困在那裡的人都死定了。",
+			"jp": "//(0,3.92)\\\\東棟に火が付いた。囚人たちも本気になってきたみたいね。//(3.92,33.92)\\\\あれに巻き込まれたら誰も生きて出てこれないでしょう。"
+		}
+	}
 }

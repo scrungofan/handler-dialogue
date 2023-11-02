@@ -1,30 +1,30 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43704_introlevel03comeback.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43704_introlevel03comeback_makoyana_001",
-                "weight": 1.0,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43704_introlevel03comeback_makoyana_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43704_introlevel03comeback_makoyana_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,5.95)\\\\You started off so well but couldn't resist the temptation of playing it safe.//(5.95,35.95)\\\\Don't get lazy now. Let's finish on a spectacular note, shall we?",
-                    "fr": "//[MAKOYANA]\\\\//(0,5.76)\\\\Vous aviez si bien commencé, mais vous avez succombé à la tentation de la sécurité.//(5.76,35.76)\\\\Ne soyez pas fainéant. Finissons sur une note spectaculaire, voulez-vous ?",
-                    "it": "//[MAKOYANA]\\\\//(0,5.85)\\\\Hai cominciato bene, ma non hai resistito alla tentazione di andare sul sicuro.//(5.85,11.08)\\\\Ora non cedere alla pigrizia, vediamo di finire in maniera spettacolare, eh?",
-                    "de": "//[MAKOYANA]\\\\//(0,3.712)\\\\Sie haben so gut angefangen, aber dann konnten Sie der Versuchung nicht widerstehen,//(3.712,5.239)\\\\doch auf Nummer sicher zu gehen.//(5.239,35.239)\\\\Werden Sie jetzt nicht faul. Bringen wir das Ganze spektakulär zu Ende, ja?",
-                    "es": "//[MAKOYANA]\\\\//(0,5.4)\\\\Empezaste muy bien, pero al final caíste en la tentación de jugar sobre seguro.//(5.8,8)\\\\No me seas vago, anda.//(8,11)\\\\Quiero que nos ofrezcas un gran espectáculo final, ¿vale?",
-                    "ru": "//[MAKOYANA]\\\\//(0,3.7)\\\\Ты здорово начал, но не устоял перед искушением//(3.7,6)\\\\сбавить темп и стал осторожничать.//(6,36)\\\\Не расслабляйся: нам ведь нужно закончить дело на мажорной ноте?",
-                    "cn": "//[MAKOYANA]\\\\//(0,5.86)\\\\你开局不错，但还是没抵挡住求稳的诱惑。//(5.86,35.86)\\\\别偷懒了。既然想引人注目，那就要有始有终，好吗？",
-                    "tc": "//[MAKOYANA]\\\\//(0,5.8)\\\\你一開始表現不錯，但是你卻忍不住使用安全的手段。//(5.8,35.8)\\\\別現在給我偷懶，讓我們瀟灑地畫下句點吧？",
-                    "jp": "//[MAKOYANA]\\\\//(0,5.645)\\\\出だしは好調だったにもかかわらず、結局は安全第一か。//(5.645,35.645)\\\\手を抜くなよ。フィナーレはきちんと決めろ。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43704_introlevel03comeback.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43704_introlevel03comeback_makoyana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43704_introlevel03comeback_makoyana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43704_introlevel03comeback_makoyana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,5.95)\\\\You started off so well but couldn't resist the temptation of playing it safe.//(5.95,35.95)\\\\Don't get lazy now. Let's finish on a spectacular note, shall we?",
+					"fr": "//[MAKOYANA]\\\\//(0,5.76)\\\\Vous aviez si bien commencé, mais vous avez succombé à la tentation de la sécurité.//(5.76,35.76)\\\\Ne soyez pas fainéant. Finissons sur une note spectaculaire, voulez-vous ?",
+					"it": "//[MAKOYANA]\\\\//(0,5.85)\\\\Hai cominciato bene, ma non hai resistito alla tentazione di andare sul sicuro.//(5.85,11.08)\\\\Ora non cedere alla pigrizia, vediamo di finire in maniera spettacolare, eh?",
+					"de": "//[MAKOYANA]\\\\//(0,3.712)\\\\Sie haben so gut angefangen, aber dann konnten Sie der Versuchung nicht widerstehen,//(3.712,5.239)\\\\doch auf Nummer sicher zu gehen.//(5.239,35.239)\\\\Werden Sie jetzt nicht faul. Bringen wir das Ganze spektakulär zu Ende, ja?",
+					"es": "//[MAKOYANA]\\\\//(0,5.4)\\\\Empezaste muy bien, pero al final caíste en la tentación de jugar sobre seguro.//(5.8,8)\\\\No me seas vago, anda.//(8,11)\\\\Quiero que nos ofrezcas un gran espectáculo final, ¿vale?",
+					"ru": "//[MAKOYANA]\\\\//(0,3.7)\\\\Ты здорово начал, но не устоял перед искушением//(3.7,6)\\\\сбавить темп и стал осторожничать.//(6,36)\\\\Не расслабляйся: нам ведь нужно закончить дело на мажорной ноте?",
+					"cn": "//[MAKOYANA]\\\\//(0,5.86)\\\\你开局不错，但还是没抵挡住求稳的诱惑。//(5.86,35.86)\\\\别偷懒了。既然想引人注目，那就要有始有终，好吗？",
+					"tc": "//[MAKOYANA]\\\\//(0,5.8)\\\\你一開始表現不錯，但是你卻忍不住使用安全的手段。//(5.8,35.8)\\\\別現在給我偷懶，讓我們瀟灑地畫下句點吧？",
+					"jp": "//[MAKOYANA]\\\\//(0,5.645)\\\\出だしは好調だったにもかかわらず、結局は安全第一か。//(5.645,35.645)\\\\手を抜くなよ。フィナーレはきちんと決めろ。"
+				}
+			}
+		]
+	}
 }

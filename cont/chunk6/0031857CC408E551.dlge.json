@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43801_introlevel02.sweetdialog?/pdlc43801_introlevel02_azelea_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43801_introlevel02_azelea_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43801_introlevel02_azelea_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43801_introlevel02_azelea_001.animset].pc_animset",
-        "languages": {
-            "en": "//[AZELEA]\\\\//(0,5.1)\\\\Well done 47. And what an appetizer!//(5.1,13.6)\\\\But Piggy wants more. Piggy wants a main course. He wants Surf and Turf!//(13.6,43.6)\\\\Can you satisfy his unquenchable hunger? Now go.",
-            "fr": "//[AZELEA]\\\\//(0,5.25)\\\\Bien joué, 47. Et quelle entrée !//(5.25,13.6)\\\\Mais Cochonnet en veut plus. Cochonnet veut un plat principal. Il veut du Surf and Turf !//(13.6,43.6)\\\\Saurez-vous satisfaire son appétit insatiable ? Allez !",
-            "it": "//[AZELEA]\\\\//(0,5.2)\\\\Ben fatto, 47. Che antipasto!//(5.2,13.6)\\\\Ma Maialetto non è ancora sazio. Maialetto vuole la portata principale. Vuole un piatto mari e monti!//(13.6,43.6)\\\\Riuscirai a soddisfare la sua fame inesauribile? Ora va'.",
-            "de": "//[AZELEA]\\\\//(0,2.35)\\\\Gut gemacht, 47.//(2.35,5)\\\\Und was für ein Appetithäppchen!//(5,7.5)\\\\Aber das Schweinchen will mehr.//(7.5,10)\\\\Das Schweinchen will einen Hauptgang.//(10,14)\\\\Es will Surf-and-Turf!//(14,16.70859)\\\\Können Sie seinen unstillbaren Hunger befriedigen?//(16.70859,46.70859)\\\\Na los.",
-            "es": "//[AZELEA]\\\\//(0,5.25)\\\\Bien hecho, 47. ¡Menudo aperitivo!//(5.25,13.4)\\\\Pero Cerdito quiere más. Ahora desea un plato principal. Quiere carne roja y marisco.//(13.7,43.7)\\\\¿Puedes satisfacer su apetito insaciable? Anda, ve.",
-            "ru": "//[AZELEA]\\\\//(0,5.25)\\\\Молодец, 47-й! Какая сытная закуска!//(5.25,9.98)\\\\Но Хрюша хочет еще. Хрюша хочет второе блюдо.//(9.98,13.72)\\\\Он требует мясного и рыбного!//(13.72,43.72)\\\\Сумеешь ли ты утолить его ненасытный голод? Действуй.",
-            "cn": "//[AZELEA]\\\\//(0,5.1)\\\\干得好，47。了不起的前菜！//(5.1,13.7)\\\\但小猪想要更多。小猪想要一道主菜。他想要海陆大餐！//(13.7,43.7)\\\\你能满足他无止境的饥饿吗？去吧。",
-            "tc": "//[AZELEA]\\\\//(0,7.5)\\\\做得好，47。真棒的前菜！但小豬還沒滿足。//(7.5,13.7)\\\\小豬想吃主菜。他要海陸雙拼！//(13.7,43.7)\\\\你能不能滿足他永無止境的胃口？快去吧。",
-            "jp": "//[AZELEA]\\\\//(0,5.2)\\\\よくやったぞ、47。たいしたオードブルじゃないか！//(5.2,7.6)\\\\でも、子ブタちゃんは満足していない。//(7.6,13.655)\\\\メイン料理が欲しいようだ。ずばり魚と肉だ！//(13.655,43.655)\\\\底なしの食欲を満たしてやれるかな？さあ、行け。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43801_introlevel02.sweetdialog?/pdlc43801_introlevel02_azelea_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43801_introlevel02_azelea_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43801_introlevel02_azelea_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43801_introlevel02_azelea_001.animset].pc_animset",
+		"languages": {
+			"en": "//[AZELEA]\\\\//(0,5.1)\\\\Well done 47. And what an appetizer!//(5.1,13.6)\\\\But Piggy wants more. Piggy wants a main course. He wants Surf and Turf!//(13.6,43.6)\\\\Can you satisfy his unquenchable hunger? Now go.",
+			"fr": "//[AZELEA]\\\\//(0,5.25)\\\\Bien joué, 47. Et quelle entrée !//(5.25,13.6)\\\\Mais Cochonnet en veut plus. Cochonnet veut un plat principal. Il veut du Surf and Turf !//(13.6,43.6)\\\\Saurez-vous satisfaire son appétit insatiable ? Allez !",
+			"it": "//[AZELEA]\\\\//(0,5.2)\\\\Ben fatto, 47. Che antipasto!//(5.2,13.6)\\\\Ma Maialetto non è ancora sazio. Maialetto vuole la portata principale. Vuole un piatto mari e monti!//(13.6,43.6)\\\\Riuscirai a soddisfare la sua fame inesauribile? Ora va'.",
+			"de": "//[AZELEA]\\\\//(0,2.35)\\\\Gut gemacht, 47.//(2.35,5)\\\\Und was für ein Appetithäppchen!//(5,7.5)\\\\Aber das Schweinchen will mehr.//(7.5,10)\\\\Das Schweinchen will einen Hauptgang.//(10,14)\\\\Es will Surf-and-Turf!//(14,16.70859)\\\\Können Sie seinen unstillbaren Hunger befriedigen?//(16.70859,46.70859)\\\\Na los.",
+			"es": "//[AZELEA]\\\\//(0,5.25)\\\\Bien hecho, 47. ¡Menudo aperitivo!//(5.25,13.4)\\\\Pero Cerdito quiere más. Ahora desea un plato principal. Quiere carne roja y marisco.//(13.7,43.7)\\\\¿Puedes satisfacer su apetito insaciable? Anda, ve.",
+			"ru": "//[AZELEA]\\\\//(0,5.25)\\\\Молодец, 47-й! Какая сытная закуска!//(5.25,9.98)\\\\Но Хрюша хочет еще. Хрюша хочет второе блюдо.//(9.98,13.72)\\\\Он требует мясного и рыбного!//(13.72,43.72)\\\\Сумеешь ли ты утолить его ненасытный голод? Действуй.",
+			"cn": "//[AZELEA]\\\\//(0,5.1)\\\\干得好，47。了不起的前菜！//(5.1,13.7)\\\\但小猪想要更多。小猪想要一道主菜。他想要海陆大餐！//(13.7,43.7)\\\\你能满足他无止境的饥饿吗？去吧。",
+			"tc": "//[AZELEA]\\\\//(0,7.5)\\\\做得好，47。真棒的前菜！但小豬還沒滿足。//(7.5,13.7)\\\\小豬想吃主菜。他要海陸雙拼！//(13.7,43.7)\\\\你能不能滿足他永無止境的胃口？快去吧。",
+			"jp": "//[AZELEA]\\\\//(0,5.2)\\\\よくやったぞ、47。たいしたオードブルじゃないか！//(5.2,7.6)\\\\でも、子ブタちゃんは満足していない。//(7.6,13.655)\\\\メイン料理が欲しいようだ。ずばり魚と肉だ！//(13.655,43.655)\\\\底なしの食欲を満たしてやれるかな？さあ、行け。"
+		}
+	}
 }

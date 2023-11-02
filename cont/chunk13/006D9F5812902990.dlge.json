@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32058_mp_spidermoveshostages_stone.sweetdialog?/ds32058_mp_spidermoveshostages_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32058_mp_spidermoveshostages_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32058_mp_spidermoveshostages_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32058_mp_spidermoveshostages_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Hm, Captain Thak is moving the hostages. They can't be allowed to get on the ship, Knight.",
-            "fr": "//(0,30)\\\\Hm, Thak emmène les otages. On ne peut pas les laisser monter à bord de ce cargo, Knight.",
-            "it": "//(0,30)\\\\Mh, il capitano Thak sta spostando gli ostaggi. Non possiamo lasciarli salire sulla nave, Knight.",
-            "de": "//(0,30)\\\\Hm, Hauptmann Thak verlegt die Geiseln. Sie dürfen nicht an Bord des Schiffs gelangen, Knight.",
-            "es": "//(0,30)\\\\Mmm, la capitana Thak está trasladando a los rehenes. No podemos permitir que lleguen al barco, Knight.",
-            "ru": "//(0,30)\\\\Хм-м-м. Капитан Так ведёт заложников. Нельзя, чтобы их погрузили на корабль, Найт.",
-            "cn": "//(0,30)\\\\嗯，萨上尉正在押送人质。奈特，不能让他们上船。",
-            "tc": "//(0,30)\\\\嗯，卓上尉正在移動人質。不能讓他們上船，奈特。",
-            "jp": "//(0,30)\\\\タク大尉が人質を移動させている。奴らを乗船させるなよ、ナイト。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32058_mp_spidermoveshostages_stone.sweetdialog?/ds32058_mp_spidermoveshostages_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32058_mp_spidermoveshostages_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32058_mp_spidermoveshostages_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32058_mp_spidermoveshostages_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Hm, Captain Thak is moving the hostages. They can't be allowed to get on the ship, Knight.",
+			"fr": "//(0,30)\\\\Hm, Thak emmène les otages. On ne peut pas les laisser monter à bord de ce cargo, Knight.",
+			"it": "//(0,30)\\\\Mh, il capitano Thak sta spostando gli ostaggi. Non possiamo lasciarli salire sulla nave, Knight.",
+			"de": "//(0,30)\\\\Hm, Hauptmann Thak verlegt die Geiseln. Sie dürfen nicht an Bord des Schiffs gelangen, Knight.",
+			"es": "//(0,30)\\\\Mmm, la capitana Thak está trasladando a los rehenes. No podemos permitir que lleguen al barco, Knight.",
+			"ru": "//(0,30)\\\\Хм-м-м. Капитан Так ведёт заложников. Нельзя, чтобы их погрузили на корабль, Найт.",
+			"cn": "//(0,30)\\\\嗯，萨上尉正在押送人质。奈特，不能让他们上船。",
+			"tc": "//(0,30)\\\\嗯，卓上尉正在移動人質。不能讓他們上船，奈特。",
+			"jp": "//(0,30)\\\\タク大尉が人質を移動させている。奴らを乗船させるなよ、ナイト。"
+		}
+	}
 }

@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43728_l2targetkillgood.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43728_l2targetkillgood_makoyana_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\I don't really see any sport in this. Do you?",
-                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Il faudra me dire où vous trouvez le défi là-dedans.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Niente di che. Sei d'accordo?",
-                    "de": "//[MAKOYANA]\\\\//(0,30)\\\\Ich sehe da nicht die Herausforderung. Sehen Sie sie?",
-                    "es": "//[MAKOYANA]\\\\//(0,30)\\\\No termino de verle la gracia a esto con ese enfoque. ¿Y tú?",
-                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Я не вижу в этом испытания. Вызова. А ты?",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\我看不出这里面有什么乐趣。你觉得呢？",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\這看起來一點難度也沒有，對吧？",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\これのどこが面白いんだ？教えてくれ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43728_l2targetkillgood_makoyana_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\Well, that was... bland. I thought you were a top assassin.",
-                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Eh bien, c'était d'un ennui... Moi qui vous prenais pour un vrai assassin.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Beh, è stato... noioso. Pensavo fossi uno dei migliori assassini.",
-                    "de": "//[MAKOYANA]\\\\//(0,3.058)\\\\Nun, das war ... öde.//(3.058,33.058)\\\\Ich dachte, Sie wären ein Spitzenkiller.",
-                    "es": "//[MAKOYANA]\\\\//(0,2.9)\\\\Bueno, ha sido... flojillo.//(3.4,33.4)\\\\Creía que eras un asesino de categoría.",
-                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ну, это было... прозаично. Мне казалось, ты прирожденный убийца.",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\呃，这太......乏味了。我还以为你是个顶级刺客呢。",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\嗯，那真是......無趣。我還以為你是頂尖的殺手呢。",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\なんとまあ... つまらないものだ。優秀なアサシンなんだろ？"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43728_l2targetkillgood_makoyana_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\I'm sure you are proud of yourself. I, on the other hand, am not impressed.",
-                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Vous êtes fier de vous, j'imagine ? Pour ma part, je ne suis pas impressionné.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Sarai sicuramente fiero di te stesso. D'altro canto, io non sono affatto colpito.",
-                    "de": "//[MAKOYANA]\\\\//(0,1.89)\\\\Ich bin mir sicher, Sie sind stolz auf sich.//(2.563,32.563)\\\\Ich hingegen bin nicht beeindruckt.",
-                    "es": "//[MAKOYANA]\\\\//(0,30)\\\\Supongo que te sentirás orgulloso de ti mismo, pero... a mí no me has impresionado demasiado.",
-                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ты наверняка гордишься собой. Но впечатлить меня ты так и не смог.",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\我相信你为自己感到骄傲。但我却很失望。",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\你一定很驕傲。我呢，我倒是不以為然。",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\お前は満足してるかもしれないが、あまり感心しないな。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43728_l2targetkillgood.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43728_l2targetkillgood_makoyana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\I don't really see any sport in this. Do you?",
+					"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Il faudra me dire où vous trouvez le défi là-dedans.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Niente di che. Sei d'accordo?",
+					"de": "//[MAKOYANA]\\\\//(0,30)\\\\Ich sehe da nicht die Herausforderung. Sehen Sie sie?",
+					"es": "//[MAKOYANA]\\\\//(0,30)\\\\No termino de verle la gracia a esto con ese enfoque. ¿Y tú?",
+					"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Я не вижу в этом испытания. Вызова. А ты?",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\我看不出这里面有什么乐趣。你觉得呢？",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\這看起來一點難度也沒有，對吧？",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\これのどこが面白いんだ？教えてくれ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43728_l2targetkillgood_makoyana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\Well, that was... bland. I thought you were a top assassin.",
+					"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Eh bien, c'était d'un ennui... Moi qui vous prenais pour un vrai assassin.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Beh, è stato... noioso. Pensavo fossi uno dei migliori assassini.",
+					"de": "//[MAKOYANA]\\\\//(0,3.058)\\\\Nun, das war ... öde.//(3.058,33.058)\\\\Ich dachte, Sie wären ein Spitzenkiller.",
+					"es": "//[MAKOYANA]\\\\//(0,2.9)\\\\Bueno, ha sido... flojillo.//(3.4,33.4)\\\\Creía que eras un asesino de categoría.",
+					"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ну, это было... прозаично. Мне казалось, ты прирожденный убийца.",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\呃，这太......乏味了。我还以为你是个顶级刺客呢。",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\嗯，那真是......無趣。我還以為你是頂尖的殺手呢。",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\なんとまあ... つまらないものだ。優秀なアサシンなんだろ？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43728_l2targetkillgood_makoyana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43728_l2targetkillgood_makoyana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\I'm sure you are proud of yourself. I, on the other hand, am not impressed.",
+					"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Vous êtes fier de vous, j'imagine ? Pour ma part, je ne suis pas impressionné.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Sarai sicuramente fiero di te stesso. D'altro canto, io non sono affatto colpito.",
+					"de": "//[MAKOYANA]\\\\//(0,1.89)\\\\Ich bin mir sicher, Sie sind stolz auf sich.//(2.563,32.563)\\\\Ich hingegen bin nicht beeindruckt.",
+					"es": "//[MAKOYANA]\\\\//(0,30)\\\\Supongo que te sentirás orgulloso de ti mismo, pero... a mí no me has impresionado demasiado.",
+					"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ты наверняка гордишься собой. Но впечатлить меня ты так и не смог.",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\我相信你为自己感到骄傲。但我却很失望。",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\你一定很驕傲。我呢，我倒是不以為然。",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\お前は満足してるかもしれないが、あまり感心しないな。"
+				}
+			}
+		]
+	}
 }

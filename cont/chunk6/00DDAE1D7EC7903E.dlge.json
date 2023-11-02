@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43715_chooseitembad.sweetdialog?/pdlc43715_chooseitembad_makoyana_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43715_chooseitembad_makoyana_001",
-        "soundtag": "Voiceover_Handler_Dream",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43715_chooseitembad_makoyana_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43715_chooseitembad_makoyana_001.animset].pc_animset",
-        "languages": {
-            "en": "//[MAKOYANA]\\\\//(0,2.85)\\\\Now we're talking, 47.//(2.85,8.6)\\\\You demand a challenge, and you will have it. No easy street for you.//(8.6,38.6)\\\\I'm proud.",
-            "fr": "//[MAKOYANA]\\\\//(0,5.8)\\\\Ah, parfait, 47 ! Vous voulez du défi, et vous en aurez.//(5.8,35.8)\\\\Vous vous détournez de la voie de la facilité. Je suis fier.",
-            "it": "//[MAKOYANA]\\\\//(0,30)\\\\Adesso sì che ragioniamo, 47. Pretendevi una sfida, ed eccola qua. Non è la strada più semplice, sono fiero di te.",
-            "de": "//[MAKOYANA]\\\\//(0,2.509)\\\\Jetzt sind wir im Geschäft, 47.//(2.509,5.725)\\\\Sie wollten eine Herausforderung, und Sie werden auch eine bekommen.//(5.725,35.725)\\\\Sie machen es sich nicht leicht. Ich bin stolz.",
-            "es": "//[MAKOYANA]\\\\//(0,2.7)\\\\Esto ya es otra cosa, 47.//(2.7,5.7)\\\\Si pides un desafío, lo tendrás.//(6,36)\\\\Me llena de orgullo ver que no te gustan las opciones fáciles.",
-            "ru": "//[MAKOYANA]\\\\//(0,5.66908)\\\\Вот это другое дело, 47-й. Ты хочешь испытание? Ты его получишь.//(5.66908,35.66908)\\\\Я горжусь тобой. Но не жди, что всё будет просто.",
-            "cn": "//[MAKOYANA]\\\\//(0,5.98)\\\\这才对嘛，47。你想要挑战，我就给你挑战。//(5.98,35.98)\\\\对你来讲这并不容易。我很骄傲。",
-            "tc": "//[MAKOYANA]\\\\//(0,6)\\\\這樣才像話，47。你想要挑戰，我就給你挑戰。//(6,36)\\\\這可不簡單。我感到很驕傲。",
-            "jp": "//[MAKOYANA]\\\\//(0,5.982)\\\\そうこなくっちゃな、47。難しいほどやりがいがあるってものよ。//(5.982,35.982)\\\\楽な道を選ばなかった。誇りに思うぞ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43715_chooseitembad.sweetdialog?/pdlc43715_chooseitembad_makoyana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43715_chooseitembad_makoyana_001",
+		"soundtag": "Voiceover_Handler_Dream",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43715_chooseitembad_makoyana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43715_chooseitembad_makoyana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[MAKOYANA]\\\\//(0,2.85)\\\\Now we're talking, 47.//(2.85,8.6)\\\\You demand a challenge, and you will have it. No easy street for you.//(8.6,38.6)\\\\I'm proud.",
+			"fr": "//[MAKOYANA]\\\\//(0,5.8)\\\\Ah, parfait, 47 ! Vous voulez du défi, et vous en aurez.//(5.8,35.8)\\\\Vous vous détournez de la voie de la facilité. Je suis fier.",
+			"it": "//[MAKOYANA]\\\\//(0,30)\\\\Adesso sì che ragioniamo, 47. Pretendevi una sfida, ed eccola qua. Non è la strada più semplice, sono fiero di te.",
+			"de": "//[MAKOYANA]\\\\//(0,2.509)\\\\Jetzt sind wir im Geschäft, 47.//(2.509,5.725)\\\\Sie wollten eine Herausforderung, und Sie werden auch eine bekommen.//(5.725,35.725)\\\\Sie machen es sich nicht leicht. Ich bin stolz.",
+			"es": "//[MAKOYANA]\\\\//(0,2.7)\\\\Esto ya es otra cosa, 47.//(2.7,5.7)\\\\Si pides un desafío, lo tendrás.//(6,36)\\\\Me llena de orgullo ver que no te gustan las opciones fáciles.",
+			"ru": "//[MAKOYANA]\\\\//(0,5.66908)\\\\Вот это другое дело, 47-й. Ты хочешь испытание? Ты его получишь.//(5.66908,35.66908)\\\\Я горжусь тобой. Но не жди, что всё будет просто.",
+			"cn": "//[MAKOYANA]\\\\//(0,5.98)\\\\这才对嘛，47。你想要挑战，我就给你挑战。//(5.98,35.98)\\\\对你来讲这并不容易。我很骄傲。",
+			"tc": "//[MAKOYANA]\\\\//(0,6)\\\\這樣才像話，47。你想要挑戰，我就給你挑戰。//(6,36)\\\\這可不簡單。我感到很驕傲。",
+			"jp": "//[MAKOYANA]\\\\//(0,5.982)\\\\そうこなくっちゃな、47。難しいほどやりがいがあるってものよ。//(5.982,35.982)\\\\楽な道を選ばなかった。誇りに思うぞ。"
+		}
+	}
 }

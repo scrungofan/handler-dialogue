@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32594_mp_foodpoisoned_stone.sweetdialog?/ds32594_mp_foodpoisoned_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32594_mp_foodpoisoned_stone_stone_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32594_mp_foodpoisoned_stone_stone_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32594_mp_foodpoisoned_stone_stone_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\Let's see how strong that stomach really is, shall we, Mr. Khabko?",
-            "fr": "//(0,30)\\\\Voyons ce que votre estomac peut supporter, M. Khabko, hm ?",
-            "it": "//(0,30)\\\\Vediamo un po' quanto è forte il suo stomaco, eh, signor Khabko?",
-            "de": "//(0,30)\\\\Wollen wir mal sehen, wie stark Ihr Magen ist, nicht wahr, Mr.  Khabko?",
-            "es": "//(0,30)\\\\Señor Khabko, ¿qué le parece si comprobamos lo resistente que es su estómago?",
-            "ru": "//(0,30)\\\\Ну что, господин Хабко, проверим, стойкость вашего желудка?",
-            "cn": "//(0,30)\\\\卡布科先生，我们看看你的胃是不是铁打的吧。",
-            "tc": "//(0,30)\\\\我們看看你的胃究竟是不是鐵打的，卡伯克先生？",
-            "jp": "//(0,30)\\\\あんたの胃腸がどれくらい頑丈か試してみようぜ、カブコさんよ？"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32594_mp_foodpoisoned_stone.sweetdialog?/ds32594_mp_foodpoisoned_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32594_mp_foodpoisoned_stone_stone_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32594_mp_foodpoisoned_stone_stone_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32594_mp_foodpoisoned_stone_stone_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Let's see how strong that stomach really is, shall we, Mr. Khabko?",
+			"fr": "//(0,30)\\\\Voyons ce que votre estomac peut supporter, M. Khabko, hm ?",
+			"it": "//(0,30)\\\\Vediamo un po' quanto è forte il suo stomaco, eh, signor Khabko?",
+			"de": "//(0,30)\\\\Wollen wir mal sehen, wie stark Ihr Magen ist, nicht wahr, Mr.  Khabko?",
+			"es": "//(0,30)\\\\Señor Khabko, ¿qué le parece si comprobamos lo resistente que es su estómago?",
+			"ru": "//(0,30)\\\\Ну что, господин Хабко, проверим, стойкость вашего желудка?",
+			"cn": "//(0,30)\\\\卡布科先生，我们看看你的胃是不是铁打的吧。",
+			"tc": "//(0,30)\\\\我們看看你的胃究竟是不是鐵打的，卡伯克先生？",
+			"jp": "//(0,30)\\\\あんたの胃腸がどれくらい頑丈か試してみようぜ、カブコさんよ？"
+		}
+	}
 }

@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43736_l3reactsurprisegood.sweetdialog?/pdlc43736_l3reactsurprisegood_makoyana_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc43736_l3reactsurprisegood_makoyana_001",
-        "soundtag": "Voiceover_Handler_Dream",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43736_l3reactsurprisegood_makoyana_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43736_l3reactsurprisegood_makoyana_001.animset].pc_animset",
-        "languages": {
-            "en": "//[MAKOYANA]\\\\//(0,2.340491)\\\\No! What are you doing?//(2.340491,6.75)\\\\You have been doing so well!//(6.75,10.8)\\\\Here I thought you truly were the best assassin in the world.//(10.8,40.8)\\\\I'm so disappointed.",
-            "fr": "//[MAKOYANA]\\\\//(0,6.7)\\\\Non ! Que faites-vous ? Vous vous en sortiez pourtant si bien !//(6.7,36.7)\\\\Et moi qui pensais que vous étiez le meilleur assassin au monde... Quelle déception.",
-            "it": "//[MAKOYANA]\\\\//(0,5.1)\\\\No! Che cosa stai facendo? Stavi andando così bene!//(6.8,36.8)\\\\Stavo davvero cominciando a pensare che fossi l'assassino migliore del mondo. Che delusione.",
-            "de": "//[MAKOYANA]\\\\//(0,2.791)\\\\Nein! Was machen Sie denn?//(2.791,4.62)\\\\Sie haben sich doch so gut geschlagen!//(6.712,10.114)\\\\Dabei dachte ich, Sie wären der weltbeste Killer.//(10.853,40.853)\\\\Ich bin so enttäuscht.",
-            "es": "//[MAKOYANA]\\\\//(0,2.4)\\\\¡No! ¡¿Pero qué haces?!//(2.9,4.7)\\\\¡Lo estabas haciendo muy bien!//(6.7,10.1)\\\\Y yo que pensaba que de verdad eras el mejor asesino del mundo...//(10.8,40.8)\\\\Qué decepción.",
-            "ru": "//[MAKOYANA]\\\\//(0,2.972)\\\\Нет! Что ты делаешь?!//(2.972,4.45)\\\\У тебя же отлично получалось!//(7,11)\\\\А мне уж начало казаться, что ты лучший убийца в мире.//(11,41)\\\\Ты разочаровал меня.",
-            "cn": "//[MAKOYANA]\\\\//(0,6.74)\\\\不！你在干什么？你一直以来都做得不错。//(6.74,36.74)\\\\我还以为你真是世界上最出色的杀手呢。我很失望。",
-            "tc": "//[MAKOYANA]\\\\//(0,5.5)\\\\不！你在幹什麼？你本來好好的！//(5.5,35.5)\\\\我還以為你真的是世上最強的殺手呢。我真是太失望了。",
-            "jp": "//[MAKOYANA]\\\\//(0,6.818)\\\\ダメだ！何をしている？ここまでうまくやってきたというのに...//(6.818,36.818)\\\\世界一の暗殺者だと思っていたんだがな。失望したよ。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43736_l3reactsurprisegood.sweetdialog?/pdlc43736_l3reactsurprisegood_makoyana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc43736_l3reactsurprisegood_makoyana_001",
+		"soundtag": "Voiceover_Handler_Dream",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43736_l3reactsurprisegood_makoyana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43736_l3reactsurprisegood_makoyana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[MAKOYANA]\\\\//(0,2.340491)\\\\No! What are you doing?//(2.340491,6.75)\\\\You have been doing so well!//(6.75,10.8)\\\\Here I thought you truly were the best assassin in the world.//(10.8,40.8)\\\\I'm so disappointed.",
+			"fr": "//[MAKOYANA]\\\\//(0,6.7)\\\\Non ! Que faites-vous ? Vous vous en sortiez pourtant si bien !//(6.7,36.7)\\\\Et moi qui pensais que vous étiez le meilleur assassin au monde... Quelle déception.",
+			"it": "//[MAKOYANA]\\\\//(0,5.1)\\\\No! Che cosa stai facendo? Stavi andando così bene!//(6.8,36.8)\\\\Stavo davvero cominciando a pensare che fossi l'assassino migliore del mondo. Che delusione.",
+			"de": "//[MAKOYANA]\\\\//(0,2.791)\\\\Nein! Was machen Sie denn?//(2.791,4.62)\\\\Sie haben sich doch so gut geschlagen!//(6.712,10.114)\\\\Dabei dachte ich, Sie wären der weltbeste Killer.//(10.853,40.853)\\\\Ich bin so enttäuscht.",
+			"es": "//[MAKOYANA]\\\\//(0,2.4)\\\\¡No! ¡¿Pero qué haces?!//(2.9,4.7)\\\\¡Lo estabas haciendo muy bien!//(6.7,10.1)\\\\Y yo que pensaba que de verdad eras el mejor asesino del mundo...//(10.8,40.8)\\\\Qué decepción.",
+			"ru": "//[MAKOYANA]\\\\//(0,2.972)\\\\Нет! Что ты делаешь?!//(2.972,4.45)\\\\У тебя же отлично получалось!//(7,11)\\\\А мне уж начало казаться, что ты лучший убийца в мире.//(11,41)\\\\Ты разочаровал меня.",
+			"cn": "//[MAKOYANA]\\\\//(0,6.74)\\\\不！你在干什么？你一直以来都做得不错。//(6.74,36.74)\\\\我还以为你真是世界上最出色的杀手呢。我很失望。",
+			"tc": "//[MAKOYANA]\\\\//(0,5.5)\\\\不！你在幹什麼？你本來好好的！//(5.5,35.5)\\\\我還以為你真的是世上最強的殺手呢。我真是太失望了。",
+			"jp": "//[MAKOYANA]\\\\//(0,6.818)\\\\ダメだ！何をしている？ここまでうまくやってきたというのに...//(6.818,36.818)\\\\世界一の暗殺者だと思っていたんだがな。失望したよ。"
+		}
+	}
 }

@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43716_spottargetgood.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43716_spottargetgood_makoyana_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\That's just... some targets. Guess they will do...",
-                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Ce ne sont... que des cibles. Ça fera l'affaire...",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Non sono altro che... dei bersagli. Accontentiamoci...",
-                    "de": "//[MAKOYANA]\\\\//(0,3.238)\\\\Das sind nur ... ein paar Ziele.//(3.238,33.238)\\\\Ich schätze, das wird reichen ...",
-                    "es": "//[MAKOYANA]\\\\//(0,2.9)\\\\Son solo... un par de objetivos.//(4,34)\\\\Supongo que tendrán que valer...",
-                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\А это... твои цели. В конце концов, почему бы и нет.",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\那里有......几个目标。就他们了......",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\這不過是......一些目標。這樣應該就行了......",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\あれも... 確かに、ターゲットだ。あれでもいいだろう..."
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43716_spottargetgood_makoyana_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\I guess those are targets. This is really not panning out as I hoped.",
-                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Ce sont des cibles, j'imagine. Ça ne se passe pas exactement comme je l'espérais.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Direi che quelli sono bersagli. Non sta andando proprio come speravo.",
-                    "de": "//[MAKOYANA]\\\\//(0,2.684)\\\\Ich schätze, das sind Ziele.//(2.684,32.684)\\\\Das hier entwickelt sich nicht ganz so, wie ich gehofft hatte.",
-                    "es": "//[MAKOYANA]\\\\//(0,2.7)\\\\Supongo que esos son los objetivos.//(3.1,33.1)\\\\Esto no está saliendo tal y como me esperaba...",
-                    "ru": "//[MAKOYANA]\\\\//(0,3.15)\\\\Что ж, вот, кажется, и твои цели.//(3.15,33.15)\\\\Мне казалось, что будет куда интереснее.",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\那几个就是目标了吧。这真不是我希望的那样。",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\我看這些就是目標。跟我的期望並不一樣。",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\あれもターゲットだ。期待していた展開じゃないが..."
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43716_spottargetgood_makoyana_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\There are your targets. Not as glorious as I had hoped. I suppose beggars can't be choosers.",
-                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Voilà vos cibles. Moins reluisant que je l'espérais, mais bon... on fait avec ce qu'on a.",
-                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Ecco i tuoi bersagli. Niente di glorioso come speravo, ma a caval donato non si guarda in bocca.",
-                    "de": "//[MAKOYANA]\\\\//(0,1.866)\\\\Da sind Ihre Ziele.//(1.866,4.392)\\\\Nicht so ruhmreich, wie ich gehofft hatte.//(4.392,34.392)\\\\Ich schätze, in der Not frisst der Teufel Fliegen.",
-                    "es": "//[MAKOYANA]\\\\//(0,1.9)\\\\Ahí tienes tus objetivos.//(2.1,32.1)\\\\No son tan gloriosos como me esperaba, pero a falta de pan...",
-                    "ru": "//[MAKOYANA]\\\\//(0,4.697)\\\\Это твои цели. Конечно, гордиться тут нечем...//(4.697,34.697)\\\\Но и выбирать не приходится.",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\你的目标来了。不如我期望的那样好。不过我也别挑三拣四了。",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\你的目標在那裡。沒有我想像得厲害，但你也沒得挑。",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\あそこにターゲットがいる。思ったほど大したことない。まあ、えり好みができないな。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43716_spottargetgood.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43716_spottargetgood_makoyana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\That's just... some targets. Guess they will do...",
+					"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Ce ne sont... que des cibles. Ça fera l'affaire...",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Non sono altro che... dei bersagli. Accontentiamoci...",
+					"de": "//[MAKOYANA]\\\\//(0,3.238)\\\\Das sind nur ... ein paar Ziele.//(3.238,33.238)\\\\Ich schätze, das wird reichen ...",
+					"es": "//[MAKOYANA]\\\\//(0,2.9)\\\\Son solo... un par de objetivos.//(4,34)\\\\Supongo que tendrán que valer...",
+					"ru": "//[MAKOYANA]\\\\//(0,30)\\\\А это... твои цели. В конце концов, почему бы и нет.",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\那里有......几个目标。就他们了......",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\這不過是......一些目標。這樣應該就行了......",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\あれも... 確かに、ターゲットだ。あれでもいいだろう..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43716_spottargetgood_makoyana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\I guess those are targets. This is really not panning out as I hoped.",
+					"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Ce sont des cibles, j'imagine. Ça ne se passe pas exactement comme je l'espérais.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Direi che quelli sono bersagli. Non sta andando proprio come speravo.",
+					"de": "//[MAKOYANA]\\\\//(0,2.684)\\\\Ich schätze, das sind Ziele.//(2.684,32.684)\\\\Das hier entwickelt sich nicht ganz so, wie ich gehofft hatte.",
+					"es": "//[MAKOYANA]\\\\//(0,2.7)\\\\Supongo que esos son los objetivos.//(3.1,33.1)\\\\Esto no está saliendo tal y como me esperaba...",
+					"ru": "//[MAKOYANA]\\\\//(0,3.15)\\\\Что ж, вот, кажется, и твои цели.//(3.15,33.15)\\\\Мне казалось, что будет куда интереснее.",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\那几个就是目标了吧。这真不是我希望的那样。",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\我看這些就是目標。跟我的期望並不一樣。",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\あれもターゲットだ。期待していた展開じゃないが..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43716_spottargetgood_makoyana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43716_spottargetgood_makoyana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\There are your targets. Not as glorious as I had hoped. I suppose beggars can't be choosers.",
+					"fr": "//[MAKOYANA]\\\\//(0,30)\\\\Voilà vos cibles. Moins reluisant que je l'espérais, mais bon... on fait avec ce qu'on a.",
+					"it": "//[MAKOYANA]\\\\//(0,30)\\\\Ecco i tuoi bersagli. Niente di glorioso come speravo, ma a caval donato non si guarda in bocca.",
+					"de": "//[MAKOYANA]\\\\//(0,1.866)\\\\Da sind Ihre Ziele.//(1.866,4.392)\\\\Nicht so ruhmreich, wie ich gehofft hatte.//(4.392,34.392)\\\\Ich schätze, in der Not frisst der Teufel Fliegen.",
+					"es": "//[MAKOYANA]\\\\//(0,1.9)\\\\Ahí tienes tus objetivos.//(2.1,32.1)\\\\No son tan gloriosos como me esperaba, pero a falta de pan...",
+					"ru": "//[MAKOYANA]\\\\//(0,4.697)\\\\Это твои цели. Конечно, гордиться тут нечем...//(4.697,34.697)\\\\Но и выбирать не приходится.",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\你的目标来了。不如我期望的那样好。不过我也别挑三拣四了。",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\你的目標在那裡。沒有我想像得厲害，但你也沒得挑。",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\あそこにターゲットがいる。思ったほど大したことない。まあ、えり好みができないな。"
+				}
+			}
+		]
+	}
 }

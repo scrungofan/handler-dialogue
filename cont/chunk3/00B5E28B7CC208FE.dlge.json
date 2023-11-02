@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41505_prep03.sweetdialog?/pdlc41505_prep03_hollyhock_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc41505_prep03_hollyhock_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41505_prep03_hollyhock_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41505_prep03_hollyhock_001.animset].pc_animset",
-        "languages": {
-            "en": "//[HOLLYHOCK]\\\\//(0,30)\\\\No time to lose! Start preparing and let the havoc begin!",
-            "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Il n'y a pas de temps à perdre ! Préparez-vous et que le chaos commence !",
-            "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Non c'è tempo da perdere! Inizia a prepararti e scatena l'inferno!",
-            "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Keine Zeit zu verlieren! Beginnen Sie Ihre Vorbereitungen und entfesseln Sie das Chaos!",
-            "es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡No hay tiempo que perder! ¡Empieza a prepararte y vuelve a sembrar el caos!",
-            "ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Не теряй ни секунды! Готовься к новой атаке, и пусть начнется безумие!",
-            "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\没时间浪费了！开始准备大肆破坏吧！",
-            "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\別浪費時間了！開始準備並大鬧一番！",
-            "jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\無駄にする時間はないわ！準備を始めて、騒ぎが始まるわよ！"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41505_prep03.sweetdialog?/pdlc41505_prep03_hollyhock_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc41505_prep03_hollyhock_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41505_prep03_hollyhock_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41505_prep03_hollyhock_001.animset].pc_animset",
+		"languages": {
+			"en": "//[HOLLYHOCK]\\\\//(0,30)\\\\No time to lose! Start preparing and let the havoc begin!",
+			"fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Il n'y a pas de temps à perdre ! Préparez-vous et que le chaos commence !",
+			"it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Non c'è tempo da perdere! Inizia a prepararti e scatena l'inferno!",
+			"de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Keine Zeit zu verlieren! Beginnen Sie Ihre Vorbereitungen und entfesseln Sie das Chaos!",
+			"es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡No hay tiempo que perder! ¡Empieza a prepararte y vuelve a sembrar el caos!",
+			"ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Не теряй ни секунды! Готовься к новой атаке, и пусть начнется безумие!",
+			"cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\没时间浪费了！开始准备大肆破坏吧！",
+			"tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\別浪費時間了！開始準備並大鬧一番！",
+			"jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\無駄にする時間はないわ！準備を始めて、騒ぎが始まるわよ！"
+		}
+	}
 }

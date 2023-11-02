@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32559_mp_missioncomplete_knight.sweetdialog?/ds32559_mp_missioncomplete_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "ds32559_mp_missioncomplete_knight_knight_mp_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32559_mp_missioncomplete_knight_knight_mp_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32559_mp_missioncomplete_knight_knight_mp_001.animset].pc_animset",
-        "languages": {
-            "en": "//(0,30)\\\\The targets are almost at the chopper. Last chance to get them.",
-            "fr": "//(0,30)\\\\Les cibles ont presque atteint l'hélicoptère. C'est notre dernière chance.",
-            "it": "//(0,30)\\\\I bersagli hanno quasi raggiunto l'elicottero. Ultima possibilità per prenderli.",
-            "de": "//(0,30)\\\\Die Ziele sind fast am Helikopter. Letzte Chance, sie zu erwischen.",
-            "es": "//(0,30)\\\\Los objetivos ya casi han llegado al helicóptero. Es la última oportunidad para detenerlos.",
-            "ru": "//(0,30)\\\\Цели уже почти добрались до вертолета. Это последний шанс их достать.",
-            "cn": "//(0,30)\\\\目标即将登上直升机。这是消灭他们的最后机会。",
-            "tc": "//(0,30)\\\\目標快到直昇機了。這是解決他們的最後一次機會了。",
-            "jp": "//(0,30)\\\\ターゲットはヘリに乗り込む寸前よ。やつらを仕留める最後のチャンスね。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32559_mp_missioncomplete_knight.sweetdialog?/ds32559_mp_missioncomplete_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds32559_mp_missioncomplete_knight_knight_mp_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32559_mp_missioncomplete_knight_knight_mp_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32559_mp_missioncomplete_knight_knight_mp_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\The targets are almost at the chopper. Last chance to get them.",
+			"fr": "//(0,30)\\\\Les cibles ont presque atteint l'hélicoptère. C'est notre dernière chance.",
+			"it": "//(0,30)\\\\I bersagli hanno quasi raggiunto l'elicottero. Ultima possibilità per prenderli.",
+			"de": "//(0,30)\\\\Die Ziele sind fast am Helikopter. Letzte Chance, sie zu erwischen.",
+			"es": "//(0,30)\\\\Los objetivos ya casi han llegado al helicóptero. Es la última oportunidad para detenerlos.",
+			"ru": "//(0,30)\\\\Цели уже почти добрались до вертолета. Это последний шанс их достать.",
+			"cn": "//(0,30)\\\\目标即将登上直升机。这是消灭他们的最后机会。",
+			"tc": "//(0,30)\\\\目標快到直昇機了。這是解決他們的最後一次機會了。",
+			"jp": "//(0,30)\\\\ターゲットはヘリに乗り込む寸前よ。やつらを仕留める最後のチャンスね。"
+		}
+	}
 }

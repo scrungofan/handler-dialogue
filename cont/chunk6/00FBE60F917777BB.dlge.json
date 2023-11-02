@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43711_linesrepeatstitch_makoyana_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\I said!",
-                    "fr": "//[MAKOYANA]\\\\//(0,2.1)\\\\J'ai dit !",
-                    "it": "//[MAKOYANA]\\\\//(0,1.5)\\\\Cos'ho detto?!",
-                    "de": "//[MAKOYANA]\\\\//(0,1.409)\\\\Was habe ich gesagt?",
-                    "es": "//[MAKOYANA]\\\\//(0,1.5)\\\\¡¿Otra vez?!",
-                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ты что, не слышал?",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\我说过了！",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\我說了！",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\違うだろ！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43711_linesrepeatstitch_makoyana_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\You are not listening...",
-                    "fr": "//[MAKOYANA]\\\\//(0,2.3)\\\\Vous n'écoutez pas...",
-                    "it": "//[MAKOYANA]\\\\//(0,1.8)\\\\Non mi stai ascoltando...",
-                    "de": "//[MAKOYANA]\\\\//(0,1.636)\\\\Sie hören nicht zu ...",
-                    "es": "//[MAKOYANA]\\\\//(0,2)\\\\¡No me estás haciendo caso!",
-                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ты совсем не слушаешь...",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\你根本没在听......",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\你沒在聽......",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\聞こえてないのか..."
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43711_linesrepeatstitch_makoyana_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_Dream",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\What’s wrong with you!",
-                    "fr": "//[MAKOYANA]\\\\//(0,2.7)\\\\Ça suffit, oui ?!",
-                    "it": "//[MAKOYANA]\\\\//(0,2.1)\\\\Che ti succede?",
-                    "de": "//[MAKOYANA]\\\\//(0,2.077)\\\\Was ist denn bloß los mit Ihnen los?",
-                    "es": "//[MAKOYANA]\\\\//(0,2.1)\\\\¡¿Pero qué narices te pasa?!",
-                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Да что с тобой?!",
-                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\你到底是怎么回事？",
-                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\你是有毛病嗎？",
-                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\何をやってるんだ！"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43711_linesrepeatstitch_makoyana_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\I said!",
+					"fr": "//[MAKOYANA]\\\\//(0,2.1)\\\\J'ai dit !",
+					"it": "//[MAKOYANA]\\\\//(0,1.5)\\\\Cos'ho detto?!",
+					"de": "//[MAKOYANA]\\\\//(0,1.409)\\\\Was habe ich gesagt?",
+					"es": "//[MAKOYANA]\\\\//(0,1.5)\\\\¡¿Otra vez?!",
+					"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ты что, не слышал?",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\我说过了！",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\我說了！",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\違うだろ！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43711_linesrepeatstitch_makoyana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\You are not listening...",
+					"fr": "//[MAKOYANA]\\\\//(0,2.3)\\\\Vous n'écoutez pas...",
+					"it": "//[MAKOYANA]\\\\//(0,1.8)\\\\Non mi stai ascoltando...",
+					"de": "//[MAKOYANA]\\\\//(0,1.636)\\\\Sie hören nicht zu ...",
+					"es": "//[MAKOYANA]\\\\//(0,2)\\\\¡No me estás haciendo caso!",
+					"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Ты совсем не слушаешь...",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\你根本没在听......",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\你沒在聽......",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\聞こえてないのか..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43711_linesrepeatstitch_makoyana_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_Dream",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43711_linesrepeatstitch_makoyana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[MAKOYANA]\\\\//(0,30)\\\\What’s wrong with you!",
+					"fr": "//[MAKOYANA]\\\\//(0,2.7)\\\\Ça suffit, oui ?!",
+					"it": "//[MAKOYANA]\\\\//(0,2.1)\\\\Che ti succede?",
+					"de": "//[MAKOYANA]\\\\//(0,2.077)\\\\Was ist denn bloß los mit Ihnen los?",
+					"es": "//[MAKOYANA]\\\\//(0,2.1)\\\\¡¿Pero qué narices te pasa?!",
+					"ru": "//[MAKOYANA]\\\\//(0,30)\\\\Да что с тобой?!",
+					"cn": "//[MAKOYANA]\\\\//(0,30)\\\\你到底是怎么回事？",
+					"tc": "//[MAKOYANA]\\\\//(0,30)\\\\你是有毛病嗎？",
+					"jp": "//[MAKOYANA]\\\\//(0,30)\\\\何をやってるんだ！"
+				}
+			}
+		]
+	}
 }

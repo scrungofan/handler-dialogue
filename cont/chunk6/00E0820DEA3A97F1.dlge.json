@@ -1,125 +1,125 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43827_feedmeat.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43827_feedmeat_azelea_001",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Meat! More meat!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Viande ! Plus de viande !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Carne! Altra carne!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Fleisch! Mehr Fleisch!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Carne! ¡Más carne!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Мяса! Больше мяса!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\肉！更多的肉！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\肉！更多肉！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\肉！肉がもっといるぞ！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43827_feedmeat_azelea_002",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Keep the meet coming!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Rapportez toute la viande que vous pouvez !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Forza con quella carne!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Lassen Sie weiter Fleisch kommen!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡No pares de traer carne!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Принеси еще мяса!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\多来点肉！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\去找更多肉！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\肉をどんどん持ってこい！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43827_feedmeat_azelea_003",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Piggy loves meat! Piggy wants more!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Cochonnet adore la viande ! Cochonnet en veut plus !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Maialetto adora la carne. Ma Maialetto vuole altro cibo!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Das Schweinchen liebt Fleisch! Das Schweinchen will mehr!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡A Cerdito le encanta la carne! ¡Quiere más!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Хрюша обожает мясо! Хрюша хочет добавки!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\小猪喜欢肉！小猪想要更多！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\小豬最愛吃肉了，但是小豬想要更多！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんは肉が好きなんだ！肉をもっと持ってこい！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43827_feedmeat_azelea_004",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_004.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_004.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Feed Meat to the little piggy!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Donnez de la viande au petit cochonnet !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Dai della carne a Maialetto!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Füttern Sie das Schweinchen mit Fleisch!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Da de comer al cerdito!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Накорми поросеночка мясом!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\给小猪喂肉！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\把肉餵給小豬！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\かわいい子ブタちゃんにもっと肉を！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43827_feedmeat_azelea_005",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_005.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_005.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Meat! Meat! Hmmm... More.",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Viande ! Viande ! Oh oh... plus...",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Carne! Carne! Mmm... Ancora.",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Fleisch! Fleisch! Hmmm ... Mehr.",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Carne! ¡Carne! Mmmm... más.",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Мясо! Мясо! Хм-м... Еще.",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\肉！肉！唔......更多。",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\肉！肉！嗯......我要更多。",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\肉！肉！うーん... もっとだ！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43827_feedmeat_azelea_006",
-                "weight": 0.1666666368643425,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_006.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_006.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Yes! Piggy wants lots of meat.",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Oui ! Cochonnet veut des tas de viande.",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Già! Maialetto vuole un sacco di carne!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Jupp! Das Schweinchen will mehr Fleisch.",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Sí! Cerdito quiere mucha carne.",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Ага! Хрюше нужно много мяса.",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\没错！小猪想要很多肉。",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\對！小豬要更多肉。",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\よし！子ブタちゃんはもっと肉を欲しがっている。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43827_feedmeat.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43827_feedmeat_azelea_001",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_001.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Meat! More meat!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Viande ! Plus de viande !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Carne! Altra carne!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Fleisch! Mehr Fleisch!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡Carne! ¡Más carne!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Мяса! Больше мяса!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\肉！更多的肉！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\肉！更多肉！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\肉！肉がもっといるぞ！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43827_feedmeat_azelea_002",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_002.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Keep the meet coming!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Rapportez toute la viande que vous pouvez !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Forza con quella carne!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Lassen Sie weiter Fleisch kommen!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡No pares de traer carne!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Принеси еще мяса!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\多来点肉！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\去找更多肉！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\肉をどんどん持ってこい！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43827_feedmeat_azelea_003",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_003.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Piggy loves meat! Piggy wants more!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Cochonnet adore la viande ! Cochonnet en veut plus !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Maialetto adora la carne. Ma Maialetto vuole altro cibo!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Das Schweinchen liebt Fleisch! Das Schweinchen will mehr!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡A Cerdito le encanta la carne! ¡Quiere más!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Хрюша обожает мясо! Хрюша хочет добавки!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\小猪喜欢肉！小猪想要更多！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\小豬最愛吃肉了，但是小豬想要更多！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんは肉が好きなんだ！肉をもっと持ってこい！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43827_feedmeat_azelea_004",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_004.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Feed Meat to the little piggy!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Donnez de la viande au petit cochonnet !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Dai della carne a Maialetto!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Füttern Sie das Schweinchen mit Fleisch!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡Da de comer al cerdito!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Накорми поросеночка мясом!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\给小猪喂肉！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\把肉餵給小豬！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\かわいい子ブタちゃんにもっと肉を！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43827_feedmeat_azelea_005",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_005.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Meat! Meat! Hmmm... More.",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Viande ! Viande ! Oh oh... plus...",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Carne! Carne! Mmm... Ancora.",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Fleisch! Fleisch! Hmmm ... Mehr.",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡Carne! ¡Carne! Mmmm... más.",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Мясо! Мясо! Хм-м... Еще.",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\肉！肉！唔......更多。",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\肉！肉！嗯......我要更多。",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\肉！肉！うーん... もっとだ！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43827_feedmeat_azelea_006",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43827_feedmeat_azelea_006.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Yes! Piggy wants lots of meat.",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Oui ! Cochonnet veut des tas de viande.",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Già! Maialetto vuole un sacco di carne!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Jupp! Das Schweinchen will mehr Fleisch.",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡Sí! Cerdito quiere mucha carne.",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Ага! Хрюше нужно много мяса.",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\没错！小猪想要很多肉。",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\對！小豬要更多肉。",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\よし！子ブタちゃんはもっと肉を欲しがっている。"
+				}
+			}
+		]
+	}
 }

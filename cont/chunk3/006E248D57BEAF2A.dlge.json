@@ -1,24 +1,24 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41009_vitoffgraveyard.sweetdialog?/pdlc41009_vitoffgraveyard_harebell_001.sweetdialogitem].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "WavFile",
-        "wavName": "pdlc41009_vitoffgraveyard_harebell_001",
-        "soundtag": "Voiceover_Handler_ICAEarpiece",
-        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41009_vitoffgraveyard_harebell_001.wav].pc_wes",
-        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41009_vitoffgraveyard_harebell_001.animset].pc_animset",
-        "languages": {
-            "en": "//[HAREBELL]\\\\//(0,2.45)\\\\Oh, sorry, I looked away for a second.//(2.45,5.95)\\\\All done? Still alive? Bully for you.//(6.9,36.9)\\\\Suppose I'll stop counting then.",
-            "fr": "//[HAREBELL]\\\\//(0,30)\\\\Oh, désolé, j'étais ailleurs. Vous avez fini ? Toujours debout ? Bravo, champion. Je peux arrêter de compter, j'imagine.",
-            "it": "//[HAREBELL]\\\\//(0,6.9)\\\\Oh, scusa, mi sono distratto un attimo. Fatto? Ancora intero? Buon per te.//(6.9,8.55)\\\\Direi che posso smettere di contare, allora.",
-            "de": "//[HAREBELL]\\\\//(0,2.3)\\\\Oh, entschuldigen Sie. Ich hatte kurz weggeschaut.//(2.3,4.65)\\\\Alles erledigt? Leben Sie immer noch?//(5.1,5.9)\\\\Pech für Sie.//(6.75,36.75)\\\\Ich schätze, ich lasse das Zählen jetzt bleiben.",
-            "es": "//[HAREBELL]\\\\//(0,3.5)\\\\Ay, perdona, me he despistado un segundo. ¿Has terminado?//(3.5,6.4)\\\\¿Sigues vivo? Te felicito.//(6.4,8.8)\\\\Entonces dejaré de contar, supongo.",
-            "ru": "//[HAREBELL]\\\\//(0,3.7)\\\\Ох, прошу прощения, я отвлекся. Что, всё готово?//(3.7,33.7)\\\\И ты еще жив? Какой ты умница! Ладно, мне надоело считать.",
-            "cn": "//[HAREBELL]\\\\//(0,2.598)\\\\抱歉，我刚刚走神了一下。//(2.598,7.04)\\\\搞定了？还活着？干得不错啊。//(7.04,37.04)\\\\那我就不数了。",
-            "tc": "//[HAREBELL]\\\\//(0,2.7)\\\\噢，抱歉，我剛剛走神了一下。//(2.7,32.7)\\\\搞定了？還活著？幹得不錯啊。那我就不數了。",
-            "jp": "//[HAREBELL]\\\\//(0,2.6)\\\\ああ、すまない。よそ見をしていた。//(2.6,4.95)\\\\全部終わったのか？死なずに？//(4.95,8.7)\\\\そりゃ、結構。もうカウントするのはやめようか。"
-        }
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41009_vitoffgraveyard.sweetdialog?/pdlc41009_vitoffgraveyard_harebell_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "pdlc41009_vitoffgraveyard_harebell_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41009_vitoffgraveyard_harebell_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41009_vitoffgraveyard_harebell_001.animset].pc_animset",
+		"languages": {
+			"en": "//[HAREBELL]\\\\//(0,2.45)\\\\Oh, sorry, I looked away for a second.//(2.45,5.95)\\\\All done? Still alive? Bully for you.//(6.9,36.9)\\\\Suppose I'll stop counting then.",
+			"fr": "//[HAREBELL]\\\\//(0,30)\\\\Oh, désolé, j'étais ailleurs. Vous avez fini ? Toujours debout ? Bravo, champion. Je peux arrêter de compter, j'imagine.",
+			"it": "//[HAREBELL]\\\\//(0,6.9)\\\\Oh, scusa, mi sono distratto un attimo. Fatto? Ancora intero? Buon per te.//(6.9,8.55)\\\\Direi che posso smettere di contare, allora.",
+			"de": "//[HAREBELL]\\\\//(0,2.3)\\\\Oh, entschuldigen Sie. Ich hatte kurz weggeschaut.//(2.3,4.65)\\\\Alles erledigt? Leben Sie immer noch?//(5.1,5.9)\\\\Pech für Sie.//(6.75,36.75)\\\\Ich schätze, ich lasse das Zählen jetzt bleiben.",
+			"es": "//[HAREBELL]\\\\//(0,3.5)\\\\Ay, perdona, me he despistado un segundo. ¿Has terminado?//(3.5,6.4)\\\\¿Sigues vivo? Te felicito.//(6.4,8.8)\\\\Entonces dejaré de contar, supongo.",
+			"ru": "//[HAREBELL]\\\\//(0,3.7)\\\\Ох, прошу прощения, я отвлекся. Что, всё готово?//(3.7,33.7)\\\\И ты еще жив? Какой ты умница! Ладно, мне надоело считать.",
+			"cn": "//[HAREBELL]\\\\//(0,2.598)\\\\抱歉，我刚刚走神了一下。//(2.598,7.04)\\\\搞定了？还活着？干得不错啊。//(7.04,37.04)\\\\那我就不数了。",
+			"tc": "//[HAREBELL]\\\\//(0,2.7)\\\\噢，抱歉，我剛剛走神了一下。//(2.7,32.7)\\\\搞定了？還活著？幹得不錯啊。那我就不數了。",
+			"jp": "//[HAREBELL]\\\\//(0,2.6)\\\\ああ、すまない。よそ見をしていた。//(2.6,4.95)\\\\全部終わったのか？死なずに？//(4.95,8.7)\\\\そりゃ、結構。もうカウントするのはやめようか。"
+		}
+	}
 }

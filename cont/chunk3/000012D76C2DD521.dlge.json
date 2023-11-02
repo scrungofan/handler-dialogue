@@ -1,106 +1,106 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41016_targetspotted_harebell_001",
-                "weight": 0.2,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Ugh, such a hard worker, isn't he?",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Pff, une vraie bête de somme, n'est-ce pas ?",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Ugh, che stacanovista, eh?",
-                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Ach. Er ist so ein harter Arbeiter, nicht wahr?",
-                    "es": "//[HAREBELL]\\\\//(0,2.8)\\\\Uf, cómo trabaja el tío, ¿eh?",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Ох, какой же он трудяга...",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\呃，可真是个努力工作的家伙，是吧？",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\呃，他真是努力，對吧？",
-                    "jp": "//[HAREBELL]\\\\//(0,2.4)\\\\はあ、なかなかの働き者だな。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41016_targetspotted_harebell_002",
-                "weight": 0.2,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\I get tired just looking at him...",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Le simple fait de le regarder me fatigue...",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Mi sento stanco solo a guardarlo...",
-                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Ich bin es leid, ihn auch nur anzuschauen ...",
-                    "es": "//[HAREBELL]\\\\//(0,2.5)\\\\Me canso de solo mirarlo...",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Я всего лишь посмотрел на него — и уже устал.",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\我看着他都觉得累......",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\我看著他都覺得累......",
-                    "jp": "//[HAREBELL]\\\\//(0,2.6)\\\\見ているだけで疲れるよ..."
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41016_targetspotted_harebell_003",
-                "weight": 0.2,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\I think he could use a break, don't you?",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Il aurait bien besoin d'une pause, vous ne croyez pas ?",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Ha proprio bisogno di una pausa, no?",
-                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Ich glaube, er könnte eine Pause brauchen, oder?",
-                    "es": "//[HAREBELL]\\\\//(0,3.6)\\\\Creo que le vendría bien un descanso, ¿tú no?",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Мне кажется, ему не повредит перерыв, а?",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\我觉得他可以休息一下，对吧？",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\我覺得他可以休息一下，對吧？",
-                    "jp": "//[HAREBELL]\\\\//(0,3.51)\\\\少し休ませてやるべきだと思わないか？"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41016_targetspotted_harebell_004",
-                "weight": 0.2,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_004.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_004.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Poor sap, toiling away for people who couldn't care less.",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\L'imbécile. Travailler si dur pour des gens qui s'en fichent.",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Pover'anima, a faticare così per gente a cui non potrebbe importare di meno.",
-                    "de": "//[HAREBELL]\\\\//(0,1.15)\\\\Armer Trottel.//(1.7,4.7)\\\\Arbeitet hart für Leute, denen es nicht egaler sein könnte.",
-                    "es": "//[HAREBELL]\\\\//(0,4.3)\\\\Pobrecillo, trabajando como una mula para gente a la que se la refanfinfla.",
-                    "ru": "//[HAREBELL]\\\\//(0,1.9)\\\\Бедняга...//(1.9,31.9)\\\\Столько сил тратит ради людей, которым наплевать...",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\可怜的家伙，成天为谁辛苦为谁忙呢。",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\可憐的傢伙，整天為不在乎你的人奔波。",
-                    "jp": "//[HAREBELL]\\\\//(0,4.18)\\\\哀れな奴だ、どうでもいい人間のために四苦八苦するなんて。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc41016_targetspotted_harebell_005",
-                "weight": 0.2,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_005.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_005.animset].pc_animset",
-                "languages": {
-                    "en": "//[HAREBELL]\\\\//(0,30)\\\\What a busy bee...",
-                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Quel zèle...",
-                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Una vera ape operaia...",
-                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Was für ein fleißiges Bienchen ...",
-                    "es": "//[HAREBELL]\\\\//(0,1.8)\\\\Qué hormiguita tan trabajadora...",
-                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Трудится аки пчелка!",
-                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\真是个大忙人......",
-                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\真是個大忙人......",
-                    "jp": "//[HAREBELL]\\\\//(0,1.55)\\\\なんて忙しい人なんだ..."
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41016_targetspotted_harebell_001",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_001.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\Ugh, such a hard worker, isn't he?",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Pff, une vraie bête de somme, n'est-ce pas ?",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Ugh, che stacanovista, eh?",
+					"de": "//[HAREBELL]\\\\//(0,30)\\\\Ach. Er ist so ein harter Arbeiter, nicht wahr?",
+					"es": "//[HAREBELL]\\\\//(0,2.8)\\\\Uf, cómo trabaja el tío, ¿eh?",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\Ох, какой же он трудяга...",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\呃，可真是个努力工作的家伙，是吧？",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\呃，他真是努力，對吧？",
+					"jp": "//[HAREBELL]\\\\//(0,2.4)\\\\はあ、なかなかの働き者だな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41016_targetspotted_harebell_002",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_002.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\I get tired just looking at him...",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Le simple fait de le regarder me fatigue...",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Mi sento stanco solo a guardarlo...",
+					"de": "//[HAREBELL]\\\\//(0,30)\\\\Ich bin es leid, ihn auch nur anzuschauen ...",
+					"es": "//[HAREBELL]\\\\//(0,2.5)\\\\Me canso de solo mirarlo...",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\Я всего лишь посмотрел на него — и уже устал.",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\我看着他都觉得累......",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\我看著他都覺得累......",
+					"jp": "//[HAREBELL]\\\\//(0,2.6)\\\\見ているだけで疲れるよ..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41016_targetspotted_harebell_003",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_003.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\I think he could use a break, don't you?",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Il aurait bien besoin d'une pause, vous ne croyez pas ?",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Ha proprio bisogno di una pausa, no?",
+					"de": "//[HAREBELL]\\\\//(0,30)\\\\Ich glaube, er könnte eine Pause brauchen, oder?",
+					"es": "//[HAREBELL]\\\\//(0,3.6)\\\\Creo que le vendría bien un descanso, ¿tú no?",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\Мне кажется, ему не повредит перерыв, а?",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\我觉得他可以休息一下，对吧？",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\我覺得他可以休息一下，對吧？",
+					"jp": "//[HAREBELL]\\\\//(0,3.51)\\\\少し休ませてやるべきだと思わないか？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41016_targetspotted_harebell_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_004.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\Poor sap, toiling away for people who couldn't care less.",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\L'imbécile. Travailler si dur pour des gens qui s'en fichent.",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Pover'anima, a faticare così per gente a cui non potrebbe importare di meno.",
+					"de": "//[HAREBELL]\\\\//(0,1.15)\\\\Armer Trottel.//(1.7,4.7)\\\\Arbeitet hart für Leute, denen es nicht egaler sein könnte.",
+					"es": "//[HAREBELL]\\\\//(0,4.3)\\\\Pobrecillo, trabajando como una mula para gente a la que se la refanfinfla.",
+					"ru": "//[HAREBELL]\\\\//(0,1.9)\\\\Бедняга...//(1.9,31.9)\\\\Столько сил тратит ради людей, которым наплевать...",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\可怜的家伙，成天为谁辛苦为谁忙呢。",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\可憐的傢伙，整天為不在乎你的人奔波。",
+					"jp": "//[HAREBELL]\\\\//(0,4.18)\\\\哀れな奴だ、どうでもいい人間のために四苦八苦するなんて。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc41016_targetspotted_harebell_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41016_targetspotted_harebell_005.animset].pc_animset",
+				"languages": {
+					"en": "//[HAREBELL]\\\\//(0,30)\\\\What a busy bee...",
+					"fr": "//[HAREBELL]\\\\//(0,30)\\\\Quel zèle...",
+					"it": "//[HAREBELL]\\\\//(0,30)\\\\Una vera ape operaia...",
+					"de": "//[HAREBELL]\\\\//(0,30)\\\\Was für ein fleißiges Bienchen ...",
+					"es": "//[HAREBELL]\\\\//(0,1.8)\\\\Qué hormiguita tan trabajadora...",
+					"ru": "//[HAREBELL]\\\\//(0,30)\\\\Трудится аки пчелка!",
+					"cn": "//[HAREBELL]\\\\//(0,30)\\\\真是个大忙人......",
+					"tc": "//[HAREBELL]\\\\//(0,30)\\\\真是個大忙人......",
+					"jp": "//[HAREBELL]\\\\//(0,1.55)\\\\なんて忙しい人なんだ..."
+				}
+			}
+		]
+	}
 }

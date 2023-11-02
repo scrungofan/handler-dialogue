@@ -1,87 +1,87 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43822_wrongfood.sweetdialog].pc_dialogevent",
-    "DITL": "00B7E83B2B5BFE20",
-    "CLNG": "00E3CBB0725ED16C",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43822_wrongfood_azelea_001",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_001.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Wrong food!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Mauvaise nourriture !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Cibo sbagliato!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Falsches Essen!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Comida incorrecta!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Не та еда!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\食物错了！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\食物錯了！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\それじゃない！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43822_wrongfood_azelea_002",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_002.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\Piggy doesn't like!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Cochonnet n'aime pas !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\A Maialetto non piace!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Das mag das Schweinchen nicht!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡A Cerdito no le gusta!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Хрюша недоволен!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\小猪不喜欢！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\小豬不喜歡！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんは気に入らない！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43822_wrongfood_azelea_003",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_003.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\That's not on the menu!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Ce n'est pas sur le menu !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\Quello non è sul menù!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Das steht nicht auf der Karte!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Eso no estaba en el menú!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Этого в меню нет!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\菜单上没有这个！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\那不在菜單上！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\それは頼んでないぞ！"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "pdlc43822_wrongfood_azelea_004",
-                "weight": 0.24999995529651375,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_004.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_004.animset].pc_animset",
-                "languages": {
-                    "en": "//[AZELEA]\\\\//(0,30)\\\\No! That is disgusting!",
-                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Non ! C'est dégoûtant !",
-                    "it": "//[AZELEA]\\\\//(0,30)\\\\No! È disgustoso!",
-                    "de": "//[AZELEA]\\\\//(0,30)\\\\Nein! Das ist widerlich!",
-                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡No! ¡Eso es repugnante!",
-                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Нет! Это гадость!",
-                    "cn": "//[AZELEA]\\\\//(0,30)\\\\不！真恶心！",
-                    "tc": "//[AZELEA]\\\\//(0,30)\\\\不！那太噁心了！",
-                    "jp": "//[AZELEA]\\\\//(0,30)\\\\ダメだ！気持ち悪い！"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43822_wrongfood.sweetdialog].pc_dialogevent",
+	"DITL": "00B7E83B2B5BFE20",
+	"CLNG": "00E3CBB0725ED16C",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43822_wrongfood_azelea_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_001.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Wrong food!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Mauvaise nourriture !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Cibo sbagliato!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Falsches Essen!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡Comida incorrecta!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Не та еда!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\食物错了！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\食物錯了！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\それじゃない！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43822_wrongfood_azelea_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_002.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\Piggy doesn't like!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Cochonnet n'aime pas !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\A Maialetto non piace!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Das mag das Schweinchen nicht!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡A Cerdito no le gusta!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Хрюша недоволен!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\小猪不喜欢！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\小豬不喜歡！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんは気に入らない！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43822_wrongfood_azelea_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_003.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\That's not on the menu!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Ce n'est pas sur le menu !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\Quello non è sul menù!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Das steht nicht auf der Karte!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡Eso no estaba en el menú!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Этого в меню нет!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\菜单上没有这个！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\那不在菜單上！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\それは頼んでないぞ！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "pdlc43822_wrongfood_azelea_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43822_wrongfood_azelea_004.animset].pc_animset",
+				"languages": {
+					"en": "//[AZELEA]\\\\//(0,30)\\\\No! That is disgusting!",
+					"fr": "//[AZELEA]\\\\//(0,30)\\\\Non ! C'est dégoûtant !",
+					"it": "//[AZELEA]\\\\//(0,30)\\\\No! È disgustoso!",
+					"de": "//[AZELEA]\\\\//(0,30)\\\\Nein! Das ist widerlich!",
+					"es": "//[AZELEA]\\\\//(0,30)\\\\¡No! ¡Eso es repugnante!",
+					"ru": "//[AZELEA]\\\\//(0,30)\\\\Нет! Это гадость!",
+					"cn": "//[AZELEA]\\\\//(0,30)\\\\不！真恶心！",
+					"tc": "//[AZELEA]\\\\//(0,30)\\\\不！那太噁心了！",
+					"jp": "//[AZELEA]\\\\//(0,30)\\\\ダメだ！気持ち悪い！"
+				}
+			}
+		]
+	}
 }

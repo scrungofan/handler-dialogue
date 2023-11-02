@@ -1,68 +1,68 @@
 {
-    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
-    "hash": "006AEC1C7BBE47D0",
-    "DITL": "005CC166F7715F6D",
-    "CLNG": "00063B34B5153AEE",
-    "rootContainer": {
-        "type": "Random",
-        "containers": [
-            {
-                "type": "WavFile",
-                "wavName": "dr20100_mp_langescaped_knight_knight_001",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_knight_001.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_knight_001.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\AW, hell, no. Lang dodged out of here. We’re done, Stone.",
-                    "fr": "//(0,30)\\\\C'est pas vrai, Lang s'est tiré. C'est fini, Stone.",
-                    "it": "//(0,30)\\\\Oh, no! Lang se l'è filata. È finita, Stone.",
-                    "de": "//(0,30)\\\\Ach Dreck! Nein! Lang hat sich verdrückt. Wir sind am Ende, Stone.",
-                    "es": "//(0,30)\\\\¡Joder, no! Lang ha salido de la zona. Se acabó, Stone.",
-                    "ru": "//(0,30)\\\\Зараза! ЛЭНГУ удалось ускользнуть. По домам, Стоун.",
-                    "cn": "//(0,30)\\\\啊，糟糕，朗溜走了。结束了，斯通。",
-                    "tc": "//(0,30)\\\\啊，不會吧，朗跑掉了。我們該走了，斯通。",
-                    "jp": "//(0,30)\\\\あ～あ、最悪。ラングに逃げられたわ。もう終わりね。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20100_mp_langescaped_knight_knight_002",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_knight_002.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_knight_002.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Lang has escaped. Mission aborted.",
-                    "fr": "//(0,30)\\\\Lang s'est échappé. C'est la fin de mission.",
-                    "it": "//(0,30)\\\\Lang è fuggito. La missione è annullata.",
-                    "de": "//(0,30)\\\\Lang ist entkommen. Mission wird abgebrochen.",
-                    "es": "//(0,30)\\\\Lang ha escapado. Misión abortada.",
-                    "ru": "//(0,30)\\\\ЛЭНГУ удалось сбежать. Задание отменяется.",
-                    "cn": "//(0,30)\\\\朗跑了。任务中止。",
-                    "tc": "//(0,30)\\\\朗逃脫了。任務失敗了。",
-                    "jp": "//(0,30)\\\\ラングが逃げた。任務中断よ。"
-                }
-            },
-            {
-                "type": "WavFile",
-                "wavName": "dr20100_mp_langescaped_knight_stone_003",
-                "weight": 0.3333333333333333,
-                "soundtag": "Voiceover_Handler_ICAEarpiece",
-                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_stone_003.wav].pc_wes",
-                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_stone_003.animset].pc_animset",
-                "languages": {
-                    "en": "//(0,30)\\\\Hmmph, Dorian Lang got away. Mission’s a wash. We’re done here.",
-                    "fr": "//(0,30)\\\\Raah, Dorian Lang s'est enfui. La mission est un échec. On peut plier bagage.",
-                    "it": "//(0,30)\\\\Uff, Dorian Lang se n'è andato. La missione è andata a monte. È tutto finito.",
-                    "de": "//(0,30)\\\\Hmpf. Lang hat sich aus dem Staub gemacht. Die Mission ist im Eimer. Wir sind hier fertig.",
-                    "es": "//(0,30)\\\\Arg. Dorian Lang ha escapado. La misión ha sido un fiasco. Hemos acabado.",
-                    "ru": "//(0,30)\\\\Да чтоб тебя! ДОРИАН ЛЭНГ ушел. Задание накрылось. Мы не справились.",
-                    "cn": "//(0,30)\\\\呃，多利安·朗逃走了。任务泡汤了。我们可以离开了。",
-                    "tc": "//(0,30)\\\\嗯，多里安．朗逃走了。任務搞砸了。我們該走了。",
-                    "jp": "//(0,30)\\\\ドリアン・ラングが逃げたわ。任務失敗よ。もう終わりね。"
-                }
-            }
-        ]
-    }
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "006AEC1C7BBE47D0",
+	"DITL": "005CC166F7715F6D",
+	"CLNG": "00063B34B5153AEE",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20100_mp_langescaped_knight_knight_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\AW, hell, no. Lang dodged out of here. We’re done, Stone.",
+					"fr": "//(0,30)\\\\C'est pas vrai, Lang s'est tiré. C'est fini, Stone.",
+					"it": "//(0,30)\\\\Oh, no! Lang se l'è filata. È finita, Stone.",
+					"de": "//(0,30)\\\\Ach Dreck! Nein! Lang hat sich verdrückt. Wir sind am Ende, Stone.",
+					"es": "//(0,30)\\\\¡Joder, no! Lang ha salido de la zona. Se acabó, Stone.",
+					"ru": "//(0,30)\\\\Зараза! ЛЭНГУ удалось ускользнуть. По домам, Стоун.",
+					"cn": "//(0,30)\\\\啊，糟糕，朗溜走了。结束了，斯通。",
+					"tc": "//(0,30)\\\\啊，不會吧，朗跑掉了。我們該走了，斯通。",
+					"jp": "//(0,30)\\\\あ～あ、最悪。ラングに逃げられたわ。もう終わりね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20100_mp_langescaped_knight_knight_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Lang has escaped. Mission aborted.",
+					"fr": "//(0,30)\\\\Lang s'est échappé. C'est la fin de mission.",
+					"it": "//(0,30)\\\\Lang è fuggito. La missione è annullata.",
+					"de": "//(0,30)\\\\Lang ist entkommen. Mission wird abgebrochen.",
+					"es": "//(0,30)\\\\Lang ha escapado. Misión abortada.",
+					"ru": "//(0,30)\\\\ЛЭНГУ удалось сбежать. Задание отменяется.",
+					"cn": "//(0,30)\\\\朗跑了。任务中止。",
+					"tc": "//(0,30)\\\\朗逃脫了。任務失敗了。",
+					"jp": "//(0,30)\\\\ラングが逃げた。任務中断よ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20100_mp_langescaped_knight_stone_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20100_mp_langescaped_knight_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Hmmph, Dorian Lang got away. Mission’s a wash. We’re done here.",
+					"fr": "//(0,30)\\\\Raah, Dorian Lang s'est enfui. La mission est un échec. On peut plier bagage.",
+					"it": "//(0,30)\\\\Uff, Dorian Lang se n'è andato. La missione è andata a monte. È tutto finito.",
+					"de": "//(0,30)\\\\Hmpf. Lang hat sich aus dem Staub gemacht. Die Mission ist im Eimer. Wir sind hier fertig.",
+					"es": "//(0,30)\\\\Arg. Dorian Lang ha escapado. La misión ha sido un fiasco. Hemos acabado.",
+					"ru": "//(0,30)\\\\Да чтоб тебя! ДОРИАН ЛЭНГ ушел. Задание накрылось. Мы не справились.",
+					"cn": "//(0,30)\\\\呃，多利安·朗逃走了。任务泡汤了。我们可以离开了。",
+					"tc": "//(0,30)\\\\嗯，多里安．朗逃走了。任務搞砸了。我們該走了。",
+					"jp": "//(0,30)\\\\ドリアン・ラングが逃げたわ。任務失敗よ。もう終わりね。"
+				}
+			}
+		]
+	}
 }
