@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32548_mp_reznikovescaping_knight.sweetdialog?/ds32548_mp_reznikovescaping_knight_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32548_mp_reznikovescaping_knight_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32548_mp_reznikovescaping_knight_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32548_mp_reznikovescaping_knight_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Warden Reznikov is exiting the prison. Let's stop him.",
+            "fr": "//(0,30)\\\\Reznikov quitte la prison. Il ne faut pas que ça arrive !",
+            "it": "//(0,30)\\\\Il direttore Reznikov sta uscendo dalla prigione. Fermiamolo.",
+            "de": "//(0,30)\\\\Gefängnisdirektor Reznikov verlässt das Gefängnis. Halten wir ihn auf.",
+            "es": "//(0,30)\\\\El alcaide Reznikov va a abandonar la cárcel. Debemos detenerlo.",
+            "ru": "//(0,30)\\\\Начальник тюрьмы Резников покидает тюрьму. Его нужно остановить.",
+            "cn": "//(0,30)\\\\监狱长列兹尼科夫正在离开监狱。阻止他。",
+            "tc": "//(0,30)\\\\典獄長雷茲尼克瓦正在離開監獄。我們得阻止他。",
+            "jp": "//(0,30)\\\\レズニコフ所長が刑務所から逃げようとしてる。やつを止めるぞ。"
+        }
+    }
+}

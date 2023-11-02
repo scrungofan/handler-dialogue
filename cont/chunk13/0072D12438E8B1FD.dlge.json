@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32044_mp_bladeescape_stone.sweetdialog?/ds32044_mp_bladeescape_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32044_mp_bladeescape_stone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32044_mp_bladeescape_stone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32044_mp_bladeescape_stone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Knight! The Blade is on the move. It looks like he's going to try to kill Ldong!",
+            "fr": "//(0,30)\\\\Knight ! La lame est en mouvement. Il a l'air bien parti pour abattre Ldong !",
+            "it": "//(0,30)\\\\Knight! La Lama si sta muovendo. A quanto sembra cercherà di eliminare Ldong!",
+            "de": "//(0,30)\\\\Knight! Die Klinge ist in Bewegung. Es sieht aus, als würde er versuchen, Ldong zu töten!",
+            "es": "//(0,30)\\\\¡Knight! La Hoja se ha puesto en marcha. ¡Creo que va a matar a Ldong!",
+            "ru": "//(0,30)\\\\Найт! Клинок куда-то направился. Думаю, он собирается убить Лдонга!",
+            "cn": "//(0,30)\\\\奈特！刀锋勇士开始行动了。看样子他打算杀掉董！",
+            "tc": "//(0,30)\\\\奈特！刀鋒正在行動中，他似乎是要去殺董氏！",
+            "jp": "//(0,30)\\\\ナイト！刃が動いた。ルドンを殺しにいくつもりだ！"
+        }
+    }
+}

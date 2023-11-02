@@ -1,0 +1,125 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43829_feedbanana.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43829_feedbanana_azelea_001",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Yes! Bananas!",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Oui ! Bananes !",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Sì! Banane!",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Ja! Bananen!",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Sí! ¡Plátanos!",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Да! Бананы!",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\是的！香蕉！",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\對！香蕉！",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\よし、バナナだ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43829_feedbanana_azelea_002",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\More bananas!",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Plus de bananes !",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Altre banane!",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Mehr Bananen!",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Más plátanos!",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Еще бананов!",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\更多的香蕉！",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\更多香蕉！",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\バナナをもっと！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43829_feedbanana_azelea_003",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Piggy wants more bananas!",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Cochonnet veut plus de bananes !",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Maialetto vuole altre banane!",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Das Schweinchen will mehr Bananen!",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Cerdito quiere más plátanos!",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Хрюша хочет еще бананов!",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\小猪想要更多香蕉！",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\小豬要更多香蕉！",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんはもっとバナナを欲しがっている！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43829_feedbanana_azelea_004",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Don't stop feeding piggy bananas!",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\N'arrêtez pas ! Donnez-lui des bananes !",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Continua a dare le banane a Maialetto!",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Hören Sie nicht auf, das Schweinchen mit Bananen zu füttern!",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡No dejes de darle plátanos a Cerdito!",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Пичкай эту свинку бананами!",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\继续给小猪喂香蕉！",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\別停，繼續餵小豬吃香蕉！",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\バナナを与え続けろ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43829_feedbanana_azelea_005",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_005.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Bananas. More bananas!",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Bananes... Plus de bananes !",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Banane! Altre banane!",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Bananen. Mehr Bananen!",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\Plátanos. ¡Más plátanos!",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Бананы. Неси еще бананы!",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\香蕉。更多的香蕉！",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\香蕉，更多香蕉！",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\バナナ！バナナをもっと！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43829_feedbanana_azelea_006",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_006.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43829_feedbanana_azelea_006.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Hmm! Bananas. Piggy wants more.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Hmm ! Bananes ! Cochonnet veut plus !",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Mmm! Banane. Maialetto ne vuole delle altre.",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Hm! Bananen. Das Schweinchen will mehr.",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\¡Mmm! Plátanos. Cerdito quiere más.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\М-м-м! Бананы. Хрюша хочет добавки.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\嗯！香蕉。小猪想要更多。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\嗯！香蕉，小豬要更多。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\うーん、バナナ。子ブタちゃんはもっと欲しがっているぞ！"
+                }
+            }
+        ]
+    }
+}

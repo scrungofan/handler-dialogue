@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43726_stitchintroreactbad.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43726_stitchintroreactbad_makoyana_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_Dream",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43726_stitchintroreactbad_makoyana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43726_stitchintroreactbad_makoyana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\That's more like it.",
+                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Je préfère ça.",
+                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Ecco, così va meglio.",
+                    "de": "//[MAKOYANA]\\\\//(0,30)\\\\So ist es schon besser.",
+                    "es": "//[MAKOYANA]\\\\//(0,30)\\\\Eso ya es otra cosa.",
+                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Вот это другое дело.",
+                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\这才像话。",
+                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\這才像話。",
+                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\そうこなくっちゃ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43726_stitchintroreactbad_makoyana_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_Dream",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43726_stitchintroreactbad_makoyana_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43726_stitchintroreactbad_makoyana_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\47! You are finally getting the hang of this.",
+                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Vous semblez enfin prendre le coup de main, 47 !",
+                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\47! Cominci a capire come si fa.",
+                    "de": "//[MAKOYANA]\\\\//(0,30)\\\\47! Endlich kommen Sie auf den Trichter.",
+                    "es": "//[MAKOYANA]\\\\//(0,30)\\\\47, parece que por fin le estás cogiendo el tranquillo a esto.",
+                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\47-й, наконец-то ты начинаешь входить во вкус.",
+                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\47！你终于掌握了门道。",
+                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\47！你終於開始上手了。",
+                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\47！ようやく分かってきたようだな！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43726_stitchintroreactbad_makoyana_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_Dream",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43726_stitchintroreactbad_makoyana_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43726_stitchintroreactbad_makoyana_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\That's what I'm talking about.",
+                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Voilà, on discute enfin.",
+                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Ecco di cosa parlavo.",
+                    "de": "//[MAKOYANA]\\\\//(0,30)\\\\Genau das meine ich.",
+                    "es": "//[MAKOYANA]\\\\//(0,30)\\\\Sí, eso es lo que me esperaba.",
+                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\Вот это больше похоже на правду.",
+                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\这才是我想要的结果。",
+                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\這才像樣嘛。",
+                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\そうだ、それでいい。"
+                }
+            }
+        ]
+    }
+}

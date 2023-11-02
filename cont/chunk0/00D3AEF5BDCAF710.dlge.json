@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40500_introtier1.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40500_introtier1_lunaria_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40500_introtier1_lunaria_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40500_introtier1_lunaria_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,3.2)\\\\47. Wake up!//(3.2,5.908589)\\\\It’s time to go to work.//(5.908589,8.3)\\\\I have a special mission for you.//(8.3,13)\\\\Don’t you long for the old days? Before things got personal?//(13,17)\\\\When it was all just about seeing those numbers grow in your bank account?//(17,25.65)\\\\Your friends corrupted you. It’s time to rediscover your true purpose and take those coins that rightfully belong to you.//(25.65,30)\\\\Don’t sell yourself cheap. Feed the frog to reap the rewards.//(30,60)\\\\It’s time, 47... Time to collect!",
+                    "fr": "//[LUNARIA]\\\\//(0,3.35)\\\\47 ? Réveillez-vous.//(3.35,8.35)\\\\Il est temps de vous mettre au travail. J'ai une mission spéciale pour vous.//(8.35,13.1)\\\\Le bon vieux temps ne vous manque-t-il pas ? Avant que tout ne devienne trop personnel ?//(13.1,19.35)\\\\Quand vous pouviez regarder gonfler votre compte en banque ? Vos amis vous ont corrompu...//(19.35,26)\\\\Il est temps de renouer avec votre vrai but, de vous emparer de ces pièces qui vous reviennent de droit.//(26,56)\\\\Ne vous bradez pas. Nourrissez la grenouille, et récoltez vos récompenses... Il est temps, 47. C'est l'heure de la collecte !",
+                    "it": "//[LUNARIA]\\\\//(0,3.5)\\\\47. Svegliati!//(3.5,6.1)\\\\È ora di andare al lavoro.//(6.1,8.5)\\\\Ho una missione speciale per te.//(8.5,13.3)\\\\Non ti mancano i vecchi tempi? Prima che le cose prendessero una piega personale?//(13.3,17.39)\\\\Quando si trattava soltanto di vedere quei numeri crescere sul tuo conto corrente?//(17.39,26.1)\\\\I tuoi amici ti hanno corrotto. È il momento di ritrovare i tuoi obiettivi e prendere il denaro che ti spetta.//(26.1,30.5)\\\\Non svenderti. Nutri la rana per ottenere le ricompense.//(30.5,60.5)\\\\È ora, 47... ora di riscuotere!",
+                    "de": "//[LUNARIA]\\\\//(0,3.45)\\\\47, aufwachen!//(3.45,8.5)\\\\Es wird Zeit, an die Arbeit zu gehen. Ich habe eine Spezialmission für Sie.//(8.5,17.35)\\\\Sehnen Sie sich nicht nach den alten Zeiten? Bevor alles so persönlich wurde? Als es nur darum ging, die Zahl auf Ihrem Bankkonto wachsen zu sehen?//(17.35,26.05)\\\\Ihre Freunde haben sie verdorben. Es wird Zeit, ihren wahren Zweck wiederzufinden und sich die Münzen zu holen, die Ihnen rechtmäßig zustehen?//(26.05,30.55)\\\\Verkaufen Sie sich nicht unter Wert. Füttern Sie den Frosch und ernten Sie die Erträge.//(30.55,60.55)\\\\Es wird Zeit, 47 ... Zeit zum Abkassieren!",
+                    "es": "//[LUNARIA]\\\\//(0,2.8)\\\\¡47, despierta!//(3.6,5.5)\\\\Hora de ponerse a trabajar.//(6,8.1)\\\\Tengo una misión especial para ti.//(8.4,10.9)\\\\¿No añoras los viejos tiempos?//(11.2,12.7)\\\\¿Antes de que la cosa se volviera tan personal?//(13.2,17)\\\\¿Cuando todo se reducía a ver engordar tu cuenta bancaria?//(17.5,19.1)\\\\Tus amigos te han corrompido.//(19.4,25.9)\\\\Es hora de redescubrir tu verdadero propósito en la vida y hacerte con esas monedas que son tuyas por derecho.//(25.9,28)\\\\No te vendas barato.//(28,30.4)\\\\Da de comer a la rana para recoger los frutos.//(30.4,60.4)\\\\Es la hora, 47... ¡Hora de cobrar!",
+                    "ru": "//[LUNARIA]\\\\//(0,2.83)\\\\Проснись, 47-й!//(3.6,8.55)\\\\Пора за работу. У меня для тебя особое задание.//(8.55,11.27)\\\\Скажи, ты не скучаешь по старым денькам?//(11.27,17.6)\\\\Помнишь, когда ты убивал только потому, что это приносило хорошие деньги?//(17.6,19.5)\\\\Твои друзья испортили тебя.//(19.5,24.2)\\\\Пора вспомнить о своем истинном предназначении и забрать деньги,//(24.2,26.3)\\\\которые принадлежат тебе по праву.//(26.3,28.17)\\\\Продавая себя, не продешеви.//(28.17,30.65)\\\\Прикармливай лягушку — и получишь награду.//(30.65,60.65)\\\\Время пришло, 47-й. Время стяжательства!",
+                    "cn": "//[LUNARIA]\\\\//(0,5.99)\\\\47。醒醒！该工作了。//(5.99,11.12)\\\\我有个特别任务交给你。你不是怀念过去的日子吗？//(11.12,13.22)\\\\那时候一切还不是私人恩怨。//(13.22,17.35)\\\\那时候你只需要看着自己的银行户头数字不停跳动。//(17.35,19.6)\\\\你的朋友让你堕落。//(19.6,26.04)\\\\是时候回归本心，拿回那些理应属于你的硬币了。//(26.04,56.04)\\\\别妄自菲薄。喂青蛙以获得回报。是时候了，47......是时候收集了！",
+                    "tc": "//[LUNARIA]\\\\//(0,6)\\\\47，醒來！該開工了。//(6,11.1)\\\\我有個特殊任務要交給你。你是不是很懷念以前的時光？//(11.1,17.3)\\\\那時事情沒有現在這麼複雜？當初我們做這些都是為了賺錢？//(17.3,19.5)\\\\你的朋友影響了你，//(19.5,26)\\\\現在你得找出你自己的真正目標並取回那些屬於你的錢。//(26,30.5)\\\\可別小看你自己了。只要餵食青蛙，你就能取得獎勵。//(30.5,60.5)\\\\是時候了，47......該來算帳了！",
+                    "jp": "//[LUNARIA]\\\\//(0,3.06)\\\\47。起きなさい！//(3.06,8.29)\\\\仕事の時間よ。特別な任務を用意したわ。//(8.29,13.08)\\\\昔に戻りたいと思わない？事が個人的な話になる前に？//(13.08,17.555)\\\\すべてが銀行口座の数字が膨らんでいく事にしか関係なかった頃に。//(17.555,19.25)\\\\あなたは友人たちに毒されてしまった。//(19.25,25.64)\\\\そろそろ真の目的を再認識して、自分のものであるべきコインを手に入れなさい。//(25.64,30.45)\\\\自分を安売りしちゃダメ。カエルにエサをやって、報酬を手に入れるのよ。//(30.45,32.5)\\\\時間よ、47...//(32.5,62.5)\\\\収集の時間だ！"
+                }
+            }
+        ]
+    }
+}

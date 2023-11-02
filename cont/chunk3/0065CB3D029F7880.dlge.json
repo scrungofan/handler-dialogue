@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41003_vitalityhits90.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41003_vitalityhits90_harebell_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41003_vitalityhits90_harebell_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41003_vitalityhits90_harebell_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Ninety percent... Still feeling confident, I suspect...",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\90 %... Vous êtes encore confiant, je présume...",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Novanta per cento... Ti sentirai ancora piuttosto tranquillo, immagino...",
+                    "de": "//[HAREBELL]\\\\//(0,1.15)\\\\Neunzig Prozent ...//(1.45,31.45)\\\\Sie sind sich vermutlich immer noch sicher ...",
+                    "es": "//[HAREBELL]\\\\//(0,1.4)\\\\Noventa por ciento...//(1.5,3.9)\\\\Sospecho que aún te sientes confiado...",
+                    "ru": "//[HAREBELL]\\\\//(0,1.9)\\\\Девяносто процентов...//(1.9,31.9)\\\\Я смотрю, ты не теряешь запала.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\百分之九十......我猜你还是很自信的......",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\百分之九十......我猜你還是很自信的......",
+                    "jp": "//[HAREBELL]\\\\//(0,3.65)\\\\90パーセント... きっと、まだ自信に満ちているのだろう..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41003_vitalityhits90_harebell_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41003_vitalityhits90_harebell_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41003_vitalityhits90_harebell_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\You're at ninety. But you've got plenty of energy left, right?",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Vous êtes à 90, mais vous en avez encore sous le pied, n'est-ce pas ?",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Ora sei a novanta. Ma hai ancora un sacco di energia, no?",
+                    "de": "//[HAREBELL]\\\\//(0,1.1)\\\\Sie liegen bei neunzig.//(1.7,31.7)\\\\Aber Sie haben noch reichlich Energie übrig, oder?",
+                    "es": "//[HAREBELL]\\\\//(0,1.4)\\\\Estás al noventa.//(1.8,4.2)\\\\Pero te queda mucha energía, ¿verdad?",
+                    "ru": "//[HAREBELL]\\\\//(0,1.8)\\\\Девяносто процентов.//(1.8,31.8)\\\\Но у тебя же еще полно энергии, а?",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\已经九十了。但你还有不少活力吧？",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\已經到九十了。但你還有不少精力吧？",
+                    "jp": "//[HAREBELL]\\\\//(0,3.65)\\\\90だ。まだ十分にエネルギーが残っている感じだろ？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41003_vitalityhits90_harebell_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41003_vitalityhits90_harebell_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41003_vitalityhits90_harebell_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\That's ninety...",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Voilà 90...",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\E siamo a novanta...",
+                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Das sind neunzig ...",
+                    "es": "//[HAREBELL]\\\\//(0,1.6)\\\\Y con eso te queda un noventa por ciento...",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Вот и девяносто...",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\九十了......",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\九十了......",
+                    "jp": "//[HAREBELL]\\\\//(0,1.5)\\\\90パーセントだ..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41003_vitalityhits90_harebell_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41003_vitalityhits90_harebell_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41003_vitalityhits90_harebell_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Ten points down, ninety to go.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Dix points de moins, plus que 90.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Dieci punti in meno, ne mancano novanta.",
+                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Zehn Punkte runter, neunzig noch übrig.",
+                    "es": "//[HAREBELL]\\\\//(0,30)\\\\Diez puntos menos, te quedan noventa.",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Минус десять процентов. Осталось девяносто.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\十分到手，还有九十。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\十分到手，還剩九十。",
+                    "jp": "//[HAREBELL]\\\\//(0,3.335)\\\\10ポイント減って、あと90パーセントだ。"
+                }
+            }
+        ]
+    }
+}

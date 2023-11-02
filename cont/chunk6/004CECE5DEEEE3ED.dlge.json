@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43735_chooseitemsword.sweetdialog?/pdlc43735_chooseitemsword_makoyana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc43735_chooseitemsword_makoyana_001",
+        "soundtag": "Voiceover_Handler_Dream",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43735_chooseitemsword_makoyana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43735_chooseitemsword_makoyana_001.animset].pc_animset",
+        "languages": {
+            "en": "//[MAKOYANA]\\\\//(0,5.5)\\\\A beautiful, sharp sabre. I'm sure it can do a lot of damage.//(5.5,8.6)\\\\But is worthy of the challenge to come?//(8.6,38.6)\\\\I think it would be too easy.",
+            "fr": "//[MAKOYANA]\\\\//(0,2.9)\\\\Joli sabre, bien aiguisé.//(2.9,8.5)\\\\J'imagine qu'il est particulièrement mortel, mais est-ce vraiment digne d'un tel défi ?//(8.5,38.5)\\\\Je pense que ce serait trop facile.",
+            "it": "//[MAKOYANA]\\\\//(0,3)\\\\Una bellissima sciabola affilata.//(3,33)\\\\Può fare un sacco di danni, certo, ma è degna della sfida che ti aspetta? Secondo me è troppo facile.",
+            "de": "//[MAKOYANA]\\\\//(0,2.853)\\\\Ein schöner, scharfer Säbel.//(2.853,5.438)\\\\Ich bin mir sicher, er kann viel Schaden anrichten.//(5.438,7.721)\\\\Aber ist er der kommenden Herausforderung würdig?//(8.611,38.611)\\\\Ich glaube, das wäre zu einfach.",
+            "es": "//[MAKOYANA]\\\\//(0,2.8)\\\\Un sable tan hermoso como afilado.//(3,7.9)\\\\Seguro que hace mucho daño, pero ¿es digno del desafío que se te presenta?//(8.6,38.6)\\\\Yo creo que sería todo demasiado fácil.",
+            "ru": "//[MAKOYANA]\\\\//(0,5.55)\\\\Изящная и острая сабля. Очень мощное оружие.//(5.55,8.675)\\\\Но подходит ли она для грядущего испытания?//(8.675,38.675)\\\\Мне кажется, это будет слишком просто.",
+            "cn": "//[MAKOYANA]\\\\//(0,5.56)\\\\一柄漂亮锋利的军刀。我敢肯定它能造成大量的伤害。//(5.56,35.56)\\\\但它真的适合即将到来的挑战吗？我觉得这样就太容易了。",
+            "tc": "//[MAKOYANA]\\\\//(0,5.7)\\\\美麗的彎刀。肯定能造成許多傷害。//(5.7,35.7)\\\\但是這能值得用來完成挑戰嗎？我看太容易了吧。",
+            "jp": "//[MAKOYANA]\\\\//(0,5.535)\\\\美しい、鋭利なサーベルだ。きっと殺傷力は高いだろう。//(5.535,35.535)\\\\しかし、これからのチャレンジにふさわしい武器なのか？簡単すぎないか？"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32085_mp_spidermoveshostages_knight.sweetdialog?/ds32085_mp_spidermoveshostages_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32085_mp_spidermoveshostages_knight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32085_mp_spidermoveshostages_knight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32085_mp_spidermoveshostages_knight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Thak is moving the hostages, Stone. We've got to do something about this...",
+            "fr": "//(0,30)\\\\Thak emmène les otages, Stone. On doit agir, et vite...",
+            "it": "//(0,30)\\\\Thak sta spostando gli ostaggi, Stone. Dobbiamo fare qualcosa in proposito...",
+            "de": "//(0,30)\\\\Thak verlegt die Geiseln, Stone. Wir müssen etwas dagegen unternehmen ...",
+            "es": "//(0,30)\\\\Thak está trasladando a los rehenes, Stone. Debemos hacer algo al respecto.",
+            "ru": "//(0,30)\\\\Так ведёт заложников, Стоун. Нужно что-то делать...",
+            "cn": "//(0,30)\\\\斯通，萨正在押送人质。我们得采取行动......",
+            "tc": "//(0,30)\\\\姓卓的正在轉移人質，斯通。我們得趕快行動......",
+            "jp": "//(0,30)\\\\タクが人質を連れて動いてるわ、ストーン。何とかしないと..."
+        }
+    }
+}

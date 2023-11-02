@@ -1,0 +1,125 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr20106_mp_killnoticed_knight_knight_001",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Oh no, we’re about to be discovered.",
+                    "fr": "//(0,30)\\\\Oh non, on va se faire repérer.",
+                    "it": "//(0,30)\\\\Oh no, stanno per scoprirci.",
+                    "de": "//(0,30)\\\\Oh nein! Gleich entdeckt man uns.",
+                    "es": "//(0,30)\\\\Oh, no. Van a descubrirnos.",
+                    "ru": "//(0,30)\\\\Ну вот, нас сейчас обнаружат.",
+                    "cn": "//(0,30)\\\\不好，我们即将被发现。",
+                    "tc": "//(0,30)\\\\噢不，我們要被發現了。",
+                    "jp": "//(0,30)\\\\まずいわ！見つかりそうよ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20106_mp_killnoticed_knight_knight_002",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Aw, heck, we need to contain this.",
+                    "fr": "//(0,30)\\\\Allez, il faut corriger ça.",
+                    "it": "//(0,30)\\\\Oh, diavolo, non dobbiamo lasciare che succeda.",
+                    "de": "//(0,30)\\\\Ach Dreck! Wir müssen das unter Kontrolle bekommen.",
+                    "es": "//(0,30)\\\\Mierda. Debemos contener la situación.",
+                    "ru": "//(0,30)\\\\Вот черт, нужно это исправить.",
+                    "cn": "//(0,30)\\\\啊，见鬼。我们得控制好局面。",
+                    "tc": "//(0,30)\\\\唉，糟糕，我們得控制情況。",
+                    "jp": "//(0,30)\\\\ああ、最悪。何とかしないと。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20106_mp_killnoticed_knight_knight_003",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Someone’s about to call us out. Need to contain this.",
+                    "fr": "//(0,30)\\\\Quelqu'un va nous repérer. Il faut reprendre le contrôle.",
+                    "it": "//(0,30)\\\\Qualcuno sta per farci uscire allo scoperto. Dobbiamo sistemare la cosa.",
+                    "de": "//(0,30)\\\\Da wird gleich jemand auf uns aufmerksam. Das muss unter Kontrolle gebracht werden.",
+                    "es": "//(0,30)\\\\Alguien está a punto de dar la alarma. Debemos evitarlo.",
+                    "ru": "//(0,30)\\\\Кто-то нас сейчас спалит. Нужно это исправить.",
+                    "cn": "//(0,30)\\\\有人要发现我们了。得控制好局面。",
+                    "tc": "//(0,30)\\\\有人要指出我們的位置。必需控制情況。",
+                    "jp": "//(0,30)\\\\警報を鳴らされるわ。何か手を打たなきゃ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20106_mp_killnoticed_knight_knight_004",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_004.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I think we're about to be detected.",
+                    "fr": "//(0,30)\\\\Je crois qu'on va se faire repérer.",
+                    "it": "//(0,30)\\\\Mi sa che stanno per localizzarci.",
+                    "de": "//(0,30)\\\\Ich glaube, gleich entdeckt man uns.",
+                    "es": "//(0,30)\\\\Creo que están a punto de detectarnos.",
+                    "ru": "//(0,30)\\\\Похоже, нас сейчас заметят.",
+                    "cn": "//(0,30)\\\\我们好像即将被发现了。",
+                    "tc": "//(0,30)\\\\我看我們就要被發現了。",
+                    "jp": "//(0,30)\\\\バレそうな感じよ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20106_mp_killnoticed_knight_knight_005",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_005.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Someone's on to us.",
+                    "fr": "//(0,30)\\\\Quelqu'un se doute de quelque chose.",
+                    "it": "//(0,30)\\\\Qualcuno è sulle nostre tracce.",
+                    "de": "//(0,30)\\\\Jemand ist uns auf der Spur.",
+                    "es": "//(0,30)\\\\Alguien nos ha descubierto.",
+                    "ru": "//(0,30)\\\\Нас ищут.",
+                    "cn": "//(0,30)\\\\有人盯上我们了。",
+                    "tc": "//(0,30)\\\\有人發現我們了。",
+                    "jp": "//(0,30)\\\\誰かに気付かれたわ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20106_mp_killnoticed_knight_knight_006",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_006.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20106_mp_killnoticed_knight_knight_006.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\I think an alarm is about to go off here.",
+                    "fr": "//(0,30)\\\\Je pense qu'une alarme va bientôt sonner.",
+                    "it": "//(0,30)\\\\Credo che stia per scattare un allarme.",
+                    "de": "//(0,30)\\\\Ich glaube, hier geht gleich ein Alarm los.",
+                    "es": "//(0,30)\\\\Creo que están a punto de dar la alarma.",
+                    "ru": "//(0,30)\\\\Сейчас поднимут тревогу.",
+                    "cn": "//(0,30)\\\\我感觉警报很快就要响起来了。",
+                    "tc": "//(0,30)\\\\我看警報馬上就會響起了。",
+                    "jp": "//(0,30)\\\\警報を鳴らされそうね。"
+                }
+            }
+        ]
+    }
+}

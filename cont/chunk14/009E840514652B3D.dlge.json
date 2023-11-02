@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "009E840514652B3D",
+    "DITL": "005CC166F7715F6D",
+    "CLNG": "00063B34B5153AEE",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "20000_flyin_knightandstone_stone_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_stone_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_stone_001.animset].pc_animset",
+        "languages": {
+            "en": "//[STONE]\\\\//(0,3.602542)\\\\Knight... Ready when you are. The wedding is about to begin.",
+            "fr": "//[STONE]\\\\//(0,30)\\\\Knight... J'attends ton signal. Le mariage va bientôt commencer.",
+            "it": "//[STONE]\\\\//(0,30)\\\\Knight... Io sono pronto. Il matrimonio sta per cominciare.",
+            "de": "//[STONE]\\\\//(0,30)\\\\Knight ... Schön, dass Sie erschienen sind. Die Hochzeit beginnt jeden Augenblick.",
+            "es": "//[STONE]\\\\//(0,30)\\\\Knight... Qué detalle que hayas venido. La boda está a punto de empezar.",
+            "ru": "//[STONE]\\\\//(0,30)\\\\Найт... Дай знать, как будешь готова. Свадьба скоро начнется.",
+            "cn": "//[STONE]\\\\//(0,30)\\\\奈特...很高兴你能来。婚礼即将开始。",
+            "tc": "//[STONE]\\\\//(0,30)\\\\奈特......就等你了。婚禮即將要開始了。",
+            "jp": "//[STONE]\\\\//(0,30)\\\\ナイト、いつでもOKだ。もうすぐ結婚式が始まるぞ。"
+        }
+    }
+}

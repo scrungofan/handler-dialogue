@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00A94D40766B4E5D",
+    "DITL": "005CC166F7715F6D",
+    "CLNG": "00063B34B5153AEE",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "20000_flyin_knightandstone_knight_002",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_knight_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_knight_002.animset].pc_animset",
+        "languages": {
+            "en": "//[KNIGHT]\\\\//(0,30)\\\\What's the status?",
+            "fr": "//[KNIGHT]\\\\//(0,30)\\\\On en est où ?",
+            "it": "//[KNIGHT]\\\\//(0,30)\\\\Voglio un rapporto!",
+            "de": "//[KNIGHT]\\\\//(0,30)\\\\Wie ist der Status?",
+            "es": "//[KNIGHT]\\\\//(0,30)\\\\¿Cuál es la situación?",
+            "ru": "//[KNIGHT]\\\\//(0,30)\\\\Что мы имеем?",
+            "cn": "//[KNIGHT]\\\\//(0,30)\\\\状况如何？",
+            "tc": "//[KNIGHT]\\\\//(0,30)\\\\情況如何？",
+            "jp": "//[KNIGHT]\\\\//(0,30)\\\\状況は？"
+        }
+    }
+}

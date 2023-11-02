@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32035_mp_spiderlilyid_knight.sweetdialog?/ds32035_mp_spiderlilyid_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32035_mp_spiderlilyid_knight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32035_mp_spiderlilyid_knight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32035_mp_spiderlilyid_knight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,5.425)\\\\Hello there, Captain Thak, better known as Spider Lily.//(5.425,35.425)\\\\That's a pretty cool nickname, actually...",
+            "fr": "//(0,4.064785)\\\\Enchantée, Capitaine Thak... ou devrais-je dire Spider Lily.//(4.064785,34.06479)\\\\Sympa, comme pseudo, d'ailleurs...",
+            "it": "//(0,30)\\\\Eccola qui, il capitano Thak, meglio nota come Giglio ragno. Davvero un bel soprannome, devo dire...",
+            "de": "//(0,30)\\\\Na hallo, Hauptmann Thak, besser bekannt als „die Spinnenlilie“. Das ist eigentlich ein ziemlich cooler Spitzname ...",
+            "es": "//(0,30)\\\\Saludos, capitana Thak, más conocida como Lirio Araña. El apodo mola un montón, la verdad...",
+            "ru": "//(0,30)\\\\А вот и капитан Так, больше известная как Ликорис. Кстати, крутое прозвище.",
+            "cn": "//(0,30)\\\\你好呀，外号蜘蛛兰的萨上尉。老实说那个绰号还挺有个性的......",
+            "tc": "//(0,30)\\\\你好啊，卓上尉，綽號彼岸花。這綽號其實還蠻酷的......",
+            "jp": "//(0,4.375)\\\\ごきげんようタク大尉、ヒガンバナの方が有名か。//(4.375,34.375)\\\\でも実際カッコいいあだ名ね..."
+        }
+    }
+}

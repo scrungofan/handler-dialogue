@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32558_mp_missioncomplete_stone.sweetdialog?/ds32558_mp_missioncomplete_stone_knight_mp_002.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32558_mp_missioncomplete_stone_knight_mp_002",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32558_mp_missioncomplete_stone_knight_mp_002.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32558_mp_missioncomplete_stone_knight_mp_002.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\You bet. Until next time, Stone.",
+            "fr": "//(0,30)\\\\Tu m'étonnes. À la prochaine, Stone.",
+            "it": "//(0,30)\\\\Puoi scommetterci. Alla prossima, Stone.",
+            "de": "//(0,30)\\\\Das kann man wohl laut sagen. Bis zum nächsten Mal, Stone.",
+            "es": "//(0,30)\\\\No lo dudo. Hasta la próxima, Stone.",
+            "ru": "//(0,30)\\\\Еще бы. До скорого, Стоун.",
+            "cn": "//(0,30)\\\\可不是嘛。下次再见了，斯通。",
+            "tc": "//(0,30)\\\\當然了。下次再見了，斯通。",
+            "jp": "//(0,30)\\\\了解。じゃあまたね、ストーン。"
+        }
+    }
+}

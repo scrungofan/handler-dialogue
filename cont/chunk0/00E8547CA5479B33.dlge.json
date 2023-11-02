@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40508_leave.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40508_leave_lunaria_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40508_leave_lunaria_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40508_leave_lunaria_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Leaving so soon? I expected more from you. Disappointing.",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous partez déjà ? J'en attendais plus de vous. Quelle déception...",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Di già? Mi aspettavo di più da te. Deludente.",
+                    "de": "//[LUNARIA]\\\\//(0,1.972393)\\\\Sie wollen schon gehen?//(1.972393,31.97239)\\\\Ich hätte mehr von Ihnen erwartet. Enttäuschend.",
+                    "es": "//[LUNARIA]\\\\//(0,1.8)\\\\¿Tan pronto te vas?//(1.8,3.8)\\\\Esperaba más de ti.//(3.8,33.8)\\\\Decepcionante.",
+                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Что, уже уходишь? А мне казалось, ты способен на большее. Жаль.",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\这么快就走了吗？没想到你就这样放弃了。太令我失望了。",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\這麼快就要走了？我對你有更高的期望呢。真令人失望。",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\もう行ってしまうのかな？もう少し期待してたのに。がっかり。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40508_leave_lunaria_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40508_leave_lunaria_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40508_leave_lunaria_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Are you leaving? Have you lost your sense of purpose? How could you?!",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous partez ? Auriez-vous perdu de vue votre véritable but ? Comment osez-vous !?",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Te ne vai? Hai dimenticato il tuo scopo? Come hai potuto?!",
+                    "de": "//[LUNARIA]\\\\//(0,1.8)\\\\Gehen Sie schon?//(1.8,4.4)\\\\Haben Sie vergessen, wozu Sie auf der Welt sind?//(4.4,34.4)\\\\Wie konnten Sie nur?!",
+                    "es": "//[LUNARIA]\\\\//(0,1.8)\\\\¿Te marchas?//(1.8,4)\\\\¿Has perdido la motivación?//(4.5,6)\\\\¿Cómo has podido?",
+                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Что, уходишь? А как же твоя конечная цель? Неужели ты правда уйдешь?!",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\你要走了吗？你的意志和决心呢？你怎么能这样？！",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\你要離開了嗎？你的目標呢？你怎麼能這樣？！",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\行ってしまうの？目的を見失った？なんてこと！？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40508_leave_lunaria_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40508_leave_lunaria_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40508_leave_lunaria_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,30)\\\\What? There are still more coins to collect. The frog is hungry. You disappoint me, 47.",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Comment ? Il reste pourtant des pièces à récolter, et la grenouille a faim. Vous me décevez, 47.",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Cosa? Ci sono ancora altre monete da raccogliere. La rana è affamata. Mi deludi, 47.",
+                    "de": "//[LUNARIA]\\\\//(0,5.2)\\\\Was? Aber es gibt noch Münzen zu sammeln. Der Frosch ist hungrig.//(5.2,35.2)\\\\Sie enttäuschen mich, 47.",
+                    "es": "//[LUNARIA]\\\\//(0,1.4)\\\\¿Cómo?//(1.4,3.5)\\\\Pero si aún quedan más monedas por recoger.//(3.5,5.3)\\\\La rana tiene hambre.//(5.3,7.5)\\\\Me decepcionas, 47.",
+                    "ru": "//[LUNARIA]\\\\//(0,3.68)\\\\Что?! Тебе нужно собрать еще много монет!//(3.68,33.68)\\\\Лягушка голодна! Ты разочаровал меня, 47-й.",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\什么？还有更多的硬币等着你收集。青蛙很饿。你让我失望了，47。",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\什麼？還有更多硬幣得收集呢。青蛙餓了。你真是令我失望，47。",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\何？まだ回収していないコインがあるのに。カエルはお腹を空かせてる。期待外れだ、47。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40508_leave_lunaria_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40508_leave_lunaria_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40508_leave_lunaria_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Are you leaving, 47? I’m disappointed.",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous partez, 47 ? Voilà qui est décevant.",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Te ne vai, 47? Mi deludi.",
+                    "de": "//[LUNARIA]\\\\//(0,2.9)\\\\Gehen Sie, 47?//(2.9,32.9)\\\\Ich bin enttäuscht.",
+                    "es": "//[LUNARIA]\\\\//(0,2.5)\\\\¿Te vas, 47?//(3.1,5)\\\\¡Menudo chasco!",
+                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Уходишь, 47-й? Ты разочаровал меня.",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\你要走了吗，47？我很失望。",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\你要走了，47？真是令人失望。",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\行ってしまうの、47？残念。"
+                }
+            }
+        ]
+    }
+}

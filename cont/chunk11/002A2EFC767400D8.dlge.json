@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32582_mp_riotlethalforce_stone.sweetdialog?/ds32582_mp_riotlethalforce_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32582_mp_riotlethalforce_stone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32582_mp_riotlethalforce_stone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32582_mp_riotlethalforce_stone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Warden's told the guards to shoot live rounds at the prisoners...",
+            "fr": "//(0,30)\\\\Le directeur a autorisé les gardiens à tirer à balles réelles sur les prisonniers...",
+            "it": "//(0,30)\\\\Il direttore ha ordinato alle guardie di sparare ai detenuti con proiettili veri...",
+            "de": "//(0,30)\\\\Der Gefängnisdirektor hat den Wachen gesagt, dass sie mit richtiger Munition auf die Gefangenen schießen dürfen ...",
+            "es": "//(0,30)\\\\El alcaide ha dicho a los guardias que usen munición real contra los prisioneros...",
+            "ru": "//(0,30)\\\\Начальник тюрьмы приказал охране стрелять по бунтовщикам боевыми патронами.",
+            "cn": "//(0,30)\\\\监狱长命令守卫朝囚犯发射实弹......",
+            "tc": "//(0,30)\\\\典獄長告知警衛對囚犯使用真槍實彈......",
+            "jp": "//(0,30)\\\\所長は実弾の使用を許可したらしい..."
+        }
+    }
+}

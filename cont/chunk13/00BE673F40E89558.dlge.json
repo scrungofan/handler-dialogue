@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32038_mp_bladefail_stone.sweetdialog?/ds32038_mp_bladefail_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32038_mp_bladefail_stone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32038_mp_bladefail_stone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32038_mp_bladefail_stone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Aw no, The Blade killed Ldong. Mission's over, Knight!",
+            "fr": "//(0,30)\\\\La lame a tué Ldong. La mission est terminée, Knight !",
+            "it": "//(0,30)\\\\Oh, no! La Lama ha eliminato Ldong. La missione è conclusa, Knight!",
+            "de": "//(0,30)\\\\O nein. Die Klinge hat Ldong getötet. Die Mission ist vorbei, Knight!",
+            "es": "//(0,30)\\\\No me jodas. La Hoja ha matado a Ldong. ¡Hemos fracasado, Knight!",
+            "ru": "//(0,30)\\\\Ах ты ж... Клинок убил Лдонга. Задание провалено, Найт!",
+            "cn": "//(0,30)\\\\糟糕，刀锋勇士把董杀了。奈特，任务结束了！",
+            "tc": "//(0,30)\\\\糟糕，刀鋒剛剛殺了董氏。任務結束了，奈特！",
+            "jp": "//(0,30)\\\\しまった、刃がルドンを殺しちまった。任務は終わりだ、ナイト！"
+        }
+    }
+}

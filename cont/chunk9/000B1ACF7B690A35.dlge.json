@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32068_mp_toiletshot.sweetdialog?/ds32068_mp_toiletshot_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32068_mp_toiletshot_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32068_mp_toiletshot_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32068_mp_toiletshot_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Okay... That's one toilet down, I guess.",
+            "fr": "//(0,30)\\\\Bon, bah... Pas de petit coin pour vous.",
+            "it": "//(0,30)\\\\Ok, adesso il bagno è fuori uso, immagino.",
+            "de": "//(0,30)\\\\Okay ... Damit wäre eine Toilette erledigt, denke ich.",
+            "es": "//(0,30)\\\\Pues vale... Un baño menos, supongo.",
+            "ru": "//(0,30)\\\\Ну что... Одним туалетом меньше, надо полагать.",
+            "cn": "//(0,30)\\\\好吧......打坏了一个马桶。",
+            "tc": "//(0,30)\\\\好了......這樣馬桶就慘了。",
+            "jp": "//(0,30)\\\\あー... トイレ1台ダウン。"
+        }
+    }
+}

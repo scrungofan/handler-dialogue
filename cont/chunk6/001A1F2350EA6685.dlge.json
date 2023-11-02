@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43701_introlevel02.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43701_introlevel02_makoyana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler_Dream",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43701_introlevel02_makoyana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43701_introlevel02_makoyana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[MAKOYANA]\\\\//(0,6.5)\\\\Yes, okay. You got the job done – though rather underwhelming and predictable.//(6.5,36.5)\\\\Please try not to humiliate me the next time.",
+                    "fr": "//[MAKOYANA]\\\\//(0,6.25)\\\\Oui, bon, vous avez réussi... mais de manière particulièrement décevante et prévisible.//(6.25,36.25)\\\\Tâchez de ne pas m'humilier de la sorte la prochaine fois.",
+                    "it": "//[MAKOYANA]\\\\//(0,6.42)\\\\Sì, ok. Hai portato a termine il lavoro, ma in maniera molto deludente e prevedibile.//(6.42,9.7)\\\\Vedi di non umiliarmi la prossima volta.",
+                    "de": "//[MAKOYANA]\\\\//(0,5.783)\\\\Ja, okay. Sie haben den Auftrag erledigt – aber wenig überzeugend und auf vorhersehbare Weise.//(5.783,35.783)\\\\Versuchen Sie, mich nächstes Mal nicht zu beschämen.",
+                    "es": "//[MAKOYANA]\\\\//(0,3)\\\\Sí, vale, has finiquitado el trabajo...,//(3,6)\\\\aunque fue algo bastante predecible y poco espectacular.//(6.6,10.3)\\\\Te pido por favor que no vuelvas a humillarme así.",
+                    "ru": "//[MAKOYANA]\\\\//(0,3.2)\\\\Что ж, молодец.//(3.2,6.4)\\\\Ты справился с работой — пусть и без особой фантазии.//(6.4,36.4)\\\\Пожалуйста, в следующий раз постарайся меня не опозорить.",
+                    "cn": "//[MAKOYANA]\\\\//(0,6.36)\\\\明白了，好的。你完成了任务，虽然如我所料那样平平无奇。//(6.36,36.36)\\\\下次可别再让我难堪了。",
+                    "tc": "//[MAKOYANA]\\\\//(0,3)\\\\對，好。你把事情給處理好了－－//(3,6.4)\\\\但這沒什麼了不起的，也是預料中的事。//(6.4,36.4)\\\\下次請不要這樣讓我丟臉。",
+                    "jp": "//[MAKOYANA]\\\\//(0,2.975)\\\\ふむ、なるほど。やるべきことはやったが...//(2.975,32.975)\\\\見え透いた、ありがちな方法だな。次からは恥をかかせるなよ。"
+                }
+            }
+        ]
+    }
+}

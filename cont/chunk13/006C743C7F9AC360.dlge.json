@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32067_mp_poisonshot.sweetdialog?/ds32067_mp_poisonshot_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32067_mp_poisonshot_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32067_mp_poisonshot_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32067_mp_poisonshot_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Spicing up the coffee...",
+            "fr": "//(0,30)\\\\On va pimenter un peu les choses...",
+            "it": "//(0,30)\\\\Diamo un tocco in più a questo caffè...",
+            "de": "//(0,30)\\\\Wir zuckern mal den Kaffee nach ...",
+            "es": "//(0,30)\\\\Un toque de sabor para el café...",
+            "ru": "//(0,30)\\\\Добавим в кофе секретный ингредиент...",
+            "cn": "//(0,30)\\\\在咖啡里加点料......",
+            "tc": "//(0,30)\\\\為咖啡加點料......",
+            "jp": "//(0,30)\\\\コーヒーに隠し味と..."
+        }
+    }
+}

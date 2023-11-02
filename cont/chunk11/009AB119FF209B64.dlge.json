@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32560_mp_missioncomplete_stone.sweetdialog?/ds32560_mp_missioncomplete_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32560_mp_missioncomplete_stone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32560_mp_missioncomplete_stone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32560_mp_missioncomplete_stone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\The targets are about to leave the scene. Let's make sure they don't.",
+            "fr": "//(0,30)\\\\Les cibles sont sur le point de quitter la zone. Il ne faut pas que ça arrive.",
+            "it": "//(0,30)\\\\I bersagli stanno per abbandonare la scena. Assicuriamoci che non lo facciano.",
+            "de": "//(0,30)\\\\Die Ziele wollen den Schauplatz verlassen. Sorgen wir dafür, dass sie das nicht tun.",
+            "es": "//(0,30)\\\\Los objetivos están a punto de abandonar la zona. Asegurémonos de que no lo hagan.",
+            "ru": "//(0,30)\\\\Цели скоро покинут зону задания. Не дай им этого сделать.",
+            "cn": "//(0,30)\\\\目标即将离开现场。一定不能让他们逃走。",
+            "tc": "//(0,30)\\\\目標快要離開此地了。確保他們走不了。",
+            "jp": "//(0,30)\\\\ターゲットが離脱しそうだ。なんとしても阻止するぞ。"
+        }
+    }
+}

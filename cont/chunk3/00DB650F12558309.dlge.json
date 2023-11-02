@@ -1,0 +1,106 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41017_targetdown_harebell_001",
+                "weight": 0.2,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown_harebell_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown_harebell_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\He looks so peaceful, doesn't he?",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Il a l'air si paisible... non ?",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Che aspetto beato, non concordi?",
+                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Er sieht so friedlich aus, nicht wahr?",
+                    "es": "//[HAREBELL]\\\\//(0,2.5)\\\\Parece tan apacible, ¿a que sí?",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Наконец-то он отдохнет, правда?",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\他看起来很平静，是吧？",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\他看起來很平靜，是吧？",
+                    "jp": "//[HAREBELL]\\\\//(0,2.62)\\\\とても穏やかそうに見えるだろ？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41017_targetdown_harebell_002",
+                "weight": 0.2,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown_harebell_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown_harebell_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,0.7)\\\\Well...//(1.55,31.55)\\\\At least someone gets to rest.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Au moins, quelqu'un va pouvoir se reposer.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Beh... Almeno qualcuno riesce a riposare.",
+                    "de": "//[HAREBELL]\\\\//(0,0.75)\\\\Tja ...//(1.5,3.5)\\\\Wenigstens kann sich jetzt wer ausruhen.",
+                    "es": "//[HAREBELL]\\\\//(0,1)\\\\Bueno...//(1.6,3.7)\\\\Al menos alguien puede descansar.",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Что ж... Хоть кто-то наконец отдохнет.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\嗯......起码有人可以休息了。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\嗯......至少有人可以休息了。",
+                    "jp": "//[HAREBELL]\\\\//(0,3.4)\\\\ほら、これでゆっくりと休めるってことだ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41017_targetdown_harebell_003",
+                "weight": 0.2,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown_harebell_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown_harebell_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,1.4)\\\\Rest in peace... er...//(2.65,32.65)\\\\whatever-your-name-was.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Reposez en paix, euh... Quel que soit votre nom.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Riposa in pace... ehm... chiunque tu sia.",
+                    "de": "//[HAREBELL]\\\\//(0,1.4)\\\\Ruhe in Frieden ... äh ...//(2.4,32.4)\\\\wie auch immer Sie hießen.",
+                    "es": "//[HAREBELL]\\\\//(0,1.65)\\\\Descansa en paz...//(2.7,4.1)\\\\como quieras que te llames.",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Покойся с миром, э-э-э... Как там тебя...",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\愿你安息......呃......不管你叫啥吧。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\願你安息......呃......我忘了你叫什麼了。",
+                    "jp": "//[HAREBELL]\\\\//(0,1.586196)\\\\安らかに眠れ... えっと...//(2.69,3.5)\\\\名前は知らないが。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41017_targetdown_harebell_004",
+                "weight": 0.2,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown_harebell_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown_harebell_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\He was due for a little time off anyway.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Il travaillait trop, de toute façon.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Gli serviva comunque una pausa.",
+                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Er hatte sowieso eine kleine Auszeit verdient.",
+                    "es": "//[HAREBELL]\\\\//(0,2.5)\\\\Igual le tocaba ya un poco de tiempo libre.",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Ему всё равно не помешало бы прилечь.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\他的时间也差不多了。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\他的時間也差不多了。",
+                    "jp": "//[HAREBELL]\\\\//(0,2.31)\\\\どっちにしろ、休むことになっていたんだ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41017_targetdown_harebell_005",
+                "weight": 0.2,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown_harebell_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41017_targetdown_harebell_005.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Sweet rest.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Faites de beaux rêves.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Sogni d'oro.",
+                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Ruhe sanft.",
+                    "es": "//[HAREBELL]\\\\//(0,2.2)\\\\Que descanses.",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Сладких снов.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\好好休息吧。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\好好休息吧。",
+                    "jp": "//[HAREBELL]\\\\//(0,1.91)\\\\安らかに休め。"
+                }
+            }
+        ]
+    }
+}

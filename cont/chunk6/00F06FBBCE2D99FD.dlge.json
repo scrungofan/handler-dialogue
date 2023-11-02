@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43724_l2reactbad.sweetdialog?/pdlc43724_l2reactbad_makoyana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc43724_l2reactbad_makoyana_001",
+        "soundtag": "Voiceover_Handler_Dream",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43724_l2reactbad_makoyana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43724_l2reactbad_makoyana_001.animset].pc_animset",
+        "languages": {
+            "en": "//[MAKOYANA]\\\\//(0,1.9)\\\\Good choice.//(1.9,4.45)\\\\If you can pull it off, that is.//(4.45,7.85)\\\\But can you do it without being spotted?//(7.85,37.85)\\\\Make me proud.",
+            "fr": "//[MAKOYANA]\\\\//(0,4.45)\\\\Bon choix. Si vous y arrivez, cela dit.//(4.45,7.8)\\\\Mais le pouvez-vous sans vous faire repérer ?//(7.8,37.8)\\\\Rendez-moi fier.",
+            "it": "//[MAKOYANA]\\\\//(0,30)\\\\Ottima scelta. Sempre se porterai a termine il tuo compito. Ce la farai senza farti individuare? Rendimi orgoglioso.",
+            "de": "//[MAKOYANA]\\\\//(0,1.782)\\\\Eine gute Wahl.//(1.782,4.336)\\\\Wenn Sie das denn schaffen können, meine ich.//(4.336,6.872)\\\\Kriegen Sie das hin, ohne dabei gesehen zu werden?//(7.772,37.772)\\\\Machen Sie mich stolz.",
+            "es": "//[MAKOYANA]\\\\//(0,4.1)\\\\Buena elección... si es que consigues tu objetivo, claro está.//(4.6,6.9)\\\\¿Lograrás hacerlo sin que te vean?//(8,38)\\\\A ver si me impresionas.",
+            "ru": "//[MAKOYANA]\\\\//(0,2.212393)\\\\Хороший выбор. Если, конечно,//(2.212393,7.8)\\\\справишься и сможешь остаться незамеченным.//(7.8,37.8)\\\\Я хочу гордиться тобой.",
+            "cn": "//[MAKOYANA]\\\\//(0,4.4)\\\\选得好。前提是你能成功。//(4.4,34.4)\\\\但你能在不被发现的前提下完成任务吗？好好表现吧。",
+            "tc": "//[MAKOYANA]\\\\//(0,30)\\\\好選擇。但你得成功。你能在不被發現下完成嗎？讓我感到驕傲吧。",
+            "jp": "//[MAKOYANA]\\\\//(0,7.9)\\\\良い選択だ。それで切り抜けられるならな。誰にも見つからずにできるか？//(7.9,37.9)\\\\期待してるぞ。"
+        }
+    }
+}

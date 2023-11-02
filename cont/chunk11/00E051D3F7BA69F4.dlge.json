@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32543_mp_reznikovid_knight.sweetdialog?/ds32543_mp_reznikovid_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32543_mp_reznikovid_knight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32543_mp_reznikovid_knight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32543_mp_reznikovid_knight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\That's the warden, Vitaly Reznikov. Nice hat.",
+            "fr": "//(0,30)\\\\C'est le directeur, Vitaly Reznikov. Sympa, le chapeau.",
+            "it": "//(0,30)\\\\Quello è il direttore, Vitaly Reznikov. Bel cappello.",
+            "de": "//(0,30)\\\\Das ist der Gefängnisdirektor: Vitali Reznikov. Schicker Hut.",
+            "es": "//(0,30)\\\\Ese es el alcaide, Vitaly Reznikov. Bonito sombrero.",
+            "ru": "//(0,30)\\\\А вот и Виталий Резников, начальник тюрьмы. Классная шапка.",
+            "cn": "//(0,30)\\\\那人就是监狱长维塔利·列兹尼科夫。帽子挺好看的。",
+            "tc": "//(0,30)\\\\那是典獄長維大力‧雷茲尼克瓦。真不錯的帽子。",
+            "jp": "//(0,30)\\\\あれが所長のヴィタリ・レズニコフ。いい帽子ね。"
+        }
+    }
+}

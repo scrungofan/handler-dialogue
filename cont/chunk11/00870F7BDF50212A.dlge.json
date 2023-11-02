@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32572_mp_riotreinforcetower_stone.sweetdialog?/ds32572_mp_riotreinforcetower_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32572_mp_riotreinforcetower_stone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32572_mp_riotreinforcetower_stone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32572_mp_riotreinforcetower_stone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Heads up. They're reinforcing their efforts with guards from the security tower now.",
+            "fr": "//(0,30)\\\\Knight. Ils envoient des gardiens du mirador pour renforcer les effectifs.",
+            "it": "//(0,30)\\\\Occhio. Stanno intensificando gli sforzi impiegando le guardie dalla torre di sicurezza.",
+            "de": "//(0,30)\\\\Aufgepasst. Sie verstärken jetzt ihre Bemühungen mit Wachen vom Sicherheitsturm.",
+            "es": "//(0,30)\\\\Atención. Están reforzándose con los guardias de la torre de seguridad.",
+            "ru": "//(0,30)\\\\Внимание. Для усиления они перебрасывают надзирателей со сторожевой вышки.",
+            "cn": "//(0,30)\\\\注意。他们正在派出安保塔里的守卫支援战斗。",
+            "tc": "//(0,30)\\\\注意了。他們正在從保全塔中派遣警衛來支援。",
+            "jp": "//(0,30)\\\\気を付けろ。警備棟から増援が送らてくるぞ。"
+        }
+    }
+}

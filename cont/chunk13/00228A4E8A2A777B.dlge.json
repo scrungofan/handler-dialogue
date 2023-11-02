@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32061_mp_hostagessecuredhurry_stone.sweetdialog?/ds32061_mp_hostagessecuredhurry_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32061_mp_hostagessecuredhurry_stone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32061_mp_hostagessecuredhurry_stone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32061_mp_hostagessecuredhurry_stone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Knight! We have to act now. The hostages are secured inside the shipping container. This is it!",
+            "fr": "//(0,30)\\\\Knight ! Plus le temps ! Les otages sont à bord du cargo, c'est maintenant ou jamais !",
+            "it": "//(0,30)\\\\Knight! Dobbiamo agire subito. Hanno chiuso gli ostaggi nel container. È il momento!",
+            "de": "//(0,30)\\\\Knight! Wir müssen jetzt handeln. Die Geiseln sind sicher im Transportcontainer. Jetzt gilt es!",
+            "es": "//(0,30)\\\\¡Knight! Debemos actuar ahora mismo. Han ocultado a los rehenes dentro del contenedor. ¡Es el momento!",
+            "ru": "//(0,30)\\\\Найт, нужно действовать немедленно! Заложников заперли в контейнере. Сейчас или никогда!",
+            "cn": "//(0,30)\\\\奈特！我们得立刻行动。在集装箱内的人质已被控制住。就是现在！",
+            "tc": "//(0,30)\\\\奈特！我們得立即行動。人質就在貨櫃中，就在這裡！",
+            "jp": "//(0,30)\\\\ナイト！動くのは今だ。人質はコンテナの中に入れられている。いよいよだぞ！"
+        }
+    }
+}

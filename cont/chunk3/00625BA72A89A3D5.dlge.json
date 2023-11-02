@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41004_vitalityhits70.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41004_vitalityhits70_harebell_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41004_vitalityhits70_harebell_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41004_vitalityhits70_harebell_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,1.5)\\\\Seventy percent...//(2.3,32.3)\\\\Are you starting to miss your shell yet?",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\70 %... Alors, votre coquille vous manque ?",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Settanta per cento... Il tuo guscio comincia a mancarti?",
+                    "de": "//[HAREBELL]\\\\//(0,1.35)\\\\Siebzig Prozent ...//(2.2,32.2)\\\\Vermissen Sie schon Ihr Haus?",
+                    "es": "//[HAREBELL]\\\\//(0,1.5)\\\\Setenta por ciento...//(2.3,4.2)\\\\¿Empiezas ya a echar de menos tu concha?",
+                    "ru": "//[HAREBELL]\\\\//(0,2.4)\\\\Семьдесят процентов...//(2.4,32.4)\\\\Что, не хочешь отдохнуть в своей ракушке?",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\百分之七十......开始想念你的壳了吗？",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\百分之七十......你是不想縮回你的殼了？",
+                    "jp": "//[HAREBELL]\\\\//(0,4.4)\\\\70パーセント... そろそろ殻が恋しくなってきたか？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41004_vitalityhits70_harebell_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41004_vitalityhits70_harebell_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41004_vitalityhits70_harebell_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,1.236196)\\\\That's seventy...//(2.3,32.3)\\\\Remember, be the snail, agent.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\On est à 70... Souvenez-vous, agent : devenez l'escargot.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\E siamo a settanta... Ricorda, agente, sii la lumaca.",
+                    "de": "//[HAREBELL]\\\\//(0,1.55)\\\\Das wären siebzig ...//(2.25,32.25)\\\\Denken Sie daran: Seien Sie die Schnecke, Agent.",
+                    "es": "//[HAREBELL]\\\\//(0,1.8)\\\\Al setenta...//(2.4,5.6)\\\\Recuerda, sé el caracol, agente.",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Осталось семьдесят. Помни, агент: нужно быть улиткой.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\七十了......记住像蜗牛一样，特工。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\七十了......記住，要像蝸牛一樣，特務。",
+                    "jp": "//[HAREBELL]\\\\//(0,6.05)\\\\70だ... 忘れるな、カタツムリになれ、エージェント。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41004_vitalityhits70_harebell_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41004_vitalityhits70_harebell_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41004_vitalityhits70_harebell_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,3.1)\\\\Hmm what does that say? Seventy?//(3.8,33.8)\\\\For goodness sake, have you been doing jumping jacks while I wasn't looking?",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Hmm, qu'est-ce que ça dit ? 70 ? Vous n'avez quand même pas fait de squats pendant que j'avais le dos tourné, si ?",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Mmh, come come? Settanta? Santi numi, ti sei dato alla pazza gioia mentre ero distratto?",
+                    "de": "//[HAREBELL]\\\\//(0,3)\\\\Hm, was steht da? Siebzig?//(3.7,5.25)\\\\Um Himmels willen.//(5.25,35.25)\\\\Haben Sie den Hampelmann gemacht, während ich nicht aufgepasst habe?",
+                    "es": "//[HAREBELL]\\\\//(0,3.2)\\\\Mmm, ¿qué pone ahí? ¿Setenta?//(3.9,8.5)\\\\Por el amor de Dios, ¿has estado dando saltos cuando yo no miraba?",
+                    "ru": "//[HAREBELL]\\\\//(0,3.696687)\\\\Хм-м, что тут у нас? Семьдесят процентов?//(3.696687,33.69669)\\\\Чем ты занимался, пока я отвернулся? Прыгал на одной ножке?",
+                    "cn": "//[HAREBELL]\\\\//(0,4)\\\\上面写了什么？七十？//(4,34)\\\\看在老天的份上，你在我没注意的时候做开合跳了吗？",
+                    "tc": "//[HAREBELL]\\\\//(0,3.7)\\\\上面寫了些什麼？七十？//(3.7,33.7)\\\\天啊，我沒注意的時候你在做開合跳嗎？",
+                    "jp": "//[HAREBELL]\\\\//(0,3.52)\\\\ふむ、なんて書いてあるのかな？70？//(3.52,8.7)\\\\まったく、見ていない間に縄跳びでもしていたのか？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41004_vitalityhits70_harebell_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41004_vitalityhits70_harebell_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41004_vitalityhits70_harebell_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,1.5)\\\\Seventy percent...//(2.2,32.2)\\\\Getting worried yet?",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\70 %... Toujours pas inquiet ?",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Settanta per cento... Non è che cominci a preoccuparti?",
+                    "de": "//[HAREBELL]\\\\//(0,1.35)\\\\Siebzig Prozent ...//(2.15,32.15)\\\\Machen Sie sich schon Sorgen?",
+                    "es": "//[HAREBELL]\\\\//(0,1.5)\\\\Setenta por ciento...//(2.2,3.5)\\\\¿Empiezas a preocuparte?",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Семьдесят процентов... Что, уже беспокоишься?",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\百分之七十......开始担心了吗？",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\百分之七十......開始擔心了嗎？",
+                    "jp": "//[HAREBELL]\\\\//(0,3.6)\\\\70パーセント... 心配になってきたか？"
+                }
+            }
+        ]
+    }
+}

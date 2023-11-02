@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40509_pacify.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40509_pacify_lunaria_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40509_pacify_lunaria_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40509_pacify_lunaria_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,30)\\\\You need to eliminate them... give in to your desire.",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous devez éliminer... succomber à vos désirs.",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Devi eliminarli... abbandonati al desiderio.",
+                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Sie müssen sie eliminieren ... Geben Sie Ihrem Verlangen nach.",
+                    "es": "//[LUNARIA]\\\\//(0,30)\\\\Tienes que eliminarlos... ceder a tu deseo.",
+                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Тебе нужно устранить их... Поддайся своим желаниям.",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\你得消灭他们......遵从你内心的欲望。",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\你必須消滅他們......接受你的慾望。",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\排除しなさい... 欲望の赴くままに。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40509_pacify_lunaria_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40509_pacify_lunaria_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40509_pacify_lunaria_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,30)\\\\Eliminate them.",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Éliminez-les.",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Eliminali.",
+                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Eliminieren Sie sie.",
+                    "es": "//[LUNARIA]\\\\//(0,30)\\\\Elimínalos.",
+                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Уничтожь их.",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\消灭他们。",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\消滅他們。",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\排除しなさい。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40509_pacify_lunaria_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40509_pacify_lunaria_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40509_pacify_lunaria_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,30)\\\\You need to finish them, for good.",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous devez les achever, pour de bon.",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Devi eliminare i bersagli, definitivamente.",
+                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Sie müssen sie erledigen. Endgültig.",
+                    "es": "//[LUNARIA]\\\\//(0,30)\\\\Tienes que acabar con ellos, para siempre.",
+                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Тебе нужно устранить их. Навсегда.",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\你得彻底结果他们。",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\你必須永遠消滅他們。",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\しっかりトドメを刺しなさい。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40509_pacify_lunaria_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40509_pacify_lunaria_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40509_pacify_lunaria_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,30)\\\\You need to eliminate them. Do it!",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous devez les éliminer. Allez !",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Devi eliminare i bersagli. Fallo!",
+                    "de": "//[LUNARIA]\\\\//(0,30)\\\\Sie müssen sie eliminieren. Tun Sie es!",
+                    "es": "//[LUNARIA]\\\\//(0,2.2)\\\\Tienes que eliminarlos.//(3,33)\\\\¡Hazlo!",
+                    "ru": "//[LUNARIA]\\\\//(0,30)\\\\Ты должен уничтожить их. Давай же!",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\你得消灭他们。动手吧！",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\你必須消滅他們，快下手！",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\排除しなければ。やって！"
+                }
+            }
+        ]
+    }
+}

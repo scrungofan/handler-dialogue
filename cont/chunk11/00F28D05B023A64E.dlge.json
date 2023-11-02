@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32601_mp_reznikovaloneknight.sweetdialog?/ds32601_mp_reznikovaloneknight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32601_mp_reznikovaloneknight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32601_mp_reznikovaloneknight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32601_mp_reznikovaloneknight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Warden's gone searching for Khabko. He's gonna leave if the big man doesn't show up soon.",
+            "fr": "//(0,30)\\\\Le directeur est parti chercher Khabko. Il n'attendra pas Khabko bien longtemps...",
+            "it": "//(0,30)\\\\Il direttore è andato a cercare Khabko. Se ne andrà se l'omone non si farà vedere entro breve.",
+            "de": "//(0,30)\\\\Reznikow hat sich auf die Suche nach Khabko gemacht. Er wird aufbrechen, wenn der große Kerl nicht bald auftaucht.",
+            "es": "//(0,30)\\\\El alcaide ha ido a buscar a Khabko. Se va a largar como el grandullón no aparezca pronto.",
+            "ru": "//(0,30)\\\\Начальник тюрьмы отправился на поиски Хабко. Если наш здоровяк не объявится, Резников улетит без него.",
+            "cn": "//(0,30)\\\\监狱长去找卡布科了。如果大块头不尽快现身，他就会自己离开。",
+            "tc": "//(0,30)\\\\典獄長去找卡伯克了。如果那大塊頭再不出現，他會離開。",
+            "jp": "//(0,2.14)\\\\所長がカブコを探しに行ったわ。//(2.14,32.14)\\\\あの大男が現れなかったら、すぐに出発してしまうでしょうね。"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43702_introlevel02naughty.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43702_introlevel02naughty_makoyana_001",
+                "weight": 1.0,
+                "soundtag": "Voiceover_Handler_Dream",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43702_introlevel02naughty_makoyana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43702_introlevel02naughty_makoyana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\Magnificent! You've proven that you are the apex predator! Let's see if you can keep it up.",
+                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Magnifique ! Vous êtes bel et bien le prédateur perché ! Voyons si vous pouvez maintenir ce niveau.",
+                    "it": "//[MAKOYANA]\\\\//(0,5.83)\\\\Magnifico! Hai dimostrato di essere il Superpredatore!//(5.83,8.1)\\\\Vediamo se riuscirai a continuare così.",
+                    "de": "//[MAKOYANA]\\\\//(0,5.011)\\\\Großartig! Sie haben bewiesen, dass Sie am Ende der Nahrungskette stehen!//(5.011,35.011)\\\\Wollen wir mal sehen, ob Sie das durchhalten können.",
+                    "es": "//[MAKOYANA]\\\\//(0,1.5)\\\\¡Magnífico!//(1.7,5.3)\\\\¡Has demostrado ser todo un superdepredador!//(5.9,8.2)\\\\Ahora, veamos si eres capaz de mantener el nivel.",
+                    "ru": "//[MAKOYANA]\\\\//(0,4.72)\\\\Потрясающе! Ты показал всем, кто тут суперхищник!//(5.9,35.9)\\\\Но сумеешь ли ты удержать этот темп?",
+                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\棒极了！你证明了你就是顶级掠食者。看看你能否保持下去。",
+                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\太好了！你證明了你才是頂尖獵殺者！讓我們看看你能不能保持下去。",
+                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\素晴らしい！それでこそ究極の捕食者だ！その調子で続けられるかやってみろ。"
+                }
+            }
+        ]
+    }
+}

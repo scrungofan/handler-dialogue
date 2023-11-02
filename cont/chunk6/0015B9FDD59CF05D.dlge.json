@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43830_onemore.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43830_onemore_azelea_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43830_onemore_azelea_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43830_onemore_azelea_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,3.3)\\\\Oh, I think Piggy wants a bit more.//(3.3,33.3)\\\\Well, it's up to you.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Ah, je crois que Cochonnet en veut un peu plus. Enfin, c'est à vous de voir.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Oh, credo che Maialetto voglia qualcos'altro. Beh, sta a te.",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Oh, ich glaube, das Schweinchen will noch mehr. Tja, nun liegt es an Ihnen.",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\Oh, creo que Cerdito quiere un poco más. Bueno, de ti depende.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\О, кажется, Хрюша хочет добавки. Решай сам.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\噢，我觉得小猪还想多要一些。嗯，看你吧。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\噢，我覺得小豬還想要更多。嗯，隨你怎麼做。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんはもう少し欲しいみたいだ。どうする？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43830_onemore_azelea_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43830_onemore_azelea_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43830_onemore_azelea_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,2.2)\\\\Piggy seems to want more.//(2.2,32.2)\\\\Do you want to help him?",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Cochonnet a l'air d'en vouloir plus. Voulez-vous l'aider ?",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Sembra che Maialetto voglia qualcos'altro. Che ne dici di aiutarlo?",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Das Schweinchen scheint noch mehr zu wollen. Wollen Sie ihm helfen?",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\Parece que Cerdito quiere más. ¿Quieres ayudarlo?",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Хрюша явно хочет добавки. Поможешь ему?",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\小猪好像还想多要一些。你想帮助他吗？",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\小豬想要更多，你要去幫牠嗎？",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんはもっと欲しいみたいだ。もっとやるか？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43830_onemore_azelea_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43830_onemore_azelea_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43830_onemore_azelea_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,2.3)\\\\Piggy seems to want a tiny bit more.//(2.3,32.3)\\\\Could you help him? It's up to you.",
+                    "fr": "//[AZELEA]\\\\//(0,4.3)\\\\Cochonnet semble en vouloir un petit peu plus. Vous pouvez l'aider ?//(4.3,34.3)\\\\C'est à vous de voir.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Sembra che Maialetto voglia qualcosina in più. Ti va di aiutarlo? Sta a te.",
+                    "de": "//[AZELEA]\\\\//(0,2.5)\\\\Das Schweinchen scheint noch ein kleines bisschen mehr zu wollen.//(2.5,3)\\\\Könnten Sie ihm helfen?//(4.2,34.2)\\\\Es liegt an Ihnen.",
+                    "es": "//[AZELEA]\\\\//(0,3.5)\\\\Parece que Cerdito quiere un poquito más. ¿Podrías ayudarlo?//(4.45,34.45)\\\\Tú decides.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Похоже, Хрюша еще не наелся. Сможешь ему помочь? Решать тебе.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\小猪好像还想多要一些。你能帮助他吗？看你吧。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\小豬還想要更多。你能去幫牠嗎？隨你怎麼做。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんはもうほんの少し欲しいみたいだ。手伝ってやるか？どうする？"
+                }
+            }
+        ]
+    }
+}

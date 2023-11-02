@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "002CC610FCCF39AC",
+    "DITL": "005CC166F7715F6D",
+    "CLNG": "00063B34B5153AEE",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "20000_flyin_knightandstone_stone_005",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_stone_005.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_cinematic/20000_flyin_knightandstone_stone_005.animset].pc_animset",
+        "languages": {
+            "en": "//[STONE]\\\\//(0,30)\\\\Alright. Let's do this.",
+            "fr": "//[STONE]\\\\//(0,30)\\\\Ok, c'est parti.",
+            "it": "//[STONE]\\\\//(0,30)\\\\Perfetto. Cominciamo.",
+            "de": "//[STONE]\\\\//(0,30)\\\\Bereit, wenn Sie es sind, Knight ...",
+            "es": "//[STONE]\\\\//(0,30)\\\\Vale, vamos al lío.",
+            "ru": "//[STONE]\\\\//(0,30)\\\\Хорошо, давай сделаем это.",
+            "cn": "//[STONE]\\\\//(0,30)\\\\就等你了，奈特...",
+            "tc": "//[STONE]\\\\//(0,30)\\\\好吧。我們上。",
+            "jp": "//[STONE]\\\\//(0,30)\\\\よし、始めるぞ。"
+        }
+    }
+}

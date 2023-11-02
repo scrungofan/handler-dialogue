@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44002_intro3.sweetdialog?/pdlc44002_intro3_frangipani_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc44002_intro3_frangipani_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44002_intro3_frangipani_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44002_intro3_frangipani_001.animset].pc_animset",
+        "languages": {
+            "en": "//[FRANGIPANI]\\\\//(0,2.55)\\\\Why even fight this?//(2.55,6.153374)\\\\Wouldn't it be nice if someone WAS better than you?//(6.153374,14)\\\\If you could look at them and feel that little spike of jealousy driving you to push harder than you would on your own?//(14,18.15)\\\\When you're the best, who can you compare yourself to?//(18.15,48.15)\\\\You get complacent. You get comfortable... And that doesn't sound like your thing.",
+            "fr": "//[FRANGIPANI]\\\\//(0,6.25)\\\\Pourquoi combattre ? Ne serait-ce pas mieux si quelqu'un était bel et bien meilleur que vous ?//(6.25,14.25)\\\\Si vous pouviez le voir, et ressentir cette pointe de jalousie qui vous pousserait à vous surpasser ?//(14.25,21.7)\\\\À qui peut-on se comparer quand on est le meilleur ? Hm ? On devient suffisant... Cabotin...//(21.7,51.7)\\\\Mais ce n'est pas vous, n'est-ce pas ?",
+            "it": "//[FRANGIPANI]\\\\//(0,6.4)\\\\Perché lottare, dopotutto? Non sarebbe bello se ci FOSSE realmente una persona più in gamba di te?//(6.4,14.4)\\\\Se potessi guardare quella persona e sentire una punta di invidia che ti spinge a fare più di quanto non faresti da solo?//(14.4,18.2)\\\\Quando sei il migliore, con chi ti puoi confrontare?//(18.2,48.2)\\\\Ti senti soddisfatto, ti metti comodo... E non mi sembra che sia il tuo modo di fare.",
+            "de": "//[FRANGIPANI]\\\\//(0,2.95)\\\\Warum kämpfen Sie überhaupt dagegen an?//(2.95,6.5)\\\\Wäre es nicht nett, wenn WIRKLICH jemand besser wäre als Sie?//(6.5,9.75)\\\\Wenn Sie ihm einfach nur zusehen und das Aufzucken des Neids spüren würden,//(9.75,14.45)\\\\das Sie mehr antreibt, als Sie es ohne seine Hilfe könnten?//(14.45,18.3)\\\\Wenn man der Beste ist, mit wem vergleicht man sich dann?//(18.3,21.7)\\\\Man wird selbstgefällig. Man wird bequem ...//(21.7,51.7)\\\\Und das klingt nicht gerade, als wenn es Ihr Ding wäre.",
+            "es": "//[FRANGIPANI]\\\\//(0,2.340491)\\\\¿Por qué enfrentarte a esto?//(2.340491,6.153374)\\\\¿No te gustaría que hubiese alguien mejor que tú?//(6.153374,11.06724)\\\\¿Alguien a quien mirar a los ojos y sentir una profunda envidia que te impulse a superar tus límites,//(11.06724,14.416)\\\\a llegar más lejos de lo que llegarías por ti solo?//(14.416,18.117)\\\\Cuando eres el mejor, ¿con quién te vas a comparar?//(18.117,21.278)\\\\Te vuelves complaciente, te acomodas...//(21.278,51.278)\\\\Y no me parece que sea eso lo que buscas.",
+            "ru": "//[FRANGIPANI]\\\\//(0,2.4)\\\\Зачем вообще бороться?//(3,6.42)\\\\Здорово, когда есть кто-то ЛУЧШЕ, чем ты, верно?//(6.42,9.855)\\\\Взглянув на соперника, ты чувствуешь укол зависти,//(9.855,14.62)\\\\заставляющий тебя стараться сильнее, чем когда ты один.//(14.62,18.52)\\\\Когда ты лучший, тебе не с кем себя сравнить.//(18.52,19.61)\\\\Ты почиваешь на лаврах.//(19.61,21.162)\\\\Расслабляешься...//(22.04,52.04)\\\\А это явно не в твоем стиле.",
+            "cn": "//[FRANGIPANI]\\\\//(0,2.9)\\\\何必心有不甘呢？//(2.9,6.2)\\\\世上存在比你优秀的人不是挺好的吗？//(6.2,9.7)\\\\你看到他们，心中就会涌起一阵嫉妒，//(9.7,14.3)\\\\而这股嫉妒就是你最强大的驱动力，不是吗？//(14.3,18.2)\\\\如果你已经是最优秀的了，那你还和谁比呢？//(18.2,48.2)\\\\你会得意忘形。变得安于现状......你应该不会希望这样吧。",
+            "tc": "//[FRANGIPANI]\\\\//(0,6.4)\\\\何必反抗？有人比你強不是很好嗎？//(6.4,14.3)\\\\要是你看見他們的時候感到嫉妒，這樣你不是會更加努力嗎？//(14.3,44.3)\\\\高處不勝寒，你遲早會怠慢、失去幹勁......你應該不希望會這樣吧。",
+            "jp": "//[FRANGIPANI]\\\\//(0,2.6)\\\\なぜ戦う必要がある？//(2.6,6.22)\\\\他の人の方が優れていた方がいい、って思わない？//(6.22,11.8)\\\\見ると嫉妬の炎がメラメラと燃え上がるような相手がいる方が、//(11.8,14.2)\\\\一人でいるより頑張れると思わない？//(14.2,18.3)\\\\自分が一番だと、誰を自分と比べるの？//(18.3,21.71)\\\\比べる相手いなければ、自己満足に陥いる。今の状態に甘んじる...//(21.71,51.71)\\\\それじゃ、あなたらしくないよね。"
+        }
+    }
+}

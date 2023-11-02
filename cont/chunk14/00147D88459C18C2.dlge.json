@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00147D88459C18C2",
+    "DITL": "005CC166F7715F6D",
+    "CLNG": "00063B34B5153AEE",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr20114_mp_leeescaped_knight_knight_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20114_mp_leeescaped_knight_knight_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20114_mp_leeescaped_knight_knight_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Lee flew the coop. We need to get out of here. Mission failed.",
+                    "fr": "//(0,30)\\\\Lee s'est échappée. Il faut partir d'ici. La mission a échoué.",
+                    "it": "//(0,30)\\\\Lee ha tagliato la corda. Dobbiamo andarcene da qui. Missione fallita.",
+                    "de": "//(0,30)\\\\Lee ist entflogen. Wir müssen von hier verschwinden. Mission gescheitert.",
+                    "es": "//(0,30)\\\\Lee ha abandonado el nido. Tenemos que irnos. Misión fallida.",
+                    "ru": "//(0,30)\\\\ЛИ упорхнула из гнезда. Надо уходить. Задание провалено.",
+                    "cn": "//(0,30)\\\\被李给溜了。我们得走了。任务失败。",
+                    "tc": "//(0,30)\\\\李溜掉了。我們得離開這裡。任務失敗了。",
+                    "jp": "//(0,30)\\\\リーに逃げられた。私たちも撤退しましょう。任務は失敗よ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20114_mp_leeescaped_knight_knight_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20114_mp_leeescaped_knight_knight_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20114_mp_leeescaped_knight_knight_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Tango lost. Lee managed to evacuate. The mission is over.",
+                    "fr": "//(0,30)\\\\Tango perdu. Lee a réussi à évacuer. La mission est terminée.",
+                    "it": "//(0,30)\\\\Bersaglio perso. Lee è riuscita ad andarsene. La missione è saltata.",
+                    "de": "//(0,30)\\\\Zulu am Boden. Lee konnte evakuieren. Die Mission ist vorbei.",
+                    "es": "//(0,30)\\\\Objetivo perdido. Lee ha logrado salir de la zona. Se cancela la misión.",
+                    "ru": "//(0,30)\\\\Цель ушла. ЛИ удалось эвакуироваться. Задание отменяется.",
+                    "cn": "//(0,30)\\\\目标已不见踪影。李设法逃走了。任务结束。",
+                    "tc": "//(0,30)\\\\目標逃脫了。李成功撤離了。任務已結束。",
+                    "jp": "//(0,30)\\\\ターゲットロスト。リーが逃げたわ。任務失敗ね。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20114_mp_leeescaped_knight_knight_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20114_mp_leeescaped_knight_knight_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20114_mp_leeescaped_knight_knight_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Aw, man, Lee bolted. We’ve lost her and the mission.",
+                    "fr": "//(0,30)\\\\Mince, Lee a réussi à s'enfuir. On les a perdues, elle et la mission.",
+                    "it": "//(0,30)\\\\Oh, cavolo, Lee si è data alla fuga. Se n'è andata... e con lei la nostra missione.",
+                    "de": "//(0,30)\\\\Ach Mann! Lee ist abgehauen. Wir haben sie und die Mission verloren.",
+                    "es": "//(0,30)\\\\Oh, vaya. Lee ha huido. Se nos ha escapado. Adiós a la misión.",
+                    "ru": "//(0,30)\\\\О черт, ЛИ удрала! Мы ее упустили, задание отменяется.",
+                    "cn": "//(0,30)\\\\啊，可恶，被李给溜了。我们把她跟丢了，任务失败。",
+                    "tc": "//(0,30)\\\\唉，糟糕，李跑了。我們失去了她和任務。",
+                    "jp": "//(0,30)\\\\最悪。リーに逃げられた。任務失敗よ。"
+                }
+            }
+        ]
+    }
+}

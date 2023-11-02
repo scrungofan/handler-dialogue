@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43803_l1wishlistfish.sweetdialog?/pdlc43803_l1wishlistfish_azelea_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc43803_l1wishlistfish_azelea_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43803_l1wishlistfish_azelea_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43803_l1wishlistfish_azelea_001.animset].pc_animset",
+        "languages": {
+            "en": "//[AZELEA]\\\\//(0,4.6)\\\\Piggy's wish list. This contains the ingredients that Piggy needs.//(4.6,7.4)\\\\Follow it and satisfy his hunger.//(7.4,37.4)\\\\Now, start with grapes and fish. Yummy.",
+            "fr": "//[AZELEA]\\\\//(0,4.7)\\\\La liste d'envies de Cochonnet. Elle contient les ingrédients dont a besoin Cochonnet.//(4.7,34.7)\\\\Suivez-la, et apaisez sa faim. Allez, commencez par le raisin et le poisson. Miam.",
+            "it": "//[AZELEA]\\\\//(0,4.8)\\\\La lista dei desideri di Maialetto, che contiene gli ingredienti di cui ha bisogno.//(4.8,34.8)\\\\Seguila e soddisfa la sua fame. Per ora, inizia con l'uva e il pesce. Gnam gnam.",
+            "de": "//[AZELEA]\\\\//(0,1.5)\\\\Die Wunschliste des Schweinchens.//(1.5,4.8)\\\\Hier stehen die Zutaten, die das Schweinchen braucht.//(4.8,7.5)\\\\Folgen Sie ihm und stillen Sie seinen Hunger.//(7.5,10)\\\\Fangen Sie jetzt mal mit Trauben und Fisch an.//(10,40)\\\\Lecker.",
+            "es": "//[AZELEA]\\\\//(0,4.8)\\\\Lista de deseos de Cerdito. Contiene los ingredientes que precisa Cerdito.//(4.8,7.6)\\\\Sigue la lista y colma su apetito.//(7.6,37.6)\\\\Venga, empieza por las uvas y el pescado. Delicioso.",
+            "ru": "//[AZELEA]\\\\//(0,1.604294)\\\\Список пожеланий Хрюши.//(1.604294,4.800982)\\\\Здесь указаны все ингредиенты, которые нужны Хрюше.//(4.800982,34.80098)\\\\Работай по списку и утоли его голод. Начни с рыбы и винограда. М-м-м!",
+            "cn": "//[AZELEA]\\\\//(0,4.7)\\\\小猪的愿望清单。这里面包含了小猪需要的原料。//(4.7,7.5)\\\\按上面的需求，满足他的饥饿。//(7.5,37.5)\\\\现在从葡萄和鱼开始。好吃。",
+            "tc": "//[AZELEA]\\\\//(0,4.9)\\\\小豬的願望清單。這包含小豬想要的食材。//(4.9,7.6)\\\\按照清單準備食材，並滿足他的飢餓。//(7.6,37.6)\\\\現在，先從葡萄和魚開始。好吃。",
+            "jp": "//[AZELEA]\\\\//(0,4.9)\\\\子ブタちゃんのほしい物リストだ。子ブタちゃんが必要な物が書いてある。//(4.9,7.65)\\\\これに従って、子ブタちゃんの飢えを満たしてやれ。//(7.65,37.65)\\\\まずは、ブドウと魚だな。うまそうだ。"
+        }
+    }
+}

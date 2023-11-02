@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32586_mp_guardfooddelivery_stone.sweetdialog?/ds32586_mp_guardfooddelivery_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32586_mp_guardfooddelivery_stone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32586_mp_guardfooddelivery_stone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32586_mp_guardfooddelivery_stone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\The big man's got one of the guards delivering him food from the field kitchen. Life as a prisoner isn't all bad, I guess.",
+            "fr": "//(0,30)\\\\Notre golgoth a demandé à un gardien de lui apporter quelque chose à manger. Comme quoi, la vie de prisonnier peut avoir du bon.",
+            "it": "//(0,30)\\\\L'omone ha detto a una delle guardie di consegnargli del cibo dalla cucina da campo. La vita da detenuto non è così male, immagino.",
+            "de": "//(0,30)\\\\Der große Kerl lässt sich von einer der Wachen etwas zu essen aus der Feldküche bringen. Das Leben als Häftling hat auch gute Seiten, schätze ich.",
+            "es": "//(0,30)\\\\Uno de los guardias le ha traído al grandullón algo de comer de la cocina. Supongo que la vida de un prisionero no está mal del todo.",
+            "ru": "//(0,30)\\\\Прямо важная шишка. Охранники носят ему еду из полевой кухни. Видимо, жизнь заключенного не так уж и тяжела.",
+            "cn": "//(0,4.2)\\\\大块头叫了一名守卫去野外厨房给他拿吃的。//(4.2,34.2)\\\\看来他在监狱里过得挺滋润啊。",
+            "tc": "//(0,30)\\\\這大塊頭叫了一名警衛從室外廚房為他帶一些食物來。囚犯的日子好像過得不錯。",
+            "jp": "//(0,3.805)\\\\あの大男は看守に、フィールドキッチンから食べ物を持ってこさせる気だ。//(3.805,33.805)\\\\囚人生活もそこそこ悪くなさそうだな。"
+        }
+    }
+}

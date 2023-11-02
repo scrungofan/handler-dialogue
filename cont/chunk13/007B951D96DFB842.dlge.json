@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32084_mp_hostagestoship_stone.sweetdialog?/ds32084_mp_hostagestoship_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32084_mp_hostagestoship_stone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32084_mp_hostagestoship_stone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32084_mp_hostagestoship_stone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Knight, the hostages are being transported to the ship.",
+            "fr": "//(0,30)\\\\Knight, ils emmènent les otages sur le cargo.",
+            "it": "//(0,30)\\\\Knight, stanno trasportando gli ostaggi verso la nave.",
+            "de": "//(0,30)\\\\Knight, die Geiseln werden zum Schiff transportiert.",
+            "es": "//(0,30)\\\\Knight, están trasladando a los rehenes al barco.",
+            "ru": "//(0,30)\\\\Найт, заложников уже ведут на корабль.",
+            "cn": "//(0,30)\\\\奈特，人质正在被运上船。",
+            "tc": "//(0,30)\\\\奈特，人質正被帶往船艦上。",
+            "jp": "//(0,30)\\\\ナイト、人質が船に移されている。"
+        }
+    }
+}

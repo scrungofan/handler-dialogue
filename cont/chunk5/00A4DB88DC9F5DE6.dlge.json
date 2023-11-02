@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44007_rivalkillwarn.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc44007_rivalkillwarn_frangipani_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44007_rivalkillwarn_frangipani_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44007_rivalkillwarn_frangipani_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[FRANGIPANI]\\\\//(0,30)\\\\He's got someone in his sights. Better get moving.",
+                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Il a une cible dans le viseur. Dépêchez-vous.",
+                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Ha qualcuno in linea di tiro. Farai meglio a sbrigarti.",
+                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Er hat jemanden ins Visier genommen. Legen Sie lieber einen Zahn zu.",
+                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Tiene a alguien a tiro. Te recomiendo que te pongas en marcha.",
+                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Он взял кого-то на мушку. Советую поспешить.",
+                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\他已经发现目标了。你最好赶快行动。",
+                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\他發現目標了，你最好趕快行動。",
+                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\やつはターゲットを見つけたみたい。早くしたほうがいいよ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc44007_rivalkillwarn_frangipani_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44007_rivalkillwarn_frangipani_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44007_rivalkillwarn_frangipani_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[FRANGIPANI]\\\\//(0,30)\\\\He's closing in. Might wanna do something about that.",
+                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Il se rapproche. Vous devriez vous remuer un peu.",
+                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Si sta avvicinando. Forse dovresti fare qualcosa al riguardo.",
+                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Er ist dicht dran. Vielleicht wollen Sie was dagegen tun.",
+                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Se aproxima. Quizás quieras hacer algo al respecto.",
+                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Он уже близко. Попробуй ему как-нибудь помешать.",
+                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\他正在接近目标。你得想想办法。",
+                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\他開始接近目標了，你最好做出反應。",
+                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\やつがターゲットに近づいている。どうにかした方がいいと思うよ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc44007_rivalkillwarn_frangipani_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44007_rivalkillwarn_frangipani_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44007_rivalkillwarn_frangipani_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[FRANGIPANI]\\\\//(0,30)\\\\Heads up, my boy's about to strike.",
+                    "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Attention, mon garçon va frapper.",
+                    "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Osserva, il mio campione sta per colpire.",
+                    "de": "//[FRANGIPANI]\\\\//(0,30)\\\\Augen auf! Mein Junge schlägt gleich zu.",
+                    "es": "//[FRANGIPANI]\\\\//(0,30)\\\\Atención, que mi chico está a punto de atacar.",
+                    "ru": "//[FRANGIPANI]\\\\//(0,30)\\\\Внимание! Мой боец готов нанести удар.",
+                    "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\注意，我的手下准备动手了。",
+                    "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\注意了，我的人要展開攻擊了。",
+                    "jp": "//[FRANGIPANI]\\\\//(0,30)\\\\ほら、あいつが殺ろうとしている。"
+                }
+            }
+        ]
+    }
+}

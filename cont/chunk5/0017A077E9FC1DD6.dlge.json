@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44014_47lowscore.sweetdialog?/pdlc44014_47lowscore_frangipani_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc44014_47lowscore_frangipani_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44014_47lowscore_frangipani_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44014_47lowscore_frangipani_001.animset].pc_animset",
+        "languages": {
+            "en": "//[FRANGIPANI]\\\\//(0,5.8)\\\\Do you think you proved anything? You squeaked by on a technicality.//(5.8,35.8)\\\\So congratulations. You really showed me.",
+            "fr": "//[FRANGIPANI]\\\\//(0,5.8)\\\\Vous croyez avoir prouvé quoi que ce soit ? Vous avez gagné sur un détail...//(5.8,35.8)\\\\Félicitations. Je l'ai bien dans l'os.",
+            "it": "//[FRANGIPANI]\\\\//(0,5.85)\\\\Credi di aver dimostrato qualcosa? Ce l'hai fatta a stento grazie a un cavillo.//(5.85,35.85)\\\\Quindi congratulazioni, me l'hai proprio fatta vedere.",
+            "de": "//[FRANGIPANI]\\\\//(0,5.85)\\\\Meinen Sie, Sie hätten irgendetwas bewiesen? Sie haben sich mit einem Trick durchgeschlagen.//(5.85,35.85)\\\\Also Glückwunsch. Sie haben es mir echt gezeigt.",
+            "es": "//[FRANGIPANI]\\\\//(0,1.776687)\\\\¿De verdad crees que has demostrado algo?//(1.776687,5.541473)\\\\Has ganado por los pelos, por pequeños matices.//(5.541473,8.015767)\\\\No obstante, enhorabuena.//(8.015767,38.01577)\\\\Me has demostrado tu valía.",
+            "ru": "//[FRANGIPANI]\\\\//(0,5.123)\\\\Ну и чего ты этим доказал? Выехал на чистой формальности.//(6.05,36.05)\\\\Поздравляю. Как лихо ты утер мне нос!",
+            "cn": "//[FRANGIPANI]\\\\//(0,5.7)\\\\你以为自己证明了什么吗？你只是险胜而已。//(5.7,35.7)\\\\祝贺还是必须的。你让我见识到了你的能耐。",
+            "tc": "//[FRANGIPANI]\\\\//(0,5.8)\\\\你覺得這證明了自己的實力了嗎？你這贏得太勉強了吧。//(5.8,35.8)\\\\那，我先恭喜你，你真是讓我大開眼界了。",
+            "jp": "//[FRANGIPANI]\\\\//(0,6)\\\\何か証明できたと思っている？技術点でなんとか乗り切っただけだ。//(6,36)\\\\ま、おめでとう。しっかり見せてもらったよ。"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41013_47sprinting.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41013_47sprinting_harebell_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41013_47sprinting_harebell_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41013_47sprinting_harebell_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\If people were supposed to exert themselves like this, their muscles wouldn't get sore.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Si les gens étaient censés se dépenser ainsi, ils n'auraient jamais de courbatures.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Se fosse normale per le persone sforzarsi in questo modo, i loro muscoli non si indolenzirebbero.",
+                    "de": "//[HAREBELL]\\\\//(0,2.35)\\\\Wenn die Leute sich so überanstrengen sollten,//(2.35,4.5)\\\\würden sie auch keinen Muskelkater kriegen.",
+                    "es": "//[HAREBELL]\\\\//(0,4.3)\\\\Si la gente se esforzara así, estaría en plena forma.",
+                    "ru": "//[HAREBELL]\\\\//(0,2.9)\\\\Если бы люди были созданы для усердного труда,//(2.9,32.9)\\\\у них бы не болели мышцы.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\如果人们真的理应如此拼命奔跑，那么他们的肌肉就永远不会酸痛。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\如果大家都應該這麼用力的話，他們的肌肉就不會酸痛。",
+                    "jp": "//[HAREBELL]\\\\//(0,4.77)\\\\こうやって動いていれば、筋肉痛にはならないってことか。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41013_47sprinting_harebell_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41013_47sprinting_harebell_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41013_47sprinting_harebell_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Ugh, you're like some peabrained greyhound.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Tss, vous êtes un vrai lévrier à la cervelle d'oiseau.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Ugh, sei peggio di una bestiola scimunita.",
+                    "de": "//[HAREBELL]\\\\//(0,3)\\\\Ach. Sie sind ja wie ein erbsenhirniger Windhund.",
+                    "es": "//[HAREBELL]\\\\//(0,3.1)\\\\Uf, pareces un galgo sin cerebro.",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Пф-ф. Ты прямо какая-то тупорылая ищейка.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\呃，你看起来就像条蠢头蠢脑的灰猎犬。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\呃，你看起來就像條沒長腦子的灰狗。",
+                    "jp": "//[HAREBELL]\\\\//(0,3.233)\\\\はあ、まるでマヌケな犬みたいだな。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41013_47sprinting_harebell_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41013_47sprinting_harebell_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41013_47sprinting_harebell_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,1.2)\\\\Are you sweating?//(1.8,31.8)\\\\That's repulsive.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Vous transpirez ? Dégoûtant.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Stai sudando? È disgustoso.",
+                    "de": "//[HAREBELL]\\\\//(0,1.2)\\\\Schwitzen Sie?//(1.85,4.15)\\\\Das ist widerlich.",
+                    "es": "//[HAREBELL]\\\\//(0,4.4)\\\\¿Estás sudando? Qué asco.",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Что, вспотел? Это омерзительно.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\你出汗了吗？太蠢了。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\你出汗了嗎？真噁心。",
+                    "jp": "//[HAREBELL]\\\\//(0,4.46)\\\\汗をかいてるのか？ああ、いやだいやだ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41013_47sprinting_harebell_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41013_47sprinting_harebell_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41013_47sprinting_harebell_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,1.95)\\\\Hunters lie in the grass, you know.//(2.85,4.15)\\\\They stalk.//(4.7,34.7)\\\\Prey runs.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Les chasseurs s'allongent au sol. Ils traquent. Seules les proies courent.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\I cacciatori attendono in mezzo all'erba, sai. Stanno in agguato. Solo le prede corrono.",
+                    "de": "//[HAREBELL]\\\\//(0,1.95)\\\\Jäger lauern im Gras, wissen Sie?//(2.85,4.2)\\\\Sie pirschen sich an.//(4.8,6.3)\\\\Beute läuft davon.",
+                    "es": "//[HAREBELL]\\\\//(0,2.4)\\\\Los cazadores se tumban en la hierba.//(2.9,4.1)\\\\Acechan.//(4.8,6.1)\\\\Las presas corren.",
+                    "ru": "//[HAREBELL]\\\\//(0,2)\\\\Бежать должна жертва.//(3,33)\\\\Работа охотника — поджидать в засаде.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\好猎人都是以逸待劳的。他们只会尾随。让猎物疲于奔命。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\好獵人都是以逸待勞的。他們只要跟隨著拼命逃逸的獵物就行了。",
+                    "jp": "//[HAREBELL]\\\\//(0,4.085)\\\\捕食動物は草むらに身を潜めるんだよ。奴らは静かに追跡する。//(4.87,6.15)\\\\走るのは獲物の方だ。"
+                }
+            }
+        ]
+    }
+}

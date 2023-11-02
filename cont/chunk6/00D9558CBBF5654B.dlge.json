@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43737_l3reactsurprisebad.sweetdialog?/pdlc43737_l3reactsurprisebad_makoyana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc43737_l3reactsurprisebad_makoyana_001",
+        "soundtag": "Voiceover_Handler_Dream",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43737_l3reactsurprisebad_makoyana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43737_l3reactsurprisebad_makoyana_001.animset].pc_animset",
+        "languages": {
+            "en": "//[MAKOYANA]\\\\//(0,2.75)\\\\Now that's a nice surprise!//(2.75,9.2)\\\\Finally, you understand that the path to greatness is not by taking the easy route.//(9.2,39.2)\\\\You should be proud.",
+            "fr": "//[MAKOYANA]\\\\//(0,9.15)\\\\Voilà une agréable surprise ! Vous comprenez enfin que la route vers la gloire est aussi la plus périlleuse.//(9.15,39.15)\\\\Vous pouvez être fier de vous.",
+            "it": "//[MAKOYANA]\\\\//(0,2.7)\\\\Questa sì che è una bella sorpresa!//(2.7,9.2)\\\\Finalmente hai capito che la strada che porta alla grandezza non implica scelte facili.//(9.2,39.2)\\\\Dovresti andarne fiero.",
+            "de": "//[MAKOYANA]\\\\//(0,2.488)\\\\Also das ist eine schöne Überraschung!//(2.488,8.048)\\\\Endlich begreifen Sie, dass der Weg zu wahrer Größe niemals der leichte ist.//(9.211,39.211)\\\\Sie sollten stolz sein.",
+            "es": "//[MAKOYANA]\\\\//(0,2.4)\\\\¡Vaya, qué sorpresa tan agradable!//(2.9,8.1)\\\\Por fin entiendes que coger atajos no te lleva hacia la grandeza.//(9.3,39.3)\\\\Deberías estar orgulloso.",
+            "ru": "//[MAKOYANA]\\\\//(0,2.8)\\\\Какой приятный сюрприз!//(2.8,7.99)\\\\Наконец-то ты осознал, что к подлинной славе нет легких путей.//(9.405,39.405)\\\\Можешь собой гордиться.",
+            "cn": "//[MAKOYANA]\\\\//(0,9.29)\\\\这真是个惊喜！你终于明白了，只挑容易的事做是无法成就伟业的。//(9.29,39.29)\\\\你应该为此感到骄傲。",
+            "tc": "//[MAKOYANA]\\\\//(0,2.8)\\\\這才是個好驚喜！//(2.8,9.1)\\\\你終於瞭解了，想成為強者，你並不能選簡單的路。//(9.1,39.1)\\\\你應該感到驕傲。",
+            "jp": "//[MAKOYANA]\\\\//(0,2.702)\\\\これはうれしい驚きだな！//(2.702,9.31)\\\\ようやく学んだようだな、楽な道を選んでは偉大にはなれない、ということを。//(9.31,39.31)\\\\誇りに思うべきだ。"
+        }
+    }
+}

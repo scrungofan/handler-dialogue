@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "002CB0C250B17EAF",
+    "DITL": "005CC166F7715F6D",
+    "CLNG": "00063B34B5153AEE",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr20101_mp_maisonescaped_stone_stone_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20101_mp_maisonescaped_stone_stone_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20101_mp_maisonescaped_stone_stone_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Crap, Maison managed to slip away. Mission’s over.",
+                    "fr": "//(0,30)\\\\Maison a réussi à filer, merde ! C'est fini.",
+                    "it": "//(0,30)\\\\Accidenti, Maison è riuscito a tagliare la corda. Missione saltata.",
+                    "de": "//(0,30)\\\\Mist! Maison konnte uns entwischen. Die Mission ist vorbei.",
+                    "es": "//(0,30)\\\\Mierda. Maison ha logrado escapar. Abortamos la misión.",
+                    "ru": "//(0,30)\\\\Вот дерьмо, МЕЗОНУ удалось скрыться! Задание окончено.",
+                    "cn": "//(0,30)\\\\见鬼，米森设法溜走了。任务结束。",
+                    "tc": "//(0,30)\\\\該死，梅森逃掉了。任務結束了。",
+                    "jp": "//(0,30)\\\\畜生、メゾンに逃げられた。任務失敗だ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20101_mp_maisonescaped_stone_stone_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20101_mp_maisonescaped_stone_stone_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20101_mp_maisonescaped_stone_stone_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Maison took off. We lost him. Mission failed.",
+                    "fr": "//(0,30)\\\\Maison s'est fait la malle. On l'a perdu. C'est un échec.",
+                    "it": "//(0,30)\\\\Maison si è tolto di torno. L'abbiamo perso. Missione fallita.",
+                    "de": "//(0,30)\\\\Maison ist abgehauen. Er ist verschwunden. Mission gescheitert.",
+                    "es": "//(0,30)\\\\Maison ha volado. Lo hemos perdido. Misión fallida.",
+                    "ru": "//(0,30)\\\\МЕЗОН ушел. Он скрылся. Это провал.",
+                    "cn": "//(0,30)\\\\米森逃走了。我们把他跟丢了。任务失败。",
+                    "tc": "//(0,30)\\\\梅森跑掉了。我們追丟了他。任務失敗了。",
+                    "jp": "//(0,30)\\\\メゾンが消えた。逃げられたぞ。任務失敗だ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20101_mp_maisonescaped_stone_stone_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20101_mp_maisonescaped_stone_stone_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20101_mp_maisonescaped_stone_stone_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Come on! Maison managed to get away. This mission’s a failure.",
+                    "fr": "//(0,30)\\\\Non ! Maison a réussi à s'en tirer... On n'a plus qu'à rentrer.",
+                    "it": "//(0,30)\\\\Oh, andiamo! Maison è riuscito ad andarsene. Questa missione è un fallimento.",
+                    "de": "//(0,30)\\\\Ach komm schon! Maison hat es geschafft, wegzukommen. Diese Mission ist gescheitert.",
+                    "es": "//(0,30)\\\\¡Venga ya! Maison ha logrado huir. Hemos fracasado.",
+                    "ru": "//(0,30)\\\\Да ладно! МЕЗОНУ удалось скрыться. Это задание провалено.",
+                    "cn": "//(0,30)\\\\好气啊！被米森给溜了。任务失败。",
+                    "tc": "//(0,30)\\\\不是吧！梅森成功逃走了。任務失敗了。",
+                    "jp": "//(0,30)\\\\クソ！メゾンに逃げられた！任務失敗だ。"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41015_subduewarn.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41015_subduewarn_harebell_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41015_subduewarn_harebell_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41015_subduewarn_harebell_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\I don't know that that was worth the trouble...",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\J'ignorais que cela en vaudrait la peine...",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Non sono sicuro che ne valesse la pena...",
+                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Ich weiß nicht, ob das die Mühe wert war ...",
+                    "es": "//[HAREBELL]\\\\//(0,2.9)\\\\No sé si eso ha valido la pena...",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Ох, не знаю, стоило ли это твоих усилий...",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\不知道你是否犯得上如此费劲......",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\你何必這樣......",
+                    "jp": "//[HAREBELL]\\\\//(0,2.82)\\\\わざわざやる価値があったとは思えないが..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41015_subduewarn_harebell_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41015_subduewarn_harebell_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41015_subduewarn_harebell_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,0.5)\\\\Really?//(1.35,31.35)\\\\Well it's your life, spend it how you will.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Vraiment ? C'est votre vie après tout, faites-en ce que vous voulez.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Davvero? Beh, la vita è la tua, usala come meglio credi.",
+                    "de": "//[HAREBELL]\\\\//(0,0.8)\\\\Wirklich?//(1.5,2.7)\\\\Nun, es ist Ihr Leben.//(3.35,4.9)\\\\Verbringen Sie es, wie Sie wollen.",
+                    "es": "//[HAREBELL]\\\\//(0,1)\\\\¿En serio?//(1.5,4.5)\\\\Bueno, es tu vida, haz lo que quieras con ella.",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Серьезно? Что ж, это твоя жизнь, трать ее как хочешь.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\真的吗？反正是你自己的命，随你怎么用吧。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\真的嗎？反正是你自己的命，隨你怎麼用吧。",
+                    "jp": "//[HAREBELL]\\\\//(0,4.62)\\\\本当に？まあ、お前の命だ、好きなようにすればいい。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41015_subduewarn_harebell_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41015_subduewarn_harebell_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41015_subduewarn_harebell_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\Waste of energy if you ask me...",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\Gaspillage d'énergie, si vous voulez mon avis...",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Per me, è stato uno spreco di energie...",
+                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Energieverschwendung, wenn Sie mich fragen ...",
+                    "es": "//[HAREBELL]\\\\//(0,2.2)\\\\Ganas de gastar energía a lo tonto, en mi opinión...",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Как по мне, так это лишняя трата сил.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\你要问我的话，这简直是浪费活力......",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\在我看來，這簡直是浪費精力......",
+                    "jp": "//[HAREBELL]\\\\//(0,2.155)\\\\私に言わせれば、力の無駄だ..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41015_subduewarn_harebell_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41015_subduewarn_harebell_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41015_subduewarn_harebell_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,30)\\\\I do hope that detour pays off...",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\J'espère sincèrement que ce détour est utile...",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Spero che questa deviazione dia i suoi frutti...",
+                    "de": "//[HAREBELL]\\\\//(0,30)\\\\Ich hoffe, dass sich dieser Umweg lohnt ...",
+                    "es": "//[HAREBELL]\\\\//(0,3.2)\\\\Espero que ese rodeo valga la pena...",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Что ж, надеюсь, это окупится...",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\希望你的闲逛会有回报......",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\希望你的繞道會有回報......",
+                    "jp": "//[HAREBELL]\\\\//(0,2.9)\\\\急がば回れってことか？"
+                }
+            }
+        ]
+    }
+}

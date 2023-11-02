@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43734_chooseitemsniper.sweetdialog?/pdlc43734_chooseitemsniper_makoyana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc43734_chooseitemsniper_makoyana_001",
+        "soundtag": "Voiceover_Handler_Dream",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43734_chooseitemsniper_makoyana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43734_chooseitemsniper_makoyana_001.animset].pc_animset",
+        "languages": {
+            "en": "//[MAKOYANA]\\\\//(0,3.6)\\\\That's a beautiful sniper rifle.//(3.6,8.05)\\\\But anyone can be a silent assassin with such a tool.//(8.05,38.05)\\\\You are better than that, 47.",
+            "fr": "//[MAKOYANA]\\\\//(0,3.55)\\\\Superbe fusil de précision.//(3.55,33.55)\\\\Mais tout le monde peut être un assassin silencieux avec ça. Vous valez mieux que ça, 47.",
+            "it": "//[MAKOYANA]\\\\//(0,3.55)\\\\Quello è un bellissimo fucile di precisione.//(3.55,8.09908)\\\\Ma chiunque può essere un assassino silenzioso con un'arma del genere.//(8.09908,38.09908)\\\\Puoi fare di meglio, 47.",
+            "de": "//[MAKOYANA]\\\\//(0,2.729)\\\\Das ist ein schönes Scharfschützengewehr.//(3.528,6.973)\\\\Aber jeder kann mit so einem Werkzeug ein lautloser Killer sein.//(8.076,38.076)\\\\Sie sind doch besser als das, 47.",
+            "es": "//[MAKOYANA]\\\\//(0,2.7)\\\\¡Qué preciosidad de fusil de francotirador!//(3.6,7.3)\\\\Aunque cualquiera podría ser un asesino silencioso con una herramienta así.//(8.3,38.3)\\\\Eres mejor que eso, 47.",
+            "ru": "//[MAKOYANA]\\\\//(0,2.85)\\\\Прекрасная снайперская винтовка.//(3.75,7.29)\\\\Но с такой кто угодно может стать бесшумным убийцей.//(8.25,38.25)\\\\Ты же способен на большее, 47-й.",
+            "cn": "//[MAKOYANA]\\\\//(0,8.249)\\\\这把狙击步枪真漂亮。可有了它，谁都能成为沉默刺客。//(8.249,38.249)\\\\但你与众不同，47。",
+            "tc": "//[MAKOYANA]\\\\//(0,8.2)\\\\真是漂亮的狙擊槍。但有這種工具，任何人都能成為無聲殺手。//(8.2,38.2)\\\\你沒這麼差勁吧，47。",
+            "jp": "//[MAKOYANA]\\\\//(0,3.24)\\\\美しいスナイパーライフルだ。//(3.24,8.135)\\\\しかし、そんな道具を使えば、誰でもサイレントアサシンになれる。//(8.135,38.135)\\\\お前はそんな程度じゃないよな、47？"
+        }
+    }
+}

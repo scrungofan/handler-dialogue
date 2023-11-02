@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41509_l1killextrctwve02.sweetdialog?/pdlc41509_l1killextrctwve02_hollyhock_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc41509_l1killextrctwve02_hollyhock_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41509_l1killextrctwve02_hollyhock_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41509_l1killextrctwve02_hollyhock_001.animset].pc_animset",
+        "languages": {
+            "en": "//[HOLLYHOCK]\\\\//(2,9.2)\\\\Feel the rage? Always a good thing, when it's all about \"me, me, me\".//(9.2,39.2)\\\\You cleared the grounds from the Inhibitors, now return back to your hideout.",
+            "fr": "//[HOLLYHOCK]\\\\//(0,9.49)\\\\Vous sentez la rage ? C'est toujours bien, quand il n'y a plus que le \"moi, moi, moi\" qui compte.//(9.49,39.49)\\\\Vous avez éliminé tous les répresseurs, faites vite demi-tour.",
+            "it": "//[HOLLYHOCK]\\\\//(2.3,9.69)\\\\La senti la rabbia? Essere concentrati solo su sé stessi è sempre un bene.//(9.69,39.69)\\\\Hai sgombrato il campo dagli Inibitori, ora torna al tuo nascondiglio.",
+            "de": "//[HOLLYHOCK]\\\\//(0,9.6)\\\\Spüren Sie die Wut? Es ist immer eine gute Sache, wenn es nur um „mich, mich, mich“ geht.//(9.6,39.6)\\\\Sie haben das Gelände von Inhibitoren befreit. Kehren Sie jetzt zu Ihrem Unterschlupf zurück.",
+            "es": "//[HOLLYHOCK]\\\\//(0,9.449)\\\\¿Sientes la ira? Siempre es bueno hacer gala de ese egoísmo.//(9.449,39.449)\\\\Has acabado con todos los inhibidores, así que va siendo hora de volver a tu escondite.",
+            "ru": "//[HOLLYHOCK]\\\\//(2.4,4.45)\\\\Чувствуешь ярость?//(4.45,9.75)\\\\Когда всё вращается только вокруг тебя, это прекрасно.//(9.75,12.9)\\\\Ты избавился от всех блокаторов.//(12.9,42.9)\\\\Пора возвращаться в убежище.",
+            "cn": "//[HOLLYHOCK]\\\\//(0,9.6)\\\\感觉到怒火了吗？以自己为中心永远是好事。//(9.6,39.6)\\\\你肃清了场上的抑制者，现在返回藏身处吧。",
+            "tc": "//[HOLLYHOCK]\\\\//(0,9.5)\\\\感受到怒火了嗎？這樣很好，自私有什麼關係。//(9.5,39.5)\\\\看來你把抑制者都消滅了，現在回去你的藏身處吧。",
+            "jp": "//[HOLLYHOCK]\\\\//(0,9.72)\\\\怒りが沸くのを感じる？いいことよね、自分の事だけを考えるのは。//(9.72,39.72)\\\\インヒビターをすべてやっつけたわ。隠れ家に帰りましょう。"
+        }
+    }
+}

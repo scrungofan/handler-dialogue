@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43816_morebanana.sweetdialog?/pdlc43816_morebanana_azelea_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc43816_morebanana_azelea_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43816_morebanana_azelea_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43816_morebanana_azelea_001.animset].pc_animset",
+        "languages": {
+            "en": "//[AZELEA]\\\\//(0,30)\\\\Hmm! Perfect! But Piggy could do with some bananas.",
+            "fr": "//[AZELEA]\\\\//(0,30)\\\\Hmm ! Parfait ! Mais Cochonnet aimerait bien quelques bananes.",
+            "it": "//[AZELEA]\\\\//(0,30)\\\\Mmm! Perfetto! Ma Maialetto avrebbe bisogno di qualche banana.",
+            "de": "//[AZELEA]\\\\//(0,30)\\\\Hm! Perfekt! Aber das Schweinchen könnte noch mehr Bananen brauchen.",
+            "es": "//[AZELEA]\\\\//(0,30)\\\\¡Mmm! ¡Perfecto! Pero a Cerdito le vendrían bien unos plátanos.",
+            "ru": "//[AZELEA]\\\\//(0,30)\\\\Хм! Идеально! Но Хрюше не помешает еще немного бананов.",
+            "cn": "//[AZELEA]\\\\//(0,30)\\\\嗯！完美！但小猪还可以多来点香蕉。",
+            "tc": "//[AZELEA]\\\\//(0,30)\\\\嗯！完美！但小豬想要更多香蕉。",
+            "jp": "//[AZELEA]\\\\//(0,30)\\\\ふむ、完璧だ！でも、子豚ちゃんはバナナを欲しがっている。"
+        }
+    }
+}

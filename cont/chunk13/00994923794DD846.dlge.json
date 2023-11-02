@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32078_mp_dishshot2.sweetdialog?/ds32078_mp_dishshot2_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32078_mp_dishshot2_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32078_mp_dishshot2_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32078_mp_dishshot2_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Comms are off. Let's see what that'll do.",
+            "fr": "//(0,30)\\\\Communications coupées. On va voir ce que ça donne.",
+            "it": "//(0,30)\\\\Le comunicazioni sono interrotte. Stiamo a vedere cosa succede.",
+            "de": "//(0,30)\\\\Der Funk ist aus. Wollen wir mal sehen, was das bewirkt.",
+            "es": "//(0,30)\\\\Comunicaciones desactivadas. A ver qué conseguimos así.",
+            "ru": "//(0,30)\\\\Они остались без связи. Посмотрим, что это нам даст.",
+            "cn": "//(0,30)\\\\通讯失灵了。看看会有什么作用吧。",
+            "tc": "//(0,30)\\\\通訊關閉了，我看看這有什麼用。",
+            "jp": "//(0,30)\\\\通信はオフよ。さあ、どうなるか見てやろうじゃないの。"
+        }
+    }
+}

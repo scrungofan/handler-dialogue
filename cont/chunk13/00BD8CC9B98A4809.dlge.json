@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32049_mp_missiondonerand_knight.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "ds32049_mp_missiondonerand_knight_knight_mp_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32049_mp_missiondonerand_knight_knight_mp_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32049_mp_missiondonerand_knight_knight_mp_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\A pleasure, Stone. Wrap this up for me, will you? I've got a thing I need to be at.",
+                    "fr": "//(0,2.9)\\\\Un plaisir, Stone. Tu t'occupes des dernières formalités ?//(2.9,32.9)\\\\J'ai autre chose sur le feu.",
+                    "it": "//(0,30)\\\\È stato un piacere, Stone. Occupati tu delle ultime cose, ti dispiace? Devo fare una cosa.",
+                    "de": "//(0,30)\\\\Ein Vergnügen, Stone. Schließen Sie das für mich ab, ja? Ich habe noch eine Verabredung.",
+                    "es": "//(0,30)\\\\Ha sido un placer, Stone. Ocúpate de los últimos detalles, ¿vale? Que yo tengo que atender un asuntillo.",
+                    "ru": "//(0,30)\\\\Было приятно с тобой работать, Стоун. Закончишь здесь? У меня дела в другом месте.",
+                    "cn": "//(0,30)\\\\与你合作我十分愉快，斯通。收尾工作就拜托你咯？我有事得先走了。",
+                    "tc": "//(0,30)\\\\真是不錯，斯通。剩下你幫我處理一下，行嗎？我還有事情得去辦。",
+                    "jp": "//(0,1.368)\\\\ありがとう、ストーン。//(1.368,31.368)\\\\後は頼める？ちょっと用事があってね。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "ds32049_mp_missiondonerand_knight_knight_mp_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32049_mp_missiondonerand_knight_knight_mp_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32049_mp_missiondonerand_knight_knight_mp_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,3.4)\\\\Excellent. Just wire me my half of the money, will you?//(3.4,33.4)\\\\I'll leave the wrap-up to you. I know how you like that sort of thing...",
+                    "fr": "//(0,3.1)\\\\Excellent. Tu m'enverras la moitié du paiement ?//(3.1,33.1)\\\\Je te laisse boucler tout ça, je sais que c'est ton truc...",
+                    "it": "//(0,30)\\\\Eccellente. Inviami la mia metà del compenso, ok? Lascio concludere a te, so che ti piacciono queste cose...",
+                    "de": "//(0,30)\\\\Hervorragend. Überweisen Sie mir einfach die Hälfte des Geldes, ja? Ich überlasse den Abschluss Ihnen. Ich weiß ja, wie gerne Sie so was machen.",
+                    "es": "//(0,30)\\\\Excelente. Mándame la mitad del dinero, ¿vale? Te dejaré a ti los últimos detalles. Sé cuánto te gustan estas cosas...",
+                    "ru": "//(0,30)\\\\Превосходно. Переведёшь мне мою часть суммы, хорошо? А право закончить дело я предоставлю тебе. Я же знаю, что ты это обожаешь.",
+                    "cn": "//(0,30)\\\\好极了。别忘了把一半的钱转给我哦。收尾工作就交给你了。我知道你最喜欢干这种事了。",
+                    "tc": "//(0,30)\\\\太好了。把一半的錢匯給我，行嗎？剩下的我就交給你處理了。我知道你最喜歡處理那種事了......",
+                    "jp": "//(0,3.445)\\\\素晴らしいわ。私の取り分を振り込んでおいてくれる？//(3.445,33.445)\\\\後片付けはあんたにまかせる。そういうの好きでしょ..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "ds32049_mp_missiondonerand_knight_knight_mp_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32049_mp_missiondonerand_knight_knight_mp_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32049_mp_missiondonerand_knight_knight_mp_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Perfect. I've gotta run so if you just wrap this up? Thanks, Stone. See you around.",
+                    "fr": "//(0,4.2)\\\\Nickel. Je dois filer, je te laisse gérer les derniers trucs, OK ?//(4.2,34.2)\\\\Merci et à la prochaine, Stone.",
+                    "it": "//(0,30)\\\\Perfetto. Devo scappare, finisci tu qui? Grazie, Stone. Ci vediamo.",
+                    "de": "//(0,30)\\\\Perfekt. Ich muss los. Könnten Sie das hier zu Ende bringen? Danke, Stone. Wir sehen uns.",
+                    "es": "//(0,30)\\\\Perfecto. Tengo que irme pitando, ¿puedes ocuparte de los últimos detalles? Gracias, Stone. ¡Nos vemos!",
+                    "ru": "//(0,30)\\\\Прекрасно. Мне пора бежать. Закончишь здесь? Спасибо, Стоун. Увидимся.",
+                    "cn": "//(0,30)\\\\完美。我得先走了，收尾工作就拜托你咯？谢了，斯通。回头见。",
+                    "tc": "//(0,30)\\\\太好了，我得先走了，剩下你能去收個尾嗎？謝謝，斯通。我們回頭見。",
+                    "jp": "//(0,4.745)\\\\完璧。もう行かなきゃいけないから、後はお願い。//(4.745,34.745)\\\\ありがとう、ストーン。じゃ、また。"
+                }
+            }
+        ]
+    }
+}

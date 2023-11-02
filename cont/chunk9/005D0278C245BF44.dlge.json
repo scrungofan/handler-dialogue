@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20087_mp_timeout30secs_knight.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr20087_mp_timeout30secs_knight_knight_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20087_mp_timeout30secs_knight_knight_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20087_mp_timeout30secs_knight_knight_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Stone, 30 seconds. We need to end this.",
+                    "fr": "//(0,30)\\\\Stone, trente secondes. On a assez traîné.",
+                    "it": "//(0,30)\\\\Stone, 30 secondi. Dobbiamo chiuderla.",
+                    "de": "//(0,30)\\\\Stone, 30 Sekunden. Wir müssen das hier zu Ende bringen.",
+                    "es": "//(0,30)\\\\Stone, 30 segundos. Tenemos que acabar ya.",
+                    "ru": "//(0,30)\\\\Стоун, 30 секунд. Пора закругляться.",
+                    "cn": "//(0,30)\\\\斯通，还剩30秒。我们得做个了断了。",
+                    "tc": "//(0,30)\\\\斯通，30秒。我們得完成此事。",
+                    "jp": "//(0,30)\\\\ストーン、あと30秒よ。早くしないと。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20087_mp_timeout30secs_knight_knight_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20087_mp_timeout30secs_knight_knight_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20087_mp_timeout30secs_knight_knight_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\It's now or never, Stone. 30-second warning.",
+                    "fr": "//(0,30)\\\\C'est maintenant ou jamais, Stone. Trente secondes !",
+                    "it": "//(0,30)\\\\Adesso o mai più, Stone. Attenzione, 30 secondi.",
+                    "de": "//(0,30)\\\\Jetzt oder nie, Stone. 30-Sekunden-Warnung.",
+                    "es": "//(0,30)\\\\Ahora o nunca, Stone. Solo quedan 30 segundos.",
+                    "ru": "//(0,30)\\\\Сейчас или никогда, Стоун. 30-секундная готовность.",
+                    "cn": "//(0,30)\\\\时机稍纵即逝，斯通。30秒警告。",
+                    "tc": "//(0,30)\\\\現在不做就太遲了，斯通。30秒警告。",
+                    "jp": "//(0,30)\\\\もう時間がないわ、ストーン。あと30秒よ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20087_mp_timeout30secs_knight_knight_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20087_mp_timeout30secs_knight_knight_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20087_mp_timeout30secs_knight_knight_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\We're into the final 30 seconds, Stone.",
+                    "fr": "//(0,30)\\\\On arrive dans les trente dernières secondes, Stone.",
+                    "it": "//(0,30)\\\\Siamo entrati negli ultimi 30 secondi, Stone.",
+                    "de": "//(0,30)\\\\Wir sind in den letzten 30 Sekunden, Stone.",
+                    "es": "//(0,30)\\\\Entramos en los últimos 30 segundos, Stone.",
+                    "ru": "//(0,30)\\\\Стоун, последние полминуты.",
+                    "cn": "//(0,30)\\\\斯通，我们还剩最后30秒。",
+                    "tc": "//(0,30)\\\\我們剩下最後30秒，斯通。",
+                    "jp": "//(0,30)\\\\残り30秒になったわよ、ストーン。"
+                }
+            }
+        ]
+    }
+}

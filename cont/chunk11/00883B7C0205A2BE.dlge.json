@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32561_mp_riotbreakingout_knight.sweetdialog?/ds32561_mp_riotbreakingout_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32561_mp_riotbreakingout_knight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32561_mp_riotbreakingout_knight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32561_mp_riotbreakingout_knight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,3.394785)\\\\Riot's breaking out. Perfect for covering our work.//(3.394785,33.39478)\\\\We should be able to hide bodies in the crowd.",
+            "fr": "//(0,30)\\\\L'émeute éclate enfin. Parfait, c'est la diversion idéale. On devrait pouvoir cacher nos victimes dans le chaos de la foule.",
+            "it": "//(0,30)\\\\La rivolta sta scoppiando. La copertura perfetta per il nostro lavoro. Dovremmo riuscire a nascondere i corpi tra la folla in rivolta.",
+            "de": "//(0,30)\\\\Der Aufstand ist ausgebrochen. Die perfekte Tarnung für unsere Arbeit. Wir sollten die Leichen in der Menge der Aufständischen verstecken können.",
+            "es": "//(0,30)\\\\Está comenzando el motín. Ideal para tapar nuestras acciones. Seguro que podemos esconder los cadáveres entre la multitud.",
+            "ru": "//(0,30)\\\\Бунт набирает обороты. Идеально, чтобы замести следы. Спрятать трупы в суматохе проще простого.",
+            "cn": "//(0,3.2)\\\\暴动爆发了。正好能掩盖我们的行踪。//(3.2,33.2)\\\\暴动的人群能帮我们隐藏尸体。",
+            "tc": "//(0,30)\\\\暴動開始了。給我們工作的完美掩護。我們應該能夠在暴動人群中隱藏屍體。",
+            "jp": "//(0,3.14)\\\\暴動が始まった。こちらの仕事を隠すにはもってこいね。//(3.14,33.14)\\\\暴徒集団の中に死体を隠せるはず。"
+        }
+    }
+}

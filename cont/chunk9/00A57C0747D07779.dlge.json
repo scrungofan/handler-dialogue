@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32064_mp_bladelilymeet.sweetdialog?/ds32064_mp_bladelilymeet_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32064_mp_bladelilymeet_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32064_mp_bladelilymeet_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32064_mp_bladelilymeet_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Hm, Thak and Noo are having a small get-together down there.",
+            "fr": "//(0,30)\\\\Hm, Thak et Noo discutent de quelque chose, on dirait.",
+            "it": "//(0,30)\\\\Mh, Thak e Noo stanno avendo una piccola riunione laggiù.",
+            "de": "//(0,30)\\\\Hm, Thak und Noo haben eine kleine Zusammenkunft da unten.",
+            "es": "//(0,30)\\\\Mmm... Thak y Noo están teniendo una pequeña charla ahí abajo.",
+            "ru": "//(0,30)\\\\Хм. Кажется, у Так и Ну небольшой междусобойчик.",
+            "cn": "//(0,30)\\\\嗯，萨和诺正在那边见面呢。",
+            "tc": "//(0,30)\\\\嗯，姓卓的和姓樓的正在下面聚會。",
+            "jp": "//(0,30)\\\\タクとヌーはあそこで何やら打ち合わせをしているようだ。"
+        }
+    }
+}

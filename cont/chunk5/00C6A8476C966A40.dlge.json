@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44015_47highscore.sweetdialog?/pdlc44015_47highscore_frangipani_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc44015_47highscore_frangipani_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44015_47highscore_frangipani_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44015_47highscore_frangipani_001.animset].pc_animset",
+        "languages": {
+            "en": "//[FRANGIPANI]\\\\//(0,5.8)\\\\I'd call that performance... Admirable. I'll admit it.//(5.8,35.8)\\\\Maybe you are a little bit hungry after all.",
+            "fr": "//[FRANGIPANI]\\\\//(0,30)\\\\Je qualifierai votre performance... d'admirable. Je l'admets. Peut-être en voulez-vous un peu, finalement.",
+            "it": "//[FRANGIPANI]\\\\//(0,30)\\\\Definirei la tua prestazione... ammirevole. Lo ammetto. Forse dopotutto hai ancora dell'ambizione.",
+            "de": "//[FRANGIPANI]\\\\//(0,4)\\\\Ich würde diesen Auftritt ... bewundernswert nennen.//(4,34)\\\\Ich gebe es zu. Vielleicht sind Sie ja doch noch ein bisschen hungrig.",
+            "es": "//[FRANGIPANI]\\\\//(0,3.990491)\\\\Definiría esa actuación como... admirable.//(3.990491,33.99049)\\\\Lo admito: al final, parece que sí que tienes hambre.",
+            "ru": "//[FRANGIPANI]\\\\//(0,1.632)\\\\Твой уровень исполнения...//(2.7,4.1)\\\\Впечатляет.//(4.1,34.1)\\\\Не стану спорить. Видимо, ты всё-таки рвёшься к успеху.",
+            "cn": "//[FRANGIPANI]\\\\//(0,30)\\\\你的表现......很出色。我承认。也许你还是有那么点野心的。",
+            "tc": "//[FRANGIPANI]\\\\//(0,30)\\\\這表現真是......令人佩服。或許，你的確很有野心。",
+            "jp": "//[FRANGIPANI]\\\\//(0,4.015)\\\\あのパフォーマンスはなかなか... 素晴らしい見ものだった。//(4.015,34.015)\\\\認めるよ。結局のところあなたにもハングリーなところはあるのかも。"
+        }
+    }
+}

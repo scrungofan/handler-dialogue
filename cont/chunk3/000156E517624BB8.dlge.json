@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/ancestral/harebell/41000_pdlc_story/pdlc41006_vitalityhits30.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41006_vitalityhits30_harebell_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41006_vitalityhits30_harebell_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41006_vitalityhits30_harebell_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,1.25)\\\\Thirty percent.//(2,32)\\\\Why don't you run a few laps while you're at it?",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\30 %... Vous devriez taper un petit sprint en plus, tant que vous y êtes.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\Trenta per cento. Perché non fai anche qualche giro di corsa, già che ci sei?",
+                    "de": "//[HAREBELL]\\\\//(0,1.25)\\\\Dreißig Prozent.//(2.1,5)\\\\Warum laufen Sie nicht noch ein paar Runden, wenn Sie gerade dabei sind?",
+                    "es": "//[HAREBELL]\\\\//(0,1.4)\\\\Treinta por ciento.//(2.2,4.6)\\\\¿Por qué no das unas carreritas si eso?",
+                    "ru": "//[HAREBELL]\\\\//(0,1.236)\\\\Тридцать процентов.//(2.236,32.236)\\\\Может, устроишь пробежку, раз уж тебе нечего терять?",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\百分之三十。你怎么不多跑两圈呢。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\百分之三十。你怎麼不多跑兩圈呢。",
+                    "jp": "//[HAREBELL]\\\\//(0,4.5)\\\\30パーセント。どうせなら、ついでに何周か走ってきたらどうだ？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41006_vitalityhits30_harebell_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41006_vitalityhits30_harebell_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41006_vitalityhits30_harebell_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,1.25)\\\\That's thirty.//(1.25,31.25)\\\\Surely there's a faster way to die if you're THIS eager.",
+                    "fr": "//[HAREBELL]\\\\//(0,30)\\\\On arrive à 30 %. Je connais des moyens de mourir encore plus vite, si vous insistez vraiment.",
+                    "it": "//[HAREBELL]\\\\//(0,30)\\\\E trenta. Esiste sicuramente un modo più veloce per morire, se ci tieni TANTO.",
+                    "de": "//[HAREBELL]\\\\//(0,1.2)\\\\Das sind dreißig.//(1.6,4.8)\\\\Es gibt doch sicher einfachere Wege, um zu sterben, wenn Sie es SO eilig haben.",
+                    "es": "//[HAREBELL]\\\\//(0,1.6)\\\\Al treinta.//(1.6,4.8)\\\\Seguro que hay alguna forma más rápida de morir si tantas ganas tienes.",
+                    "ru": "//[HAREBELL]\\\\//(0,1.7)\\\\Осталось тридцать.//(1.7,31.7)\\\\А ведь есть куда более простые способы самоубийства...",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\三十了。你如果这么急着想死的话，办法多的是。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\三十了。你如果這麼急著想死的話，辦法多的是。",
+                    "jp": "//[HAREBELL]\\\\//(0,4.65)\\\\30だ。そんなに早死にしたいなら、もっと楽な方法もあるぞ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41006_vitalityhits30_harebell_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41006_vitalityhits30_harebell_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/harebell/41000_pdlc_story/pdlc41006_vitalityhits30_harebell_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[HAREBELL]\\\\//(0,1.4)\\\\Thirty percent?//(1.9,6.7)\\\\Oh, you really are going to work yourself to death, agent.",
+                    "fr": "//[HAREBELL]\\\\//(0,4.85)\\\\30 % ? Vous allez vraiment vous tuer à la tâche, agent.",
+                    "it": "//[HAREBELL]\\\\//(0,5)\\\\Trenta per cento? Finirai con l'ammazzarti di lavoro, agente.",
+                    "de": "//[HAREBELL]\\\\//(0,1.5)\\\\Dreißig Prozent?//(2,5.5)\\\\Oh, Sie werden sich wirklich tot arbeiten, Agent.",
+                    "es": "//[HAREBELL]\\\\//(0,1.85)\\\\¿Treinta por ciento?//(1.85,5.4)\\\\Sí que te vas a matar trabajando, agente.",
+                    "ru": "//[HAREBELL]\\\\//(0,30)\\\\Тридцать процентов? Не забывай: от работы кони дохнут.",
+                    "cn": "//[HAREBELL]\\\\//(0,30)\\\\百分之三十？你真是要把自己折腾死了，特工。",
+                    "tc": "//[HAREBELL]\\\\//(0,30)\\\\百分之三十？你真是要把自己操死了，特務。",
+                    "jp": "//[HAREBELL]\\\\//(0,5)\\\\30パーセント？このままだと過労死するぞ、エージェント。"
+                }
+            }
+        ]
+    }
+}

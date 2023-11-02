@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32039_mp_dragoneyefail_knight.sweetdialog?/ds32039_mp_dragoneyefail_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32039_mp_dragoneyefail_knight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32039_mp_dragoneyefail_knight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32039_mp_dragoneyefail_knight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Captain Dragon Eye or whatever his name is just ran out, Stone. We're done here.",
+            "fr": "//(0,30)\\\\Le capitaine Œil de dragon... ou un truc comme ça... Il vient de s'enfuir. C'est fini, Stone.",
+            "it": "//(0,30)\\\\Il capitano Occhio di drago o come cavolo si chiama se l'è data a gambe, Stone. Qui abbiamo finito.",
+            "de": "//(0,30)\\\\Hauptmann Drachenauge oder wie auch immer sein Name war, ist gerade rausgelaufen, Stone. Wir sind hier fertig.",
+            "es": "//(0,30)\\\\Stone, el capitán Ojo de Dragón, o como quiera que se llame, ha huido. Hemos terminado.",
+            "ru": "//(0,30)\\\\Капитан Глаз дракона, или как там его, только что сбежал, Стоун. Тут нам ловить нечего.",
+            "cn": "//(0,30)\\\\斯通，那個叫龙眼什麽的逃走了。我们只能收工了。",
+            "tc": "//(0,30)\\\\那個叫什麼獨眼龍上尉的剛剛跑了，斯通。我們的任務結束了。",
+            "jp": "//(0,30)\\\\龍の目大佐とかなんとかってのが逃げたわ、ストーン。ここまでね。"
+        }
+    }
+}

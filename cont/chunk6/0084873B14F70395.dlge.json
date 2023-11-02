@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43808_l1grapescomplete.sweetdialog?/pdlc43808_l1grapescomplete_azelea_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc43808_l1grapescomplete_azelea_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43808_l1grapescomplete_azelea_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43808_l1grapescomplete_azelea_001.animset].pc_animset",
+        "languages": {
+            "en": "//[AZELEA]\\\\//(0,6.8)\\\\Piggy is happy as punch. His appetizer now includes more than is needed. A good thing.//(6.8,8.8)\\\\Gluttony is good.//(8.8,38.8)\\\\Return home so we can discuss your next mission.",
+            "fr": "//[AZELEA]\\\\//(0,6.55)\\\\Cochonnet est aux anges ! Son entrée est plus abondante que nécessaire. C'est une bonne chose.//(6.55,36.55)\\\\Gourmandise est le maître mot. Rentrez à la maison, que nous discutions de la suite.",
+            "it": "//[AZELEA]\\\\//(0,6.8)\\\\Maialetto è felice come un bambino. Il suo antipasto ora è anche più ricco del necessario. Ottimo.//(6.8,9.1)\\\\È ottimo cedere alla gola.//(9.1,39.1)\\\\Torna a casa, così discuteremo della prossima missione.",
+            "de": "//[AZELEA]\\\\//(0,2)\\\\Das Schweinchen fühlt sich sauwohl.//(2,5.5)\\\\Zu seinem Appetithäppchen gehört jetzt mehr, als nötig war.//(5.5,7)\\\\Was gut ist.//(7,9.481963)\\\\Völlerei ist gut.//(9.481963,39.48196)\\\\Kehren Sie nach Hause zurück, damit wir die nächste Mission besprechen können.",
+            "es": "//[AZELEA]\\\\//(0,6.5)\\\\Cerdito está más feliz que unas pascuas. Su aperitivo tiene ahora más de lo necesario. Eso es bueno.//(6.7,36.7)\\\\La gula es buena. Vuelve a casa para que podamos hablar de la próxima misión.",
+            "ru": "//[AZELEA]\\\\//(0,1.972393)\\\\Хрюша счастлив как свинья.//(1.972393,5.1)\\\\В его закуске теперь есть всё что нужно и даже больше.//(5.1,9.08)\\\\Отлично. Обжорство — это прекрасно.//(9.08,39.08)\\\\Возвращайся домой, и мы обсудим твое следующее задание.",
+            "cn": "//[AZELEA]\\\\//(0,5.2)\\\\小猪高兴得不得了。他的前菜比想象中更丰盛。//(5.2,9)\\\\好事情。暴食是好事。//(9,39)\\\\回家吧，我们该商讨下一个任务了。",
+            "tc": "//[AZELEA]\\\\//(0,5.3)\\\\小豬高興極了，前菜比要求的更加豐富。//(5.3,35.3)\\\\很好，暴食是件好事。回家後我們再來討論下一場任務。",
+            "jp": "//[AZELEA]\\\\//(0,5.38)\\\\子ブタちゃんは大満足だ。オードブルは十分過ぎるほどだ。//(5.38,9.006)\\\\いいことだ。暴食は善だ。//(9.006,39.006)\\\\元の場所に戻って、次のミッションについて話そう。"
+        }
+    }
+}

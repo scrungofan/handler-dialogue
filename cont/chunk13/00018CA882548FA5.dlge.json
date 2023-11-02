@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32088_mp_hostagessecuredhurry_knight.sweetdialog?/ds32088_mp_hostagessecuredhurry_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32088_mp_hostagessecuredhurry_knight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32088_mp_hostagessecuredhurry_knight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32088_mp_hostagessecuredhurry_knight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Stone, they're securing the hostages on the ship. We're running out of time here.",
+            "fr": "//(0,30)\\\\Stone, ils placent les otages sur le cargo. On ferait mieux de se dépêcher !",
+            "it": "//(0,30)\\\\Stone, stanno chiudendo gli ostaggi sulla nave. Il tempo sta per scadere.",
+            "de": "//(0,30)\\\\Stone, die sichern die Geiseln auf dem Schiff. Uns läuft hier die Zeit davon.",
+            "es": "//(0,30)\\\\Stone, están llevando a los rehenes del barco a un lugar seguro. Se nos acaba el tiempo.",
+            "ru": "//(0,30)\\\\Стоун, они грузят заложников на корабль. У нас почти не осталось времени.",
+            "cn": "//(0,30)\\\\斯通，船上的人质已被他们控制住。我们快没时间了。",
+            "tc": "//(0,30)\\\\斯通，他們正在帶人質上船。我們快沒時間了。",
+            "jp": "//(0,30)\\\\ストーン、奴らが人質を船に乗せている。もう時間がない。"
+        }
+    }
+}

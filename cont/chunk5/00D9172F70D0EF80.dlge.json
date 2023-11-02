@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44005_level3won.sweetdialog?/pdlc44005_level3won_frangipani_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc44005_level3won_frangipani_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44005_level3won_frangipani_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44005_level3won_frangipani_001.animset].pc_animset",
+        "languages": {
+            "en": "//[FRANGIPANI]\\\\//(0,4)\\\\You took round two, somehow, so you've earned a prize.//(4,7.5)\\\\I'm not going to argue with results, but... Come on.//(7.5,37.5)\\\\You and I both know you can't keep this up.",
+            "fr": "//[FRANGIPANI]\\\\//(0,4.26)\\\\Vous avez gagné la deuxième manche... donc vous avez une récompense.//(4.26,34.26)\\\\Je ne vais pas contester le résultat, mais franchement... Nous savons tous les deux que vous ne tiendrez pas.",
+            "it": "//[FRANGIPANI]\\\\//(0,4.45)\\\\In un modo o nell'altro hai vinto il secondo round, perciò ti sei guadagnato un premio.//(4.45,34.45)\\\\Non contesterò i risultati, ma... Dai, sappiamo entrambi che non potrai continuare così a lungo.",
+            "de": "//[FRANGIPANI]\\\\//(0,4.3)\\\\Sie haben sich irgendwie zwei Runden geholt. Also haben Sie einen Preis verdient.//(4.3,7.8)\\\\Ich will nicht über Ergebnisse streiten, aber ... Kommen Sie schon.//(7.8,37.8)\\\\Wir wissen doch beide, dass Sie das nicht durchhalten werden.",
+            "es": "//[FRANGIPANI]\\\\//(0,4.323374)\\\\No sé cómo, pero has ganado la segunda ronda y te mereces un premio.//(4.323374,7.206)\\\\No voy a discutir los resultados, pero... Venga ya.//(7.206,37.206)\\\\Tú y yo sabemos que no vas a poder prolongar la racha.",
+            "ru": "//[FRANGIPANI]\\\\//(0,4.180982)\\\\Ты каким-то чудом победил во втором раунде и заслужил награду.//(4.180982,7.509571)\\\\Не стану оспаривать результаты, но... Слушай.//(7.509571,37.50957)\\\\Мы оба знаем, что тебе не выдержать этот темп.",
+            "cn": "//[FRANGIPANI]\\\\//(0,4.25)\\\\第二回合你居然也赢了，这是给你的奖励。//(4.25,34.25)\\\\结果不容争议，不过......拜托。你我都知道你不可能继续保持。",
+            "tc": "//[FRANGIPANI]\\\\//(0,4.5)\\\\不知道你是怎麼贏得第二回合的，這是給你的獎勵。//(4.5,34.5)\\\\我可不會無視這個結果，不過呢......我們都知道你不可能繼續保持下去的。",
+            "jp": "//[FRANGIPANI]\\\\//(0,3.95)\\\\どうにか2ラウンド目は取ったから、賞品を獲得したよ。//(3.95,7.655)\\\\結果については文句は言わない。でも... 頼むよ。//(7.655,37.655)\\\\あなたはこれ以上やっていけないってお互いにわかってるよね。"
+        }
+    }
+}

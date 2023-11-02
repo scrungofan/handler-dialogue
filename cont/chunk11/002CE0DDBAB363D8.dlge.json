@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32606_mp_khabkokillreznikovstone.sweetdialog?/ds32606_mp_khabkokillreznikovstone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32606_mp_khabkokillreznikovstone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32606_mp_khabkokillreznikovstone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32606_mp_khabkokillreznikovstone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Whoa. Khabko just killed the warden...",
+            "fr": "//(0,30)\\\\Ouah. Khabko vient de tuer le directeur...",
+            "it": "//(0,30)\\\\Wow. Khabko ha appena ucciso il direttore...",
+            "de": "//(0,30)\\\\Boah. Khabko hat gerade den Gefängnisdirektor ermordet ...",
+            "es": "//(0,30)\\\\Vaya. Khabko acaba de matar al alcaide.",
+            "ru": "//(0,30)\\\\Ого. Хабко только что убил начальника тюрьмы.",
+            "cn": "//(0,30)\\\\哇哦。卡布科把监狱长杀了。",
+            "tc": "//(0,30)\\\\哇咧。卡伯克剛剛殺了典獄長......",
+            "jp": "//(0,30)\\\\まじかよ。カブコが所長をやりやがった..."
+        }
+    }
+}

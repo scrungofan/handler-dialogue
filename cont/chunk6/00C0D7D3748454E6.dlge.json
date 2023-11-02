@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43831_onemorethanks.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43831_onemorethanks_azelea_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43831_onemorethanks_azelea_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43831_onemorethanks_azelea_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,3.7)\\\\Piggy is grateful. Thank you.//(3.7,33.7)\\\\That is all.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Cochonnet est reconnaissant. Merci. Ce sera tout.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Maialetto ti è grato. Grazie. È tutto.",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Das Schweinchen ist dankbar. Danke sehr. Das ist alles.",
+                    "es": "//[AZELEA]\\\\//(0,3.2)\\\\Cerdito está agradecido. Gracias.//(3.75,33.75)\\\\Eso es todo.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Хрюша благодарен. Спасибо. На этом всё.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\小猪很感激。谢谢你。就这样吧。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\小豬非常感謝你，謝謝，就這樣。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんは感謝している。ありがとう。もう十分だ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43831_onemorethanks_azelea_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43831_onemorethanks_azelea_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43831_onemorethanks_azelea_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,5.7)\\\\Oh, Piggy is happy. There is no such thing as too much.//(5.7,35.7)\\\\Thank you.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Oh, Cochonnet est heureux. Il vaut mieux trop que pas assez ! Merci.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Oh, Maialetto è felice. \"Troppo\" è una parola priva di significato. Grazie.",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Oh, das Schweinchen ist glücklich. Zu viel gibt es einfach nicht. Vielen Dank.",
+                    "es": "//[AZELEA]\\\\//(0,4.5)\\\\Oh, Cerdito está contento. No hay nada como los excesos.//(5.85,35.85)\\\\Gracias.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\О, Хрюша счастлив. Изобилие лишним не бывает. Спасибо.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\哦，小猪很高兴。越多越好。谢谢你。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\噢，小豬很高興。再多也不嫌多。謝謝。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\子ブタちゃんは喜んでいる。多すぎて困ることはない。ありがとう。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43831_onemorethanks_azelea_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43831_onemorethanks_azelea_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43831_onemorethanks_azelea_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,8.6)\\\\You have made Piggy very happy! More is better. And you obviously understand that.//(8.6,38.6)\\\\That is all.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Vous avez rendu Cochonnet très heureux ! Plus, c'est mieux. Vous l'avez bien compris, visiblement. Ce sera tout.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Hai reso Maialetto molto felice. Abbondare è sempre bene. E tu chiaramente sei d'accordo. È tutto.",
+                    "de": "//[AZELEA]\\\\//(0,2.576687)\\\\Ihr habt das Schweinchen sehr glücklich gemacht!//(2.576687,5)\\\\Mehr ist besser.//(5,6.521472)\\\\Und das verstehen Sie offensichtlich.//(8.5,38.5)\\\\Das war’s.",
+                    "es": "//[AZELEA]\\\\//(0,7.9)\\\\¡Has hecho muy feliz a Cerdito! Más es mejor. Y es obvio que tú lo entiendes.//(8.7,38.7)\\\\Es todo.",
+                    "ru": "//[AZELEA]\\\\//(0,5.3)\\\\Ты подарил Хрюше счастье! Чем больше, тем лучше.//(5.3,35.3)\\\\Ты явно понимаешь эту мудрость. На этом всё.",
+                    "cn": "//[AZELEA]\\\\//(0,5.1)\\\\你让小猪非常高兴！越多越好。//(5.1,35.1)\\\\你明显很懂这个道理。就到这里吧。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\你讓小豬非常開心！多多益善，很明顯，你也瞭解這一點。就這樣。",
+                    "jp": "//[AZELEA]\\\\//(0,3.1)\\\\子ブタちゃんを喜ばすことに成功したな！//(3.1,8.42)\\\\多いほうがいいに決まっている。それがよくわかっているようだな。//(8.42,38.42)\\\\もう十分だ。"
+                }
+            }
+        ]
+    }
+}

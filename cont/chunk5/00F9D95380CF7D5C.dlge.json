@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/elegant/frangipani/44000_pdlc_frangipani/pdlc44006_level3lost.sweetdialog?/pdlc44006_level3lost_frangipani_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc44006_level3lost_frangipani_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44006_level3lost_frangipani_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/elegant/frangipani/44000_pdlc_frangipani/pdlc44006_level3lost_frangipani_001.animset].pc_animset",
+        "languages": {
+            "en": "//[FRANGIPANI]\\\\//(0,3)\\\\That last round was pathetic.//(3,6.6)\\\\I should just have him put you out of your misery.//(8.35,38.35)\\\\Take a rifle, you clearly need the help.",
+            "fr": "//[FRANGIPANI]\\\\//(0,6.45)\\\\Quelle manche pathétique. Je devrais lui demander de vous achever maintenant.//(8.4,38.4)\\\\Prenez un fusil, vous en avez clairement besoin.",
+            "it": "//[FRANGIPANI]\\\\//(0,6.5)\\\\L'ultimo round è stato patetico. Avrei dovuto chiedergli di eliminarti solo per pietà.//(8.5,38.5)\\\\Prendi un fucile. Evidentemente, ne hai bisogno.",
+            "de": "//[FRANGIPANI]\\\\//(0,3)\\\\Die letzte Runde war lächerlich.//(3,6.3)\\\\Ich sollte Sie einfach von Ihrem Leid erlösen.//(8.5,38.5)\\\\Nehmen Sie ein Gewehr. Sie brauchen die Hilfe ganz offensichtlich.",
+            "es": "//[FRANGIPANI]\\\\//(0,2.944785)\\\\Esa última ronda ha sido de vergüenza ajena.//(2.944785,8.289571)\\\\Debería pedirle que ponga fin a tu sufrimiento.//(8.289571,38.28957)\\\\Coge un fusil, anda, que es evidente que necesitas la ayuda.",
+            "ru": "//[FRANGIPANI]\\\\//(0,2.49)\\\\Это был убогий раунд.//(3.23,6.497)\\\\Надо было приказать ему убить тебя и положить конец твоим мукам.//(8.6,38.6)\\\\Возьми винтовку, она тебе явно нужна.",
+            "cn": "//[FRANGIPANI]\\\\//(0,8.32)\\\\你在上一轮的表现简直可悲。早知道就叫他把你也一起干掉了。//(8.32,38.32)\\\\这把枪你拿着吧，你肯定用得上。",
+            "tc": "//[FRANGIPANI]\\\\//(0,8.5)\\\\上一回合的表現真是可悲，我應該讓他給你個痛快。//(8.5,38.5)\\\\這把步槍拿去，很明顯，你需要它的協助。",
+            "jp": "//[FRANGIPANI]\\\\//(0,3.1)\\\\前のラウンドは悲劇的だったよ。//(3.1,6.66)\\\\あいつにあなたを殺ってもらったら救いになったかもね。//(8.41,38.41)\\\\ライフルを持っていきなよ、手助けが必要でしょ。"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32565_mp_riotwestbuildingfire_knight.sweetdialog?/ds32565_mp_riotwestbuildingfire_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32565_mp_riotwestbuildingfire_knight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32565_mp_riotwestbuildingfire_knight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32565_mp_riotwestbuildingfire_knight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\The west building is on fire. Guards are getting busy now. Nobody in there will get out alive.",
+            "fr": "//(0,30)\\\\Le bâtiment ouest est en feu. Les gardiens ont de quoi s'occuper un moment. Personne là-dedans ne sortira vivant.",
+            "it": "//(0,30)\\\\L'edificio ovest va a fuoco. Le guardie sono parecchio impegnate ora. Nessuno là dentro ne uscirà vivo.",
+            "de": "//(0,30)\\\\Das Westgebäude steht in Flammen. Die Wachen machen sich jetzt an die Arbeit. Niemand da drin kommt lebend raus.",
+            "es": "//(0,30)\\\\El pabellón oeste está en llamas. Los guardias tienen mucho lío. Nadie saldrá con vida de ahí dentro.",
+            "ru": "//(0,2.104294)\\\\Западный корпус загорелся.//(2.104294,3.744785)\\\\У охраны явно добавится дел.//(3.744785,33.74479)\\\\Никто из запертых там не выживет.",
+            "cn": "//(0,30)\\\\西大楼着火了。守卫要忙起来了。里面的人一个都没法活着出来。",
+            "tc": "//(0,30)\\\\西大樓著火了。警衛現在可有得忙了。誰也別想從那裡面逃出來。",
+            "jp": "//(0,3.665)\\\\西棟に火が付いた。看守たちは忙しくなりそうね。//(3.665,33.665)\\\\あそこにいる人間は生きては出られないはず。"
+        }
+    }
+}

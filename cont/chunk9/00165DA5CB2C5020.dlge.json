@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32081_mp_bladesick2.sweetdialog?/ds32081_mp_bladesick2_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32081_mp_bladesick2_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32081_mp_bladesick2_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32081_mp_bladesick2_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Knight, \"The Blade\" is looking a little under the weather here...",
+            "fr": "//(0,30)\\\\Knight, La lame n'a pas l'air de se sentir très bien...",
+            "it": "//(0,30)\\\\Knight, \"la Lama\" sembra un po' giù di corda...",
+            "de": "//(0,30)\\\\Knight, „die Klinge“ sieht gerade etwas angeschlagen aus ...",
+            "es": "//(0,30)\\\\Knight, parece que «la Hoja» no se encuentra demasiado bien...",
+            "ru": "//(0,30)\\\\Найт, Клинок, кажется, чувствует себя неважно...",
+            "cn": "//(0,30)\\\\奈特，“刀锋勇士”看起来不太舒服......",
+            "tc": "//(0,30)\\\\奈特，「刀鋒」好像不太舒服......",
+            "jp": "//(0,30)\\\\ナイト、「刃」の具合が悪そうだぞ..."
+        }
+    }
+}

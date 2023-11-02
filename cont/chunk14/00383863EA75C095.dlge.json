@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "00383863EA75C095",
+    "DITL": "005CC166F7715F6D",
+    "CLNG": "00063B34B5153AEE",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "dr20102_mp_maisonescaped_knight_knight_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20102_mp_maisonescaped_knight_knight_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20102_mp_maisonescaped_knight_knight_001.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Maison made a run for it. He’s gone. We’re done here.",
+                    "fr": "//(0,30)\\\\Maison en a profité. Il nous a filé entre les doigts. On en a terminé ici.",
+                    "it": "//(0,30)\\\\Maison se l'è svignata. Se n'è andato. È tutto finito.",
+                    "de": "//(0,30)\\\\Maison hat die Flucht angetreten. Er ist weg. Wir sind hier fertig.",
+                    "es": "//(0,30)\\\\Maison ha logrado escapar. Ha volado. Hemos acabado.",
+                    "ru": "//(0,30)\\\\МЕЗОН от нас сбежал. Он скрылся. Мы не справились.",
+                    "cn": "//(0,30)\\\\米森跑掉了。他逃掉了。我们可以离开了。",
+                    "tc": "//(0,30)\\\\梅森跑了。他不見了。我們該走了。",
+                    "jp": "//(0,30)\\\\メゾンが逃げたわ。もういない。私たちも終わりね。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20102_mp_maisonescaped_knight_knight_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20102_mp_maisonescaped_knight_knight_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20102_mp_maisonescaped_knight_knight_002.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Shit, Maison slipped away. Mission’s a failure.",
+                    "fr": "//(0,30)\\\\Et merde, Maison s'est échappé. On a échoué.",
+                    "it": "//(0,30)\\\\Merda, Maison se l'è battuta. La missione è un fallimento.",
+                    "de": "//(0,30)\\\\Scheiße! Maison ist entwischt. Die Mission ist ein Fehlschlag.",
+                    "es": "//(0,30)\\\\Mierda, Maison se ha ido. Misión fallida.",
+                    "ru": "//(0,30)\\\\Черт, МЕЗОН ускользнул. Задание провалено.",
+                    "cn": "//(0,30)\\\\见鬼，米森溜了。任务失败。",
+                    "tc": "//(0,30)\\\\該死，梅森跑了。任務失敗了。",
+                    "jp": "//(0,30)\\\\チッ、メゾンが逃げたわ！任務は失敗ね。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "dr20102_mp_maisonescaped_knight_knight_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/austria/20000_hawk/20000_story/dr20102_mp_maisonescaped_knight_knight_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/austria/20000_hawk/20000_story/dr20102_mp_maisonescaped_knight_knight_003.animset].pc_animset",
+                "languages": {
+                    "en": "//(0,30)\\\\Wait, we lost Maison. He’s gone. The mission’s a wash.",
+                    "fr": "//(0,30)\\\\On a perdu Maison. Il s'est volatilisé. La mission est un échec.",
+                    "it": "//(0,30)\\\\Ehi, abbiamo perso Maison. Se n'è andato. La missione è andata a monte.",
+                    "de": "//(0,30)\\\\Halt! Maison ist verschwunden. Er ist weg. Diese Mission ist im Arsch.",
+                    "es": "//(0,30)\\\\Espera. Hemos perdido a Maison. Ha volado. La misión ha sido un fracaso.",
+                    "ru": "//(0,30)\\\\Погоди, МЕЗОН ушел. Он скрылся. Задание накрылось.",
+                    "cn": "//(0,30)\\\\等等，我们跟丢了米森。他逃掉了。任务泡汤了。",
+                    "tc": "//(0,30)\\\\等等，梅森逃了。他不見了。這任務搞砸了。",
+                    "jp": "//(0,30)\\\\待って、メゾンがいないわ！任務失敗よ。"
+                }
+            }
+        ]
+    }
+}

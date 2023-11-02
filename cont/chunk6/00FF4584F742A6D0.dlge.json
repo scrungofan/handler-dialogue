@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43714_chooseitemgood.sweetdialog?/pdlc43714_chooseitemgood_makoyana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc43714_chooseitemgood_makoyana_001",
+        "soundtag": "Voiceover_Handler_Dream",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43714_chooseitemgood_makoyana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43714_chooseitemgood_makoyana_001.animset].pc_animset",
+        "languages": {
+            "en": "//[MAKOYANA]\\\\//(0,6)\\\\Well, that's not going to be hard, is it. I thought you are a master assassin.//(6,36)\\\\Anyway – here is a challenge. I'm sure you will do... great.",
+            "fr": "//[MAKOYANA]\\\\//(0,5.75)\\\\Vous ne voulez pas trop transpirer, visiblement. Moi qui croyais que vous étiez un maître assassin...//(5.75,35.75)\\\\Enfin, voici un défi. Je suis sûr que vous vous en sortirez... admirablement.",
+            "it": "//[MAKOYANA]\\\\//(0,30)\\\\Beh, non rappresentano poi una gran sfida, no? Credevo fossi un assassino esperto. Comunque... ecco una sfida. Andrai sicuramente... alla grande.",
+            "de": "//[MAKOYANA]\\\\//(0,2.648)\\\\Nun, das wird keine große Herausforderung werden, oder?//(2.648,5.234)\\\\Ich dachte, Sie wären ein Meisterattentäter.//(5.234,8.831)\\\\Wie dem auch sei: Hier ist eine Herausforderung.//(8.831,38.831)\\\\Ich bin mir sicher, Sie werden sich ... toll schlagen.",
+            "es": "//[MAKOYANA]\\\\//(0,2.9)\\\\Bueno, no se puede decir que vaya a ser un gran desafío, ¿no crees?//(3.1,5.5)\\\\Creía que eras un maestro asesino...//(6,8.8)\\\\En fin, este es tu desafío.//(9.4,39.4)\\\\Seguro que lo harás... muy bien.",
+            "ru": "//[MAKOYANA]\\\\//(0,7)\\\\Что ж, это несложно. Мне казалось, ты опытный убийца. Ну да ладно.//(7,37)\\\\Пора за работу. Не сомневаюсь, у тебя всё получится... как надо.",
+            "cn": "//[MAKOYANA]\\\\//(0,5.74)\\\\呃，这不会很难，是吧。我还以为你是刺客大师呢。//(5.74,35.74)\\\\不管怎样，挑战来了。我想你会做得......很棒。",
+            "tc": "//[MAKOYANA]\\\\//(0,5.9)\\\\嗯，這不會太難，對吧。我以為你是殺手大師。//(5.9,35.9)\\\\反正呢－－挑戰就是這個。你肯定能夠處理好的。",
+            "jp": "//[MAKOYANA]\\\\//(0,5.565)\\\\うむ、それだと簡単すぎると思うがね。マスターアサシンが聞いてあきれる。//(5.565,35.565)\\\\とにかく... チャレンジはこれだ。お前なら... うまくやるだろうさ。"
+        }
+    }
+}

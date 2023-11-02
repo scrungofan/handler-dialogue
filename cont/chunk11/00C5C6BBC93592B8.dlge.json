@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32570_mp_riotgatefail_stone.sweetdialog?/ds32570_mp_riotgatefail_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32570_mp_riotgatefail_stone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32570_mp_riotgatefail_stone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32570_mp_riotgatefail_stone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Main gate open. This will really get things moving.",
+            "fr": "//(0,30)\\\\Porte principale ouverte. Voilà qui va créer un peu de mouvement.",
+            "it": "//(0,30)\\\\Ingresso principale aperto. Questo sì che smuoverà le cose.",
+            "de": "//(0,30)\\\\Haupttor ist offen. Jetzt wird die Sache richtig in Bewegung kommen.",
+            "es": "//(0,30)\\\\Puerta principal abierta. Esto pondrá la maquinaria en marcha.",
+            "ru": "//(0,30)\\\\Главные ворота открыты. Теперь дело сдвинется с мертвой точки.",
+            "cn": "//(0,30)\\\\大门打开了。这下有好戏看了。",
+            "tc": "//(0,30)\\\\主大門開啟了。這樣情況就會有所進展。",
+            "jp": "//(0,30)\\\\正門が開いた。こりゃ大移動が始まるぞ。"
+        }
+    }
+}

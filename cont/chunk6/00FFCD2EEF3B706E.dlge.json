@@ -1,0 +1,68 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43729_l2targetkillbad.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43729_l2targetkillbad_makoyana_001",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_Dream",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43729_l2targetkillbad_makoyana_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43729_l2targetkillbad_makoyana_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\47! That was spectacular. Well done.",
+                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\C'était spectaculaire, 47 ! Beau travail.",
+                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\47! È stato spettacolare, bravo.",
+                    "de": "//[MAKOYANA]\\\\//(0,30)\\\\47! Das war spektakulär. Gut gemacht.",
+                    "es": "//[MAKOYANA]\\\\//(0,30)\\\\¡Ha sido espectacular, 47! Buen trabajo.",
+                    "ru": "//[MAKOYANA]\\\\//(0,30)\\\\47-й, это было потрясающе. Отличная работа!",
+                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\47！太精彩了。干得好。",
+                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\47！那真是太精彩了。做得好。",
+                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\47！素晴らしかったぞ。よくやった。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43729_l2targetkillbad_makoyana_002",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_Dream",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43729_l2targetkillbad_makoyana_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43729_l2targetkillbad_makoyana_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\Bravo, 47! Bravo! It was a pleasure to see an expert at work.",
+                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Bravo, 47 ! Bravo ! Quel plaisir de voir travailler un expert !",
+                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Bravo, 47, bravissimo! È stato bellissimo guardare un esperto al lavoro.",
+                    "de": "//[MAKOYANA]\\\\//(0,30)\\\\Bravo, 47! Bravo! Es war ein echtes Vergnügen, einen Experten bei der Arbeit zu sehen.",
+                    "es": "//[MAKOYANA]\\\\//(0,30)\\\\¡Bravo, 47! ¡Bravo! Ha sido un honor ver trabajar a un experto.",
+                    "ru": "//[MAKOYANA]\\\\//(0,3.1)\\\\Браво, 47-й! Браво!//(3.1,33.1)\\\\Отрадно наблюдать за работой настоящего профи.",
+                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\太棒了，47！太棒了！看专业人士完成任务简直是一种享受。",
+                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\太好了，47！太棒了！能見證高手的表現真是過癮。",
+                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\ブラボー、47！ブラボー！プロの仕事を見せてもらえて光栄だ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43729_l2targetkillbad_makoyana_003",
+                "weight": 0.3333333333333333,
+                "soundtag": "Voiceover_Handler_Dream",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43729_l2targetkillbad_makoyana_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43729_l2targetkillbad_makoyana_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[MAKOYANA]\\\\//(0,30)\\\\What can I say, 47? That was a stunning performance. You should be proud.",
+                    "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Que dire, 47 ? C'était une performance éblouissante. Vous pouvez être fier.",
+                    "it": "//[MAKOYANA]\\\\//(0,30)\\\\Che posso dire, 47? È stata una performance incredibile. Dovresti andarne fiero.",
+                    "de": "//[MAKOYANA]\\\\//(0,30)\\\\Was soll ich sagen, 47? Das war eine eindrucksvolle Leistung. Sie können stolz sein.",
+                    "es": "//[MAKOYANA]\\\\//(0,30)\\\\¿Qué quieres que te diga, 47? Ha sido una actuación espectacular. Deberías estar orgulloso.",
+                    "ru": "//[MAKOYANA]\\\\//(0,2.2)\\\\Ну, что сказать, 47-й://(2.2,32.2)\\\\это было впечатляющее зрелище. Можешь гордиться собой.",
+                    "cn": "//[MAKOYANA]\\\\//(0,30)\\\\还用我说什么呢，47？你的表现令人叹为观止。你应该为此感到骄傲。",
+                    "tc": "//[MAKOYANA]\\\\//(0,30)\\\\有什麼好說的呢，47？真是驚人的表現，你應該感到驕傲。",
+                    "jp": "//[MAKOYANA]\\\\//(0,30)\\\\なんと言えばいいんだ、47？素晴らしいパフォーマンスだったぞ。誇りに思うがいい。"
+                }
+            }
+        ]
+    }
+}

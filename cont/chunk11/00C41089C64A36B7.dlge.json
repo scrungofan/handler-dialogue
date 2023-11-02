@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32568_mp_riotsecbuildingfire_stone.sweetdialog?/ds32568_mp_riotsecbuildingfire_stone_stone_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32568_mp_riotsecbuildingfire_stone_stone_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32568_mp_riotsecbuildingfire_stone_stone_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32568_mp_riotsecbuildingfire_stone_stone_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Seeing flames in the security tower. Anyone inside is not gonna make it.",
+            "fr": "//(0,30)\\\\Je vois des flammes dans le mirador. Aucune chance de survie pour ses occupants.",
+            "it": "//(0,30)\\\\Vedo le fiamme nella torre di sicurezza. Nessuno sopravviverà.",
+            "de": "//(0,30)\\\\Ich sehe Flammen am Sicherheitsturm. Jeder, der da drin ist, wird das nicht überleben.",
+            "es": "//(0,30)\\\\Veo llamas en la torre de seguridad. Si hay alguien ahí dentro, dudo que salga con vida.",
+            "ru": "//(0,30)\\\\Вижу пламя на сторожевой вышке. Оттуда уже не выбраться.",
+            "cn": "//(0,30)\\\\我看到安保塔失火了。里面的人必死无疑。",
+            "tc": "//(0,30)\\\\保全塔出現了火光。裡面的人死定了。",
+            "jp": "//(0,30)\\\\警備棟に炎が見える。中にいる奴らはもうだめだな。"
+        }
+    }
+}

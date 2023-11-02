@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32579_mp_riotwardenofficeretreat_knight.sweetdialog?/ds32579_mp_riotwardenofficeretreat_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32579_mp_riotwardenofficeretreat_knight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32579_mp_riotwardenofficeretreat_knight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32579_mp_riotwardenofficeretreat_knight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\I think they've lost control of the riot. The warden's hunkering down!",
+            "fr": "//(0,30)\\\\Je crois que les gardiens ne contrôlent plus rien du tout. Le directeur se barricade !",
+            "it": "//(0,30)\\\\Credo che abbiano perso il controllo della rivolta. Il direttore cerca di nascondersi!",
+            "de": "//(0,30)\\\\Ich glaube, der Aufstand ist außer Kontrolle geraten. Der Gefängnisdirektor versteckt sich!",
+            "es": "//(0,30)\\\\Creo que el motín se les ha descontrolado. ¡El alcaide se está poniendo a cubierto!",
+            "ru": "//(0,30)\\\\Кажется, они утратили контроль над ситуацией. Начальник тюрьмы решил пересидеть бурю!",
+            "cn": "//(0,30)\\\\他们好像控制不住暴动了。监狱长躲起来了！",
+            "tc": "//(0,30)\\\\我看他們控制不住暴動了。典獄長躲起來了！",
+            "jp": "//(0,30)\\\\暴動はもう彼らの手には負えないみたいね。所長が避難を始めたわ！"
+        }
+    }
+}

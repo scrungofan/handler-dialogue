@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/golden/lunaria/40500_lunaria_story/pdlc40501_introtier2.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40501_introtier2_lunaria_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40501_introtier2_lunaria_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40501_introtier2_lunaria_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,2.65)\\\\You like the coins?//(2.65,8.5)\\\\Get some more, 47. Give in to what you really want.",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Vous aimez les pièces ? Collectez-en plus, 47. Laissez parler vos véritables envies.",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Ti piacciono i soldi? Puoi averne ancora, 47. Arrenditi ai tuoi desideri.",
+                    "de": "//[LUNARIA]\\\\//(0,2.85)\\\\Sie mögen die Münzen?//(2.85,32.85)\\\\Holen Sie sich noch ein paar mehr, 47. Geben Sie dem nach, was Sie wirklich wollen.",
+                    "es": "//[LUNARIA]\\\\//(0,2.6)\\\\¿Te gustan las monedas?//(2.9,4.8)\\\\Pues consigue más, 47.//(4.8,7.7)\\\\Entrégate a lo que de verdad quieres.",
+                    "ru": "//[LUNARIA]\\\\//(0,2.455)\\\\Любишь монетки?//(3,4.9)\\\\Не сдерживай себя, 47-й.//(4.9,34.9)\\\\Они дадут то, что ты действительно хочешь.",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\你喜欢硬币吗？那就多多地去收集吧，47。遵从自己的想法。",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\你喜歡硬幣嗎？再去找一些，47。去取你真正想要的東西。",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\コインは気に入った？もっと集めなさい、47。本当に欲しいものを手に入れたらいい。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40501_introtier2_lunaria_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40501_introtier2_lunaria_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40501_introtier2_lunaria_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,6.6)\\\\You can’t deny the feeling these shiny coins give you. Ready for more?",
+                    "fr": "//[LUNARIA]\\\\//(0,6.68)\\\\Vous ne pouvez ignorer les sensations que vous procurent ces pièces brillantes. Vous en voulez plus ?",
+                    "it": "//[LUNARIA]\\\\//(0,6)\\\\Non puoi negare il piacere che ti danno queste monete scintillanti. Pronto per averne ancora?",
+                    "de": "//[LUNARIA]\\\\//(0,4.35)\\\\Sie können sich des Gefühls nicht erwehren, das diese glänzenden Münzen Ihnen geben.//(4.35,34.35)\\\\Sind Sie bereit für mehr?",
+                    "es": "//[LUNARIA]\\\\//(0,4.4)\\\\No negarás la grata sensación que te producen estas relucientes monedas.//(4.4,6.1)\\\\¿Listo para más?",
+                    "ru": "//[LUNARIA]\\\\//(0,4.345)\\\\Тебе ведь нравится это чувство, которое дарят монеты.//(4.345,5.7)\\\\Хочешь еще?",
+                    "cn": "//[LUNARIA]\\\\//(0,4.3)\\\\你无法拒绝这些闪闪发光的硬币给你的感觉。//(4.3,34.3)\\\\准备好收集更多硬币了吗？",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\你不能否認這些閃亮硬幣給你的感受。準備好要取更多了嗎？",
+                    "jp": "//[LUNARIA]\\\\//(0,4.56)\\\\あの輝くコインを見ると気持ちが動くのは否定できないはず。//(4.56,34.56)\\\\もっと手に入れる準備は出来ている？"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40501_introtier2_lunaria_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40501_introtier2_lunaria_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40501_introtier2_lunaria_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,3.8)\\\\Doesn’t the clinking of the coins sound good?//(3.8,7.505021)\\\\There is more to be found...",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Le bruit des piécettes est agréable, n'est-ce pas ? Et il y en a d'autres à trouver...",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Non è meraviglioso questo suono di monete tintinnanti? E ce ne sono ancora...",
+                    "de": "//[LUNARIA]\\\\//(0,4.1)\\\\Hören sich die klingenden Münzen gut für Sie an?//(4.1,34.1)\\\\Da gibt es noch mehr zu finden ...",
+                    "es": "//[LUNARIA]\\\\//(0,3.5)\\\\¿A que suena bien el tintineo de las monedas?//(4,6.2)\\\\Pues hay más que buscar...",
+                    "ru": "//[LUNARIA]\\\\//(0,3.533)\\\\Звон монет ласкает слух, не так ли?//(4.197,6.125)\\\\Но настоящие богатства ждут тебя впереди...",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\硬币的叮当声听起来不错吧？还有更多等你去发现......",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\硬幣的響聲是不是很好聽？還有更多呢......",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\コインのいい音がするのでは？探せば、もっと見つかるはず..."
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc40501_introtier2_lunaria_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/golden/lunaria/40500_lunaria_story/pdlc40501_introtier2_lunaria_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/golden/lunaria/40500_lunaria_story/pdlc40501_introtier2_lunaria_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[LUNARIA]\\\\//(0,4.55)\\\\Feel the weight of those beautiful gold coins...//(4.55,7.827271)\\\\Why stop now?",
+                    "fr": "//[LUNARIA]\\\\//(0,30)\\\\Sentez le poids de ces superbes pièces d'or... Pourquoi s'arrêter maintenant ?",
+                    "it": "//[LUNARIA]\\\\//(0,30)\\\\Senti che dolce peso queste monete d'oro... Perché fermarsi ora?",
+                    "de": "//[LUNARIA]\\\\//(0,4.85)\\\\Spüren Sie das Gewicht dieser wunderschönen Goldmünzen ...//(4.85,34.85)\\\\Warum also jetzt schon aufhören?",
+                    "es": "//[LUNARIA]\\\\//(0,4.4)\\\\Siente el peso de esas preciosas monedas de oro...//(4.7,6.8)\\\\¿Por qué parar ahora?",
+                    "ru": "//[LUNARIA]\\\\//(0,4.75)\\\\Чувствуешь приятную тяжесть этих прелестных золотых монет?//(4.75,6.57)\\\\Еще рано останавливаться!",
+                    "cn": "//[LUNARIA]\\\\//(0,30)\\\\感受这些漂亮的金币沉甸甸的重量......有什么理由停手呢？",
+                    "tc": "//[LUNARIA]\\\\//(0,30)\\\\感受這些美麗金幣的重量......何不繼續？",
+                    "jp": "//[LUNARIA]\\\\//(0,30)\\\\この美しい金貨の重みを感じて... ここでやめる必要がある？"
+                }
+            }
+        ]
+    }
+}

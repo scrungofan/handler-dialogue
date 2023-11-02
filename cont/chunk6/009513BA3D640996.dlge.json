@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/makoyana/43700_story/pdlc43722_l2peacocknaughty.sweetdialog?/pdlc43722_l2peacocknaughty_makoyana_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc43722_l2peacocknaughty_makoyana_001",
+        "soundtag": "Voiceover_Handler_Dream",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43722_l2peacocknaughty_makoyana_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43722_l2peacocknaughty_makoyana_001.animset].pc_animset",
+        "languages": {
+            "en": "//[MAKOYANA]\\\\//(0,1.236196)\\\\I'm impressed.//(1.236196,31.2362)\\\\Keep up the good work and don't take the easy path. Take pride in the challenge to come.",
+            "fr": "//[MAKOYANA]\\\\//(0,30)\\\\Je suis impressionné. Continuez comme ça, et détournez-vous de la voie de la facilité. Soyez fier des défis à venir.",
+            "it": "//[MAKOYANA]\\\\//(0,5.1)\\\\Davvero notevole. Continua così e non imboccare la strada facile.//(5.1,35.1)\\\\Prova orgoglio per le vere sfide che ti aspettano.",
+            "de": "//[MAKOYANA]\\\\//(0,1.364)\\\\Ich bin beeindruckt.//(1.364,4.767)\\\\Machen Sie weiter gute Arbeit und nehmen Sie nicht den einfachen Weg.//(4.767,34.767)\\\\Seien Sie stolz auf die kommende Herausforderung.",
+            "es": "//[MAKOYANA]\\\\//(0,1.4)\\\\Me has impresionado.//(1.6,4.9)\\\\Sigue con el buen trabajo y no optes por la vía fácil.//(5.2,35.2)\\\\Afronta el desafío con orgullo.",
+            "ru": "//[MAKOYANA]\\\\//(0,1.75)\\\\Тебе удалось меня впечатлить.//(1.75,31.75)\\\\Не останавливайся и выбирай сложный путь. Прими испытание с гордостью.",
+            "cn": "//[MAKOYANA]\\\\//(0,30)\\\\我很满意。继续保持，不要只挑容易的。对即将到来的挑战感到自豪吧。",
+            "tc": "//[MAKOYANA]\\\\//(0,30)\\\\佩服。保持下去，還有別選擇簡單的方式。為未來的挑戰感到驕傲。",
+            "jp": "//[MAKOYANA]\\\\//(0,30)\\\\見事だ。その調子で楽な方に流れるなよ。プライドを持って挑戦に立ち向え。"
+        }
+    }
+}

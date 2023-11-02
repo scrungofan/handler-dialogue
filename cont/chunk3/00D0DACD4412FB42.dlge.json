@@ -1,0 +1,87 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41519_extrctlvngrm.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41519_extrctlvngrm_hollyhock_001",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41519_extrctlvngrm_hollyhock_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41519_extrctlvngrm_hollyhock_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[HOLLYHOCK]\\\\//(0,2.9)\\\\The man-scum Inhibitors have reached the sitting room!//(2.9,32.9)\\\\Retaliate now!",
+                    "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Ces ordures de répresseurs ont atteint le salon ! Repoussez-les, maintenant !",
+                    "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Quegli scarti umani di Inibitori hanno raggiunto il salotto! Reagisci!",
+                    "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Die widerwärtigen Inhibitoren haben den Salon erreicht! Schlagen Sie jetzt zurück!",
+                    "es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡Esos puñeteros inhibidores han llegado a la sala de estar! ¡Contraataca!",
+                    "ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Ублюдки-блокаторы уже в гостиной! Отомсти им!",
+                    "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者人渣到起居室了！立刻反击！",
+                    "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\那些廢物抑制者達到了客廳！快反擊！",
+                    "jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\インヒビターが居間に到着したわ！今すぐ、やり返して！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41519_extrctlvngrm_hollyhock_002",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41519_extrctlvngrm_hollyhock_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41519_extrctlvngrm_hollyhock_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[HOLLYHOCK]\\\\//(0,30)\\\\The Inhibitors are closing in! They are in the sitting room!",
+                    "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Les répresseurs se rapprochent ! Ils sont dans le salon !",
+                    "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Gli Inibitori si avvicinano! Sono nel salotto!",
+                    "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Die Inhibitoren nähern sich! Sie sind im Salon!",
+                    "es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡Los inhibidores se están aproximando! ¡Están en la sala de estar!",
+                    "ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Блокаторы приближаются! Они уже в гостиной!",
+                    "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者正在逼近！他们在起居室里！",
+                    "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者越來越接近了！他們就在客廳！",
+                    "jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\インヒビターが向かってきているわ！居間にいるわ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41519_extrctlvngrm_hollyhock_003",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41519_extrctlvngrm_hollyhock_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41519_extrctlvngrm_hollyhock_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[HOLLYHOCK]\\\\//(0,30)\\\\They are getting close! Inhibitors have reached the sitting room!",
+                    "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Ils sont tout proches ! Les répresseurs ont atteint le salon !",
+                    "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Si stanno avvicinando! Gli Inibitori hanno raggiunto il salotto!",
+                    "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Sie sind ganz nah! Die Inhibitoren haben den Salon erreicht!",
+                    "es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡Los inhibidores se están acercando! ¡Han llegado a la sala de estar!",
+                    "ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Они уже близко! Блокаторы ворвались в гостиную!",
+                    "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\他们正在逼近！抑制者到起居室了！",
+                    "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\他們越來越接近了！抑制者達到客廳了！",
+                    "jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\近づいてきている！インヒビターが居間に到着したわ！"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc41519_extrctlvngrm_hollyhock_004",
+                "weight": 0.24999995529651375,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41519_extrctlvngrm_hollyhock_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41519_extrctlvngrm_hollyhock_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[HOLLYHOCK]\\\\//(0,30)\\\\Inhibitors are in the sitting room! Take them out!",
+                    "fr": "//[HOLLYHOCK]\\\\//(0,30)\\\\Les répresseurs sont dans le salon ! Dégagez-les d'ici !",
+                    "it": "//[HOLLYHOCK]\\\\//(0,30)\\\\Inibitori nel salotto! Eliminali!",
+                    "de": "//[HOLLYHOCK]\\\\//(0,30)\\\\Die Inhibitoren sind im Salon! Schalten Sie sie aus!",
+                    "es": "//[HOLLYHOCK]\\\\//(0,30)\\\\¡Los inhibidores están en la sala de estar! ¡Acaba con ellos!",
+                    "ru": "//[HOLLYHOCK]\\\\//(0,30)\\\\Блокаторы в гостиной! Уничтожь их!",
+                    "cn": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者在起居室里！干掉他们！",
+                    "tc": "//[HOLLYHOCK]\\\\//(0,30)\\\\抑制者就在客廳！幹掉他們！",
+                    "jp": "//[HOLLYHOCK]\\\\//(0,30)\\\\インヒビターが居間にいるわ！追い出して！"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/wet/azalea/43800_story/pdlc43825_welcome.sweetdialog].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "Random",
+        "containers": [
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43825_welcome_azelea_001",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_001.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_001.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Welcome 47. Piggy is waiting upstairs.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Bienvenue, 47. Cochonnet attend là-haut.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Benvenuto, 47. Maialetto ti sta aspettando di sopra.",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Willkommen, 47. Das Schweinchen wartet schon oben.",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\Bienvenido, 47. Cerdito está esperando arriba.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Добро пожаловать, 47-й. Хрюша ждет наверху.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\欢迎，47。小猪在楼上等着。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\歡迎 47。小豬在樓上等你。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\ようこそ、47。子ブタちゃんが上の階でお待ちかねだ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43825_welcome_azelea_002",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_002.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_002.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Welcome. Please go upstairs.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Bienvenue. Montez, s'il vous plaît.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Benvenuto. Va' di sopra.",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Willkommen. Bitte gehen Sie die Treppe hoch.",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\Bienvenido. Por favor, ve al piso de arriba.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Добро пожаловать. Иди наверх.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\欢迎。请上楼。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\歡迎，請上樓。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\ようこそ、47。上の階へどうぞ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43825_welcome_azelea_003",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_003.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_003.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Welcome 47. Piggy is expecting you.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Bienvenue, 47. Cochonnet vous attend.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Benvenuto, 47. Maialetto ti stava aspettando.",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Willkommen 47. Das Schweinchen erwartet Sie schon.",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\Bienvenido, 47. Cerdito está esperando.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Добро пожаловать, 47-й. Хрюша ждет тебя.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\欢迎，47。小猪在等着你。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\歡迎，47。小豬正在等你。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\ようこそ、47。子ブタちゃんがお待ちかねだ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43825_welcome_azelea_004",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_004.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_004.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Good to see you. Piggy is waiting for you.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Quel plaisir de vous voir. Cochonnet vous attend.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\È un piacere vederti. Maialetto ti sta aspettando.",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Schön, Sie zu sehen. Das Schweinchen wartet schon auf Sie.",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\Me alegro de verte. Cerdito te está esperando.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Приятно тебя видеть. Хрюша ждет тебя.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\很高兴见到你。小猪在等着你。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\能見到你真好，小豬在等你了。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\お会いできてよかった。子ブタちゃんがお待ちだ。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43825_welcome_azelea_005",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_005.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_005.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Ah, you are here. Piggy will be pleased.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Ah, vous êtes là. Cochonnet sera ravi.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Ah, eccoti qui. Maialetto sarà felice.",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Ah, Sie sind hier. Das Schweinchen wird sich freuen.",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\Ah, estás aquí. Cerdito estará encantado.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Ты пришел. Хрюша будет счастлив.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\啊，你来了。小猪会高兴的。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\啊，你來了，小豬會很高興的。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\ああ、来たか。子ブタちゃんも喜ぶだろう。"
+                }
+            },
+            {
+                "type": "WavFile",
+                "wavName": "pdlc43825_welcome_azelea_006",
+                "weight": 0.1666666368643425,
+                "soundtag": "Voiceover_Handler_ICAEarpiece",
+                "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_006.wav].pc_wes",
+                "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/azalea/43800_story/pdlc43825_welcome_azelea_006.animset].pc_animset",
+                "languages": {
+                    "en": "//[AZELEA]\\\\//(0,30)\\\\Please. Go up the stairs. Piggy is expecting you.",
+                    "fr": "//[AZELEA]\\\\//(0,30)\\\\Montez les escaliers, je vous prie. Cochonnet vous attend.",
+                    "it": "//[AZELEA]\\\\//(0,30)\\\\Sali le scale, prego. Maialetto ti stava aspettando.",
+                    "de": "//[AZELEA]\\\\//(0,30)\\\\Bitte. Gehen Sie die Treppe hoch. Das Schweinchen erwartet Sie schon.",
+                    "es": "//[AZELEA]\\\\//(0,30)\\\\Por favor. Ve al piso de arriba. Cerdito te está esperando.",
+                    "ru": "//[AZELEA]\\\\//(0,30)\\\\Поднимайся по лестнице. Хрюша ждет тебя.",
+                    "cn": "//[AZELEA]\\\\//(0,30)\\\\请。上楼去。小猪在等着你。",
+                    "tc": "//[AZELEA]\\\\//(0,30)\\\\請上樓，小豬正在等你。",
+                    "jp": "//[AZELEA]\\\\//(0,30)\\\\どうぞ、上の階へ。子ブタちゃんがお待ちかねだ。"
+                }
+            }
+        ]
+    }
+}

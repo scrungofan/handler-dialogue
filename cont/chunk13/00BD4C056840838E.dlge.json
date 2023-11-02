@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/salty/32000_seagull/ds32045_mp_dragoneyeescape_knight.sweetdialog?/ds32045_mp_dragoneyeescape_knight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32045_mp_dragoneyeescape_knight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/salty/32000_seagull/ds32045_mp_dragoneyeescape_knight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/salty/32000_seagull/ds32045_mp_dragoneyeescape_knight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Stone, quick! That Dragon Eye guy is making a run for it!",
+            "fr": "//(0,30)\\\\Vite, Stone ! L'Œil de dragon essaie de s'échapper !",
+            "it": "//(0,30)\\\\Stone, veloce! Occhio di drago se la sta svignando!",
+            "de": "//(0,30)\\\\Stone, schnell! Dieses Drachenauge versucht wegzukommen!",
+            "es": "//(0,30)\\\\¡Date prisa, Stone! ¡Ese tal Ojo de Dragón se ha dado a la fuga!",
+            "ru": "//(0,30)\\\\Стоун, быстрее! Глаз дракона драпает со всех ног!",
+            "cn": "//(0,30)\\\\斯通，快点！龙眼那家伙开始逃跑了！",
+            "tc": "//(0,30)\\\\斯通，快！那個叫獨眼龍的傢伙正在逃跑！",
+            "jp": "//(0,30)\\\\ストーン、急いで！龍の目が逃げだした！"
+        }
+    }
+}

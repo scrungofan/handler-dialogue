@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/caged/32500_falcon/ds32603_mp_khabkoaloneknight.sweetdialog?/ds32603_mp_khabkoaloneknight_knight_mp_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "ds32603_mp_khabkoaloneknight_knight_mp_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/caged/32500_falcon/ds32603_mp_khabkoaloneknight_knight_mp_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/caged/32500_falcon/ds32603_mp_khabkoaloneknight_knight_mp_001.animset].pc_animset",
+        "languages": {
+            "en": "//(0,30)\\\\Khabko's calling someone. Warden, maybe? If he doesn't reach him, he might leave early.",
+            "fr": "//(0,30)\\\\Khabko appelle quelqu'un. Le directeur, peut-être ? S'il ne décroche pas, Khabko va sûrement partir sans lui.",
+            "it": "//(0,30)\\\\Khabko sta chiamando qualcuno. Il direttore, forse? Se non riuscirà a contattarlo, potrebbe andarsene prima.",
+            "de": "//(0,30)\\\\Khabko ruft jemanden an. Den Gefängnisdirektor vielleicht? Wenn er ihn nicht erreichen kann, bricht er eventuell früher auf.",
+            "es": "//(0,30)\\\\Khabko está llamando a alguien. ¿Será el alcaide? Si no contacta con él, puede que se vaya antes.",
+            "ru": "//(0,30)\\\\Хабко кому-то звонит. Может, начальнику тюрьмы? Если не дозвонится, то, возможно, уйдет раньше, чем запланировано.",
+            "cn": "//(0,4.5)\\\\卡布科正在给谁打电话。也许是监狱长？//(4.5,34.5)\\\\如果对方不接，他可能会提前离开。",
+            "tc": "//(0,4.6)\\\\卡伯克正在給人打電話。可能是典獄長吧？//(4.6,6.9)\\\\如果他找不到他，他可能會提早離開。",
+            "jp": "//(0,4.02)\\\\カブコが誰かに連絡してる。相手は所長かな？//(4.02,34.02)\\\\連絡がつかなければ、早く出ていってしまうかも。"
+        }
+    }
+}

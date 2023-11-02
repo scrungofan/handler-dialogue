@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/ancestral/hollyhock/41500_pdlc_story/pdlc41501_introlevel02.sweetdialog?/pdlc41501_introlevel02_hollyhock_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc41501_introlevel02_hollyhock_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41501_introlevel02_hollyhock_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/hollyhock/41500_pdlc_story/pdlc41501_introlevel02_hollyhock_001.animset].pc_animset",
+        "languages": {
+            "en": "//[HOLLYHOCK]\\\\//(0,3.4)\\\\Don't you feel alive, 47?//(3.4,6.2)\\\\Giving in to your inner rage?!//(6.2,10)\\\\That's why I am your only true friend.//(10,11.8)\\\\Now go!//(11.8,13.8)\\\\There are more coming.//(13.8,43.8)\\\\Send them all to hell!",
+            "fr": "//[HOLLYHOCK]\\\\//(0,6.45)\\\\Vous sentez toute cette vie en vous, 47 ? Cette rage intérieure ?!//(6.45,11.85)\\\\Voilà pourquoi je suis votre seule amie. Allez !//(11.85,41.85)\\\\D'autres arrivent. Envoyez-les tous en enfer !",
+            "it": "//[HOLLYHOCK]\\\\//(0,6.5)\\\\Non ti senti vivo, 47? Quando ti abbandoni alla tua rabbia interiore?!//(6.5,36.5)\\\\Ecco perché sono la tua unica amica. Ora vai! Ne stanno arrivando altri. Spediscili tutti all'inferno!",
+            "de": "//[HOLLYHOCK]\\\\//(0,3.3)\\\\Fühlen Sie sich nicht lebendig, 47?//(3.3,6.3)\\\\Wenn Sie so Ihrer inneren Wut nachgeben?!//(6.3,10.1)\\\\Deshalb bin ich Ihr einziger wahrer Freund.//(10.1,40.1)\\\\Jetzt gehen Sie! Es kommen noch mehr. Schicken Sie alle in die Hölle!",
+            "es": "//[HOLLYHOCK]\\\\//(0,6.155276)\\\\47, ¿no te sientes vivo al dar rienda suelta a tu ira interior?//(6.155276,10.10006)\\\\Por eso soy tu único amigo de verdad.//(10.10006,40.10006)\\\\¡Venga, en marcha, que vienen más! ¡Envíalos a todos al infierno!",
+            "ru": "//[HOLLYHOCK]\\\\//(0,2.948589)\\\\Ну что, чувствуешь себя живым, 47-й?//(2.948589,5.777178)\\\\Чувствуешь, как ты поддался своему гневу?//(5.777178,14)\\\\Я твой единственный друг. А теперь иди. Враги наступают.//(14,44)\\\\Отправь их в ад!",
+            "cn": "//[HOLLYHOCK]\\\\//(0,3.4)\\\\47，活着这件事对你来说没有实感吗？//(3.4,6.45)\\\\要向你内心的愤怒屈服吗？！//(6.45,10.1)\\\\所以我才是你唯一真正的朋友。//(10.1,40.1)\\\\去吧！敌人又要来了。把他们都送下地狱！",
+            "tc": "//[HOLLYHOCK]\\\\//(0,6.4)\\\\現在感覺很有活力了吧，47？開始接受你心中的怒火了吧？//(6.4,10.4)\\\\我就說只有我才是你真正的朋友。//(10.4,40.4)\\\\上吧！更多要來了，送他們通通下地獄！",
+            "jp": "//[HOLLYHOCK]\\\\//(0,6.26)\\\\生きている気がしない、47？内なる怒りに身を任せるのって？！//(6.26,10.3)\\\\だから、わたしがあなたの唯一の親友なのよ。//(10.3,40.3)\\\\さあ、行きなさい！まだまだやってくるわ。全員地獄に突き落としてやるといいわ！"
+        }
+    }
+}

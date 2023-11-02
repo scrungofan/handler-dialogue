@@ -1,0 +1,24 @@
+{
+    "$schema": "https://tonytools.win/schemas/dlge.schema.json",
+    "hash": "[assembly:/localization/hitman6/conversations/edgy/ambrosia/42000_ambrosia_story/pdlc42000_introdream.sweetdialog?/pdlc42000_introdream_ambrosia_001.sweetdialogitem].pc_dialogevent",
+    "DITL": "00B7E83B2B5BFE20",
+    "CLNG": "00E3CBB0725ED16C",
+    "rootContainer": {
+        "type": "WavFile",
+        "wavName": "pdlc42000_introdream_ambrosia_001",
+        "soundtag": "Voiceover_Handler_ICAEarpiece",
+        "defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/edgy/ambrosia/42000_ambrosia_story/pdlc42000_introdream_ambrosia_001.wav].pc_wes",
+        "defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/edgy/ambrosia/42000_ambrosia_story/pdlc42000_introdream_ambrosia_001.animset].pc_animset",
+        "languages": {
+            "en": "//[AMBROSIA]\\\\//(0,4.85)\\\\Do you like to party, 47? I've always wondered.//(4.85,8.25)\\\\You're in the heart of the crowd so often...//(8.25,11.9)\\\\But I guess not everyone's a people person, are they?//(13.3,17)\\\\Well, at least you know your way around a dance floor.//(17,24.2)\\\\I'm a pale imitation of your last partner, I know, but we could still be friends, right?//(24.2,30)\\\\Humans need others, don't you think? Even you.",
+            "fr": "//[AMBROSIA]\\\\//(0,4.95)\\\\Vous aimez faire la fête, 47 ? Je me suis longtemps posé la question.//(4.95,8.2)\\\\Vous qui passez tant de temps au milieu de la foule...//(8.2,13.2)\\\\mais n'est pas sociable qui veut, n'est-ce pas ?//(13.2,17.4)\\\\Enfin, au moins, vous savez évoluer sur une piste de danse.//(17.4,21.45)\\\\Je ne suis qu'une pâle copie de votre ancienne partenaire, je sais,//(21.45,24.25)\\\\mais cela ne nous empêche pas d'être amis.//(24.25,29.5)\\\\Les humains ont tous besoin les uns des autres, même vous.",
+            "it": "//[AMBROSIA]\\\\//(0,5)\\\\Ti piacciono le feste, 47? Me lo sono sempre chiesto.//(5,11.8)\\\\Ti immergi nella folla così spesso... ma immagino che non a tutti debba piacere per forza, vero?//(12.9,16.8)\\\\Beh, almeno sai come cavartela sulla pista da ballo.//(17.5,24.2)\\\\Io sono una pallida imitazione della tua ultima partner, lo so, ma potremmo comunque essere amici.//(24.2,27.9)\\\\Dopotutto, gli umani hanno bisogno di compagnia, non credi?//(27.9,29.4)\\\\Anche tu.",
+            "de": "//[AMBROSIA]\\\\//(0,2.092393)\\\\Feiern Sie gern, 47?//(2.092393,4.800982)\\\\Ich habe mich das viel gefragt.//(4.800982,11.93055)\\\\Sie sind so oft mitten in der Menge ... Aber ich schätze, nicht jeder mag Menschen, oder?//(11.93055,15.86344)\\\\Tja, wenigstens kennen Sie sich auf der Tanzfläche aus.//(15.86344,20.53252)\\\\Ich bin nur ein schaler Abklatsch Ihrer letzten Partnerin, wissen Sie?//(20.53252,23.24111)\\\\Aber wir können trotzdem Freunde sein.//(23.24111,28)\\\\Menschen brauchen einander, meinen Sie nicht?//(28,29.04)\\\\Das gilt sogar für Sie.",
+            "es": "//[AMBROSIA]\\\\//(0.8,2.5)\\\\¿Te gusta la jarana, 47?//(3,4.5)\\\\Siempre he sentido curiosidad por saberlo.//(5,7.7)\\\\Estás tantas veces rodeado de gente...//(8.3,12)\\\\Bueno, supongo que no a todo el mundo le apetece ser sociable, ¿no?//(13.3,16.8)\\\\En fin, por lo menos sabes moverte por la pista de baile.//(17.5,24.1)\\\\Yo solo soy una pobre imitación de tu antigua socia, ya lo sé, pero espero que podamos ser amigos.//(24.4,27.25)\\\\Los humanos necesitamos compañía, ¿no crees?//(28,29.6)\\\\Hasta tú.",
+            "ru": "//[AMBROSIA]\\\\//(0.85,3.19)\\\\Любишь ли ты вечеринки, 47-й?//(3.19,8.283)\\\\Давно хотела спросить. Ведь ты почти всегда в толпе...//(8.283,11.52)\\\\Но не всем дано быть душой компании, верно?//(13.486,17.623)\\\\Ну, ты, по крайней мере, не теряешься на танцполе.//(17.623,21.8)\\\\Я, конечно, бледная тень твоей прежней напарницы,//(21.8,24.575)\\\\но нашей дружбе это вряд ли помешает.//(24.575,28)\\\\Люди тянутся друг к другу, так ведь?//(28,29.475)\\\\Даже ты.",
+            "cn": "//[AMBROSIA]\\\\//(0,4.91)\\\\你喜欢派对吗，47？我一直都很好奇呢。//(4.91,13.29)\\\\你往往身处人群的中心......但并非人人都善于交际，对吧？//(13.29,17.4)\\\\啧啧，好吧，至少你在舞池里能从容不迫。//(17.4,21.62)\\\\我知道自己根本无法和你的上个搭档相提并论，//(21.62,24.3)\\\\不过我们还是可以做朋友的。//(24.3,54.3)\\\\人类是群居动物嘛，你说是不是？就算是你也一样。",
+            "tc": "//[AMBROSIA]\\\\//(0,2.8)\\\\你喜歡派對嗎，47？//(2.8,8.3)\\\\我一直在想，你經常身處於人群之中......//(8.3,13.2)\\\\但我看並不是所有人都喜歡交際，對吧？//(13.2,17.5)\\\\嘖嘖，嗯，至少你的舞技還不錯。//(17.5,21.6)\\\\跟你的上一個合作伙伴相比，我差多了，//(21.6,24.2)\\\\我知道，但我們還是能夠當個朋友。//(24.2,30)\\\\人類需要彼此，對吧？就連你也不例外。",
+            "jp": "//[AMBROSIA]\\\\//(0,3)\\\\パーティーはお好き、47？//(3,4.55)\\\\ずっと疑問に思ってたの。//(4.55,8.45)\\\\あなたはいつも人だかりの中にいるでしょ...//(8.45,12)\\\\でも、誰もが社交的ってわけじゃないようね。//(13.235,17.175)\\\\まあ、少なくとも、ダンスはできるみたいじゃない。//(17.175,21.265)\\\\前のパートナーには負けるかもしれない、ってわかってるわ。//(21.265,24.55)\\\\でもきっとお友達にはなれるんじゃないかしら？//(24.55,27.68)\\\\人間は一人じゃ生きていけないと思わない？//(27.68,29.5)\\\\あなただって同じよ。"
+        }
+    }
+}
