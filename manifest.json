@@ -25,6 +25,13 @@
 			"contentFolders": ["obama/nopiece"],
 			"group": "Earpiece",
 			"image": "obama/127589221-photo-of-the-adult-happy-bald-man.jpg"
+		},
+		{
+			"name": "Enable filter on ghost mode announcer",
+			"tooltip": "Whether or not to enable the radio filter on the announcer in ghost mode.",
+			"type": "checkbox",
+			"contentFolders": ["verSUS"],
+			"enabledByDefault": false
 		}
 	]
 }
