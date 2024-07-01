@@ -26,11 +26,11 @@
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 16.022127671815085 },
+								"rotation": { "x": 174.354, "y": -7.748, "z": 174.354 },
 								"position": {
-									"x": 0.036972999572753906,
-									"y": 0.013155460357666016,
-									"z": -0.07918184995651245
+									"x": 0.058,
+									"y": 0.01,
+									"z": 0.079
 								}
 							}
 						},
@@ -38,7 +38,7 @@
 						"m_bRemovePhysics": { "type": "bool", "value": true },
 						"m_bKinematic": { "type": "bool", "value": false },
 						"m_bIgnoreCharacters": { "type": "bool", "value": true },
-						"m_PrimitiveScale": { "type": "SVector3", "value": { "x": 1, "y": 0.800000011920929, "z": 1 } },
+						"m_PrimitiveScale": { "type": "SVector3", "value": { "x": 0.8, "y": 0.8, "z": 0.8 } },
 						"m_bVisible": { "type": "bool", "value": true },
 						"m_eidParent": { "type": "SEntityTemplateReference", "value": "0ff5798a35665af2" }
 					}
