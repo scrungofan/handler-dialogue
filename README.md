@@ -6,4 +6,4 @@ Makes all handler dialogue have a radio sound filter for added realism. No longe
 
 ---
 
-`invalid.earpiecevoices` v1.1.0, by invalid. This README was automatically generated from the mod's manifest.
+`invalid.earpiecevoices` v1.1.1, by invalid. This README was automatically generated from the mod's manifest.
