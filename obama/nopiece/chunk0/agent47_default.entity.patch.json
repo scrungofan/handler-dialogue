@@ -69,7 +69,87 @@
 					"name": "fine fuck you game",
 					"factory": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
 					"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
-					"events": { "EventOccurred": { "SpawnItem": ["feed88e3d81cd751"] } }
+					"events": {
+						"EventOccurred": {
+							"GetCurrentContractID": ["cafe6aaadb8fe1a5"],
+							"In": ["cafed16d233ffdb6"]
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6aaadb8fe1a5",
+				{
+					"parent": "cafe4b24a73ab2fa",
+					"name": "ContractIdComparerEntity",
+					"factory": "[modules:/zcontractidcomparerentity.class].pc_entitytype",
+					"blueprint": "[modules:/zcontractidcomparerentity.class].pc_entityblueprint",
+					"properties": {
+						"m_sContractId": {
+							"type": "ZString",
+							"value": "ebcd14b2-0786-4ceb-a2a4-e771f60d0125"
+						}
+					},
+					"events": {
+						"ContractIDsIdentical": {
+							"SetTrue": ["cafe4b24a73ab2fa"],
+							"In": ["cafed16d233ffdb6"]
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed16d233ffdb6",
+				{
+					"parent": "feeda535e4d3e731",
+					"name": "SignalGateEntity_Void",
+					"factory": "[modules:/zsignalgateentity_void.class].pc_entitytype",
+					"blueprint": "[modules:/zsignalgateentity_void.class].pc_entityblueprint",
+					"properties": {
+						"m_rCondition": {
+							"type": "SEntityTemplateReference",
+							"value": "cafe57b82f265628"
+						},
+						"m_bEnabled": { "type": "bool", "value": true }
+					},
+					"events": {
+						"Out": { "SpawnItem": ["feed88e3d81cd751"] }
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe57b82f265628",
+				{
+					"parent": "cafe6aaadb8fe1a5",
+					"name": "InvertedCondition",
+					"factory": "[modules:/zinvertedcondition.class].pc_entitytype",
+					"blueprint": "[modules:/zinvertedcondition.class].pc_entityblueprint",
+					"properties": {
+						"m_rCondition": {
+							"type": "SEntityTemplateReference",
+							"value": "cafe4b24a73ab2fa"
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe4b24a73ab2fa",
+				{
+					"parent": "feedbbe92e907ba2",
+					"name": "Is berlin",
+					"factory": "[modules:/zvalueboolbasic.class].pc_entitytype",
+					"blueprint": "[modules:/zvalueboolbasic.class].pc_entityblueprint",
+					"properties": {
+						"m_bValue": { "type": "bool", "value": false }
+					}
 				}
 			]
 		}
