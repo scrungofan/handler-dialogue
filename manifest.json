@@ -10,13 +10,21 @@
 	"updateCheck": "https://github.com/scrungofan/handler-dialogue/releases/latest/download/updates.json",
 	"options": [
 		{
-			"name": "Add earpiece",
+			"name": "Add earpiece (white)",
 			"tooltip": "Add a visual earpiece to 47",
 			"type": "select",
-			"contentFolders": ["obama/piece"],
+			"contentFolders": ["obama/piece/white"],
 			"enabledByDefault": true,
 			"group": "Earpiece",
-			"image": "obama/image.png"
+			"image": "obama/white.png"
+		},
+		{
+			"name": "Add earpiece (black)",
+			"tooltip": "Add a visual earpiece to 47, but it's black",
+			"type": "select",
+			"contentFolders": ["obama/piece/black"],
+			"group": "Earpiece",
+			"image": "obama/black.png"
 		},
 		{
 			"name": "No earpiece",
