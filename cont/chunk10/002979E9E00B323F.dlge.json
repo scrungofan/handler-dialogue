@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34002_cropsdwnbuttrgt.sweetdialog?/ds34002_cropsdwnbuttrgt_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34002_cropsdwnbuttrgt_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34002_cropsdwnbuttrgt_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34002_cropsdwnbuttrgt_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That should throw a wrench in the works. But we still need to eliminate Dr. Cane.",
+			"fr": "//(0,2.328589)\\\\Voilà qui devrait enrayer la machine,//(2.328589,32.32859)\\\\mais nous devons toujours nous débarrasser de Dr Cane.",
+			"it": "//(0,30)\\\\Questo dovrebbe mettergli i bastoni tra le ruote. Ma dobbiamo ancora eliminare il dottor Cane.",
+			"de": "//(0,2.1)\\\\Das sollte ausreichend Sand im Getriebe sein.//(2.1,32.1)\\\\Doch wir müssen immer noch Dr.  Cane ausschalten.",
+			"es": "//(0,2.05)\\\\Eso nos hará ganar tiempo,//(2.05,32.05)\\\\pero seguimos necesitando al doctor Cane fuera de juego.",
+			"ru": "//(0,30)\\\\Это сорвет их планы. Но мы все еще должны устранить доктора Кейна.",
+			"cn": "//(0,30)\\\\这样一来，产品发布计划就完蛋了。但我们仍然需要消灭凯恩博士。",
+			"tc": "//(0,30)\\\\這下應該能打亂他們的計畫，但我們得解決掉凱恩博士。",
+			"jp": "//(0,30)\\\\これで色々問題が起きるはずでしょうけど、まだケイン博士を排除しないと。"
+		}
+	}
+}

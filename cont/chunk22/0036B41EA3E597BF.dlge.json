@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2706_thrpyphonecall.sweetdialog?/ds2706_thrpyphonecall_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2706_thrpyphonecall_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2706_thrpyphonecall_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2706_thrpyphonecall_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Let’s find out.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\C'est ce que nous allons découvrir.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Scopriamolo.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Finden wir es heraus.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Descubrámoslo.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Давай выясним.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\我们去搞清楚。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\我們來看看。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\突き止めてみましょ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3713_msreveal.sweetdialog?/ds3713_msreveal_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3713_msreveal_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3713_msreveal_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3713_msreveal_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,3.45)\\\\47? I've picked up Le Chiffre on a security feed.//(3.45,33.45)\\\\It appears that he is in a bit of a pickle. I'm putting you through.",
+			"fr": "//[DIANA]\\\\//(0,0.8680981)\\\\47 ?//(0.8680981,6.157178)\\\\J'ai intercepté une communication du Chiffre... qui a, semble-t-il, quelques problèmes.//(6.157178,36.15718)\\\\Je vous fais écouter ça.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\47? Ho intercettato Le Chiffre su un video di sorveglianza. Sembra che sia nei guai. Ti collego.",
+			"de": "//[DIANA]\\\\//(0,1)\\\\47?//(1,3.45)\\\\Ich habe Le Chiffre auf einer Sicherheitsaufnahme entdeckt.//(3.45,6.05)\\\\Er scheint in der Klemme zu stecken.//(6.05,36.05)\\\\Ich leite sie weiter.",
+			"es": "//[DIANA]\\\\//(0,3.273)\\\\47, tengo a Le Chiffre en una cámara de seguridad.//(3.273,33.273)\\\\Parece que está metido en un pequeño apuro. Te lo pongo.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\47-й? Я засекла Лё Шиффра на камерах. Похоже, он влип. Подключаю тебя.",
+			"cn": "//[DIANA]\\\\//(0,3.4)\\\\47？我在安全监控画面上发现了勒齐弗。//(3.4,33.4)\\\\他目前似乎遇到了麻烦。我把画面传给你。",
+			"tc": "//[DIANA]\\\\//(0,3.5)\\\\47？我在監視器上發現了勒西弗。//(3.5,33.5)\\\\看來他碰上了點麻煩。我把畫面接給你。",
+			"jp": "//[DIANA]\\\\//(0,3.3)\\\\47？セキュリティフィードでル・シッフルを捕捉したわ。//(3.3,33.3)\\\\どうやら困った状況にあるようね。接続を転送するわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02.sweetdialog?/ds2717_puzzlefinal02_et_belini_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2717_puzzlefinal02_et_belini_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02_et_belini_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02_et_belini_006.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\Yeah, well... Don't have time for that shit. Good work by the way.",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\Ouais, bah j'ai pas le temps pour ces conneries, moi... Enfin, bien joué quand même.",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Già, beh... Non ho tempo per queste stronzate. Ben fatto, comunque.",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Ja, nun ... Ich habe keinen Zeit für diesen Scheiß. Gute Arbeit übrigens.",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\Sí, bueno... No tengo tiempo para esas mierdas. Buen trabajo, por cierto.",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Ну что ж... Нам сейчас не до этой туфты. Кстати, вы отлично поработали.",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\嗯......我可没时间搞那种东西。对了，做得好。",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\是啊，嗯......沒時間管那玩意了。順帶一提，幹得不錯。",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\そうか、まあ... 今はそんな暇はない。言い忘れてたけど、よくやった。"
+		}
+	}
+}

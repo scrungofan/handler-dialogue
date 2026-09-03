@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_007",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_007.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good job 47, with the dealer on our side - a win should be guaranteed.",
+			"fr": "//(0,1.724294)\\\\Bien joué, 47.//(1.724294,31.72429)\\\\Avoir le dealer dans la poche devrait garantir votre victoire.",
+			"it": "//(0,30)\\\\Ottimo lavoro 47, con il croupier dalla nostra parte, la vittoria dovrebbe essere assicurata.",
+			"de": "//(0,1.5)\\\\Gute Arbeit, 47.//(1.5,31.5)\\\\Da der Croupier auf unserer Seite ist – sollte ein Sieg garantiert sein.",
+			"es": "//(0,30)\\\\Buen trabajo, 47. Con el repartidor de nuestra parte, la victoria debería estar asegurada.",
+			"ru": "//(0,30)\\\\Молодец, 47-й. Теперь, когда дилер за нас, победа почти в кармане.",
+			"cn": "//(0,30)\\\\干得好，47，既然荷官站在我们这边，胜利理应十拿九稳。",
+			"tc": "//(0,30)\\\\做得好，47，有了發牌員的協助，我們一定能贏。",
+			"jp": "//(0,30)\\\\よくやったわ、47。ディーラーを味方につけた以上、もう勝利は決まったようなものね。"
+		}
+	}
+}

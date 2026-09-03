@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts.sweetdialog?/dr41886_slherbfunfacts_h_e_r_b__002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41886_slherbfunfacts_h_e_r_b__002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts_h_e_r_b__002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts_h_e_r_b__002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.675767)\\\\Too personal a question? Sorry. I will lighten the mood with some fun facts about the Nightshade virus.//(5.675767,35.67577)\\\\Fun fact number one: when allowed to gestate for 48 hours, it has a 100% fatality rate. Wow!",
+			"fr": "//(0,1.75)\\\\Trop personnel ? Veuillez m'excuser.//(1.75,5.4)\\\\Pour détendre l'atmosphère, voici quelques anecdotes amusantes sur le virus Belladone.//(5.4,12.85)\\\\Un : le virus affiche un taux de mortalité de 100 % après 48 h passées dans l'organisme.//(12.85,42.85)\\\\Génial !",
+			"it": "//(0,2.172393)\\\\Domanda troppo personale? Scusa.//(2.172393,6.103374)\\\\Cercherò di alleggerire l'atmosfera con alcune curiosità sul virus Belladonna.//(6.103374,10.70865)\\\\Curiosità numero uno: se il suo periodo di incubazione supera le 48 ore,//(10.70865,40.70865)\\\\il suo tasso di letalità raggiunge il 100%. Wow!",
+			"de": "//(0,1.827)\\\\Ist das eine zu persönliche Frage? Sorry.//(1.827,5.344)\\\\Ich werde die Stimmung mit ein paar Funfacts über das Nachtschatten-Virus aufheitern.//(5.344,12.62167)\\\\Funfact Nummer eins: Wenn es für mehr als 48 Stunden ungehemmt wachsen darf, ist es zu 100 % tödlich.//(12.62167,42.62167)\\\\Wow!",
+			"es": "//(0,2)\\\\¿Es una pregunta demasiado personal? Te pido disculpas.//(2,5.7)\\\\Mejoraré el ambiente con algunos datos curiosos sobre el virus Solanácea.//(5.7,35.7)\\\\Dato número uno: si se le permite gestar durante 48 horas, tiene una tasa de mortalidad del 100 %. ¡Arrea!",
+			"ru": "//(0,2)\\\\Слишком личный вопрос? Прошу прощения.//(2,5.444785)\\\\Заполню неловкую тишину забавными фактами о вирусе «Белладонна».//(5.444785,35.44479)\\\\Первый забавный факт: при двухдневной инкубации вирус гарантирует летальный исход. Ого!",
+			"cn": "//(0,2.2)\\\\这个问题太私密了吗？抱歉。//(2.2,5.4)\\\\为了调节气氛，我来分享一些关于“龙葵”病毒的冷知识。//(5.4,9.9)\\\\冷知识一号：若任其发育48小时，//(9.9,39.9)\\\\其致死率将达100%。哇！",
+			"tc": "//(0,30)\\\\這個問題太突兀了嗎？抱歉。我會用一些關於夜影病毒的趣味知識來活躍一下氣氛。趣味知識一：如果允許它潛伏 48 小時，它的死亡率是 100%。哇！",
+			"jp": "//(0,2.197)\\\\あまりにも不躾な質問でしたか？ すみません。//(2.197,5.444)\\\\ナイトシェードウイルスの面白い豆知識で気分を和らげましょう。//(5.444,35.444)\\\\豆知識その1。 48時間培養すると、致死率は100%になります。 すごいですね！"
+		}
+	}
+}

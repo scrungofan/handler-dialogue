@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3700_frenchmartiniid.sweetdialog?/ds3700_frenchmartiniid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3700_frenchmartiniid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3700_frenchmartiniid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3700_frenchmartiniid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.1)\\\\That... is Le Chiffre, shadow banker and mathematical genius.//(5.1,35.1)\\\\You need to stay on your toes, he has never been defeated in a poker game.",
+			"fr": "//(0,2)\\\\Voici Le Chiffre...//(2,5.3)\\\\Banquier de l'ombre, génie du calcul.//(5.3,7.7)\\\\Restez particulièrement alerte, 47.//(7.7,37.7)\\\\Apparemment, personne ne l'aurait jamais battu au poker.",
+			"it": "//(0,5)\\\\Quello... è Le Chiffre, un banchiere ombra e genio matematico.//(5,35)\\\\Devi stare all'erta, nessuno lo ha mai battuto a una partita di poker.",
+			"de": "//(0,5.1)\\\\Das ... ist Le Chiffre, Schattenbankier und mathematisches Genie.//(5.1,7.2)\\\\Bleiben Sie auf der Hut.//(7.2,37.2)\\\\Bisher hat ihn noch niemand beim Poker geschlagen.",
+			"es": "//(0,4.9)\\\\Ese... es Le Chiffre, banquero en la sombra y genio matemático.//(4.9,34.9)\\\\No te relajes, puesto que nadie le ha ganado nunca en una partida de póquer.",
+			"ru": "//(0,1.8)\\\\Это... Лё Шиффр.//(1.8,5.05)\\\\Теневой финансист и математический гений.//(5.05,35.05)\\\\Будь начеку — в покер он еще никому не проигрывал.",
+			"cn": "//(0,5.2)\\\\这位......就是勒齐弗，影子银行家兼数学天才。//(5.2,35.2)\\\\你必须打起十二分精神——至今还没有人能在牌桌上击败过他。",
+			"tc": "//(0,5.1)\\\\那......就是勒西弗，暗影銀行家和數學天才。//(5.1,35.1)\\\\你必須保持警覺，從來沒有人在牌局上贏過他。",
+			"jp": "//(0,5)\\\\あれは... ル・シッフル。影の銀行家で、数学の天才。//(5,35)\\\\気をつけて。彼をポーカーで破った人は一人もいないらしいわ。"
+		}
+	}
+}

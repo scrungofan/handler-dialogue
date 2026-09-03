@@ -1,0 +1,106 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20066_mp_movingshot2_stone_stone_001",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Nicely done.",
+					"fr": "//(0,30)\\\\Bien joué.",
+					"it": "//(0,30)\\\\Ben fatto.",
+					"de": "//(0,30)\\\\Schön gemacht.",
+					"es": "//(0,30)\\\\Buen trabajo.",
+					"ru": "//(0,30)\\\\Хорошо сработано.",
+					"cn": "//(0,30)\\\\干得漂亮。",
+					"tc": "//(0,30)\\\\做得很好。",
+					"jp": "//(0,30)\\\\良い腕だ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20066_mp_movingshot2_stone_stone_002",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You saw the opening and took it.",
+					"fr": "//(0,30)\\\\Tu as saisi ta chance sans attendre.",
+					"it": "//(0,30)\\\\Hai visto un'opportunità e l'hai colta al volo.",
+					"de": "//(0,30)\\\\Sie haben eine Chance gesehen und sie genutzt.",
+					"es": "//(0,30)\\\\Has visto la ocasión y la has aprovechado.",
+					"ru": "//(0,30)\\\\Ты увидела шанс и воспользовалась им.",
+					"cn": "//(0,30)\\\\你发现了空档并果断抓住了机会。",
+					"tc": "//(0,30)\\\\你發現了空檔並抓住了這個機會。",
+					"jp": "//(0,30)\\\\チャンスを逃さなかったな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20066_mp_movingshot2_stone_stone_003",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good shooting, Knight.",
+					"fr": "//(0,30)\\\\Beau travail, Knight.",
+					"it": "//(0,30)\\\\Ottimi tiri, Knight.",
+					"de": "//(0,30)\\\\Gut geschossen, Knight.",
+					"es": "//(0,30)\\\\Buen tiro, Knight.",
+					"ru": "//(0,30)\\\\Хорошо стреляешь, Найт.",
+					"cn": "//(0,30)\\\\好枪法，奈特。",
+					"tc": "//(0,30)\\\\好槍法，奈特。",
+					"jp": "//(0,30)\\\\うまいな、ナイト。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20066_mp_movingshot2_stone_stone_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone_stone_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone_stone_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You're getting better and better at this.",
+					"fr": "//(0,30)\\\\Tu as bien pris le coup de main.",
+					"it": "//(0,30)\\\\Stai diventando sempre più brava.",
+					"de": "//(0,30)\\\\Sie werden aber auch immer besser und besser.",
+					"es": "//(0,30)\\\\Esto se te da cada vez mejor.",
+					"ru": "//(0,30)\\\\У тебя получается всё лучше и лучше.",
+					"cn": "//(0,30)\\\\你枪法越来越好了。",
+					"tc": "//(0,30)\\\\你進步真快。",
+					"jp": "//(0,30)\\\\どんどん上達してる。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20066_mp_movingshot2_stone_stone_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone_stone_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20066_mp_movingshot2_stone_stone_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Impressive shooting.",
+					"fr": "//(0,30)\\\\Impressionnant.",
+					"it": "//(0,30)\\\\Dei colpi notevoli.",
+					"de": "//(0,30)\\\\Beeindruckend geschossen.",
+					"es": "//(0,30)\\\\Un tiro impresionante.",
+					"ru": "//(0,30)\\\\Впечатляющая стрельба.",
+					"cn": "//(0,30)\\\\这一枪真漂亮。",
+					"tc": "//(0,30)\\\\不錯的槍法。",
+					"jp": "//(0,30)\\\\上出来だ。"
+				}
+			}
+		]
+	}
+}

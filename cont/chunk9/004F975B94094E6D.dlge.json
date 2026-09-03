@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20070_mp_civkillreaction_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20070_mp_civkillreaction_knight_knight_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20070_mp_civkillreaction_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20070_mp_civkillreaction_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Stick to targets, Stone. This isn't a free-for-all.",
+					"fr": "//(0,30)\\\\Contente-toi des cibles, Stone. Ce n'est pas un champ de tir.",
+					"it": "//(0,30)\\\\Resta concentrato sui bersagli, Stone. Non è un tutti contro tutti.",
+					"de": "//(0,30)\\\\Bleiben Sie bei den Zielen, Stone. Das ist doch keine gesetzesfreie Zone.",
+					"es": "//(0,30)\\\\Cíñete a los objetivos, Stone. Esto no es una barra libre.",
+					"ru": "//(0,30)\\\\По целям работай, Стоун. Это тебе не тир.",
+					"cn": "//(0,30)\\\\斯通，盯紧目标。这不是单排吃鸡。",
+					"tc": "//(0,30)\\\\瞄準目標，斯通。這可不是大亂鬥。",
+					"jp": "//(0,30)\\\\ストーン、仕留めるのはターゲットだけよ。誰彼構わず撃たないで。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20070_mp_civkillreaction_knight_knight_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20070_mp_civkillreaction_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20070_mp_civkillreaction_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Unsanctioned kills look bad in the field reports, Stone.",
+					"fr": "//(0,30)\\\\Les éliminations de civils font tache dans un rapport, Stone.",
+					"it": "//(0,30)\\\\Le uccisioni non autorizzate non fanno bella figura nei rapporti ufficiali, Stone.",
+					"de": "//(0,30)\\\\Unzulässige Abschüsse sehen im Feldbericht ganz schlecht aus, Stone.",
+					"es": "//(0,30)\\\\Las muertes no autorizadas no quedan bien en los informes, Stone.",
+					"ru": "//(0,30)\\\\Несанкционированные убийства портят личное дело, Стоун.",
+					"cn": "//(0,30)\\\\斯通，未经许可的击杀写在作战报告里不好看啊。",
+					"tc": "//(0,30)\\\\濫殺無辜在外勤報告上不好看，斯通。",
+					"jp": "//(0,30)\\\\未許可の殺しは報告書に書かれるわよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20070_mp_civkillreaction_knight_knight_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20070_mp_civkillreaction_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20070_mp_civkillreaction_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That wasn't a target. Do you need some help adjusting your scope?",
+					"fr": "//(0,30)\\\\Ce n'était pas une cible. Tu as besoin d'aide pour régler ta lunette ?",
+					"it": "//(0,30)\\\\Quello non era un bersaglio. Ti serve aiuto per regolare il mirino?",
+					"de": "//(0,30)\\\\Das war kein Ziel. Brauchen Sie etwa Hilfe beim Anpassen des Zielfernrohrs?",
+					"es": "//(0,30)\\\\Ese no era un objetivo. ¿Necesitas ayuda para ajustar la mira?",
+					"ru": "//(0,30)\\\\Это была не цель. Помочь тебе отрегулировать прицел?",
+					"cn": "//(0,30)\\\\刚刚那个不是目标。你要我帮忙调瞄准镜吗？",
+					"tc": "//(0,30)\\\\那不是目標。你需要我來調整你的視鏡嗎？",
+					"jp": "//(0,30)\\\\今のターゲットじゃなかったでしょ？スコープを調節しましょうか？"
+				}
+			}
+		]
+	}
+}

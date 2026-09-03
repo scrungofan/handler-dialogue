@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20062_mp_multikill_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20062_mp_multikill_stone_stone_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20062_mp_multikill_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20062_mp_multikill_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Wow, that's some impressive shooting, Knight.",
+					"fr": "//(0,30)\\\\Wow, ça, c'est ce que j'appelle tirer, Knight.",
+					"it": "//(0,30)\\\\Però! Notevole, Knight.",
+					"de": "//(0,30)\\\\Wow, das sind beeindruckende Schüsse, Knight.",
+					"es": "//(0,30)\\\\Vaya, me impresionas con esos disparos, Knight.",
+					"ru": "//(0,30)\\\\Ого, вот это стрельба, Найт!",
+					"cn": "//(0,30)\\\\哇，奈特，你这枪法简直神了。",
+					"tc": "//(0,30)\\\\哇，真是令人佩服的槍法，奈特。",
+					"jp": "//(0,30)\\\\なんだ、今の！すごいじゃないか。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20062_mp_multikill_stone_stone_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20062_mp_multikill_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20062_mp_multikill_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Damn, this pace we'll be done in no time...",
+					"fr": "//(0,30)\\\\À ce rythme, on aura terminé en un rien de temps.",
+					"it": "//(0,30)\\\\Diamine, se continuiamo a questo ritmo la finiremo in un attimo...",
+					"de": "//(0,30)\\\\Verdammt! Bei der Geschwindigkeit sind wir ja im Nu fertig ...",
+					"es": "//(0,30)\\\\Joder. A este ritmo, acabaremos enseguida...",
+					"ru": "//(0,30)\\\\Черт, такими темпами мы быстро управимся...",
+					"cn": "//(0,30)\\\\见鬼，这样下去我们分分钟就能搞定了。",
+					"tc": "//(0,30)\\\\該死，這樣下去我們一下就解決了......",
+					"jp": "//(0,30)\\\\すごいな。このペースだともうすぐ終わりそうだ..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20062_mp_multikill_stone_stone_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20062_mp_multikill_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20062_mp_multikill_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Hot date tonight? Why you in such a hurry?",
+					"fr": "//(0,30)\\\\T'es pressée ? T'as un rencard ce soir ?",
+					"it": "//(0,30)\\\\Hai un appuntamento galante stasera? Perché sei così di fretta?",
+					"de": "//(0,30)\\\\Heute Abend noch ein heißes Date? Warum haben Sie es denn so eilig?",
+					"es": "//(0,30)\\\\¿Has quedado luego? ¿A qué viene tanta prisa?",
+					"ru": "//(0,30)\\\\Спешишь на свидание? Куда так торопишься?",
+					"cn": "//(0,30)\\\\今晚急着去约会吗？你这么急干嘛？",
+					"tc": "//(0,30)\\\\今天有約會？幹嘛這麼趕？",
+					"jp": "//(0,30)\\\\今夜デートでもあるのか？何をそんなに急いでるんだ？"
+				}
+			}
+		]
+	}
+}

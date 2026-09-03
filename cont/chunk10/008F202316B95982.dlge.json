@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34008_ms1invtgunkout.sweetdialog?/ds34008_ms1invtgunkout_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34008_ms1invtgunkout_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34008_ms1invtgunkout_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34008_ms1invtgunkout_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\An invitation for Elliot Gunk, food industrialist... He's in no fit state for a tour now. A shame to waste the opportunity.",
+			"fr": "//(0,3.932883)\\\\Une invitation pour Elliot Gunk, acteur notoire de l'agroalimentaire.//(3.932883,6.4)\\\\Il n'est pas en état de suivre une visite pour le moment...//(6.4,36.4)\\\\Il serait dommage de ne pas sauter sur l'occasion.",
+			"it": "//(0,3.7)\\\\Un invito per Elliot Gunk, imprenditore del settore alimentare...//(3.7,6.25)\\\\Al momento non è proprio in condizioni di partecipare a una visita guidata.//(6.25,36.25)\\\\Sarebbe un peccato sprecare questa occasione.",
+			"de": "//(0,3.85)\\\\Eine Einladung für Elliot Gunk, Lebensmittelunternehmer ...//(3.85,6.5)\\\\Er ist nun nicht in der Verfassung, um an der Führung teilzunehmen.//(6.5,36.5)\\\\Da wäre es doch schade, wenn diese Gelegenheit ungenutzt bliebe.",
+			"es": "//(0,3.7)\\\\Invitación para Elliot Gunk, empresario de la industria alimentaria...//(3.85,6.1)\\\\Parece que no está en condiciones de hacer visitas.//(6.45,36.45)\\\\Sería una pena desaprovecharla...",
+			"ru": "//(0,3.7)\\\\Приглашение на имя пищевого магната Эллиота Ганка...//(3.7,6.3)\\\\Ему сейчас явно не до экскурсий.//(6.3,36.3)\\\\Жаль упускать такую возможность.",
+			"cn": "//(0,3.78)\\\\这是给食品业大亨艾略特·冈克的邀请函......//(3.78,33.78)\\\\他现在根本没法参加参观活动。如果错失这次机会就太可惜了。",
+			"tc": "//(0,3.8)\\\\給食品業大亨艾略特·岡克的邀請函......//(3.8,6.5)\\\\他現在的狀況可沒辦法去導覽了。//(6.5,36.5)\\\\浪費這機會實在可惜。",
+			"jp": "//(0,3.64)\\\\食品業界の実業家、エリオット・ガンクへの招待状...//(3.64,6.48)\\\\この状態で見学ツアーに参加することはできないわね。//(6.48,36.48)\\\\この機会を無駄にするのはもったいないわ。"
+		}
+	}
+}

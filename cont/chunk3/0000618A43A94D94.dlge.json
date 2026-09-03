@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab.sweetdialog?/ds41829_dscvrlab_h_e_r_b__006.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41829_dscvrlab_h_e_r_b__006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_h_e_r_b__006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_h_e_r_b__006.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Yes - and may I say, your voice carries a wonderful air of competent authority.",
+			"fr": "//(0,30)\\\\Bien entendu ! Votre voix témoigne d'ailleurs d'une autorité tout à fait compétente.",
+			"it": "//(0,30)\\\\Sì! E, se posso permettermi, la tua voce infonde un meraviglioso senso di autorevolezza e competenza.",
+			"de": "//(0,30)\\\\Ja – und ich möchte anmerken, dass Ihre Stimme einen wunderbaren Klang voll kompetenter Autorität hat.",
+			"es": "//(0,30)\\\\Sí. Y he de decir que tu voz transmite un maravilloso tono de autoridad y eficiencia.",
+			"ru": "//(0,0.7)\\\\Конечно.//(0.7,30.7)\\\\Должен сказать — у вас такой внушительный и уверенный голос!",
+			"cn": "//(0,30)\\\\是的。而且容我直言，您的声音透着一种令人信服的权威感。",
+			"tc": "//(0,30)\\\\可以—— 我說，你的聲音帶有一種令人敬畏的權威感。",
+			"jp": "//(0,30)\\\\ええ。そしてあなたの声には、素晴しく有能な権威を持った雰囲気が漂っています。"
+		}
+	}
+}

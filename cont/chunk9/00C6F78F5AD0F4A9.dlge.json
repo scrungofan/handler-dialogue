@@ -1,0 +1,125 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20063_mp_movingshot1_stone_stone_001",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I know - it's easier if they don't move around.",
+					"fr": "//(0,30)\\\\C'est quand même plus simple quand ils ne bougent pas.",
+					"it": "//(0,30)\\\\Lo so, è più semplice se non si muovono.",
+					"de": "//(0,30)\\\\Ich weiß – es wäre leichter, wenn sie sich nicht bewegen würden.",
+					"es": "//(0,30)\\\\Lo sé... Es mucho más fácil cuando no se mueven.",
+					"ru": "//(0,30)\\\\Знаю, когда они стоят, попасть проще.",
+					"cn": "//(0,30)\\\\话说，如果他们不移动的话更容易打中。",
+					"tc": "//(0,30)\\\\我知道，他們要是不四處走動的話可就簡單多了。",
+					"jp": "//(0,30)\\\\動いてない的の方が簡単なのは分かってるさ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20063_mp_movingshot1_stone_stone_002",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Somehow I just can't miss today, can I?",
+					"fr": "//(0,30)\\\\Je n'arrive pas à manquer aujourd'hui, j'y peux rien !",
+					"it": "//(0,30)\\\\Non so perché, ma oggi non sbaglio un colpo.",
+					"de": "//(0,30)\\\\Irgendwie treffe ich heute alles, was?",
+					"es": "//(0,30)\\\\No sé qué me pasa hoy, que no fallo ni una.",
+					"ru": "//(0,30)\\\\И почему это я сегодня такой меткий?",
+					"cn": "//(0,30)\\\\今天我不知怎么的，想射偏都难。",
+					"tc": "//(0,30)\\\\我今天似乎百發百中啊？",
+					"jp": "//(0,30)\\\\今日はどうやら外せないみたいだ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20063_mp_movingshot1_stone_stone_003",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Moving or not, you're mine.",
+					"fr": "//(0,30)\\\\Mobile ou pas, je te tiens.",
+					"it": "//(0,30)\\\\Anche se continui a muoverti... ti ho in pugno.",
+					"de": "//(0,30)\\\\Beweglich oder nicht: Die gehören mir.",
+					"es": "//(0,30)\\\\Te muevas o no, eres mío.",
+					"ru": "//(0,30)\\\\Бегаешь ты или стоишь, от меня не уйдешь.",
+					"cn": "//(0,30)\\\\随你怎么动，还是被我打的份。",
+					"tc": "//(0,30)\\\\無論是否在走動，我都會取你性命。",
+					"jp": "//(0,30)\\\\動いていたって逃げられない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20063_mp_movingshot1_stone_stone_004",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You can run but you can't hide.",
+					"fr": "//(0,30)\\\\Tu peux courir, mais tu ne peux pas te cacher.",
+					"it": "//(0,30)\\\\Puoi scappare, ma non puoi nasconderti.",
+					"de": "//(0,30)\\\\Du kannst zwar laufen, aber davon kommst du nicht.",
+					"es": "//(0,30)\\\\Puedes correr, pero no esconderte.",
+					"ru": "//(0,30)\\\\Бегай, бегай, от меня не скрыться.",
+					"cn": "//(0,30)\\\\你要跑就跑吧，但你无处藏身。",
+					"tc": "//(0,30)\\\\你是躲不掉的。",
+					"jp": "//(0,30)\\\\逃げても隠れられないぜ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20063_mp_movingshot1_stone_stone_005",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The trick is to shoot in front of them so they can run into the projectile.",
+					"fr": "//(0,30)\\\\Le truc, c'est d'anticiper leurs mouvements.",
+					"it": "//(0,30)\\\\Il segreto è sparare più avanti rispetto alla loro posizione, così correranno verso il proiettile.",
+					"de": "//(0,30)\\\\Der Trick beim Schießen ist das Vorhalten, damit sie ins Geschoss hineinlaufen.",
+					"es": "//(0,30)\\\\El truco es disparar un poco por delante, para que se coman el proyectil.",
+					"ru": "//(0,30)\\\\Секрет в том, чтобы стрелять перед ними — тогда они сами напорются на пулю.",
+					"cn": "//(0,30)\\\\诀窍就在于要瞄准他们的前方开枪，让他们自己撞上子弹。",
+					"tc": "//(0,30)\\\\訣竅是朝他們前方射擊，這樣他們就會自己走到子彈前面。",
+					"jp": "//(0,30)\\\\コツは獲物の前を狙うことだ。そうすれば弾に当たりに行ってくれる。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20063_mp_movingshot1_stone_stone_006",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20063_mp_movingshot1_stone_stone_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Let me know if you need tips on how to hit moving targets, Knight. I've got the technique locked down.",
+					"fr": "//(0,30)\\\\Dis-moi si tu as besoin d'une leçon de tir sur cibles mobiles, Knight. Ça deviendrait presque une routine.",
+					"it": "//(0,3.341)\\\\Fammi sapere se hai bisogno di suggerimenti su come colpire i bersagli in movimento, Knight.//(3.341,33.341)\\\\La mia tecnica è perfetta.",
+					"de": "//(0,30)\\\\Lassen Sie es mich wissen, falls Sie Tipps dazu brauchen, wie man bewegliche Ziele trifft, Knight. Diese Technik habe ich echt drauf.",
+					"es": "//(0,30)\\\\Avísame si necesitas consejos para disparar a objetivos móviles, Knight. Tengo esa técnica dominada.",
+					"ru": "//(0,30)\\\\Дай знать, если захочешь взять пару уроков стрельбы, Найт. У меня собственная техника.",
+					"cn": "//(0,30)\\\\奈特，如果你打移动目标需要指导的话，问我就行了。我这方法不随便告诉别人的。",
+					"tc": "//(0,3.3)\\\\你需要我指點你一下怎麼擊中移動目標的話跟我說一聲，奈特。//(3.3,33.3)\\\\我這方面可是很熟練。",
+					"jp": "//(0,30)\\\\ナイト、動くターゲットに命中させるヒントが欲しいなら言ってくれ。俺の腕は完璧だ。"
+				}
+			}
+		]
+	}
+}

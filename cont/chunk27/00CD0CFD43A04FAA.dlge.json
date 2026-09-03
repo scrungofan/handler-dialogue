@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3705_tell.sweetdialog?/ds3705_tell_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3705_tell_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3705_tell_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3705_tell_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6)\\\\47? Have you noticed Le Chiffre keeps touching his face... like he has a tic.//(6,36)\\\\I think he is bluffing. Raise him.",
+			"fr": "//(0,30)\\\\47 ? Avez-vous remarqué comme Le Chiffre se touche le visage ? Comme... une manie. Peut-être bluffe-t-il ? Vous devriez relancer.",
+			"it": "//(0,5.8)\\\\47? Hai notato che Le Chiffre continua a toccarsi il viso, come se avesse un tic?//(5.8,35.8)\\\\Secondo me sta bluffando. Rilancia.",
+			"de": "//(0,30)\\\\47? Ist Ihnen aufgefallen, dass Le Chiffre sich immer wieder ins Gesicht fasst ... Als ob er einen Tick hätte. Ich glaube, er blufft. Zeit für einen Raise.",
+			"es": "//(0,5.7)\\\\47, ¿te has fijado en que Le Chiffre no deja de tocarse la cara? Es como si tuviese un tic.//(5.7,35.7)\\\\Yo creo que está de farol. Sube la apuesta.",
+			"ru": "//(0,30)\\\\47-й, ты заметил? Лё Шиффр постоянно трогает лицо... как будто нервничает. Мне кажется, он блефует. Повышай.",
+			"cn": "//(0,2.208589)\\\\47？注意到没？//(2.208589,6)\\\\勒齐弗一直在摸脸......像犯了抽搐症似的。//(6,36)\\\\他肯定是在虚张声势。加注，陪他玩到底。",
+			"tc": "//(0,5.9)\\\\47？你有沒有注意到勒西弗一直摸他的臉......就像他下意識的行為。//(5.9,35.9)\\\\我想他在偷雞。加注。",
+			"jp": "//(0,6)\\\\47。ル・シッフルがさっきから顔を触ってるのに気づいた？どうやら癖のようね。//(6,36)\\\\ブラフをかけてるんだと思う。レイズしてみて。"
+		}
+	}
+}

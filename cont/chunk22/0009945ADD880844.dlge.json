@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2721_targetdown.sweetdialog?/ds2721_targetdown_et_belini_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2721_targetdown_et_belini_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2721_targetdown_et_belini_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2721_targetdown_et_belini_003.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\That's so dope...",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\J'ai presque une mi-molle...",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\È così sexy...",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Das ist so hot ...",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\Uf, cómo me gusta...",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Мне от вас жарко стало...",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\真带劲啊......",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\真辣......",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\そそられる..."
+		}
+	}
+}

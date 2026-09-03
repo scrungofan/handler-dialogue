@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20076_mp_accidentkill1reaction_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20076_mp_accidentkill1reaction_knight_knight_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20076_mp_accidentkill1reaction_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20076_mp_accidentkill1reaction_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Why thank you kindly, sir.",
+					"fr": "//(0,30)\\\\Vous êtes très aimable, mon cher.",
+					"it": "//(0,30)\\\\La ringrazio profondamente, signore.",
+					"de": "//(0,30)\\\\Aber tausend Dank, Sir.",
+					"es": "//(0,30)\\\\Vaya, muchas gracias, señor.",
+					"ru": "//(0,30)\\\\Премного благодарна, сэр.",
+					"cn": "//(0,30)\\\\谢谢您啊，先生。",
+					"tc": "//(0,30)\\\\謝謝你了，先生。",
+					"jp": "//(0,30)\\\\ご親切にどうも。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20076_mp_accidentkill1reaction_knight_knight_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20076_mp_accidentkill1reaction_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20076_mp_accidentkill1reaction_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You're too kind.",
+					"fr": "//(0,30)\\\\Oh, il ne fallait pas.",
+					"it": "//(0,30)\\\\Troppo gentile.",
+					"de": "//(0,30)\\\\Sie sind zu freundlich.",
+					"es": "//(0,30)\\\\Qué amable.",
+					"ru": "//(0,30)\\\\Ты очень любезен.",
+					"cn": "//(0,30)\\\\您可真好心。",
+					"tc": "//(0,30)\\\\你真是太客氣了。",
+					"jp": "//(0,30)\\\\優しいな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20076_mp_accidentkill1reaction_knight_knight_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20076_mp_accidentkill1reaction_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20076_mp_accidentkill1reaction_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Always happy to teach the newbies a thing or two.",
+					"fr": "//(0,30)\\\\C'est toujours un plaisir d'apprendre un truc ou deux aux débutants.",
+					"it": "//(0,30)\\\\Sempre felice di insegnare qualche trucchetto ai novellini.",
+					"de": "//(0,30)\\\\Ich bringe Neulingen immer wieder gerne das eine oder andere bei.",
+					"es": "//(0,30)\\\\Es un placer enseñar un par de trucos a los novatos.",
+					"ru": "//(0,30)\\\\Всегда рада научить новичков новым трюкам.",
+					"cn": "//(0,30)\\\\我向来乐意指导新人。",
+					"tc": "//(0,30)\\\\我最喜歡教新手一兩手了。",
+					"jp": "//(0,30)\\\\ルーキーには教えてやらないとな。"
+				}
+			}
+		]
+	}
+}

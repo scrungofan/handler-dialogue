@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41836_virusdown.sweetdialog?/ds41836_virusdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41836_virusdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41836_virusdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41836_virusdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.100982)\\\\And that's the virus taken care of. Nicely done, 47.//(4.100982,34.10098)\\\\Find an exit – I'm transferring your money now.",
+			"fr": "//(0,3.85)\\\\Voilà qui règle le problème du virus. Bien joué, 47.//(3.85,33.85)\\\\Débrouillez-vous pour quitter les lieux, je m'occupe de votre règlement.",
+			"it": "//(0,4.100982)\\\\E anche il virus è stato neutralizzato. Ben fatto, 47.//(4.100982,34.10098)\\\\Trova un'uscita, io sto trasferendo il tuo denaro.",
+			"de": "//(0,3.732883)\\\\Und damit wäre das Virus erledigt. Gut gemacht, 47.//(3.732883,33.73288)\\\\Suchen Sie einen Ausgang. Ich überweise jetzt das Geld.",
+			"es": "//(0,30)\\\\El virus ha sido controlado. Buen trabajo, 47. Busca una salida mientras te transfiero el dinero.",
+			"ru": "//(0,4.064785)\\\\Теперь вируса можно не бояться. Хорошо сработано, 47-й.//(4.064785,34.06479)\\\\Ищите выход, пока я перевожу деньги на ваш счет.",
+			"cn": "//(0,30)\\\\病毒的事已经解决了。47，干得漂亮。想办法脱身。我正在把钱转给你。",
+			"tc": "//(0,30)\\\\病毒已經被處理了。47，幹得漂亮。找到出口—— 我正在為你轉帳。",
+			"jp": "//(0,30)\\\\ウイルスは対処したわ。よくやったわね、47。出口を探して。報酬を送金したわ。"
+		}
+	}
+}

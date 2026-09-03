@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4310_assn3down.sweetdialog?/ds4310_assn3down_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4310_assn3down_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4310_assn3down_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4310_assn3down_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.4)\\\\Excellent, 47. Xiao Hu has been eliminated,//(3.4,33.4)\\\\and the mission will be easier for it.",
+			"fr": "//(0,30)\\\\Excellent, 47. Xiao Hu a été éliminée, ce qui va grandement faciliter la mission.",
+			"it": "//(0,30)\\\\Ottimo, 47. Ora che Xiao Hu è stata eliminata, la missione sarà più semplice.",
+			"de": "//(0,30)\\\\Hervorragend, 47. Xiao Hu wurde eliminiert und die Mission wird dadurch leichter.",
+			"es": "//(0,3.4)\\\\Excelente, 47. Xiao Hu ha sido eliminada//(3.4,33.4)\\\\y eso simplificará mucho la misión.",
+			"ru": "//(0,30)\\\\Великолепно, 47-й. Сяо Ху устранена, и наше задание стало немного проще.",
+			"cn": "//(0,30)\\\\太棒了，47。小虎已被消灭，任务可以轻松一些了。",
+			"tc": "//(0,30)\\\\太好了，47。蕭虎已被消滅，任務會因此變得更容易。",
+			"jp": "//(0,3.5)\\\\素晴らしいわ、47。シャオ・フーは排除された。//(3.5,33.5)\\\\これで任務はより容易になるでしょう。"
+		}
+	}
+}

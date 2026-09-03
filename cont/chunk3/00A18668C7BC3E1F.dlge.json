@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts.sweetdialog?/dr41886_slherbfunfacts_h_e_r_b__003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41886_slherbfunfacts_h_e_r_b__003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts_h_e_r_b__003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts_h_e_r_b__003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.99908)\\\\The virus is highly contagious and must not leave the facility.//(3.99908,33.99908)\\\\Hence why I have to be such a stickler for the rules!",
+			"fr": "//(0,4.1)\\\\Deux : le virus est extrêmement contagieux et ne doit quitter le laboratoire sous aucun prétexte.//(4.1,34.1)\\\\D'où notre protocole très strict.",
+			"it": "//(0,4.653374)\\\\Il virus è altamente contagioso e non deve diffondersi oltre i confini della struttura.//(4.653374,34.65337)\\\\Ecco perché devo far rispettare le regole!",
+			"de": "//(0,30)\\\\Das Virus ist hoch ansteckend und darf die Anlage nicht verlassen. Daher muss ich auch so auf die Regeln achten.",
+			"es": "//(0,4.2)\\\\El virus es sumamente contagioso y no debe salir de las instalaciones.//(4.2,34.2)\\\\¡Por eso soy tan pesadito con las normas!",
+			"ru": "//(0,3.812883)\\\\Вирус крайне заразен и не должен покидать пределы лаборатории.//(3.812883,33.81288)\\\\Поэтому я так пекусь о соблюдении правил!",
+			"cn": "//(0,4.2)\\\\病毒具有高度传染性，绝不能让其离开设施。//(4.2,34.2)\\\\因此我才必须如此严格遵守规定！",
+			"tc": "//(0,30)\\\\該病毒具有高度傳染性，不得離開該設施。這就是我必須如此嚴格遵守規則的原因！",
+			"jp": "//(0,3.882)\\\\このウイルスは非常に感染力が強く、施設外へ持ち出してはなりません。//(3.882,33.882)\\\\だからこそ、私は規則にこれほど厳しくこだわる必要があるのです！"
+		}
+	}
+}

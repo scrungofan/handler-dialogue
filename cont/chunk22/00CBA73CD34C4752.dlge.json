@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2707_subcnshintpre.sweetdialog?/ds2707_subcnshintpre_et_belini_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2707_subcnshintpre_et_belini_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2707_subcnshintpre_et_belini_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2707_subcnshintpre_et_belini_002.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\Shit... This is worse than I thought. He's fucking weaponizing.",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\Merde... c'est pire que ce que je croyais. Il en fait une arme.",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Merda... È peggio di quanto pensassi. Sta creando un'arma.",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Shit ... Das ist schlimmer, als ich dachte. Er macht sie verfickt noch mal waffenfähig.",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\Joder... Esto es peor de lo que pensaba. Está creando armas.",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Черт... Все хуже, чем я думал. Он создает оружие, мать его.",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\该死......事情比我想的还要糟糕。他在制作武器。",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\該死......這比我想的還糟，他他媽的在搞武器化。",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\クソ... 思ってたよりヤバいな。兵器にしようとしてるなんて。"
+		}
+	}
+}

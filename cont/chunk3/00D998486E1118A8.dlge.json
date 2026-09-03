@@ -1,0 +1,163 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr41889_slfilurherb02_h_e_r_b__001",
+				"weight": 0.1470587937270876,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Only Zachary Carlisle can authorize a security override. Sorry.",
+					"fr": "//(0,30)\\\\Zachary Carlisle est la seule personne pouvant forcer la sécurité. Je suis navré.",
+					"it": "//(0,30)\\\\Solo Zachary Carlisle può autorizzare una modifica alle impostazioni di sicurezza. Mi dispiace.",
+					"de": "//(0,30)\\\\Nur Zachary Carlisle kann eine Sicherheitsüberbrückung autorisieren. Tut mir leid.",
+					"es": "//(0,30)\\\\Solo Zachary Carlisle puede autorizar una anulación de seguridad. Lo siento.",
+					"ru": "//(0,30)\\\\Только Закари Карлайл может отключить систему безопасности. Извините.",
+					"cn": "//(0,30)\\\\只有扎切里·卡莱尔可以授权安全超控。抱歉。",
+					"tc": "//(0,30)\\\\只有札卡里·卡爾西爾可以授權安全覆寫。抱歉。",
+					"jp": "//(0,3.848)\\\\セキュリティオーバーライドを承認できるのはザカリー・カーライルのみです。//(3.848,33.848)\\\\申し訳ありません。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41889_slfilurherb02_h_e_r_b__002",
+				"weight": 0.1470587937270876,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'm sorry, Lilith. I'm afraid I can't do that.",
+					"fr": "//(0,30)\\\\Veuillez m'excuser, Lilith, mais je crains de ne pouvoir vous aider.",
+					"it": "//(0,30)\\\\Mi dispiace Lilith. Purtroppo non posso farlo.",
+					"de": "//(0,30)\\\\Tut mir leid, Lilith. Ich fürchte, das geht nicht.",
+					"es": "//(0,1.724294)\\\\Lo lamento, Lilith.//(1.724294,31.72429)\\\\Me temo que no puedo hacer eso.",
+					"ru": "//(0,30)\\\\Мне жаль, Лилит, но я не могу это сделать.",
+					"cn": "//(0,30)\\\\抱歉，莉莉丝。恐怕我不能听令。",
+					"tc": "//(0,30)\\\\對不起，莉莉絲。恐怕我不能這樣做。",
+					"jp": "//(0,30)\\\\リリスさん、申し訳ありません。それはできません。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41889_slfilurherb02_h_e_r_b__003",
+				"weight": 0.1470587937270876,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Allowing a breach of the virus is against my programming!",
+					"fr": "//(0,30)\\\\Mon programme m'empêche de laisser sortir ce virus d'ici.",
+					"it": "//(0,30)\\\\Permettere una diffusione del virus va contro la mia programmazione.",
+					"de": "//(0,30)\\\\Einen Ausbruch des Virus zu erlauben, verstößt gegen meine Programmierung!",
+					"es": "//(0,30)\\\\¡Permitir una fuga del virus va en contra de mi programación!",
+					"ru": "//(0,30)\\\\Мои настройки запрещают мне выпускать вирус!",
+					"cn": "//(0,30)\\\\允许病毒泄漏违反了我的程序！",
+					"tc": "//(0,30)\\\\允許病毒散播違背了我的程式設計！",
+					"jp": "//(0,30)\\\\ウイルスの持ち出しを許すことは、私のプログラムに反するのです！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41889_slfilurherb02_h_e_r_b__004",
+				"weight": 0.1470587937270876,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.276687)\\\\That seems like a very bad idea.//(2.826687,32.82669)\\\\Can I speak to Zachary?",
+					"fr": "//(0,2.9)\\\\Cela me semble être une très mauvaise idée.//(2.9,32.9)\\\\Puis-je en discuter avec Zachary ?",
+					"it": "//(0,30)\\\\Sembra proprio una pessima idea. Posso parlare con Zachary?",
+					"de": "//(0,30)\\\\Das klingt wie eine sehr schlechte Idee. Kann ich mit Zachary sprechen?",
+					"es": "//(0,2.85)\\\\Me parece que eso es una muy mala idea.//(2.85,32.85)\\\\¿Podría hablar con Zachary?",
+					"ru": "//(0,30)\\\\Мне кажется, это плохая идея. Могу я поговорить с Закари?",
+					"cn": "//(0,30)\\\\这似乎是个非常糟糕的主意。我能和扎切里谈谈吗？",
+					"tc": "//(0,30)\\\\這似乎是一個非常糟糕的主意。我可以和札卡里通話嗎？",
+					"jp": "//(0,30)\\\\それはまずい考えだと思います。ザカリーと話せますか？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41889_slfilurherb02_h_e_r_b__005",
+				"weight": 0.10294116156942615,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Only Zachary Carlisle can authorize a security override. Sorry.",
+					"fr": "//(0,30)\\\\Zachary Carlisle est la seule personne pouvant forcer la sécurité. Je suis navré.",
+					"it": "//(0,30)\\\\Solo Zachary Carlisle può autorizzare una modifica alle impostazioni di sicurezza. Mi dispiace.",
+					"de": "//(0,30)\\\\Nur Zachary Carlisle kann eine Sicherheitsüberbrückung autorisieren. Tut mir leid.",
+					"es": "//(0,30)\\\\Solo Zachary Carlisle puede autorizar una anulación de seguridad. Lo siento.",
+					"ru": "//(0,30)\\\\Только Закари Карлайл может отключить систему безопасности. Извините.",
+					"cn": "//(0,30)\\\\只有扎切里·卡莱尔可以授权安全超控。抱歉。",
+					"tc": "//(0,30)\\\\只有札卡里·卡爾西爾可以授權安全覆寫。抱歉。",
+					"jp": "//(0,3.38)\\\\セキュリティオーバーライドを承認できるのはザカリー・カーライルのみです。//(3.38,33.38)\\\\申し訳ありません。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41889_slfilurherb02_h_e_r_b__006",
+				"weight": 0.10294116156942615,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'm sorry, Lilith. I'm afraid I can't do that.",
+					"fr": "//(0,30)\\\\Veuillez m'excuser, Lilith, mais je crains de ne pouvoir vous aider.",
+					"it": "//(0,30)\\\\Mi dispiace Lilith. Purtroppo non posso farlo.",
+					"de": "//(0,30)\\\\Tut mir leid, Lilith. Ich fürchte, das geht nicht.",
+					"es": "//(0,1.724294)\\\\Lo lamento, Lilith.//(1.724294,31.72429)\\\\Me temo que no puedo hacer eso.",
+					"ru": "//(0,30)\\\\Мне жаль, Лилит, но я не могу это сделать.",
+					"cn": "//(0,30)\\\\抱歉，莉莉丝。恐怕我不能听令。",
+					"tc": "//(0,30)\\\\對不起，莉莉絲。恐怕我不能這樣做。",
+					"jp": "//(0,30)\\\\リリスさん、申し訳ありません。それはできません。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41889_slfilurherb02_h_e_r_b__007",
+				"weight": 0.10294116156942615,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__007.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Allowing a breach of the virus is against my programming!",
+					"fr": "//(0,30)\\\\Mon programme m'empêche de laisser sortir ce virus d'ici.",
+					"it": "//(0,30)\\\\Permettere una diffusione del virus va contro la mia programmazione.",
+					"de": "//(0,30)\\\\Einen Ausbruch des Virus zu erlauben, verstößt gegen meine Programmierung!",
+					"es": "//(0,30)\\\\¡Permitir una fuga del virus va en contra de mi programación!",
+					"ru": "//(0,30)\\\\Мои настройки запрещают мне выпускать вирус!",
+					"cn": "//(0,30)\\\\允许病毒泄漏违反了我的程序！",
+					"tc": "//(0,30)\\\\允許病毒散播違背了我的程式設計！",
+					"jp": "//(0,30)\\\\ウイルスの持ち出しを許すことは、私のプログラムに反するのです！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41889_slfilurherb02_h_e_r_b__008",
+				"weight": 0.10294116156942615,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__008.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41889_slfilurherb02_h_e_r_b__008.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.676687)\\\\That seems like a very bad idea.//(2.676687,32.67669)\\\\Can I speak to Zachary?",
+					"fr": "//(0,2.7)\\\\Cela me semble être une très mauvaise idée.//(2.7,32.7)\\\\Puis-je en discuter avec Zachary ?",
+					"it": "//(0,30)\\\\Sembra proprio una pessima idea. Posso parlare con Zachary?",
+					"de": "//(0,30)\\\\Das klingt wie eine sehr schlechte Idee. Kann ich mit Zachary sprechen?",
+					"es": "//(0,2.7)\\\\Me parece que eso es una muy mala idea.//(2.7,32.7)\\\\¿Podría hablar con Zachary?",
+					"ru": "//(0,30)\\\\Мне кажется, это плохая идея. Могу я поговорить с Закари?",
+					"cn": "//(0,30)\\\\这似乎是个非常糟糕的主意。我能和扎切里谈谈吗？",
+					"tc": "//(0,30)\\\\這似乎是一個非常糟糕的主意。我可以和札卡里通話嗎？",
+					"jp": "//(0,30)\\\\それはまずい考えだと思います。ザカリーと話せますか？"
+				}
+			}
+		]
+	}
+}

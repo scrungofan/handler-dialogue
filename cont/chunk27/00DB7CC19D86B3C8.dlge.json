@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.75)\\\\Hmmm. He seems confident...//(2.75,32.75)\\\\Raising further could scare him off, but if it doesn't - you'll be going into the showdown with only a 38% chance.",
+			"fr": "//(0,0.8680981)\\\\Hmm...//(0.8680981,3.208589)\\\\Il a l'air en confiance.//(3.208589,5.2)\\\\Relancer pourrait l'effrayer, mais s'il a une vraie main...//(5.2,35.2)\\\\vous irez au showdown avec des probabilités contre vous.",
+			"it": "//(0,2.840491)\\\\Uhm. Sembra sicuro di sé...//(2.840491,5.15)\\\\Alzare ancora potrebbe spaventarlo,//(5.15,35.15)\\\\ma in caso contrario, ti ritroveresti a doverlo affrontare con solo il 38% di possibilità di farcela.",
+			"de": "//(0,2.8)\\\\Hmm. Er wirkt zuversichtlich ...//(2.8,6.65)\\\\Ein weiterer Raise könnte ihm Angst machen, aber wenn nicht –//(6.65,36.65)\\\\dann steht Ihnen ein Showdown mit einer Gewinnchance von nur 38 % bevor.",
+			"es": "//(0,4.9)\\\\Mmm... Parece confiado... Podrías espantarlo si sigues subiendo;//(4.9,34.9)\\\\pero, si no es así, tendrás que enfrentarte a él con tan solo un 38 % de probabilidades de victoria.",
+			"ru": "//(0,5)\\\\Хм. Он уверен в себе... Если повышать дальше, можно его напугать.//(5,35)\\\\А если не испугается, то когда будете вскрываться, твои шансы всего 38%.",
+			"cn": "//(0,5.1)\\\\嗯。他看起来信心十足......继续加注或许能逼退他，//(5.1,35.1)\\\\但如果失败——你进入摊牌阶段时将只有38%的胜率。",
+			"tc": "//(0,5.3)\\\\嗯，他似乎信心十足......加注或許能嚇嚇他，//(5.3,35.3)\\\\但是要是他不蓋牌，那你在最後攤牌時只有 38% 的勝率。",
+			"jp": "//(0,2.75)\\\\うーん。彼は自信満々ね...//(2.75,32.75)\\\\更にレイズすれば怯えさせることはできるかもしれないけど、もしフォールドしなかった場合、あなたの勝率は38%よ。"
+		}
+	}
+}

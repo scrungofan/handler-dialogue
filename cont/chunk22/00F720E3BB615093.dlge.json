@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2711_mzwelcome02.sweetdialog?/ds2711_mzwelcome02_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2711_mzwelcome02_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2711_mzwelcome02_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2711_mzwelcome02_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\What a peculiar room. Could this be where the manual is? Take a look around, see what you can find.",
+			"fr": "//[DIANA]\\\\//(0,3.061)\\\\Quelle pièce curieuse...//(3.061,5.567)\\\\Le manuel se trouve peut-être ici.//(5.567,35.567)\\\\Fouillez les lieux, et voyez ce que vous pouvez trouver.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Che stanza insolita. Forse è qui che si trova il manuale? Guardati attorno, vedi cosa riesci a trovare.",
+			"de": "//[DIANA]\\\\//(0,5.2)\\\\Was für ein seltsamer Raum. Könnte da das Handbuch sein?//(5.2,35.2)\\\\Schauen Sie sich um und sehen Sie nach, was sich findet.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Qué estancia tan extraña. ¿Podría estar aquí el manual? Echa un vistazo, a ver qué encuentras.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Какое необычное помещение. Быть может, руководство находится здесь? Осмотрись и поищи его.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\真是个诡异的房间。也许手册就藏在这里？四处找找，看你有什么发现。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\真是個奇特的房間。手冊會不會就在這裡？四處看看，找找有什麼發現。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\奇妙な部屋ね。マニュアルはここにあるのかしら？辺りを調べてみて。"
+		}
+	}
+}

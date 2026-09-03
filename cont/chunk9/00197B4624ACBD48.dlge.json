@@ -1,0 +1,125 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20064_mp_movingshot1_knight_knight_001",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Yes. That's how we do it.",
+					"fr": "//(0,30)\\\\Oui ! C'est trop facile.",
+					"it": "//(0,30)\\\\Sì. È così che si fa.",
+					"de": "//(0,30)\\\\Ja. Genau so macht man das.",
+					"es": "//(0,30)\\\\Sí. Así es como se hace.",
+					"ru": "//(0,30)\\\\Да! Вот как это делается.",
+					"cn": "//(0,30)\\\\对。就是这样。",
+					"tc": "//(0,30)\\\\是啊。這樣就對了。",
+					"jp": "//(0,30)\\\\こうでなきゃね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20064_mp_movingshot1_knight_knight_002",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\If it was easy, what's the point?",
+					"fr": "//(0,30)\\\\Quel intérêt, si c'était trop facile ?",
+					"it": "//(0,30)\\\\Se fosse facile, che senso avrebbe?",
+					"de": "//(0,30)\\\\Wenn es leicht wäre, warum sollte man es dann tun?",
+					"es": "//(0,30)\\\\Si fuese fácil, ¿qué sentido tendría?",
+					"ru": "//(0,30)\\\\Когда легко, то и смысла нет.",
+					"cn": "//(0,30)\\\\如果简单的话还有什么意义呢？",
+					"tc": "//(0,30)\\\\要是簡單的話，還要我們幹嘛？",
+					"jp": "//(0,30)\\\\簡単だったら意味ないでしょ？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20064_mp_movingshot1_knight_knight_003",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Just enough challenge to keep me on my toes.",
+					"fr": "//(0,30)\\\\Juste assez de difficulté pour me tenir en alerte.",
+					"it": "//(0,30)\\\\Giusto quel po' di adrenalina che serve a farmi rimanere sull'attenti.",
+					"de": "//(0,30)\\\\Gerade schwer genug, damit man auf der Hut bleibt.",
+					"es": "//(0,30)\\\\El desafío suficiente como para no bajar la guardia.",
+					"ru": "//(0,30)\\\\Непросто, но как раз по мне: не заскучаешь.",
+					"cn": "//(0,30)\\\\就要来点挑战，我才能保持状态火热。",
+					"tc": "//(0,30)\\\\這樣的挑戰剛好能提起我的興趣。",
+					"jp": "//(0,30)\\\\肩慣らしにちょうどいいわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20064_mp_movingshot1_knight_knight_004",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Walked right into that one.",
+					"fr": "//(0,30)\\\\En plein dans le mille.",
+					"it": "//(0,30)\\\\Preso in pieno.",
+					"de": "//(0,30)\\\\In den ist das Ziel einfach reingelaufen.",
+					"es": "//(0,30)\\\\Se la ha comido de lleno.",
+					"ru": "//(0,30)\\\\Сам на пулю напоролся.",
+					"cn": "//(0,30)\\\\那家伙自己撞上去了。",
+					"tc": "//(0,30)\\\\剛好命中。",
+					"jp": "//(0,30)\\\\当たりに来てくれたわね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20064_mp_movingshot1_knight_knight_005",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Moving's not going to save you from me.",
+					"fr": "//(0,30)\\\\Tu peux bouger, tu ne m'échapperas pas.",
+					"it": "//(0,30)\\\\Muoverti non ti salverà da me.",
+					"de": "//(0,30)\\\\Das Bewegen wird dich nicht vor mir retten.",
+					"es": "//(0,30)\\\\No te vas a librar de mí por mucho que te muevas.",
+					"ru": "//(0,30)\\\\Беготня тебя не спасет.",
+					"cn": "//(0,30)\\\\你就算跑也难逃一死。",
+					"tc": "//(0,30)\\\\你走再快也逃不掉。",
+					"jp": "//(0,30)\\\\動いたって私からは逃げられない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20064_mp_movingshot1_knight_knight_006",
+				"weight": 0.1666666368643425,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20064_mp_movingshot1_knight_knight_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Dead man walking. Well, not anymore, I guess.",
+					"fr": "//(0,30)\\\\C'est ta dernière marche... Pardon, tu voulais en profiter ?",
+					"it": "//(0,30)\\\\Un morto che cammina. Beh, non più, direi.",
+					"de": "//(0,30)\\\\Toter Mann unterwegs. Tja, also jetzt nicht mehr, schätze ich.",
+					"es": "//(0,30)\\\\Un muerto viviente. Bueno, ya no tan viviente.",
+					"ru": "//(0,30)\\\\Ходячий труп. Нет, уже не ходячий.",
+					"cn": "//(0,30)\\\\死前最后的挣扎。现在真死了。",
+					"tc": "//(0,30)\\\\行屍走肉。嗯，我看這下也走不了了。",
+					"jp": "//(0,30)\\\\デッドマン・ウォーキング... ってもう歩いてないか。"
+				}
+			}
+		]
+	}
+}

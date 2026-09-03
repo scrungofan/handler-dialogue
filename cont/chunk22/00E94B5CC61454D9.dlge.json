@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01.sweetdialog?/ds2710_mzwelcome01_diana_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2710_mzwelcome01_diana_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_diana_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_diana_006.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\This is not reality. This is your dream. You are in control here. If you want to take Slim Shady down, it’s all up to you.",
+			"fr": "//[DIANA]\\\\//(0,4.249)\\\\C'est votre rêve, pas la réalité.//(4.249,6.135)\\\\Ici, c'est vous qui commandez.//(6.135,36.135)\\\\Vous pouvez éliminer Slim Shady si vous le voulez vraiment.",
+			"it": "//[DIANA]\\\\//(0,4.4)\\\\Questa non è la realtà. È solo un sogno.//(4.4,34.4)\\\\Qui sei tu ad avere il controllo. Se vuoi sconfiggere Slim Shady, sta tutto nelle tue mani.",
+			"de": "//[DIANA]\\\\//(0,4.2)\\\\Das ist nicht die Realität. Das ist Ihr Traum.//(4.2,6.1)\\\\Sie haben hier die Kontrolle.//(6.1,36.1)\\\\Wenn Sie Slim Shady ausschalten wollen, hängt alles von Ihnen ab.",
+			"es": "//[DIANA]\\\\//(0,4.2)\\\\Esto no es la realidad. Esto es un sueño tuyo.//(4.2,6)\\\\Tú tienes el control aquí.//(6,36)\\\\Si quieres acabar con Slim Shady, depende todo de ti.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Это не реальность. Это ваш сон. Вся власть здесь принадлежит вам. Если хотите уничтожить Слима Шэйди — действуйте.",
+			"cn": "//[DIANA]\\\\//(0,6.1)\\\\这不是现实。这是你的梦境。这里你说了算。//(6.1,36.1)\\\\如果你想要干掉SlimShady，也全凭你的想法。",
+			"tc": "//[DIANA]\\\\//(0,6.05)\\\\這不是現實。這是你的夢。在這裡你說了算。//(6.05,36.05)\\\\如果你想打倒 Slim Shady，一切都取決於你。",
+			"jp": "//[DIANA]\\\\//(0,4.268)\\\\これは現実じゃないのよ。これはあなたの夢の中。//(4.268,6.187)\\\\ここではあなたが主導権を握ってる。//(6.187,36.187)\\\\スリム・シェイディを倒したいなら、それはあなた次第ということ。"
+		}
+	}
+}

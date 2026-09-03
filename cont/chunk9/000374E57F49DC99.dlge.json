@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20071_mp_headshotstreak_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20071_mp_headshotstreak_knight_knight_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20071_mp_headshotstreak_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20071_mp_headshotstreak_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Yes, I am on FIRE today.",
+					"fr": "//(0,30)\\\\Oui ! Je suis imbattable, aujourd'hui.",
+					"it": "//(0,30)\\\\Sì, oggi sono inarrestabile!",
+					"de": "//(0,30)\\\\Ja, heute stehe ich richtig UNTER STROM.",
+					"es": "//(0,30)\\\\¡Sí! Hoy estoy que lo «tiro».",
+					"ru": "//(0,30)\\\\Да, я сегодня в ударе!",
+					"cn": "//(0,30)\\\\我今天手感火热。",
+					"tc": "//(0,30)\\\\我啊，我今天狀態真好。",
+					"jp": "//(0,30)\\\\やった！今日は調子がいいわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20071_mp_headshotstreak_knight_knight_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20071_mp_headshotstreak_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20071_mp_headshotstreak_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Cracking melons on bad people is what I do. Keep 'em coming.",
+					"fr": "//(0,30)\\\\Ouvrir des crânes de méchants, c'est mon boulot. Allez, venez, mes petits.",
+					"it": "//(0,30)\\\\Suonarle di brutto ai cattivi è la mia specialità. Avanti il prossimo.",
+					"de": "//(0,30)\\\\Bösen Buben die Birne platzen lassen – das ist mein Beruf. Sollen sie nur kommen.",
+					"es": "//(0,30)\\\\Me gusta abrirles la cabeza a los malos. Que venga el siguiente.",
+					"ru": "//(0,30)\\\\Люблю стрелять в тыквы плохим парням. Давай, давай, налетай!",
+					"cn": "//(0,30)\\\\打爆坏蛋的头就是我的工作。继续来啊。",
+					"tc": "//(0,30)\\\\我的專長就是打爆壞人的頭。繼續來啊。",
+					"jp": "//(0,30)\\\\悪党の頭を撃ち抜くのが私の仕事。どんどん来なさい。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20071_mp_headshotstreak_knight_knight_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20071_mp_headshotstreak_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20071_mp_headshotstreak_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Aaand another one. There's no stopping this girl now.",
+					"fr": "//(0,30)\\\\Et un autre ! Je pourrais faire ça toute la journée.",
+					"it": "//(0,30)\\\\E... un altro. Nessuno può fermare questa ragazza.",
+					"de": "//(0,30)\\\\Uuuunnnd noch einer. Dieses Mädchen hält niemand mehr auf.",
+					"es": "//(0,30)\\\\Y oootro más. Ya no hay quien detenga a esta chica.",
+					"ru": "//(0,30)\\\\И-и-и еще один. Эту девчонку не остановить!",
+					"cn": "//(0,30)\\\\又干掉一个。本姑娘今天无人能挡。",
+					"tc": "//(0,30)\\\\又一個。這女孩可真是無人能檔。",
+					"jp": "//(0,30)\\\\もう一丁！もう誰にも止められないわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20071_mp_headshotstreak_knight_knight_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20071_mp_headshotstreak_knight_knight_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20071_mp_headshotstreak_knight_knight_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You get a headshot. And YOU get a headshot. Aaaand YOU get a headshot.",
+					"fr": "//(0,30)\\\\Une balle dans ta tête. Et une balle dans TA tête. Eeet une balle dans TA tête !",
+					"it": "//(0,30)\\\\Un colpo alla testa per te. E un colpo alla testa per TE. E... un colpo alla testa per TE.",
+					"de": "//(0,30)\\\\Da gibt es einen Kopfschuss. Und HIER gibt es einen Kopfschuss. Uuuuunnd dort kriegen wir einen Kopfschuss.",
+					"es": "//(0,30)\\\\Un tiro en la cabeza para ti. Y otro tiro en la cabeza para ti. Y oootro para ti.",
+					"ru": "//(0,30)\\\\Тебе в голову. И тебе в голову. И-и-и ТЕБЕ в голову.",
+					"cn": "//(0,30)\\\\你被爆头了。你也被爆头了。还有你，也被爆头了。",
+					"tc": "//(0,30)\\\\給你一個爆頭。再給你一個爆頭。再......給你一個爆頭。",
+					"jp": "//(0,30)\\\\ヘッドショット。ヘッドショット。またまたヘッドショット！"
+				}
+			}
+		]
+	}
+}

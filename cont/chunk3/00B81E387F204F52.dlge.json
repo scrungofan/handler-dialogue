@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41832_vrussprd.sweetdialog?/ds41832_vrussprd_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41832_vrussprd_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41832_vrussprd_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41832_vrussprd_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.911473)\\\\Well, that was quite the interlude. 47, we cannot allow Devereux to spread the virus.//(5.911473,35.91147)\\\\Ensure containment by any means necessary.",
+			"fr": "//(0,5.657178)\\\\Eh bien, drôle d'intermède. Devereux ne doit pas propager ce virus, 47.//(5.657178,35.65718)\\\\Veillez à ce qu'il reste sous contrôle par tous les moyens possibles.",
+			"it": "//(0,2.478589)\\\\Beh, niente male come fuori programma.//(2.478589,5.961473)\\\\47, non possiamo permettere che Devereux diffonda il virus.//(5.961473,35.96147)\\\\Devi contenerlo a ogni costo.",
+			"de": "//(0,3.977178)\\\\Na, das war mal wirklich ein Zwischenspiel, 47. Wir dürfen nicht zulassen,//(3.977178,33.97718)\\\\dass Devereux den Virus verbreitet. Stellen Sie sicher, dass es keinen Ausbruch gibt.",
+			"es": "//(0,5.657178)\\\\Vaya, menudo interludio. 47, no podemos permitir que Devereux propague el virus.//(5.657178,35.65718)\\\\Haz lo que haga falta con tal de contenerlo.",
+			"ru": "//(0,2.25)\\\\Какое неожиданное приключение.//(2.25,5.7)\\\\47-й, нельзя дать Деверье распространить вирус.//(5.7,35.7)\\\\Примите любые меры, которые сочтете необходимыми.",
+			"cn": "//(0,2.4)\\\\这段插曲还挺精彩的。//(2.4,32.4)\\\\47，我们绝不能让德弗鲁传播病毒。不惜一切手段确保隔离目标。",
+			"tc": "//(0,30)\\\\嗯，那真是一個插曲。47，我們不能讓德維洛傳播病毒。無論如何都必須封鎖病毒擴散。",
+			"jp": "//(0,2.343)\\\\まあ、さっきのは驚いたわね。//(2.343,5.688)\\\\47、デヴルーにウイルスを拡散させるわけにはいかないわ。//(5.688,35.688)\\\\いかなる手段を取っ手も構わない。 絶対にウイルスを抑え込んで。"
+		}
+	}
+}

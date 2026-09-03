@@ -1,8 +1,8 @@
 {
 	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
 	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3000_margerita/3000_margerita_handler/dr3647_diana.sweetdialog?/dr3647_diana_diana_et_003.sweetdialogitem].pc_dialogevent",
-	"DITL": "00B7E83B2B5BFE20",
-	"CLNG": "00E3CBB0725ED16C",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
 	"rootContainer": {
 		"type": "WavFile",
 		"wavName": "dr3647_diana_diana_et_003",

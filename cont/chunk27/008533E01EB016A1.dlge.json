@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_005.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.3)\\\\47... Your hand has a 76% chance of winning.//(4.3,34.3)\\\\This is your chance! Call or Raise...",
+			"fr": "//(0,0.8680981)\\\\47...//(0.8680981,4.312883)\\\\Votre main a 76 % de chances de l'emporter.//(4.312883,6.3)\\\\C'est le moment !//(6.3,36.3)\\\\Suivez ou relancez...",
+			"it": "//(0,30)\\\\47... La tua mano ha il 76% di possibilità di vincere. È il tuo momento! Chiama o rilancia...",
+			"de": "//(0,4.2)\\\\47 ... Ihr Blatt hat eine Gewinnchance von 76 %.//(4.2,34.2)\\\\Das ist die Gelegenheit! Call oder Raise ...",
+			"es": "//(0,4.06)\\\\47... Tu mano tiene un 76 % de probabilidades de victoria.//(4.06,34.06)\\\\¡Es tu oportunidad! Tienes que verlo o subir la apuesta...",
+			"ru": "//(0,30)\\\\47-й... Твой шанс на победу — 76%. Ну же, решай: колл или рейз...",
+			"cn": "//(0,4.1)\\\\47......你的手牌现在有76%的胜率。//(4.1,34.1)\\\\机不可失！跟注或加注......",
+			"tc": "//(0,4.4)\\\\47......你的手牌有 76% 的勝率。//(4.4,34.4)\\\\就是現在！你可以跟注或加注......",
+			"jp": "//(0,4.3)\\\\47... あなたの手札は76%の確率で勝つ可能性があるわ。//(4.3,34.3)\\\\これがチャンスよ！コールするかレイズするか..."
+		}
+	}
+}

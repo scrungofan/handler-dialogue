@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2712_puzzlephs1cmplt.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds2712_puzzlephs1cmplt_diana_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2712_puzzlephs1cmplt_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2712_puzzlephs1cmplt_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Excellent, 47... You have taken your first step to unleash the madness...",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Excellent, 47. Vous êtes en train d'ouvrir un boulevard à la folie...",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Eccellente, 47... Hai mosso i primi passi per scatenare il caos...",
+					"de": "//[DIANA]\\\\//(0,1.95)\\\\Hervorragend, 47 ...//(1.95,31.95)\\\\Sie haben den ersten Schritt getan, um den Wahnsinn zu entfesseln ...",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Excelente, 47... Has dado el primer paso en el descenso hacia la locura...",
+					"ru": "//[DIANA]\\\\//(0,1.75)\\\\Превосходно, 47-й...//(1.75,31.75)\\\\Ты сделал первый шаг к тому, чтобы выпустить на волю безумие...",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\做得好，47......你完成了释放疯狂的第一步......",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\太棒了，47......你已經踏出了釋放瘋狂的第一步......",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\素晴らしいわ、47... 大混乱を引き起こすための第一歩を踏み出したわね..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2712_puzzlephs1cmplt_diana_004",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2712_puzzlephs1cmplt_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2712_puzzlephs1cmplt_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Excellent, 47... You have taken your first step to unleash the madness...",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Excellent, 47. Vous êtes en train d'ouvrir un boulevard à la folie...",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Eccellente, 47... Hai mosso i primi passi per scatenare il caos...",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Hervorragend, 47 ... Sie haben den ersten Schritt getan, um den Wahnsinn zu entfesseln ...",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Excelente, 47... Has dado el primer paso en el descenso hacia la locura...",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Превосходно, 47-й... Ты сделал первый шаг к тому, чтобы выпустить на волю безумие...",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\做得好，47......你完成了释放疯狂的第一步......",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\太棒了，47......你已經踏出了釋放瘋狂的第一步......",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\素晴らしいわ、47... 大混乱を引き起こすための第一歩を踏み出したわね..."
+				}
+			}
+		]
+	}
+}

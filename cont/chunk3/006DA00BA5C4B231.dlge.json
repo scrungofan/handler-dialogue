@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41831_rtnmnsn.sweetdialog?/ds41831_rtnmnsn_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41831_rtnmnsn_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41831_rtnmnsn_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41831_rtnmnsn_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Zachary must have had a contingency plan in the event of a breach. You should search his room.",
+			"fr": "//(0,3.5)\\\\Zachary a dû prévoir un plan d'urgence en cas de problème...//(3.5,33.5)\\\\Vous devriez fouiller sa chambre.",
+			"it": "//(0,3.767178)\\\\Zachary deve aver studiato un piano di emergenza in caso di violazione.//(3.767178,33.76718)\\\\Dovresti ispezionare la sua stanza.",
+			"de": "//(0,30)\\\\Zachary muss einen Ausweichplan für einen Ausbruch gehabt haben. Durchsuchen Sie sein Zimmer.",
+			"es": "//(0,3.55)\\\\Supongo que Zachary tendría un plan de contingencia en caso de producirse alguna fuga.//(3.55,33.55)\\\\Deberías registrar su habitación.",
+			"ru": "//(0,30)\\\\У Закари наверняка был запасной план на случай заражения. Обыщите его комнату.",
+			"cn": "//(0,30)\\\\扎卡里肯定有针对系统入侵的应急方案。你应该去他的房间找找。",
+			"tc": "//(0,30)\\\\札卡里一定有為突破準備應急計劃，你去他的房間找找。",
+			"jp": "//(0,3.464)\\\\ザカリーは、万一の場合に備えて予備計画を用意していたに違いないわ。//(3.464,33.464)\\\\彼の部屋を調べてみて。"
+		}
+	}
+}

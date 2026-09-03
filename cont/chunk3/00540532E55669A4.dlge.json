@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat.sweetdialog?/ds41837_herbchat_h_e_r_b__009.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41837_herbchat_h_e_r_b__009",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_h_e_r_b__009.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_h_e_r_b__009.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Initiating permanent shutdown. Shutting down.",
+			"fr": "//(0,3.4)\\\\Lancement de l'arrêt définitif.//(3.4,33.4)\\\\Arrêt en cours.",
+			"it": "//(0,3.308589)\\\\Avvio della procedura di spegnimento permanente.//(3.308589,33.30859)\\\\Spegnimento in corso.",
+			"de": "//(0,2.422393)\\\\Leite dauerhafte Abschaltung ein.//(3.622393,33.62239)\\\\Fahre herunter.",
+			"es": "//(0,3.45)\\\\Iniciando apagado permanente.//(3.45,33.45)\\\\Apagando.",
+			"ru": "//(0,3.35)\\\\Начинаю процедуру полного отключения.//(3.35,33.35)\\\\Отключаюсь.",
+			"cn": "//(0,30)\\\\正在启动永久关停。正在关停。",
+			"tc": "//(0,30)\\\\啟動永久關閉。正在關閉。",
+			"jp": "//(0,30)\\\\恒久的なシャットダウンを開始します。シャットダウン中です。"
+		}
+	}
+}

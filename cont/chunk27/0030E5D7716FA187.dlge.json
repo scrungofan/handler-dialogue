@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3712_missiondone.sweetdialog?/ds3712_missiondone_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3712_missiondone_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3712_missiondone_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3712_missiondone_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.9)\\\\Congratulations, 47. Target has been eliminated.//(3.9,33.9)\\\\Find an exit. Your money is being transferred now.",
+			"fr": "//(0,4)\\\\Félicitations, 47, la cible a été éliminée.//(4,34)\\\\Trouvez une issue, je m'occupe du transfert.",
+			"it": "//(0,30)\\\\Congratulazioni, 47. Il bersaglio è stato eliminato. Cerca un'uscita. Il denaro è in fase di trasferimento.",
+			"de": "//(0,1.85)\\\\Glückwunsch, 47.//(1.85,3.9)\\\\Ziel eliminiert.//(3.9,5.1)\\\\Suchen Sie einen Ausgang.//(5.1,35.1)\\\\Ihr Geld wird jetzt überwiesen.",
+			"es": "//(0,30)\\\\Enhorabuena, 47, el objetivo ha sido eliminado. Busca una salida. Ya se te está transfiriendo el dinero.",
+			"ru": "//(0,30)\\\\Поздравляю, 47-й. Цель устранена. Иди к выходу. Денежный перевод уже отправляется.",
+			"cn": "//(0,4.04908)\\\\祝贺你，47。目标已被消灭。//(4.04908,34.04908)\\\\想办法脱身。我们正把钱转给你。",
+			"tc": "//(0,30)\\\\恭喜，47。目標已消滅。找出口離開吧，我們馬上把錢轉給你。",
+			"jp": "//(0,3.75)\\\\おめでとう、47。ターゲット排除完了。//(3.75,33.75)\\\\出口を探して。報酬は送金中よ。"
+		}
+	}
+}

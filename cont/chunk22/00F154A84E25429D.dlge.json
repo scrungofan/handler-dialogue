@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2708_subcnshintpost.sweetdialog?/ds2708_subcnshintpost_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2708_subcnshintpost_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2708_subcnshintpost_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2708_subcnshintpost_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\You better find that manual, 47. Don't think you'll get much further without it.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Vous feriez mieux de trouver ce manuel, 47, ou vous risquez d'avoir des difficultés pour la suite.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Ti conviene trovare quel manuale, 47. Non credo che senza andrai molto lontano.",
+			"de": "//[DIANA]\\\\//(0,2.45)\\\\Sie sollten lieber dieses Handbuch finden, 47.//(2.45,32.45)\\\\Ich glaube nicht, dass Sie ohne es viel weiter kommen.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Más te vale encontrar ese manual, 47. Dudo que puedas llegar muy lejos sin él.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Советую найти руководство, 47-й. Боюсь, без него тебе далеко не уйти.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\你最好去找到那份手册，47。否则的话恐怕你没办法深入的。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\你最好找到那本手冊，47。我想沒有它你走不了多遠。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\47、マニュアルを見つけて。それがないと手も足も出ないわ。"
+		}
+	}
+}

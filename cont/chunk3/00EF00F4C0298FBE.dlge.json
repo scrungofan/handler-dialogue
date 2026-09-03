@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41895_slcontainment.sweetdialog?/dr41895_slcontainment_h_e_r_b__005.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41895_slcontainment_h_e_r_b__005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41895_slcontainment_h_e_r_b__005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41895_slcontainment_h_e_r_b__005.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.51908)\\\\Look, can you just stand still and let me kill you?//(3.51908,33.51908)\\\\I need to contain the virus.",
+			"fr": "//(0,3.8)\\\\Laissez-moi vous éliminer sans résistance, voulez-vous ?//(3.8,33.8)\\\\Je dois maîtriser ce virus.",
+			"it": "//(0,30)\\\\Senti, puoi stare fermo e lasciare che ti elimini? Devo contenere il virus.",
+			"de": "//(0,3.403)\\\\Passen Sie auf: Könnten Sie bitte einfach still dastehen und mich Sie töten lassen?//(3.403,33.403)\\\\Ich muss das Virus eindämmen.",
+			"es": "//(0,30)\\\\A ver, ¿podrías estarte quietecito y dejar que te mate? Tengo que contener el virus.",
+			"ru": "//(0,30)\\\\Можете на месте постоять, пожалуйста? Мне нужно вас убить и изолировать вирус.",
+			"cn": "//(0,30)\\\\能否请你站着别动，好让我杀了你？我需要隔离病毒。",
+			"tc": "//(0,30)\\\\聽著，你能不能就站在那裡讓我殺了你？我必須控制住病毒。",
+			"jp": "//(0,30)\\\\あなたを殺さないといけないので、じっとしててください。ウイルスを封じ込めないと。"
+		}
+	}
+}

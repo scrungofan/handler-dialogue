@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4323_assn2introoutro.sweetdialog?/ds4323_assn2introoutro_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4323_assn2introoutro_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4323_assn2introoutro_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4323_assn2introoutro_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.24)\\\\That was Xiang Weisheng, who British Intelligence//(3.24,6.82)\\\\and Lee suspected was a potential danger.//(6.82,36.82)\\\\That's him taken care of— fine work.",
+			"fr": "//(0,4)\\\\Xiang Weisheng avait été signalé comme menace potentielle//(4,6.7)\\\\par l'agent Lee et les renseignements britanniques.//(6.7,36.7)\\\\Il ne le gênera plus. Bon travail, 47.",
+			"it": "//(0,6.7)\\\\Quello era Xiang Weisheng, ritenuto potenzialmente pericoloso dai servizi segreti britannici e da Lee.//(6.7,36.7)\\\\Ora è fuori gioco. Ottimo lavoro.",
+			"de": "//(0,30)\\\\Das war Zen, den der britische Geheimdienst und Lee für eine mögliche Gefahr hielten. Damit sollte das erledigt sein ... Gute Arbeit.",
+			"es": "//(0,3.24)\\\\Ese era Zen, a quien tanto la inteligencia británica//(3.24,6.82)\\\\como Lee consideraban un peligro potencial.//(6.82,36.82)\\\\Ahora ya es historia. Buen trabajo.",
+			"ru": "//(0,1.592393)\\\\Это был Сян Вэйшэн,//(1.592393,6.8)\\\\которого британская разведка и Ли считали потенциальной угрозой.//(6.8,36.8)\\\\Отныне о нем можно не беспокоиться. Хорошая работа.",
+			"cn": "//(0,30)\\\\那人是项伟盛，英国情报局和李特工怀疑他可能是潜在的危险。你已经把他搞定了。干得好。",
+			"tc": "//(0,6.8)\\\\那是向偉生，英國情報局和李特務懷疑他是個潛在的危險。//(6.8,36.8)\\\\他已經被解決掉了，幹得漂亮。",
+			"jp": "//(0,2.08)\\\\あれはシアン・ウェイシェンだったわ。//(2.08,6.67)\\\\英国情報部とリーが潜在的な脅威と見なしていた人物よ。//(6.67,36.67)\\\\彼もこれでお終い。見事な仕事だったわ。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4322_assn1introoutro.sweetdialog?/ds4322_assn1introoutro_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4322_assn1introoutro_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4322_assn1introoutro_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4322_assn1introoutro_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.2)\\\\Efficiently done, 47.//(2.2,4.1)\\\\That was Roland Chau,//(4.1,8.6)\\\\one of the contestants Agent Lee had identified as a threat.//(8.6,38.6)\\\\No longer the case, of course.",
+			"fr": "//(0,2.05)\\\\Rondement mené, 47.//(2.05,7.6)\\\\Roland Chau était l'un des combattants que l'agent Lee avait identifiés comme cible...//(8.55,38.55)\\\\Voilà une bonne chose de faite.",
+			"it": "//(0,2.05)\\\\Ben fatto, 47.//(2.05,8.5)\\\\Quello era Roland Chau, uno dei concorrenti che l'agente Lee aveva segnalato come minaccia.//(8.5,38.5)\\\\Ovviamente ora non lo è più.",
+			"de": "//(0,2.2)\\\\Effektiv erledigt, 47.//(2.2,8.6)\\\\Das war Roland Chau, einer der Teilnehmer, die Agent Lee als Bedrohung identifiziert hat.//(8.6,38.6)\\\\Das ist er nun natürlich nicht mehr.",
+			"es": "//(0,2.2)\\\\Un trabajo muy eficiente, 47.//(2.2,4.1)\\\\Ese era Roland Chau,//(4.1,8.6)\\\\uno de los participantes a los que el agente Lee había identificado como amenaza.//(8.6,38.6)\\\\Obviamente, ya no es el caso.",
+			"ru": "//(0,1.724294)\\\\Отличная работа, 47-й.//(1.724294,4.540981)\\\\Это был Роланд Чау, один из участников,//(4.540981,7.617668)\\\\который мог представлять угрозу для агента Ли.//(7.617668,37.61767)\\\\А теперь уже не будет.",
+			"cn": "//(0,30)\\\\47，你这一手可谓干净利落。那人是罗兰·周，是参会选手，李特工将他视为威胁。当然，现在已经无需在意他了。",
+			"tc": "//(0,2.3)\\\\幹得俐落，47。//(2.3,8.6)\\\\那是周羅蘭，李特務已指認為威脅的參賽者之一。//(8.6,38.6)\\\\當然，現在不再是了。",
+			"jp": "//(0,1.925)\\\\見事な手際ね、47。//(1.925,7.65)\\\\あれはローランド・チャウ。エージェント・リーが脅威と特定した出場者の一人だったわ。//(8.67,38.67)\\\\もちろん、今はもう違うけど。"
+		}
+	}
+}

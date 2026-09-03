@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_006.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_006.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.3)\\\\Oh, he faked the tell...//(3.3,33.3)\\\\Unfortunate. He has us beat.",
+			"fr": "//(0,4.8)\\\\Oh, il faisait croire qu'il bluffait... dommage.//(4.8,34.8)\\\\Oubliez cette main.",
+			"it": "//(0,30)\\\\Oh, ci ha fregati... Che peccato. Abbiamo perso.",
+			"de": "//(0,3.3)\\\\Oh, er hat den Tell nur vorgetäuscht.//(3.3,33.3)\\\\Er hat uns geschlagen.",
+			"es": "//(0,30)\\\\Oh, ha fingido su tic revelador... Qué pena. Nos ha ganado.",
+			"ru": "//(0,30)\\\\Он нас провел... Не повезло. Мы проиграли.",
+			"cn": "//(0,3)\\\\糟糕，他的破绽是伪装的......//(3,33)\\\\运气真背。我们中招了。",
+			"tc": "//(0,30)\\\\噢，那個破綻是假的......真遺憾。他贏了。",
+			"jp": "//(0,3.2)\\\\あ、あの癖は偽物だったのね...//(3.2,33.2)\\\\残念、やられたわね。"
+		}
+	}
+}

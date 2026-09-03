@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4316_baijudrggd.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds4316_baijudrggd_diana_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4316_baijudrggd_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4316_baijudrggd_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.4)\\\\47, Agent Lee is compromised.//(2.4,32.4)\\\\Check in with him immediately— the mission is at risk.",
+					"fr": "//(0,30)\\\\L'agent Lee a été compromis, 47. Retrouvez-le immédiatement, ou la mission pourrait échouer.",
+					"it": "//(0,30)\\\\47, l'agente Lee è compromesso. Contattalo immediatamente. La missione è a rischio.",
+					"de": "//(0,30)\\\\47, Agent Lee wurde enttarnt. Melden Sie sich direkt bei ihm: Die Mission ist in Gefahr.",
+					"es": "//(0,30)\\\\47, el agente Lee se ha visto comprometido. Contacta con él inmediatamente; la misión está en riesgo.",
+					"ru": "//(0,2.092393)\\\\47-й, агента Ли раскрыли.//(2.092393,32.09239)\\\\Срочно его найди, твое задание под угрозой.",
+					"cn": "//(0,30)\\\\47，李特工暴露了。立刻去找他，任务有失败的风险。",
+					"tc": "//(0,30)\\\\47，李特務暴露了。立刻與他聯絡，任務有危險。",
+					"jp": "//(0,30)\\\\47、エージェント・リーが危険に晒されているわ。直ちに彼と連絡を取って。任務が危機に瀕しているわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds4316_baijudrggd_diana_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4316_baijudrggd_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4316_baijudrggd_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2.8)\\\\47, Agent Lee has been sabotaged.//(2.8,32.8)\\\\Find him, now, or we'll lose control of the situation.",
+					"fr": "//(0,30)\\\\47 ? On a saboté l'agent Lee... Trouvez-le vite, avant que la situation nous échappe.",
+					"it": "//(0,30)\\\\47, hanno sabotato l'agente Lee. Trovalo subito, o perderemo il controllo della situazione.",
+					"de": "//(0,30)\\\\47, Agent Lee wurde sabotiert. Suchen Sie ihn sofort. Sonst gerät die Lage außer Kontrolle.",
+					"es": "//(0,30)\\\\47, el agente lee ha sido saboteado. Encuéntralo ahora mismo o perderemos el control de la situación.",
+					"ru": "//(0,2.460491)\\\\47-й, агент Ли в опасности.//(2.460491,32.46049)\\\\Найди его, пока мы не потеряли контроль над ситуацией.",
+					"cn": "//(0,30)\\\\47，李特工被下药了。立刻去找他，不然局面就会失控。",
+					"tc": "//(0,2.9)\\\\47，李特務遭人暗算了。//(2.9,32.9)\\\\趕快找到他，否則我們將失去對局勢的控制。",
+					"jp": "//(0,30)\\\\47、エージェント・リーが危険な状況よ。直ちに彼を見つけ出して。さもなければ収集のつかないことになるわ。"
+				}
+			}
+		]
+	}
+}

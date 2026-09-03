@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3709_antidotefail.sweetdialog?/ds3709_antidotefail_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3709_antidotefail_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_Dream",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3709_antidotefail_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3709_antidotefail_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.5)\\\\47?//(1.5,3.5)\\\\47, can you hear me?!//(3.5,33.5)\\\\47?! 47?! Come in. Please!",
+			"fr": "//(0,1.724294)\\\\47, vous m'entendez ?//(1.724294,2.092393)\\\\47 !//(2.092393,32.09239)\\\\47 !? Répondez !",
+			"it": "//(0,30)\\\\47? 4-47, mi senti? 47? 47, rispondimi! Ti prego!",
+			"de": "//(0,1.3)\\\\47?//(1.3,3.45)\\\\47! Hören Sie mich?!//(3.45,33.45)\\\\47?! 47?! Melden Sie sich. Bitte!",
+			"es": "//(0,30)\\\\¡47! ¡¿Me oyes?! ¡¿47?! ¡¿47?! ¡Responde, por favor!",
+			"ru": "//(0,30)\\\\47-й! Ты меня слышишь?! 47-й?! Ответь!",
+			"cn": "//(0,3.6)\\\\47！听到了吗？！//(3.6,33.6)\\\\47？！47？！回话。拜托！",
+			"tc": "//(0,30)\\\\47！你聽得見嗎？！47？！47？！拜託，快回答！",
+			"jp": "//(0,3.5)\\\\47！聞こえる！？//(3.5,33.5)\\\\47！？47！？応答して。お願い！"
+		}
+	}
+}

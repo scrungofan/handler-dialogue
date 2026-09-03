@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr.sweetdialog?/ds2722_targetdownspdrnr_et_belini_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2722_targetdownspdrnr_et_belini_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr_et_belini_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr_et_belini_004.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\Yeah... It was. Nice working with you, Miss B! Catch you later.",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\J'avoue, ouais. C'était cool de bosser ensemble, Miss B ! À la revoyure.",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Sì... È vero. È stato un piacere lavorare con te, signorina B! Ci vediamo.",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Yeah ... Das war es. Schön, mit dir zu arbeiten, Miss B! Wir sehen uns später.",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\Sí... Ha sido un placer trabajar contigo, señorita B. Ya hablaremos.",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Угу... И правда. Был рад поработать с вами, мисс Б! До встречи.",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\嗯......确实。合作愉快，B女士！下次再聊。",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\是啊......的確。很高興跟你合作，B 小姐！回頭見。",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\ああ... 確かにすごかった。ダイアナ、一緒に働けて良かった！じゃあな。"
+		}
+	}
+}

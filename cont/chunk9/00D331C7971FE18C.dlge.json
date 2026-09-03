@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20058_mp_headshot2_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20058_mp_headshot2_stone_stone_001",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20058_mp_headshot2_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20058_mp_headshot2_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Been doing a lot of hunting recently?",
+					"fr": "//(0,30)\\\\Tu as chassé, récemment ?",
+					"it": "//(0,30)\\\\Sei andata parecchio a caccia di recente?",
+					"de": "//(0,30)\\\\Sie waren wohl in letzter Zeit viel auf der Jagd, oder?",
+					"es": "//(0,30)\\\\¿Has estado cazando mucho últimamente?",
+					"ru": "//(0,30)\\\\Часто на охоту ходил последнее время?",
+					"cn": "//(0,30)\\\\最近是不是常去打猎啊？",
+					"tc": "//(0,30)\\\\最近常常去狩獵？",
+					"jp": "//(0,30)\\\\狩りばっかりしてるんじゃないか？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20058_mp_headshot2_stone_stone_002",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20058_mp_headshot2_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20058_mp_headshot2_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'm impressed, Knight.",
+					"fr": "//(0,30)\\\\Je suis impressionné, Knight.",
+					"it": "//(0,30)\\\\Sono colpito, Knight.",
+					"de": "//(0,30)\\\\Ich bin beeindruckt, Knight.",
+					"es": "//(0,30)\\\\Me impresionas, Knight.",
+					"ru": "//(0,30)\\\\Впечатляет, Стоун.",
+					"cn": "//(0,30)\\\\奈特，这一枪妙啊。",
+					"tc": "//(0,30)\\\\挺令人佩服的，奈特。",
+					"jp": "//(0,30)\\\\驚いたぜ、ナイト。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20058_mp_headshot2_stone_stone_003",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20058_mp_headshot2_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20058_mp_headshot2_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Not bad at all.",
+					"fr": "//(0,30)\\\\Pas mal du tout.",
+					"it": "//(0,30)\\\\Davvero niente male.",
+					"de": "//(0,30)\\\\Gar nicht mal schlecht.",
+					"es": "//(0,30)\\\\No está nada mal.",
+					"ru": "//(0,30)\\\\Совсем неплохо.",
+					"cn": "//(0,30)\\\\非常漂亮。",
+					"tc": "//(0,30)\\\\真是不錯。",
+					"jp": "//(0,30)\\\\悪くない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20058_mp_headshot2_stone_stone_004",
+				"weight": 0.24999995529651375,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20058_mp_headshot2_stone_stone_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20058_mp_headshot2_stone_stone_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Everyone gets lucky sometimes.",
+					"fr": "//(0,30)\\\\Tout le monde peut avoir de la chance.",
+					"it": "//(0,30)\\\\Un po' di fortuna capita a tutti.",
+					"de": "//(0,30)\\\\Es hat ja jeder mal Glück.",
+					"es": "//(0,30)\\\\Todo el mundo tiene suerte alguna vez.",
+					"ru": "//(0,30)\\\\Всем везет рано или поздно.",
+					"cn": "//(0,30)\\\\人人都有运气好的时候。",
+					"tc": "//(0,30)\\\\有時候就是運氣不錯吧。",
+					"jp": "//(0,30)\\\\誰にだって運はあるよな。"
+				}
+			}
+		]
+	}
+}

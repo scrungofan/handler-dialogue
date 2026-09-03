@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_008.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_008",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_008.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, we need to lure Le Chiffre into betting big - Call or Raise...",
+			"fr": "//(0,30)\\\\Vous devez simplement encourager Le Chiffre à miser gros, 47.",
+			"it": "//(0,30)\\\\47, dobbiamo solo convincere Le Chiffre a puntare alto. Chiama o rilancia.",
+			"de": "//(0,3.99)\\\\47, wir müssen Le Chiffre nur zu einem hohen Einsatz verleiten –//(3.99,33.99)\\\\Call oder Raise.",
+			"es": "//(0,30)\\\\47, tenemos que engañar a Le Chiffre para que apueste fuerte... O lo ves o subes la apuesta.",
+			"ru": "//(0,30)\\\\Осталось только заманить Лё Шиффра на крупную ставку. Колл или рейз, 47-й.",
+			"cn": "//(0,30)\\\\47，现在只需引诱勒齐弗下重注，然后跟注或加注即可。",
+			"tc": "//(0,30)\\\\47，我們需要引誘勒西弗來加注，你得加注或跟注。",
+			"jp": "//(0,3.95)\\\\47、ル・シッフルが大きく賭けるように誘い込まないといけないわ。//(3.95,33.95)\\\\コールかレイズよ。"
+		}
+	}
+}

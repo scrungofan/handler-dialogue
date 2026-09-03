@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41828_lckhint.sweetdialog?/ds41828_lckhint_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41828_lckhint_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41828_lckhint_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41828_lckhint_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.153374)\\\\Interesting sculpture... It might explain why Devereux was so pleased with that Carlisle ring.//(6.153374,10.33436)\\\\I suggest you acquire one from either Gregory or Rebecca.//(10.33436,40.33436)\\\\Or... well, Alexa must be buried with hers. Morbid, I know. But when has that ever stopped you?",
+			"fr": "//(0,1.9)\\\\Drôle de sculpture...//(1.9,6.3)\\\\Je comprends mieux pourquoi Devereux était si heureuse quand on lui a remis l'anneau des Carlisle.//(6.3,10.2)\\\\Vous devriez vous en procurer un vous aussi, auprès de Gregory ou Rebecca.//(10.2,11.6)\\\\Ou bien...//(11.6,14.9)\\\\Alexa a dû être enterrée avec le sien.//(14.9,44.9)\\\\Morbide, oui... mais vous ne renoncerez pas pour si peu, n'est-ce pas ?",
+			"it": "//(0,2.104294)\\\\Che intaglio interessante...//(2.104294,6.635276)\\\\Potrebbe spiegare perché Devereux fosse così entusiasta dell'anello di Carlisle.//(6.635276,10.29816)\\\\Ti suggerisco di procurartene uno da Gregory o Rebecca.//(10.29816,15.09914)\\\\Oppure... beh, Alexa deve essere stata sepolta con il suo.//(15.09914,45.09914)\\\\Lo so, è un po' macabro. Ma questo non ti ha mai fermato, no?",
+			"de": "//(0,5.887178)\\\\Interessante Skulptur ... Könnte erklären, warum Devereux so erfreut über diesen Carlisle-Ring war.//(5.887178,9.93816)\\\\Ich würde vorschlagen, Sie beschaffen einen von Gregory oder Rebecca.//(9.93816,14.45294)\\\\Oder ... Nun, Alexa wurde vermutlich mit ihrem begraben.//(14.45294,44.45294)\\\\Morbide, ich weiß. Aber wann hat Sie das je aufgehalten?",
+			"es": "//(0,1.972393)\\\\Qué escultura tan interesante...//(1.972393,6.5)\\\\Podría explicar por qué Devereux estaba tan contenta con ese anillo de Carlisle.//(6.5,10.15)\\\\Sugiero que consigas uno, ya sea de Gregory o de Rebecca.//(10.15,15)\\\\O..., bueno, supongo que a Alexa la enterraron con el suyo.//(15,45)\\\\Sí, es un poco de mal gusto, pero ¿cuándo te ha impedido eso hacer algo?",
+			"ru": "//(0,1.9)\\\\Интересная скульптура...//(1.9,6.3)\\\\Теперь понятно, почему Деверье была так рада кольцу Карлайла.//(6.3,12)\\\\Вам тоже стоит добыть кольцо у Грегори или Ребекки. Или же...//(12,14.9)\\\\Алексу наверняка похоронили вместе с ее кольцом.//(14.9,44.9)\\\\Придется потревожить ее покой, но вам ведь не привыкать?",
+			"cn": "//(0,6.5)\\\\这个雕塑有点意思......也许能解释德弗鲁为何如此喜欢那枚卡莱尔家族戒指。//(6.5,10.2)\\\\我建议你从格雷戈里或者瑞贝卡手上把戒指弄来。//(10.2,15.1)\\\\或者......你懂的，阿莱莎肯定戴着她的戒指下葬了。//(15.1,16.9)\\\\我知道，这想法很阴暗。//(16.9,46.9)\\\\但你什么时候被这种事拦住过呢？",
+			"tc": "//(0,30)\\\\有趣的雕像......也許能解釋為什麼德維洛對那個卡爾西爾戒指如此滿意。 我建議你從葛瑞格或瑞貝卡那裡買一個。 嗯......艾力克薩必須和她一起埋葬。這很恐怖，我知道，但你從未因此罷休過，對吧？",
+			"jp": "//(0,1.808)\\\\興味深い彫刻ね...//(1.808,6.289)\\\\デヴルーがカーライルの指輪をあれほど気に入った理由はこれかもしれないわね。//(6.289,10.403)\\\\グレゴリーかレベッカのいずれかから手に入れてみて。//(10.403,14.812)\\\\それが... そうね、アレクサも指輪と共に埋葬されてるはず。//(14.812,44.812)\\\\確かに不謹慎だけど、そんな理由であなたがためらったことなんてないでしょ？"
+		}
+	}
+}

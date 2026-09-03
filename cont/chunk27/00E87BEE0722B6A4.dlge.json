@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_019.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_019",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_019.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_019.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2)\\\\Another loss 47...//(3.5,33.5)\\\\Perhaps we should reconsider your approach.",
+			"fr": "//(0,4)\\\\Encore perdu, 47...//(4,34)\\\\Peut-être devrions-nous reconsidérer votre approche.",
+			"it": "//(0,30)\\\\Hai perso di nuovo, 47. Forse dovremmo ripensare alla tua strategia.",
+			"de": "//(0,2.3)\\\\Noch eine Niederlage, 47.//(2.3,32.3)\\\\Vielleicht sollten Sie ein anderes Vorgehen in Betracht ziehen.",
+			"es": "//(0,30)\\\\Otra derrota, 47. Creo que habría que replantearse el enfoque.",
+			"ru": "//(0,30)\\\\Снова поражение. Возможно, стоит изменить подход.",
+			"cn": "//(0,30)\\\\又输一局，47，或许我们该调整策略了。",
+			"tc": "//(0,30)\\\\又輸了，47，或許你應該重新考慮你的策略。",
+			"jp": "//(0,30)\\\\また負けよ、47。アプローチを変えたほうがいいかもしれないわね。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41826_targetid.sweetdialog?/ds41826_targetid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41826_targetid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41826_targetid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41826_targetid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That... is Lilith Devereux. She is magnetic, calculating, and ruthless. Watch yourself.",
+			"fr": "//(0,2.3)\\\\Voici Lilith Devereux.//(2.3,5.9)\\\\Elle est aussi séduisante que calculatrice, et ne recule devant rien.//(5.9,35.9)\\\\Faites attention.",
+			"it": "//(0,2.472393)\\\\Quella è... Lilith Devereux.//(2.472393,32.47239)\\\\Una donna magnetica, calcolatrice e senza scrupoli. Fa' attenzione.",
+			"de": "//(0,30)\\\\Das ist ... Lilith Devereux. Sie ist anziehend, berechnend und skrupellos. Passen Sie auf sich auf.",
+			"es": "//(0,30)\\\\Esa... es Lilith Devereux. Es magnética, calculadora y despiadada. Ten mucho cuidado.",
+			"ru": "//(0,2.2)\\\\Это... Лилит Деверье.//(2.2,5.85)\\\\Обворожительная, расчетливая и безжалостная.//(5.85,35.85)\\\\Будьте начеку.",
+			"cn": "//(0,30)\\\\那个人......就是莉莉丝·德弗鲁。她魅力四射、精于算计且冷酷无情。你多保重。",
+			"tc": "//(0,30)\\\\那就是莉莉絲·德維洛。她迷人、精明、冷酷無情。小心點。",
+			"jp": "//(0,30)\\\\あれは... リリス・デヴルー。彼女は魅力的で、計算高く、冷酷よ。気をつけて。"
+		}
+	}
+}

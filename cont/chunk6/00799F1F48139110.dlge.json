@@ -1,8 +1,8 @@
 {
 	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
-	"hash": "00799F1F48139110",
-	"DITL": "00B7E83B2B5BFE20",
-	"CLNG": "00E3CBB0725ED16C",
+	"hash": "[assembly:/localization/hitman6/conversations/wet/43000_elusive/lambic/43750_handler/ds43757_missiondone.sweetdialog?/ds43757_missiondone_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
 	"rootContainer": {
 		"type": "WavFile",
 		"wavName": "ds43757_missiondone_diana_001",

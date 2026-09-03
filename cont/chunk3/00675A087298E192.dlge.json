@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab.sweetdialog?/ds41829_dscvrlab_h_e_r_b__008.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41829_dscvrlab_h_e_r_b__008",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_h_e_r_b__008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_h_e_r_b__008.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Three visitors in one day! That hasn't happened since... well, anyway. Welcome!",
+			"fr": "//(0,4.5)\\\\Trois visites en une journée ! Cela n'était plus arrivé depuis...//(4.5,6.3)\\\\Peu importe.//(6.3,36.3)\\\\Bienvenue !",
+			"it": "//(0,30)\\\\Tre visitatori in un giorno! Non succedeva da... beh, non importa. Vi do il benvenuto!",
+			"de": "//(0,30)\\\\Drei Besucher an einem Tag! Das ist schon seit ... Na ja, egal: Willkommen!",
+			"es": "//(0,4.6)\\\\¡Tres visitas en el mismo día! Eso es algo que no pasaba desde...,//(4.6,34.6)\\\\bueno, da igual. ¡Bienvenido!",
+			"ru": "//(0,2.15)\\\\Три гостя за один день!//(2.15,4.6)\\\\Впервые за...//(4.6,6.25)\\\\Впрочем, неважно.//(6.25,36.25)\\\\Добро пожаловать!",
+			"cn": "//(0,30)\\\\一天出现了三位访客！上次有这种事还是......呃，言归正传。欢迎！",
+			"tc": "//(0,30)\\\\一天內來了三名訪客！自那時以來就再也沒有發生過這種情況......不管怎樣。歡迎。",
+			"jp": "//(0,3.897)\\\\一日で3人もお客様が！ こんなこと...//(4.663,34.663)\\\\まあ、とにかく久しぶりです。ようこそ！"
+		}
+	}
+}

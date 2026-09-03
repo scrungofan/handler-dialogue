@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4308_assn2down.sweetdialog?/ds4308_assn2down_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4308_assn2down_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4308_assn2down_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4308_assn2down_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.2)\\\\Zen has been eliminated. Good work, 47.//(3.2,33.2)\\\\He won't bother Agent Lee now.",
+			"fr": "//(0,30)\\\\Zen a été éliminé. Bravo, 47. Il ne pourra plus nuire à l'agent Lee.",
+			"it": "//(0,30)\\\\Zen è stato eliminato. Ottimo lavoro, 47. Non sarà più un ostacolo per l'agente Lee.",
+			"de": "//(0,30)\\\\Zen wurde eliminiert. Gute Arbeit, 47. Er wird Agent Lee nicht mehr belästigen.",
+			"es": "//(0,30)\\\\Zen ha sido eliminado. Buen trabajo, 47. Ya no va a molestar al agente Lee.",
+			"ru": "//(0,1.236196)\\\\Дзен устранен.//(1.236196,31.2362)\\\\Хорошая работа, 47-й. Он больше не будет мешать агенту Ли.",
+			"cn": "//(0,30)\\\\禅师已被消灭。干得好，47。他现在威胁不到李特工了。",
+			"tc": "//(0,3.3)\\\\禪已經被消滅。幹得好，47。//(3.3,33.3)\\\\他現在不會去煩李特務了。",
+			"jp": "//(0,30)\\\\ゼンは排除された。よくやったわ、47。彼がエージェント・リーを煩わせることはもうないわね。"
+		}
+	}
+}

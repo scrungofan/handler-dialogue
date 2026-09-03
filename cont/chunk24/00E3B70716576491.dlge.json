@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4317_malecontsus.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds4317_malecontsus_diana_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4317_malecontsus_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4317_malecontsus_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.1)\\\\It seems a contestant has taken issue with your ruling, 47.//(4.1,5.9)\\\\I advise you to deal with that//(5.9,35.9)\\\\if you don't want your cover blown.",
+					"fr": "//(0,3.95)\\\\On dirait qu'un combattant conteste votre décision, 47.//(3.95,33.95)\\\\Je suggère de vous en occuper rapidement, si vous tenez à votre couverture.",
+					"it": "//(0,30)\\\\A quanto pare, un concorrente ha contestato la tua decisione, 47. Ti consiglio di occupartene se non vuoi che la tua copertura salti.",
+					"de": "//(0,4)\\\\Offenbar stört sich ein Teilnehmer an Ihrer Entscheidung, 47.//(4,34)\\\\Ich würde Ihnen raten, sich darum zu kümmern, bevor Sie auffliegen.",
+					"es": "//(0,30)\\\\Parece que uno de los contendientes no está muy de acuerdo con tu valoración, 47. Te recomiendo que hagas algo al respecto si no quieres perder tu coartada.",
+					"ru": "//(0,4.420981)\\\\Похоже, один из участников не согласен с твоим решением, 47-й.//(4.420981,34.42098)\\\\Советую с ним разобраться, пока тебя не раскрыли.",
+					"cn": "//(0,30)\\\\47，看样子一名选手对你的判决不服。我建议你去处理一下，否则你的伪装可能会被识破。",
+					"tc": "//(0,3.9)\\\\看來有位參賽者對你的裁決有意見，47。//(3.9,33.9)\\\\如果你不想暴露身分，我建議你處理一下。",
+					"jp": "//(0,30)\\\\出場者の一人があなたの判定に異議を唱えているみたいよ、47。正体がバレたくないなら、対処したほうがいいわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds4317_malecontsus_diana_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4317_malecontsus_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4317_malecontsus_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,2)\\\\47, the contestant over there//(2,4.7)\\\\is suspicious of your decision-making.//(4.7,7.6)\\\\If you're to continue disqualifications,//(7.6,37.6)\\\\you'll need to take care of this.",
+					"fr": "//(0,4.55)\\\\47 ? Ce combattant remet en question votre jugement...//(4.55,34.55)\\\\Si vous souhaitez continuer à disqualifier, vous allez devoir gérer ceci.",
+					"it": "//(0,30)\\\\47, le tue decisioni hanno insospettito quel concorrente laggiù. Se intendi continuare con le squalifiche, dovrai risolvere la questione.",
+					"de": "//(0,4.6)\\\\47, der Teilnehmer dort drüben ist misstrauisch wegen Ihrer Entscheidung.//(4.6,34.6)\\\\Wenn Sie weiter Leute disqualifizieren wollen, müssen Sie sich darum kümmern.",
+					"es": "//(0,30)\\\\47, ese contendiente de ahí está desconfiando de tus decisiones. Si vas a seguir descalificando, tendrás que hacer algo al respecto.",
+					"ru": "//(0,4.7)\\\\47-й, тот участник недоволен твоими решениями.//(4.7,34.7)\\\\Разберись с ним, если хочешь продолжить дисквалифицировать бойцов.",
+					"cn": "//(0,30)\\\\47，那边的选手质疑你的决定。如果你想继续取消资格，就需要处理一下此事。",
+					"tc": "//(0,4.6)\\\\47，那邊的參賽者對你的決策感到懷疑。//(4.6,34.6)\\\\如果你要繼續取消資格，你就必須處理這件事。",
+					"jp": "//(0,30)\\\\47、あの出場者があなたの判断に疑念を抱いているわ。失格するなら、しっかり対処する必要があるわ。"
+				}
+			}
+		]
+	}
+}

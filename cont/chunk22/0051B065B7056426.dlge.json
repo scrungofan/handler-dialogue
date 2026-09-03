@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01.sweetdialog?/ds2710_mzwelcome01_et_belini_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2710_mzwelcome01_et_belini_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_et_belini_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_et_belini_003.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\I know it's a fucking house! But it makes no sense!",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\Oui, j'ai vu, merci ! Mais ça n'a aucun sens, putain !",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Lo so che è una casa! Ma non ha senso!",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Ich weiß, dass es ein verficktes Haus ist! Das macht nur keinen Sinn!",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\¡Ya sé que es una puta casa! Pero ¡es que no tiene sentido!",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Да я знаю, что гребаный дом! Но это какая-то чушь!",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\我他妈知道这是房子！但这没道理啊！",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\我知道這是他媽的一棟房子！但這說不通！",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\家だってのはわかってる！でも意味不明なんだ！"
+		}
+	}
+}

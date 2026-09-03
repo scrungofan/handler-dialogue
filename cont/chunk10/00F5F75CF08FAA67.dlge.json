@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34004_trgtdwncropsdwn.sweetdialog?/ds34004_trgtdwncropsdwn_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34004_trgtdwncropsdwn_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34004_trgtdwncropsdwn_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34004_trgtdwncropsdwn_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That leaves LBC Industries without its core product. Excellent work. The money will be with you momentarily.",
+			"fr": "//(0,5.1)\\\\PCP Industries n'a plus accès à son produit phare. Excellent.//(5.1,35.1)\\\\Je m'occupe immédiatement du paiement.",
+			"it": "//(0,30)\\\\La LBC Industries non ha più il suo prodotto principale. Un lavoro eccellente. Riceverai il denaro a breve.",
+			"de": "//(0,5.2)\\\\Damit fehlt LBC Industries das Kernprodukt. Hervorragende Arbeit.//(5.2,35.2)\\\\Das Geld dürfte Sie gleich erreichen.",
+			"es": "//(0,5.15)\\\\Eso hace que LBC Industries se quede sin su producto principal, excelente trabajo.//(5.15,35.15)\\\\La transferencia no tardará en llegarte.",
+			"ru": "//(0,30)\\\\LBC Industries осталась без флагманского продукта. Отлично. Деньги уже отправлены на твой счет.",
+			"cn": "//(0,30)\\\\这样一来，LBC工业就失去了它的核心产品。干得漂亮。钱很快会打到你账上。",
+			"tc": "//(0,30)\\\\這樣 LBC 實業就沒有核心產品了。漂亮，酬勞馬上會匯到你戶頭。",
+			"jp": "//(0,5.13)\\\\これでLBC産業の主力製品はなくなった。よくやったわ。//(5.13,35.13)\\\\お金をすぐに振り込むわね。"
+		}
+	}
+}

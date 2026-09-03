@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4313_missiondone.sweetdialog?/ds4313_missiondone_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4313_missiondone_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4313_missiondone_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4313_missiondone_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.6)\\\\And with that, Agent Lee's way into Concord Union is assured.//(4.6,34.6)\\\\Find an exit— your money is being transferred now.",
+			"fr": "//(0,4.5)\\\\Voilà qui assure l'entrée de l'agent Lee au sein de Concord Union.//(4.5,34.5)\\\\Trouvez une sortie, je procède au paiement.",
+			"it": "//(0,30)\\\\È fatta... L'agente Lee ha la strada spianata per entrare nella Concord Union. Cerca un'uscita. Il denaro è in fase di trasferimento.",
+			"de": "//(0,4.5)\\\\... und damit ist Agent Lee sicher im Eintrachtsbund.//(4.5,34.5)\\\\Suchen Sie einen Ausgang – Ihr Geld wird jetzt überwiesen.",
+			"es": "//(0,30)\\\\Y, con eso, nos aseguramos de que el agente Lee tenga vía libre para colarse en Concord Union. Busca una salida. Ya se te está transfiriendo el dinero.",
+			"ru": "//(0,4.6)\\\\Теперь агент Ли гарантированно попадет в «Конкорд Юнион».//(4.6,34.6)\\\\Иди к выходу. Деньги уже переводятся на твой счет.",
+			"cn": "//(0,30)\\\\......这样一来，李特工进入和联社一事已成定局。找到出口。我们正把钱转给你。",
+			"tc": "//(0,4.6)\\\\......就這樣，李特務進入協和聯會的路已經肅清了。//(4.6,34.6)\\\\找個出口，你的酬金正在轉帳中。",
+			"jp": "//(0,30)\\\\...これで、エージェント・リーのコンコード連合への潜入は確実ね。出口を探して。報酬はすぐに振り込まれるわ。"
+		}
+	}
+}

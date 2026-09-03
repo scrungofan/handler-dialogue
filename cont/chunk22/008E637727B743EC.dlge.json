@@ -1,0 +1,106 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds2728_puzzlefail2_diana_002",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\47! Focus. There is a pattern. There must be. Oh, God this is like a bad dream...",
+					"fr": "//[DIANA]\\\\//(0,2.078)\\\\Concentrez-vous, 47 !//(2.078,4.561)\\\\Il y a forcément une logique derrière tout ça.//(4.561,34.561)\\\\Argh, j'ai l'impression de vivre un mauvais rêve...",
+					"it": "//[DIANA]\\\\//(0,30)\\\\47! Concentrati. C'è uno schema. Deve esserci. Oh, Dio, è come un brutto sogno...",
+					"de": "//[DIANA]\\\\//(0,3)\\\\47! Konzentrieren Sie sich. Es gibt ein Muster.//(3,33)\\\\Es muss eines geben. O Gott, das ist alles wie ein schlechter Traum ...",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡Céntrate, 47! Hay un patrón. Tiene que haberlo. Dios mío, esto es como una pesadilla...",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\47-й, соберись! Тут есть закономерность. Должна быть. О боже, я словно в кошмаре...",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\47！集中精神。肯定有某种组合。肯定的。老天，简直像一场噩梦......",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\47！專心，一定有規律，一定有。噢，天啊，這就像一場惡夢......",
+					"jp": "//[DIANA]\\\\//(0,4.645)\\\\47！集中して。なんらかの規則性が絶対にあるはず。ああ、もう悪夢にうなされてるみたい..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2728_puzzlefail2_diana_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\There can only be one correct mirror, 47! It holds all the secrets to this madness.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Il ne peut y avoir qu'un seul bon miroir, 47 ! Vous y trouverez probablement le secret de cette folie.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\C'è soltanto uno specchio giusto, 47! Racchiude i segreti di questa follia.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Es kann nur einen richtigen Spiegel geben, 47! Darin liegen alle Geheimnisse dieses Wahnsinns.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡Solo puede haber un espejo correcto, 47! Contiene todos los secretos de esta locura.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Есть лишь одно настоящее зеркало, 47-й! Оно хранит все тайны этого безумия.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\只可能有一面正确的镜子，47！它里面藏着这一切疯狂的秘密。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\只有一面鏡子是正確的，47！它藏著這一切瘋狂的所有秘密。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47、正解の鏡はたった1つよ！このおかしな状況の秘密はすべてそこにあるはず。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2728_puzzlefail2_diana_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\There can only be one correct mirror, 47! It holds all the secrets to this madness.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Il ne peut y avoir qu'un seul bon miroir, 47 ! Vous y trouverez probablement le secret de cette folie.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\C'è soltanto uno specchio giusto, 47! Racchiude i segreti di questa follia.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Es kann nur einen richtigen Spiegel geben, 47! Darin liegen alle Geheimnisse dieses Wahnsinns.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡Solo puede haber un espejo correcto, 47! Contiene todos los secretos de esta locura.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Есть лишь одно настоящее зеркало, 47-й! Оно хранит все тайны этого безумия.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\只可能有一面正确的镜子，47！它里面藏着这一切疯狂的秘密。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\只有一面鏡子是正確的，47！它藏著這一切瘋狂的所有秘密。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47、正解の鏡はたった1つよ！このおかしな状況の秘密はすべてそこにあるはず。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2728_puzzlefail2_diana_006",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2_diana_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2_diana_006.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\47! Focus. There is a pattern. There must be. Oh, God this is like a bad dream!",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Concentrez-vous, 47 ! Il y a forcément une logique derrière tout ça. Argh, j'ai l'impression de vivre un mauvais rêve...",
+					"it": "//[DIANA]\\\\//(0,30)\\\\47! Concentrati. C'è uno schema. Deve esserci. Oh, Dio, è come un brutto sogno!",
+					"de": "//[DIANA]\\\\//(0,2.8)\\\\47! Konzentrieren Sie sich. Es gibt ein Muster.//(2.8,32.8)\\\\Es muss eines geben. O Gott, das ist alles wie ein schlechter Traum!",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡Céntrate, 47! Hay un patrón. Tiene que haberlo. ¡Dios mío, esto es como una pesadilla!",
+					"ru": "//[DIANA]\\\\//(0,1.6)\\\\47-й, соберись!//(1.6,3.9)\\\\Тут есть закономерность. Должна быть.//(3.9,33.9)\\\\О боже, я словно в кошмаре!",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\47！集中精神。肯定有某种规律。肯定有。老天，简直像一场噩梦！",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\47！專心，一定有規律，一定有。噢，天啊，這就像一場惡夢！",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47！集中して。なんらかの規則性が絶対にあるはず。ああ、もう悪夢にうなされてるみたい！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2728_puzzlefail2_diana_007",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2_diana_007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2728_puzzlefail2_diana_007.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\47! Focus. There is a pattern. There must be. Oh, God this is like a bad dream!",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Concentrez-vous, 47 ! Il y a forcément une logique derrière tout ça. Argh, j'ai l'impression de vivre un mauvais rêve...",
+					"it": "//[DIANA]\\\\//(0,30)\\\\47! Concentrati. C'è uno schema. Deve esserci. Oh, Dio, è come un brutto sogno!",
+					"de": "//[DIANA]\\\\//(0,2.7)\\\\47! Konzentrieren Sie sich. Es gibt ein Muster.//(2.7,32.7)\\\\Es muss eines geben. O Gott, das ist alles wie ein schlechter Traum!",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡Céntrate, 47! Hay un patrón. Tiene que haberlo. ¡Dios mío, esto es como una pesadilla!",
+					"ru": "//[DIANA]\\\\//(0,1.5)\\\\47-й, соберись!//(1.5,3.55)\\\\Тут есть закономерность. Должна быть.//(3.55,33.55)\\\\О боже, я словно в кошмаре!",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\47！集中精神。肯定有某种规律。肯定有。老天，简直像一场噩梦！",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\47！專心，一定有規律，一定有。噢，天啊，這就像一場惡夢！",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\47！集中して。なんらかの規則性が絶対にあるはず。ああ、もう悪夢にうなされてるみたい！"
+				}
+			}
+		]
+	}
+}

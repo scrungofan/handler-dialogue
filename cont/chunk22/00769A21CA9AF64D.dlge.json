@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01.sweetdialog?/ds2710_mzwelcome01_et_belini_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2710_mzwelcome01_et_belini_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_et_belini_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_et_belini_001.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\What the fuck? What is this place...",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\C'est quoi, cet endroit... ?",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Che cazzo? Che posto è questo...",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Was zum Teufel? Was ist das für ein Ort ...",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\Pero ¿qué cojones...? ¿Qué es todo esto?",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Что за хрень? Это что такое вообще...",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\什么鬼？这是什么地方......",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\搞什麼鬼？這是什麼鬼地方......",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\何だ？ここは一体どうなってるんだ..."
+		}
+	}
+}

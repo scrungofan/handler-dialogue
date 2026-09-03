@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20061_mp_multikill_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20061_mp_multikill_knight_knight_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20061_mp_multikill_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20061_mp_multikill_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Nice shooting, Annie Oakley.",
+					"fr": "//(0,30)\\\\Belle précision, Calamity Jane.",
+					"it": "//(0,30)\\\\Bel colpo, Robin Hood.",
+					"de": "//(0,30)\\\\Guter Schuss, mein Bester.",
+					"es": "//(0,30)\\\\Buen disparo, Annie Oakley.",
+					"ru": "//(0,30)\\\\Неплохо стреляешь! Прям снайпер!",
+					"cn": "//(0,30)\\\\好枪法，安妮·奥克利。",
+					"tc": "//(0,30)\\\\好槍法，神槍手。",
+					"jp": "//(0,30)\\\\今の上手ね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20061_mp_multikill_knight_knight_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20061_mp_multikill_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20061_mp_multikill_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Going all in there, boss. Leave some for me, will ya?",
+					"fr": "//(0,30)\\\\Je vais tout donner, patron. Tu peux m'en laisser, quand même ?",
+					"it": "//(0,30)\\\\Ti dai da fare, eh? Su, lasciamene qualcuno!",
+					"de": "//(0,30)\\\\Jetzt geben Sie aber alles, Chef. Lassen Sie mir auch noch was übrig, ja?",
+					"es": "//(0,30)\\\\Vas a por todas, jefe. Déjame algo, ¿vale?",
+					"ru": "//(0,30)\\\\Чем больше, тем лучше. Мне-то оставь кого-нибудь, а?",
+					"cn": "//(0,30)\\\\头儿，你这是要一次干掉多个吗。留点给我嘛。",
+					"tc": "//(0,30)\\\\我可是全力以赴，老大。給我留一些吧？",
+					"jp": "//(0,30)\\\\全力でいってるわね。少しは獲物残しておいてよ？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20061_mp_multikill_knight_knight_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20061_mp_multikill_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20061_mp_multikill_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\One target at a time isn't enough for you now?",
+					"fr": "//(0,30)\\\\Une seule cible, ça te suffit plus ?",
+					"it": "//(0,30)\\\\Un bersaglio alla volta non ti basta?",
+					"de": "//(0,30)\\\\Ein Ziel zur Zeit reicht Ihnen gerade nicht, was?",
+					"es": "//(0,30)\\\\¿No te llega con matar a los objetivos de uno en uno?",
+					"ru": "//(0,30)\\\\Убивать их по одному тебе уже мало?",
+					"cn": "//(0,30)\\\\一次一个目标已经无法满足你了吗？",
+					"tc": "//(0,30)\\\\一次一個目標你還不夠？",
+					"jp": "//(0,30)\\\\1人ずつじゃ不満かしら？"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20065_mp_movingshot2_knight_knight_001",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\You're not even going to wait around for them to stand still, are you?",
+					"fr": "//(0,30)\\\\Tu vas même pas attendre qu'il soit immobile, hein ?",
+					"it": "//(0,30)\\\\Non vuoi neanche perdere tempo ad aspettare che si fermino, eh?",
+					"de": "//(0,30)\\\\Sie warten nicht mal ab, bis sie stillstehen, was?",
+					"es": "//(0,30)\\\\¿Ni siquiera vas a esperar a que se queden quietos ni nada?",
+					"ru": "//(0,30)\\\\Ты даже не подождешь, пока они остановятся?",
+					"cn": "//(0,30)\\\\你都懒得等他们站定不动吗？",
+					"tc": "//(0,30)\\\\你也不等他們停下來啊？",
+					"jp": "//(0,30)\\\\ターゲットが止まるまで待てないの？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20065_mp_movingshot2_knight_knight_002",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Impatient, Stone? Got somewhere you need to be?",
+					"fr": "//(0,30)\\\\Impatient, Stone ? Tu es pressé ?",
+					"it": "//(0,30)\\\\Sei impaziente, Stone? Devi andare da qualche parte?",
+					"de": "//(0,30)\\\\Ungeduldig, Stone? Müssen Sie noch irgendwohin?",
+					"es": "//(0,30)\\\\¿Estás impaciente, Stone? ¿Tienes que ir a algún otro sitio?",
+					"ru": "//(0,30)\\\\Где твое терпение, Стоун? Куда-то спешишь?",
+					"cn": "//(0,30)\\\\斯通，你这么没耐心啊？你是不是急着去哪儿啊？",
+					"tc": "//(0,30)\\\\你可真沒耐性，斯通。你是趕著去哪裡嗎？",
+					"jp": "//(0,30)\\\\せっかちね、ストーン。何か予定でもあるの？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20065_mp_movingshot2_knight_knight_003",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Taking on moving targets... I thought you didn't like taking chances, Stone?",
+					"fr": "//(0,30)\\\\Tirer sur des cibles mobiles... Je croyais que tu n'aimais pas prendre de risque, Stone ?",
+					"it": "//(0,30)\\\\Cerchiamo di colpire i bersagli in movimento... Pensavo che non ti piacesse rischiare, Stone!",
+					"de": "//(0,30)\\\\Bewegliche Ziele ausschalten ... Ich dachte, Sie gehen nicht gern Risiken ein, Stone.",
+					"es": "//(0,30)\\\\Atacas a objetivos móviles... Creía que no te gustaba correr riesgos, Stone.",
+					"ru": "//(0,30)\\\\Стрельба по движущимся целям... Я думал ты не любишь рисковать, Стоун.",
+					"cn": "//(0,30)\\\\射移动目标......斯通，我还以为你只在有十足把握时才开枪呢。",
+					"tc": "//(0,30)\\\\攻擊移動目標......我還以為你不喜歡冒險呢，斯通？",
+					"jp": "//(0,30)\\\\動いているターゲットを狙うなんて... あなた賭けは嫌いじゃなかった？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20065_mp_movingshot2_knight_knight_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight_knight_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight_knight_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Your risk-taking allowance has increased since we last met, Stone.",
+					"fr": "//(0,30)\\\\Tu es plus téméraire que lors de notre dernière rencontre, Stone.",
+					"it": "//(0,30)\\\\Ti prendi più rischi rispetto a quando ci siamo conosciuti, Stone.",
+					"de": "//(0,30)\\\\Ihr Hang zu riskanten Schüssen ist aber seit unserem letzten Treffen kräftig gewachsen.",
+					"es": "//(0,30)\\\\Estás dispuesto a correr más riesgos que la última vez que nos vimos, Stone.",
+					"ru": "//(0,30)\\\\Стоун, ты стал легкомысленнее, чем в прошлую нашу встречу.",
+					"cn": "//(0,30)\\\\你比上次见面时更乐于冒险了，斯通。",
+					"tc": "//(0,30)\\\\你冒的險比我們上次見面時多了呢，斯通。",
+					"jp": "//(0,30)\\\\前会ったときよりも大胆になってるわね、ストーン。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20065_mp_movingshot2_knight_knight_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight_knight_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20065_mp_movingshot2_knight_knight_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'm impressed.",
+					"fr": "//(0,30)\\\\Je suis impressionnée.",
+					"it": "//(0,30)\\\\Sono colpita.",
+					"de": "//(0,30)\\\\Ich bin beeindruckt.",
+					"es": "//(0,30)\\\\Me has impresionado.",
+					"ru": "//(0,30)\\\\Я впечатлена.",
+					"cn": "//(0,30)\\\\厉害。",
+					"tc": "//(0,30)\\\\不錯。",
+					"jp": "//(0,30)\\\\やるじゃない。"
+				}
+			}
+		]
+	}
+}

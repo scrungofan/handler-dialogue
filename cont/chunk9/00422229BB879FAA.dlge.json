@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20069_mp_civkillreactions_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20069_mp_civkillreactions_stone_stone_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20069_mp_civkillreactions_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20069_mp_civkillreactions_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Knight! Keep your shots true.",
+					"fr": "//(0,30)\\\\Knight ! Regarde où tu tires.",
+					"it": "//(0,30)\\\\Knight! Mira sempre al bersaglio.",
+					"de": "//(0,30)\\\\Knight! Bleiben Sie mit Ihrem Schüssen auf dem Ziel.",
+					"es": "//(0,30)\\\\¡Knight! Haz que cada tiro cuente.",
+					"ru": "//(0,30)\\\\Найт! Стреляй аккуратнее.",
+					"cn": "//(0,30)\\\\奈特！射准一点！",
+					"tc": "//(0,30)\\\\奈特！別亂射。",
+					"jp": "//(0,30)\\\\ナイト、撃つのはターゲットだけにしろ！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20069_mp_civkillreactions_stone_stone_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20069_mp_civkillreactions_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20069_mp_civkillreactions_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Knight, I need you to be more careful. This is not helpful to the mission.",
+					"fr": "//(0,30)\\\\Essaie de faire attention, Knight. Cela n'avance en rien la mission.",
+					"it": "//(0,30)\\\\Knight, devi fare più attenzione. Questo non è di aiuto alla missione.",
+					"de": "//(0,30)\\\\Knight, Sie müssen schon ein wenig vorsichtiger sein. Das ist für die Mission nicht gerade hilfreich.",
+					"es": "//(0,30)\\\\Knight, necesito que tengas más cuidado. Esto no nos va a ayudar en la misión.",
+					"ru": "//(0,30)\\\\Найт, ты должна быть аккуратнее. Это вредит заданию.",
+					"cn": "//(0,30)\\\\奈特，你得当心一点。这对任务没有帮助。",
+					"tc": "//(0,30)\\\\奈特，你得小心一點。這樣對任務沒有好處。",
+					"jp": "//(0,30)\\\\ナイト、気を付けろよ。任務が台無しになるぞ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20069_mp_civkillreactions_stone_stone_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20069_mp_civkillreactions_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20069_mp_civkillreactions_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Knight, what are you doing?",
+					"fr": "//(0,30)\\\\Knight, mais qu'est-ce que tu fais ?",
+					"it": "//(0,30)\\\\Knight, cosa stai facendo?",
+					"de": "//(0,30)\\\\Knight, was wird das denn jetzt?",
+					"es": "//(0,30)\\\\¿Qué estás haciendo, Knight?",
+					"ru": "//(0,30)\\\\Найт, ты что делаешь?",
+					"cn": "//(0,30)\\\\奈特，你在干嘛？",
+					"tc": "//(0,30)\\\\奈特，你在搞什麼？",
+					"jp": "//(0,30)\\\\ナイト、一体何をやってる？"
+				}
+			}
+		]
+	}
+}

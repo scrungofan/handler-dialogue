@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr.sweetdialog?/ds2722_targetdownspdrnr_et_belini_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2722_targetdownspdrnr_et_belini_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr_et_belini_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr_et_belini_002.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\What? So we're done? What about all the cool shit...",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\Quoi ? C'est déjà fini ? Pas de trucs stylés comme d'habitude ?",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Cosa? Tutto qui? E tutte quelle cose fighe...",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Was? Dann sind wir fertig? Was ist mit dem ganzen coolen Shit ...",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\¿Y bien? ¿Hemos acabado? ¿Y todas las mierdas guays?...",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Что? И все? Даже без всяких этих ваших выкрутасов?...",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\什么？所以我们完事了？那么多带劲的玩意儿呢......",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\什麼？所以結束了？那些酷炫的玩意呢？",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\なんだ、これで終わりか？もっと派手なのを期待してたんだが..."
+		}
+	}
+}

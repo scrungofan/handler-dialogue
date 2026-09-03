@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach.sweetdialog?/dr41894_slbreach_h_e_r_b__002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41894_slbreach_h_e_r_b__002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach_h_e_r_b__002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach_h_e_r_b__002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Well, you've got to be contained now. \"Kill a few, save a lot.\" You understand.",
+			"fr": "//(0,3.4)\\\\Vous devez rester confiné ici.//(3.4,33.4)\\\\Mieux vaut prévenir que guérir ! Vous comprenez...",
+			"it": "//(0,30)\\\\Bene, ora devo contenere la tua infezione. \"La morte di pochi per la salvezza di molti\". Tu mi capisci.",
+			"de": "//(0,30)\\\\Nun, jetzt müssen Sie festgehalten werden. „Wenige töten, um viele zu retten. “ Sie verstehen schon.",
+			"es": "//(0,3)\\\\Pues ahora habrá que contenerte.//(3,33)\\\\«Matar a unos pocos para salvar a muchos». Seguro que lo entiendes.",
+			"ru": "//(0,30)\\\\Что ж, придется вас изолировать. Убить одного ради спасения многих. Сами понимаете.",
+			"cn": "//(0,30)\\\\我现在必须隔离你们。“牺牲小我，成全大我。”你明白吧。",
+			"tc": "//(0,30)\\\\好吧，那你現在必須被隔離。「殺掉少數人，拯救多數人」你明白的。",
+			"jp": "//(0,4.77)\\\\あなたを殺さねばなりません。「数人を殺して、多くを救う。」//(4.77,34.77)\\\\わかってくれますよね？"
+		}
+	}
+}

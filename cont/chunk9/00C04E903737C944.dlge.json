@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20068_mp_explosionreaction_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20068_mp_explosionreaction_knight_knight_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20068_mp_explosionreaction_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20068_mp_explosionreaction_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\What the hell happened to \"subtle\", Stone? Or does that only apply to me?",
+					"fr": "//(0,30)\\\\Je dois te lire la définition de « discrétion », Stone ? Ou suis-je la seule à devoir l'appliquer ?",
+					"it": "//(0,30)\\\\Cosa dicevi a proposito dell'essere discreti, Stone? O riguardava solo me?",
+					"de": "//(0,30)\\\\Was ist denn mit „subtil“ passiert, Stone? Oder gilt das nur für mich?",
+					"es": "//(0,30)\\\\¿Qué ha sido de la «sutileza», Stone? ¿O eso solo se me aplica a mí?",
+					"ru": "//(0,30)\\\\А как же «не будем шуметь», Стоун? Или это только ко мне относилось?",
+					"cn": "//(0,30)\\\\斯通，说好要隐秘行事的呢？还是说只要我隐秘就好？",
+					"tc": "//(0,30)\\\\不是說要「低調」嗎，斯通？還是說你只是要我低調而已？",
+					"jp": "//(0,30)\\\\それのどこが「慎重」？それともあなたは好き勝手やってもいいわけ？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20068_mp_explosionreaction_knight_knight_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20068_mp_explosionreaction_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20068_mp_explosionreaction_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Nice shot. You using explosive ammo or what?",
+					"fr": "//(0,30)\\\\Joli tir. Tu tires des munitions explosives, ou quoi ?",
+					"it": "//(0,30)\\\\Bel colpo. Stai usando munizioni esplosive, per caso?",
+					"de": "//(0,30)\\\\Guter Schuss. Verwenden Sie etwa Sprengmunition oder wie?",
+					"es": "//(0,30)\\\\Buen tiro. ¿Estás usando munición explosiva o qué?",
+					"ru": "//(0,30)\\\\Отличный выстрел. Ты там разрывными стреляешь, что ли?",
+					"cn": "//(0,30)\\\\好枪法。你用的是爆炸弹药吗？",
+					"tc": "//(0,30)\\\\好槍法。你是在用爆裂彈藥嗎？",
+					"jp": "//(0,30)\\\\いいわね。榴弾でも使ってるの？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20068_mp_explosionreaction_knight_knight_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20068_mp_explosionreaction_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20068_mp_explosionreaction_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Ah, that will certainly liven up the party.",
+					"fr": "//(0,30)\\\\Au moins, ça va mettre un peu d'ambiance...",
+					"it": "//(0,30)\\\\Ah, questo sì che movimenterà un po' la festa.",
+					"de": "//(0,30)\\\\Ah, das wird der Party gleich ein wenig mehr Leben einhauchen!",
+					"es": "//(0,30)\\\\Eso va a animar la fiesta, sin duda.",
+					"ru": "//(0,30)\\\\Это точно добавит веселья празднику.",
+					"cn": "//(0,30)\\\\这样聚会的气氛就热闹起来了。",
+					"tc": "//(0,30)\\\\啊，這下這派對肯定會很熱鬧。",
+					"jp": "//(0,30)\\\\ああ、これでパーティーは華やかになるわね。"
+				}
+			}
+		]
+	}
+}

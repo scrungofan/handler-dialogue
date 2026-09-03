@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr.sweetdialog?/ds2722_targetdownspdrnr_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2722_targetdownspdrnr_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Well, that was a bit of an anticlimax.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Bon, eh bien c'était... un peu décevant.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Beh, è stato un po' deludente.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Tja, das war ein bisschen antiklimaktisch.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Bueno, ha sido un tanto anticlimático.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Получилось не слишком-то зрелищно.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\啧，感觉有点虎头蛇尾。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\嗯，那有點雷聲大雨點小。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\少しあっけなかったわね。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach.sweetdialog?/dr41894_slbreach_h_e_r_b__004.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41894_slbreach_h_e_r_b__004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach_h_e_r_b__004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach_h_e_r_b__004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.395767)\\\\You can't take that virus out of the lab. Not even for a little bit, as a treat.//(5.395767,35.39577)\\\\I will have to kill you, which would really put a dampener on our friendship.",
+			"fr": "//(0,5.5)\\\\Je ne peux vous laisser quitter le laboratoire avec ce virus.//(5.5,35.5)\\\\Je vais devoir vous éliminer, au risque d'entacher très sérieusement notre amitié.",
+			"it": "//(0,5.04908)\\\\Non puoi portare quel virus fuori dal laboratorio. Nemmeno per pochissimo.//(5.04908,35.04908)\\\\In tal caso dovrei eliminarti, il che segnerebbe la fine della nostra amicizia.",
+			"de": "//(0,5.189571)\\\\Sie dürfen das Virus nicht aus dem Labor lassen. Nicht mal ein kleines bisschen als Gefallen.//(5.189571,35.18957)\\\\Ich werde Sie töten müssen, was ein echter Dämpfer für unsere Freundschaft wäre.",
+			"es": "//(0,2.8)\\\\No puedes sacar ese virus del laboratorio.//(2.8,5.3)\\\\Ni siquiera durante un ratito, como cortesía.//(5.3,35.3)\\\\Voy a tener que matarte, lo cual afectará a nuestra amistad.",
+			"ru": "//(0,2.340491)\\\\Вирус нельзя выносить из лаборатории.//(2.340491,5.6)\\\\Даже ненадолго, шутки ради.//(5.6,35.6)\\\\Придется вас убить. Боюсь, что такое наша дружба не переживет.",
+			"cn": "//(0,3)\\\\你不能把病毒带出实验室。//(3,33)\\\\一丁点儿都不行。我不得不杀了你，这会让我们的友谊彻底破裂。",
+			"tc": "//(0,30)\\\\你不能把病毒帶出實驗室。哪怕只是一點點也不行。我必須殺了你，這真的會破壞我們的友誼。",
+			"jp": "//(0,2.607)\\\\ウイルスを研究室から持ち出してはなりません。//(2.607,7.323)\\\\ご褒美としてちょっとだけ、とかでもダメです。 あなたを殺さねばならなくなります。//(7.323,37.323)\\\\そしたら、私たちの友情に水を差すことになってしまいます。"
+		}
+	}
+}

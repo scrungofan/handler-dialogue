@@ -1,0 +1,87 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2727_puzzlefail1.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds2727_puzzlefail1_diana_001",
+				"weight": 0.2941175874541752,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2727_puzzlefail1_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2727_puzzlefail1_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\I don’t think that did anything. Try to find out if there is some kind of pattern.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Je ne pense pas que cela ait fait grand-chose... Voyez s'il est possible d'identifier un ordre, un motif... Une logique.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Non penso che sia sufficiente. Prova a capire se c'è un qualche tipo di schema.",
+					"de": "//[DIANA]\\\\//(0,2.5)\\\\Ich glaube nicht, dass das was bewirkte.//(2.5,32.5)\\\\Versuchen Sie, herauszufinden, ob es eine Art Muster gibt.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\No parece que eso haya hecho nada. Busca a ver si hay algún tipo de patrón.",
+					"ru": "//[DIANA]\\\\//(0,2.4)\\\\Похоже, ничего не произошло.//(2.4,32.4)\\\\Попробуй найти какую-то закономерность.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\我不认为这样有什么效果。看看是否有某种特定组合。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\我不認為那有任何作用。試著找出是否有某種規律。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\何も起きなかったみたいね。なにか規則性みたいなものがないか、調べてみて。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2727_puzzlefail1_diana_002",
+				"weight": 0.2941175874541752,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2727_puzzlefail1_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2727_puzzlefail1_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Pay attention, 47. Choose carefully which mirror to go through.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Soyez attentif, 47. Choisissez bien quel miroir traverser.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Fa' attenzione, 47. Scegli con attenzione lo specchio attraverso cui passare...",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Passen Sie auf, 47. Suchen Sie mit Bedacht einen Spiegel aus, um hindurchzutreten.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Presta atención, 47. Elige sabiamente qué espejo atravesar.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Будь начеку, 47-й. Хорошо подумай, прежде чем выбрать зеркало и войти...",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\集中注意力，47。要小心选择穿过哪面镜子。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\注意，47。仔細選擇要穿過哪面鏡子。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\考えるのよ、47。どの鏡に入るべきか、慎重に選んで。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2727_puzzlefail1_diana_003",
+				"weight": 0.2058823231388523,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2727_puzzlefail1_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2727_puzzlefail1_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\I don’t think that did anything. Try to find out if there is some kind of pattern.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Je ne pense pas que cela ait fait grand-chose... Voyez s'il est possible d'identifier un ordre, un motif... Une logique.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Non penso che sia sufficiente. Prova a capire se c'è un qualche tipo di schema.",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Ich glaube nicht, dass das was bewirkte. Versuchen Sie, herauszufinden, ob es eine Art Muster gibt.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\No parece que eso haya hecho nada. Busca a ver si hay algún tipo de patrón.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Похоже, ничего не произошло. Попробуй найти какую-нибудь закономерность.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\我不认为这样有什么效果。看看是否有某种规律。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\我不認為那有任何作用。試著找出是否有某種規律。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\何も起きなかったみたいね。なにか規則性みたいなものがないか、調べてみて。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2727_puzzlefail1_diana_004",
+				"weight": 0.2058823231388523,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2727_puzzlefail1_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2727_puzzlefail1_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Pay attention, 47. Choose carefully which mirror to go through.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Soyez attentif, 47. Choisissez bien quel miroir traverser.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Fa' attenzione, 47. Scegli con attenzione lo specchio attraverso cui passare...",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Passen Sie auf, 47. Suchen Sie mit Bedacht einen Spiegel aus, um hindurchzutreten.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Presta atención, 47. Elige sabiamente qué espejo atravesar.",
+					"ru": "//[DIANA]\\\\//(0,2.2)\\\\Будь начеку, 47-й.//(2.2,32.2)\\\\Хорошо подумай, прежде чем выбрать зеркало и войти...",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\集中注意力，47。要小心选择穿过哪面镜子。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\注意，47。仔細選擇要穿過哪面鏡子。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\考えるのよ、47。どの鏡に入るべきか、慎重に選んで。"
+				}
+			}
+		]
+	}
+}

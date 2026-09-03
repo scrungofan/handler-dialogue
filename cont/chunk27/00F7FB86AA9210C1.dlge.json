@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3704_invite.sweetdialog?/ds3704_invite_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3704_invite_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3704_invite_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3704_invite_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2)\\\\Congratulations, 47.//(2,8.85)\\\\You have obtained an invitation to the game. Time to put that poker face to the test.//(8.85,38.85)\\\\Good luck.",
+			"fr": "//(0,30)\\\\Félicitations, 47. Vous avez obtenu votre invitation à la table. Il est temps de voir ce que vaut votre poker face. Bonne chance !",
+			"it": "//(0,5.6)\\\\Congratulazioni, 47. Hai ricevuto un invito per la partita.//(5.6,35.6)\\\\È ora di mettere alla prova la tua faccia da poker. Buona fortuna.",
+			"de": "//(0,30)\\\\Glückwunsch, 47. Sie haben sich eine Einladung für das Spiel beschafft. Es wird Zeit, Ihr Pokerface auf die Probe zu stellen. Viel Glück.",
+			"es": "//(0,5.427)\\\\Felicidades, 47. Has conseguido una invitación para la partida.//(5.427,35.427)\\\\Será una prueba de fuego para tu cara de póquer. Buena suerte.",
+			"ru": "//(0,30)\\\\Поздравляю, 47-й. Приглашение у тебя в кармане. Осталось только сыграть лицом. Удачи.",
+			"cn": "//(0,5.3)\\\\祝贺你，47。你拿到了赌局的邀请函。//(5.3,35.3)\\\\是时候检验你那副扑克脸的真正价值了。祝你好运。",
+			"tc": "//(0,5.7)\\\\恭喜，47。你取得了牌局的邀請函。//(5.7,35.7)\\\\該去考驗一下你的撲克牌實力了。祝你好運。",
+			"jp": "//(0,5.55)\\\\おめでとう、47。ゲームへの招待状を獲得したわ。//(5.55,35.55)\\\\ポーカーフェイスを試す時が来たわよ。幸運を祈るわ。"
+		}
+	}
+}

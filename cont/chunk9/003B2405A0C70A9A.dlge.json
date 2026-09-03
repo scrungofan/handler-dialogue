@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20115_mp_targetsleft3_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20115_mp_targetsleft3_stone_stone_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20115_mp_targetsleft3_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20115_mp_targetsleft3_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\We’re getting close to ending this. Three targets remaining.",
+					"fr": "//(0,30)\\\\On en a bientôt terminé. Plus que trois cibles.",
+					"it": "//(0,30)\\\\Ci stiamo avvicinando alla fine. Tre bersagli restanti.",
+					"de": "//(0,30)\\\\Wir sind kurz davor, das hier zu beenden. Es bleiben noch drei Ziele.",
+					"es": "//(0,30)\\\\Estamos a punto de acabar con esto. Solo quedan tres objetivos.",
+					"ru": "//(0,30)\\\\Мы почти справились. Осталось три цели.",
+					"cn": "//(0,30)\\\\很快就能搞定了。还剩下三个目标。",
+					"tc": "//(0,30)\\\\我們快要完成任務了。剩下三個目標。",
+					"jp": "//(0,30)\\\\もうすぐ終わりだぞ。ターゲットはあと3人。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20115_mp_targetsleft3_stone_stone_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20115_mp_targetsleft3_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20115_mp_targetsleft3_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\It’s close now. We’re down to three targets.",
+					"fr": "//(0,30)\\\\On touche au but. Il nous reste trois cibles à éliminer.",
+					"it": "//(0,30)\\\\Ci siamo quasi. Ci restano solo tre bersagli.",
+					"de": "//(0,30)\\\\Wir sind kurz davor. Wir sind bei noch drei Zielen.",
+					"es": "//(0,30)\\\\Falta poco. Ya solo quedan tres objetivos.",
+					"ru": "//(0,30)\\\\Почти всё. У нас еще три цели.",
+					"cn": "//(0,30)\\\\就快完成了。我们还剩下三个目标。",
+					"tc": "//(0,30)\\\\快完成了。我們剩下三名目標了。",
+					"jp": "//(0,30)\\\\あと少しだ。ターゲットは残り3人。"
+				}
+			}
+		]
+	}
+}

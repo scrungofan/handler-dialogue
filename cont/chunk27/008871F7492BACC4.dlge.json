@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3708_antidotescss.sweetdialog?/ds3708_antidotescss_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3708_antidotescss_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3708_antidotescss_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3708_antidotescss_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(1.65,3.75)\\\\That was close, 47.//(3.75,9.9)\\\\Le Chiffre will forever be one step ahead. We need a different tactic.//(9.9,39.9)\\\\I think you need to go after the dealer. Perhaps that's the way to beat him.",
+			"fr": "//(0,30)\\\\C'était moins une, 47. Le Chiffre aime avoir un coup d'avance... Il est temps de changer de stratégie. Occupons-nous du dealer. C'est le seul moyen de le battre.",
+			"it": "//(0,10.07337)\\\\C'è mancato poco, 47. Le Chiffre sarà sempre un passo avanti. Dobbiamo cambiare strategia.//(10.07337,40.07337)\\\\Penso che dovresti puntare sul croupier. Potrebbe essere l'unico modo per batterlo.",
+			"de": "//(0,30)\\\\Das war knapp, 47. Le Chiffre ist uns so immer einen Schritt voraus. Wir brauchen eine andere Taktik. Sie müssen sich den Croupier vornehmen. Nur so können Sie ihn schlagen.",
+			"es": "//(0,7.4)\\\\Ha faltado un pelo, 47. Le Chiffre siempre intenta ir un paso por delante.//(7.4,9.9)\\\\Vamos a tener que cambiar de estrategia.//(9.9,39.9)\\\\Ve a por el repartidor de cartas; es el único modo de derrotarlo.",
+			"ru": "//(0,30)\\\\Ты был на волоске, 47-й. Лё Шиффр всегда на шаг впереди. Нужно менять тактику. Придется разобраться с дилером. Это единственный способ его переиграть.",
+			"cn": "//(1.6,3.6)\\\\好险啊，47。//(3.6,9.857668)\\\\勒齐弗总是快我们一步。必须换一种战术。//(9.857668,39.85767)\\\\你得把荷官搞定。唯有这种方法才能打倒他。",
+			"tc": "//(0,9.8)\\\\真是驚險，47。勒西弗總是搶得先機。我們得換個策略。//(9.8,39.8)\\\\你得去找發牌員，這可能是打敗他的唯一方式。",
+			"jp": "//(0,7.35)\\\\危なかったわね。ル・シッフルは常に一手先を読んでる。//(7.35,10.1)\\\\作戦を変えないといけないわ。//(10.1,40.1)\\\\ディーラーを狙うのよ。ル・シッフルを倒す方法はそれしかないわ。"
+		}
+	}
+}

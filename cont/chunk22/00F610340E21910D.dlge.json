@@ -1,0 +1,106 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds2718_puzzlefail_diana_003",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\This is the worst Lovecraftian nightmare I’ve ever had... Please, focus 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\C'est le pire cauchemar lovecraftien qu'il m'ait été donné de voir... Concentrez-vous, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\È l'incubo lovecraftiano più brutto che abbia mai avuto... Concentrati, 47.",
+					"de": "//[DIANA]\\\\//(0,3.5)\\\\Das ist der schlimmste lovecraftsche Albtraum, den ich jemals hatte ...//(3.5,33.5)\\\\Bitte konzentrieren Sie sich, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Esta es la peor pesadilla lovecraftiana que jamás haya tenido... Céntrate, 47, por favor.",
+					"ru": "//[DIANA]\\\\//(0,3.3)\\\\Это самый жуткий кошмар в духе Лавкрафта из всех, что я видела...//(3.3,33.3)\\\\Прошу тебя, 47-й, соберись.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\这是我做过的最可怕的克鲁苏式噩梦了......47，请你专注。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\這是我做過最糟的洛夫克拉夫特式惡夢......拜託，專心點，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\まるでラヴクラフトが作り上げた悪夢にいるみたい... 47、集中して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2718_puzzlefail_diana_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\This is the worst Lovecraftian nightmare I’ve ever had... Please, focus 47.",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\C'est le pire cauchemar lovecraftien qu'il m'ait été donné de voir... Concentrez-vous, 47.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\È l'incubo lovecraftiano più brutto che abbia mai avuto... Concentrati, 47.",
+					"de": "//[DIANA]\\\\//(0,3.8)\\\\Das ist der schlimmste lovecraftsche Albtraum, den ich jemals hatte ...//(3.8,33.8)\\\\Bitte konzentrieren Sie sich, 47.",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Esta es la peor pesadilla lovecraftiana que jamás haya tenido... Céntrate, 47, por favor.",
+					"ru": "//[DIANA]\\\\//(0,3.65)\\\\Это самый жуткий кошмар в духе Лавкрафта из всех, что я видела...//(3.65,33.65)\\\\Прошу тебя, 47-й, соберись.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\这是我做过的最可怕的克鲁苏式噩梦了......47，请你专注。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\這是我做過最糟的洛夫克拉夫特式惡夢......拜託，專心點，47。",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\まるでラヴクラフトが作り上げた悪夢にいるみたい... 47、集中して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2718_puzzlefail_diana_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Oh God, I can't deal with this! Pull yourself together, 47 or else I will go mad!",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Mon dieu, c'est insupportable ! Reprenez-vous, 47, ou je vais devenir folle !",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Oh, Dio, non ce la faccio! Riprenditi, 47, o altrimenti uscirò di testa!",
+					"de": "//[DIANA]\\\\//(0,3.1)\\\\O Gott, ich schaffe das nicht!//(3.1,33.1)\\\\Reißen Sie sich zusammen, 47, sonst werde ich wahnsinnig!",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Joder, ¡no puedo con esto! ¡Espabila, 47, o acabaré volviéndome loca!",
+					"ru": "//[DIANA]\\\\//(0,3)\\\\О боже, я этого не выдержу!//(3,33)\\\\Возьми себя в руки, 47-й, иначе я скоро сойду с ума!",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\老天，我没办法应付这个！47，振作起来，否则我就要发疯了！",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\噢天啊，我受不了了！振作點，47，不然我就要瘋了！",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\ああ、もうこれ以上ダメだわ！しっかりして、47。頭がおかしくなりそう！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2718_puzzlefail_diana_006",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail_diana_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail_diana_006.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Oh God, I can't deal with this! Pull yourself together, 47 or else I will go mad!",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Mon dieu, c'est insupportable ! Reprenez-vous, 47, ou je vais devenir folle !",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Oh, Dio, non ce la faccio! Riprenditi, 47, o altrimenti uscirò di testa!",
+					"de": "//[DIANA]\\\\//(0,3)\\\\O Gott, ich schaffe das nicht!//(3,33)\\\\Reißen Sie sich zusammen, 47, sonst werde ich wahnsinnig!",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Joder, ¡no puedo con esto! ¡Espabila, 47, o acabaré volviéndome loca!",
+					"ru": "//[DIANA]\\\\//(0,2.75)\\\\О боже, я этого не выдержу!//(2.75,32.75)\\\\Возьми себя в руки, 47-й, иначе я скоро сойду с ума!",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\老天，我没办法应付这个！47，振作起来，否则我就要发疯了！",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\噢天啊，我受不了了！振作點，47，不然我就要瘋了！",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\ああ、もうこれ以上ダメだわ！しっかりして、47。頭がおかしくなりそう！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2718_puzzlefail_diana_007",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail_diana_007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2718_puzzlefail_diana_007.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Oh God, I can't deal with this! Pull yourself together, 47 or else I will go mad!",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Mon dieu, c'est insupportable ! Reprenez-vous, 47, ou je vais devenir folle !",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Oh, Dio, non ce la faccio! Riprenditi, 47, o altrimenti uscirò di testa!",
+					"de": "//[DIANA]\\\\//(0,2.1)\\\\O Gott, ich schaffe das nicht!//(2.1,32.1)\\\\Reißen Sie sich zusammen, 47, sonst werde ich wahnsinnig!",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Joder, ¡no puedo con esto! ¡Espabila, 47, o acabaré volviéndome loca!",
+					"ru": "//[DIANA]\\\\//(0,1.85)\\\\О боже, я этого не выдержу!//(1.85,31.85)\\\\Возьми себя в руки, 47-й, иначе я скоро сойду с ума!",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\老天，我没办法应付这个！47，振作起来，否则我就要发疯了！",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\噢天啊，我受不了了！振作點，47，不然我就要瘋了！",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\ああ、もうこれ以上ダメだわ！しっかりして、47。頭がおかしくなりそう！"
+				}
+			}
+		]
+	}
+}

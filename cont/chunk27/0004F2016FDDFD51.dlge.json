@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_016.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_016",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_016.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_016.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That's a win - well done 47.",
+			"fr": "//(0,30)\\\\Belle main, 47.",
+			"it": "//(0,30)\\\\Hai vinto. Ben fatto, 47.",
+			"de": "//(0,30)\\\\Das ist ein Sieg ... Gut gemacht, 47.",
+			"es": "//(0,30)\\\\¡Victoria! Buen trabajo, 47.",
+			"ru": "//(0,30)\\\\Отлично, 47-й. Это победа.",
+			"cn": "//(0,30)\\\\你赢了，干得好，47。",
+			"tc": "//(0,30)\\\\贏了，做得好，47。",
+			"jp": "//(0,30)\\\\勝ちね。よくやったわ、47。"
+		}
+	}
+}

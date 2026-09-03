@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_011.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_011",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_011.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_011.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, your odds are decent - so as long as the price stays low it might be worth calling.",
+			"fr": "//(0,2.828589)\\\\Votre main se défend toujours, 47.//(2.828589,32.82859)\\\\Vous pouvez suivre si le pot ne grossit pas trop.",
+			"it": "//(0,30)\\\\47, le tue probabilità sono buone, quindi finché il prezzo rimane basso potrebbe valere la pena chiamare.",
+			"de": "//(0,2.3)\\\\47, Ihre Chancen sind ordentlich.//(2.3,32.3)\\\\Wenn der Pot klein bleibt, könnte sich ein Call lohnen.",
+			"es": "//(0,30)\\\\47, tienes posibilidades decentes. Mientras la apuesta siga siendo baja, puede que merezca la pena verla.",
+			"ru": "//(0,30)\\\\47-й, у тебя неплохие карты. Пока ставки низкие, можно рискнуть.",
+			"cn": "//(0,30)\\\\47，你的胜算不错——只要跟注成本不高，值得一试。",
+			"tc": "//(0,30)\\\\47，你的勝率不錯，只要賭注不高，或許可以考慮跟注。",
+			"jp": "//(0,2.15)\\\\47、あなたの勝率はまあまあね。//(2.15,32.15)\\\\賭ける額があまり高くなければ、コールしてもいいかもしれないわ。"
+		}
+	}
+}

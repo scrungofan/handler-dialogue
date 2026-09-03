@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2720_targetdown_op.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds2720_targetdown_op_diana_001",
+				"weight": 0.6249999776482569,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2720_targetdown_op_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2720_targetdown_op_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Well done, 47. Let the boys finish this. Your money is being transferred to your account. Time to find an exit.",
+					"fr": "//[DIANA]\\\\//(0,3.498)\\\\Bon travail, 47. Laissez ces charmants garçons s'occuper du reste.//(3.498,33.498)\\\\L'argent a déjà été viré, trouvez une sortie.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Ben fatto, 47. Lascia che se la vedano i ragazzi. Il denaro è in fase di trasferimento sul tuo conto. Ora trova un'uscita.",
+					"de": "//[DIANA]\\\\//(0,3.45)\\\\Gut gemacht, 47. Sollen die Jungs das zu Ende bringen.//(3.45,33.45)\\\\Ihr Geld wird überwiesen. Es wird Zeit, einen Ausgang zu suchen.",
+					"es": "//[DIANA]\\\\//(0,3.5)\\\\Buen trabajo, 47. Dejemos que los chicos arreglen esto.//(3.5,33.5)\\\\El dinero está siendo transferido a tu cuenta, así que es hora de que busques una salida.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Отлично, 47-й. Ребята закончат работу. Деньги уже переведены на твой счет. Пора искать выход.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\干得好，47。让其他人解决吧。我们正在把钱转给你。该找出口了。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\幹得好，47。讓其他人去收尾吧。你的錢已經轉到你帳戶了。是時候找個出口了。",
+					"jp": "//[DIANA]\\\\//(0,3.458)\\\\よくやったわ、47。あとは任せましょ。//(3.458,33.458)\\\\報酬を口座に振り込んでおくわ。出口を探して。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2720_targetdown_op_diana_002",
+				"weight": 0.3749999627470948,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2720_targetdown_op_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2720_targetdown_op_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Well done, 47. Let the boys finish this. Your money is being transferred to your account. Now get the fuck out of there.",
+					"fr": "//[DIANA]\\\\//(0,3.192)\\\\Bon travail, 47. Laissez ces charmants garçons s'occuper du reste.//(3.192,33.192)\\\\L'argent a été viré, donc extirpez vite votre cul d'ici.",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Ben fatto, 47. Lascia che se la vedano i ragazzi. Il denaro è in fase di trasferimento sul tuo conto. Ora trova una cazzo d'uscita.",
+					"de": "//[DIANA]\\\\//(0,3.2)\\\\Gut gemacht, 47. Sollen die Jungs das zu Ende bringen.//(3.2,33.2)\\\\Ihr Geld wird überwiesen. Es wird Zeit, verfickt noch mal abzuhauen.",
+					"es": "//[DIANA]\\\\//(0,3.2)\\\\Buen trabajo, 47. Dejemos que los chicos arreglen esto.//(3.2,33.2)\\\\El dinero está siendo transferido a tu cuenta, así que sal de ahí cagando leches.",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Отлично, 47-й. Ребята закончат работу. Деньги уже переведены на твой счет. Пора валить на хрен оттуда.",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\干得好，47。让其他人解决吧。我们正在把钱转给你。现在赶紧他妈离开那里。",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\幹得好，47。讓其他人去收尾吧。你的錢已經轉到你帳戶了。現在快滾出去。",
+					"jp": "//[DIANA]\\\\//(0,3.377)\\\\よくやったわ、47。あとは任せましょ。//(3.377,33.377)\\\\報酬を口座に振り込んでおくわ。さあ、急いで出口を探して。"
+				}
+			}
+		]
+	}
+}

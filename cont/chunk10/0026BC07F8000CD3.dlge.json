@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34005_cropsdwntrgtdwn.sweetdialog?/ds34005_cropsdwntrgtdwn_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34005_cropsdwntrgtdwn_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34005_cropsdwntrgtdwn_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34005_cropsdwntrgtdwn_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target down. Well done, 47. Expect the payment in your account shortly.",
+			"fr": "//(0,30)\\\\Cible éliminée. Excellent travail, 47. Vous recevrez rapidement le paiement.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Ben fatto, 47. Ti accrediteremo il denaro tra poco.",
+			"de": "//(0,2.66)\\\\Ziel neutralisiert. Gut gemacht, 47.//(2.66,32.66)\\\\Die Zahlung dürfte demnächst auf Ihrem Konto eingehen.",
+			"es": "//(0,2.65)\\\\Objetivo abatido. Buen trabajo, 47.//(2.65,32.65)\\\\Tendrás el dinero en la cuenta en unos instantes.",
+			"ru": "//(0,30)\\\\Цель уничтожена. Отлично, 47-й. Сумма скоро поступит на твой счет.",
+			"cn": "//(0,30)\\\\目标已消灭。干得好，47。钱很快会打到你账上。",
+			"tc": "//(0,30)\\\\目標倒下，做得好，47。款項很快就會入帳。",
+			"jp": "//(0,2.43)\\\\ターゲットダウン。よくやったわ、47。//(2.43,32.43)\\\\まもなく口座に報酬が振り込まれるはずよ。"
+		}
+	}
+}

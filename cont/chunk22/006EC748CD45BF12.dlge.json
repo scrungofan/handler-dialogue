@@ -1,8 +1,8 @@
 {
 	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
 	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12758_alltargetsdown.sweetdialog?/ds12758_alltargetsdown_diana_ws_001.sweetdialogitem].pc_dialogevent",
-	"DITL": "00B7E83B2B5BFE20",
-	"CLNG": "00E3CBB0725ED16C",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
 	"rootContainer": {
 		"type": "WavFile",
 		"wavName": "ds12758_alltargetsdown_diana_ws_001",
@@ -18,7 +18,7 @@
 			"ru": "//(0,8.25)\\\\Это последняя цель, 47-й. Так держать. Но, ты не можешь уйти, пока не разберешься с инфекцией.//(8.25,38.25)\\\\Найди вакцину, которую создал доктор Либляйд.",
 			"cn": "//(0,10)\\\\最后一名目标已被消灭，47。干得不错。不过，你需要先处理好身上的感染才能离开。//(10,14.98773)\\\\你需要找到利布莱德博士制做的疫苗。",
 			"tc": "//(0,30)\\\\最後一名目標已被消滅，47。不錯。 不過，你需要先處理好身上的感染才能離開。你需要找到利布萊德博士制做的疫苗。",
-			"jp": "//(0,30)\\\\今ので 最後よ、 47。 よくやった。 ただし、 あなたが 保有して いるウイルスを なんとかするまで、 脱出するわけには いかない。 リーブリード博士が 作って いたワクチンを 探して。"
+			"jp": "//(0,8.29908)\\\\今ので 最後よ、 47。 よくやった。 ただし、 あなたが 保有して いるウイルスを なんとかするまで、 脱出するわけには いかない。//(8.29908,38.29908)\\\\リーブリード博士が 作って いたワクチンを 探して。"
 		}
 	}
 }

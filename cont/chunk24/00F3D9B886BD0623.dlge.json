@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4314_failbaijulost.sweetdialog?/ds4314_failbaijulost_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4314_failbaijulost_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4314_failbaijulost_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4314_failbaijulost_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.5)\\\\47, Agent Lee has been eliminated from the tournament.//(3.5,5.8)\\\\The mission has failed.//(5.8,35.8)\\\\This is not what I've come to expect from you...",
+			"fr": "//(0,3.564785)\\\\L'agent Lee a été éliminé du tournoi, 47.//(3.564785,33.56479)\\\\La mission est un échec... J'attendais mieux de votre part, je dois l'admettre.",
+			"it": "//(0,30)\\\\47, l'agente Lee è stato eliminato dal torneo. La missione è fallita. Mi aspettavo di meglio da te...",
+			"de": "//(0,5.6)\\\\47, Agent Lee ist nicht mehr im Turnier. Die Mission ist gescheitert.//(5.6,35.6)\\\\Das hatte ich so nicht von Ihnen erwartet ...",
+			"es": "//(0,30)\\\\47, el agente Lee ha sido eliminado del torneo. La misión ha sido un fracaso. No me tienes acostumbrada a esto...",
+			"ru": "//(0,2.828589)\\\\47-й, агент Ли выбыл из турнира.//(2.828589,32.82859)\\\\Задание провалено. Такого я от тебя не ожидала...",
+			"cn": "//(0,30)\\\\47，李特工已被淘汰出比武大会。任务失败。你的表现令我失望......",
+			"tc": "//(0,3.6)\\\\47，李特務已經從比賽中被淘汰了。//(3.6,33.6)\\\\任務失敗。我沒想到你會這樣......",
+			"jp": "//(0,30)\\\\47、エージェント・リーはトーナメントから脱落したわ。任務は失敗。あなたにはもっと期待していたわ..."
+		}
+	}
+}

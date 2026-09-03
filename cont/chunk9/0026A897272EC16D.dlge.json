@@ -1,0 +1,144 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20055_mp_headshot_stone_stone_001",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Guess my recent hunting trips have been paying off.",
+					"fr": "//(0,30)\\\\Mes dernières parties de chasse ont servi, on dirait.",
+					"it": "//(0,30)\\\\A quanto pare le mie ultime battute di caccia sono servite a qualcosa.",
+					"de": "//(0,30)\\\\Schätze, meine letzten Jagdausflüge haben sich ausgezahlt.",
+					"es": "//(0,30)\\\\Veo que has aprendido algo de mis últimas cacerías.",
+					"ru": "//(0,30)\\\\Похоже, не зря я тренировался на охоте.",
+					"cn": "//(0,30)\\\\看来我最近几次猎没有白打。",
+					"tc": "//(0,30)\\\\我看我最近的狩獵之旅還是有幫助的。",
+					"jp": "//(0,30)\\\\最近狩りで腕を鍛えてたのが良かったらしい。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20055_mp_headshot_stone_stone_002",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Don't hate me because I'm good.",
+					"fr": "//(0,30)\\\\Ne me déteste pas parce que je suis bon.",
+					"it": "//(0,30)\\\\Non odiarmi solo perché sono bravo.",
+					"de": "//(0,30)\\\\Kein Neid auf mein Können bitte.",
+					"es": "//(0,30)\\\\No me odies por ser tan bueno.",
+					"ru": "//(0,30)\\\\Завидуй молча.",
+					"cn": "//(0,30)\\\\别因为我太厉害而心生嫉妒哦。",
+					"tc": "//(0,30)\\\\別嫉妒我的才華。",
+					"jp": "//(0,30)\\\\俺が上手いからって憎むなよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20055_mp_headshot_stone_stone_003",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Clean kill.",
+					"fr": "//(0,30)\\\\Une élimination propre.",
+					"it": "//(0,30)\\\\Un'uccisione pulita.",
+					"de": "//(0,30)\\\\Sauberer Abschuss.",
+					"es": "//(0,30)\\\\Una muerte limpia.",
+					"ru": "//(0,30)\\\\Чисто сработано.",
+					"cn": "//(0,30)\\\\这一枪干净利落。",
+					"tc": "//(0,30)\\\\乾淨俐落的擊殺。",
+					"jp": "//(0,30)\\\\命中だ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20055_mp_headshot_stone_stone_004",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\He never saw that coming.",
+					"fr": "//(0,30)\\\\Il ne l'a pas vue venir.",
+					"it": "//(0,30)\\\\Non se l'aspettava.",
+					"de": "//(0,30)\\\\Er hat nichts geahnt.",
+					"es": "//(0,30)\\\\Ni se ha enterado.",
+					"ru": "//(0,30)\\\\Он и моргнуть не успел.",
+					"cn": "//(0,30)\\\\他都不知道自己怎么死的。",
+					"tc": "//(0,30)\\\\他完全沒料到。",
+					"jp": "//(0,30)\\\\気付く間もなかっただろう。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20055_mp_headshot_stone_stone_005",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Quickest way to take them down.",
+					"fr": "//(0,30)\\\\Rien de tel pour les éliminer rapidement.",
+					"it": "//(0,30)\\\\Il modo migliore per farli fuori.",
+					"de": "//(0,30)\\\\Der schnellste Weg, sie auszuschalten.",
+					"es": "//(0,30)\\\\Es el modo más rápido de eliminarlos.",
+					"ru": "//(0,30)\\\\Самый быстрый способ.",
+					"cn": "//(0,30)\\\\这是消灭目标最快的方式。",
+					"tc": "//(0,30)\\\\解決掉他們最快的方法。",
+					"jp": "//(0,30)\\\\最速の方法だ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20055_mp_headshot_stone_stone_006",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\When in doubt, aim for the head.",
+					"fr": "//(0,30)\\\\En cas de doute, toujours viser la tête.",
+					"it": "//(0,30)\\\\In caso di dubbi, mira alla testa.",
+					"de": "//(0,30)\\\\Im Zweifelsfall immer auf den Kopf zielen.",
+					"es": "//(0,30)\\\\En caso de duda, apunta a la cabeza.",
+					"ru": "//(0,30)\\\\Если сомневаешься, целься в голову.",
+					"cn": "//(0,30)\\\\举棋不定时，打头就对了。",
+					"tc": "//(0,30)\\\\有疑慮時就瞄準頭部。",
+					"jp": "//(0,30)\\\\迷ったら、頭を狙う。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20055_mp_headshot_stone_stone_007",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20055_mp_headshot_stone_stone_007.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Never knew what hit him.",
+					"fr": "//(0,30)\\\\Il ne saura jamais ce qui l'a frappé.",
+					"it": "//(0,30)\\\\Non se n'è nemmeno accorto.",
+					"de": "//(0,30)\\\\Das hat er wohl nicht kommen sehen.",
+					"es": "//(0,30)\\\\Ni se ha enterado.",
+					"ru": "//(0,30)\\\\Он даже не понял, что произошло.",
+					"cn": "//(0,30)\\\\他都不知道自己怎么死的。",
+					"tc": "//(0,30)\\\\他怎麼死的都不知道。",
+					"jp": "//(0,30)\\\\何が起きたかも分からなかっただろうな。"
+				}
+			}
+		]
+	}
+}

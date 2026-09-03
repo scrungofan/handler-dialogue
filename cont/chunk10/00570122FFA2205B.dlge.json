@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34009_ms1invite.sweetdialog?/ds34009_ms1invite_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34009_ms1invite_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34009_ms1invite_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34009_ms1invite_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\An invitation to a tour of Cane's production facility, meant for an Elliot Gunk. Interesting.",
+			"fr": "//(0,3.432883)\\\\Une invitation pour la visite des infrastructures de Cane,//(3.432883,33.43288)\\\\au nom d'un certain Elliot Gunk. Intéressant.",
+			"it": "//(0,30)\\\\Un invito a visitare lo stabilimento produttivo di Cane, indirizzato a un certo Elliot Gunk. Interessante.",
+			"de": "//(0,5.5)\\\\Eine Einladung zu einer Führung durch Canes Produktionsanlage, die für Elliot Gunk gedacht ist.//(5.5,35.5)\\\\Interessant.",
+			"es": "//(0,5.14)\\\\Una invitación para la visita a las instalaciones de Cane, a nombre de Elliot Gunk.//(5.5,35.5)\\\\Interesante...",
+			"ru": "//(0,3.38)\\\\Приглашение на экскурсию по фабрике Кейна,//(3.38,5.3)\\\\отправленное Эллиоту Ганку.//(5.3,35.3)\\\\Любопытно.",
+			"cn": "//(0,30)\\\\一份邀请函，邀请艾略特·冈克参观凯恩的生产基地。有意思。",
+			"tc": "//(0,30)\\\\一張給艾略特·岡克的生產設施導覽邀請函......有意思。",
+			"jp": "//(0,30)\\\\ケインの生産施設見学への招待状、エリオット・ガンク宛だわ。興味深いわね。"
+		}
+	}
+}

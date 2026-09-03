@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29763_escaped.sweetdialog?/dh29763_escaped_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dh29763_escaped_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29763_escaped_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29763_escaped_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\We lost them, 47. Our clients won't be pleased.",
+			"fr": "//(0,30)\\\\Nous avons perdu la cible, 47. Nos clients ne seront pas contents.",
+			"it": "//(0,30)\\\\L'abbiamo perso, 47. I nostri clienti non ne saranno felici.",
+			"de": "//(0,1.7)\\\\Wir haben das Ziel verloren, 47.//(1.7,31.7)\\\\Unsere Klienten werden darüber nicht erfreut sein.",
+			"es": "//(0,1.7)\\\\Lo hemos perdido, 47.//(1.7,31.7)\\\\Los clientes no estarán nada contentos...",
+			"ru": "//(0,30)\\\\Мы упустили цель, 47-й. Наши клиенты будут недовольны.",
+			"cn": "//(0,30)\\\\47，目标已逃离。我们让客户失望了。",
+			"tc": "//(0,30)\\\\我們跟丟了他們，47。客戶會不高興的。",
+			"jp": "//(0,30)\\\\逃げられたわ、47。クライアントはかなり怒るでしょうね。"
+		}
+	}
+}

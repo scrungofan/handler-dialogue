@@ -1,0 +1,144 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20074_mp_killstreak_stone_stone_001",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Yes, another one! Knight, are you sleeping over there?",
+					"fr": "//(0,30)\\\\Oui ! Un autre ! Alors, Knight, tu pionces ?",
+					"it": "//(0,30)\\\\Sì, un altro! Knight, ti sei addormentata?",
+					"de": "//(0,30)\\\\Ja, noch einen! Knight, schlafen Sie da drüben etwa?",
+					"es": "//(0,30)\\\\¡Sí! ¡Otro más! Knight, ¿te has quedado dormida o qué?",
+					"ru": "//(0,30)\\\\Да, еще один! Найт, ты там уснула?",
+					"cn": "//(0,30)\\\\爽，又干掉一个！奈特，你睡着了吗？",
+					"tc": "//(0,30)\\\\好，又一個！奈特，你是睡著了嗎？",
+					"jp": "//(0,30)\\\\よし、もう1人！寝てないだろうな、ナイト？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20074_mp_killstreak_stone_stone_002",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Another target down. Are you on early retirement over there, Knight?",
+					"fr": "//(0,30)\\\\Encore une cible supprimée. Déjà à la retraite, Knight ?",
+					"it": "//(0,30)\\\\Un altro bersaglio a terra. Hai deciso di andare in pensione, Knight?",
+					"de": "//(0,30)\\\\Noch ein Ziel am Boden. Sind Sie da drüben schon im Vorruhestand, Knight?",
+					"es": "//(0,30)\\\\Otro objetivo menos. ¿Has decidido coger la jubilación anticipada, Knight?",
+					"ru": "//(0,30)\\\\Еще один готов. Ты решила пораньше выйти на пенсию, Найт?",
+					"cn": "//(0,30)\\\\又干掉一个目标。奈特，你提前退休了吗？",
+					"tc": "//(0,30)\\\\又一個目標倒下了。你是提早退休了嗎，奈特？",
+					"jp": "//(0,30)\\\\ターゲットをもう1人。ナイト、もう撤退したのか？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20074_mp_killstreak_stone_stone_003",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I don't know about you, Knight, but I feel like I'm doing all the work here.",
+					"fr": "//(0,30)\\\\C'est moi, ou tu ne m'aides pas beaucoup, Knight ?",
+					"it": "//(0,30)\\\\Non so te, Knight, ma a me sembra di star facendo tutto da solo.",
+					"de": "//(0,30)\\\\Ich weiß ja nicht, wie es Ihnen geht, Knight, aber ich habe das Gefühl, als ob ich hier die ganze Arbeit mache.",
+					"es": "//(0,30)\\\\No sé tú, Knight, pero yo tengo la sensación de estar haciendo todo el trabajo.",
+					"ru": "//(0,30)\\\\Не знаю как тебе, Найт, но мне кажется, я тут работаю за двоих.",
+					"cn": "//(0,30)\\\\奈特，我不知道你怎么想的，但我感觉干活的只有我一人。",
+					"tc": "//(0,30)\\\\我不知道你是怎麼了，奈特，不過感覺工作都是我在做。",
+					"jp": "//(0,30)\\\\そっちはどうか知らんが、俺1人で仕事してる気がするぞ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20074_mp_killstreak_stone_stone_004",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Whenever you feel ready to contribute to the mission, Knight...",
+					"fr": "//(0,30)\\\\Ne te presse surtout pas pour participer, Knight...",
+					"it": "//(0,30)\\\\Quando ti senti pronta a contribuire alla missione fammelo sapere, Knight...",
+					"de": "//(0,30)\\\\Wenn Sie also auch mal etwas zur Mission beitragen wollen, Knight ...",
+					"es": "//(0,30)\\\\Knight, puedes empezar a colaborar en la misión cuando quieras...",
+					"ru": "//(0,30)\\\\Захочешь поучаствовать в задании, Найт, не стесняйся.",
+					"cn": "//(0,30)\\\\奈特，你啥时候打算为任务出点力啊...",
+					"tc": "//(0,30)\\\\你想幫忙完成任務的話隨時都能開始幫忙，奈特......",
+					"jp": "//(0,30)\\\\任務を遂行する気になったら、いつでも始めてくれ..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20074_mp_killstreak_stone_stone_005",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Mission report's going to have my name all over it.",
+					"fr": "//(0,30)\\\\Le rapport ne parlera que de moi, avec ça.",
+					"it": "//(0,30)\\\\Sul rapporto della missione ci sarà scritto soltanto il mio nome.",
+					"de": "//(0,30)\\\\Mein Name wird überall im Missionsbericht stehen.",
+					"es": "//(0,30)\\\\En el informe de la misión va a aparecer mi nombre por todas partes.",
+					"ru": "//(0,30)\\\\В отчете будет только мое имя.",
+					"cn": "//(0,30)\\\\到时候任务报告里只会看到我的名字了。",
+					"tc": "//(0,30)\\\\任務報告上會寫滿我的名字。",
+					"jp": "//(0,30)\\\\報告書には俺の名前しか載らないぞ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20074_mp_killstreak_stone_stone_006",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Have you given up over there?",
+					"fr": "//(0,30)\\\\Tu as abandonné ?",
+					"it": "//(0,30)\\\\Hai deciso di lasciar perdere?",
+					"de": "//(0,30)\\\\Haben Sie da drüben schon aufgegeben?",
+					"es": "//(0,30)\\\\¿Te has rendido ya?",
+					"ru": "//(0,30)\\\\Ты уже сдалась?",
+					"cn": "//(0,30)\\\\你已经放弃了吗？",
+					"tc": "//(0,30)\\\\你是放棄了嗎？",
+					"jp": "//(0,30)\\\\もう諦めたのか？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20074_mp_killstreak_stone_stone_007",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20074_mp_killstreak_stone_stone_007.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I just can't miss today.",
+					"fr": "//(0,30)\\\\Je ne rate rien, aujourd'hui.",
+					"it": "//(0,30)\\\\Non perdo un colpo oggi.",
+					"de": "//(0,30)\\\\Heute kann ich wohl nicht danebenliegen.",
+					"es": "//(0,30)\\\\Hoy no fallo ni una.",
+					"ru": "//(0,30)\\\\Сегодня я просто не промахиваюсь.",
+					"cn": "//(0,30)\\\\今天我想射偏都难。",
+					"tc": "//(0,30)\\\\我今天真是百發百中啊。",
+					"jp": "//(0,30)\\\\どうも今日は外さないようだな。"
+				}
+			}
+		]
+	}
+}

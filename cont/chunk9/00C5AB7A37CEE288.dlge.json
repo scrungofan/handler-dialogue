@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20078_mp_accidentkill2reaction_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20078_mp_accidentkill2reaction_stone_stone_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20078_mp_accidentkill2reaction_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20078_mp_accidentkill2reaction_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Don't worry, Knight. If you pay attention, you'll be able to pull off something like this in a decade or two.",
+					"fr": "//(0,30)\\\\Ne t'inquiète pas, Knight. Sois attentive, et tu y arriveras peut-être d'ici dix ou vingt ans.",
+					"it": "//(0,5.761473)\\\\Non preoccuparti, Knight. Se fai attenzione, riuscirai anche tu a fare una cosa del genere...//(5.761473,35.76147)\\\\tra dieci o vent'anni.",
+					"de": "//(0,30)\\\\Keine Sorge, Knight. Wenn Sie genau aufpassen, können Sie in zehn oder zwanzig Jahren auch so was durchziehen.",
+					"es": "//(0,30)\\\\No te preocupes, Knight. Si prestas mucha atención, en un par de décadas serás capaz de hacer algo similar.",
+					"ru": "//(0,30)\\\\Не переживай, Найт. Если будешь усердна, то лет через десять-двадцать сможешь так же.",
+					"cn": "//(0,30)\\\\别担心，斯通。如果你勤学苦练，过个一二十年你也能办到这种事。",
+					"tc": "//(0,30)\\\\別擔心，奈特。你要是注意一點，過個幾十年你也能練成這一招。",
+					"jp": "//(0,30)\\\\心配するな、ナイト。しっかり勉強すれば、あと数十年でお前にもできるようになるさ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20078_mp_accidentkill2reaction_stone_stone_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20078_mp_accidentkill2reaction_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20078_mp_accidentkill2reaction_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Living proof that hours at the range pay off eventually.",
+					"fr": "//(0,30)\\\\La preuve irréfutable que les heures d'entraînement paient.",
+					"it": "//(0,30)\\\\Ecco la prova vivente del fatto che vale la pena di passare tante ore al poligono.",
+					"de": "//(0,30)\\\\Der lebende Beweis, dass sich die ganze Zeit auf dem Schießstand auch lohnt.",
+					"es": "//(0,30)\\\\Pues las horas invertidas en el campo de tiro han merecido la pena.",
+					"ru": "//(0,30)\\\\Яркое доказательство того, что время на стрельбище потрачено не зря.",
+					"cn": "//(0,30)\\\\在靶场漫长的训练终于没有白费，我就是活生生的例子。",
+					"tc": "//(0,30)\\\\我證明了在靶場練習是有效果的。",
+					"jp": "//(0,30)\\\\毎日の射撃訓練の成果だな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20078_mp_accidentkill2reaction_stone_stone_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20078_mp_accidentkill2reaction_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20078_mp_accidentkill2reaction_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Improv is useful when applied in moderation, Knight.",
+					"fr": "//(0,30)\\\\Vas-y doucement sur l'improvisation, Knight.",
+					"it": "//(0,30)\\\\Improvvisare è utile se lo si fa con moderazione, Knight.",
+					"de": "//(0,30)\\\\In Maßen ist das Improvisieren angebracht, Knight.",
+					"es": "//(0,30)\\\\La improvisación es buena si se usa con moderación, Knight.",
+					"ru": "//(0,30)\\\\Импровизация полезна в меру, Найт.",
+					"cn": "//(0,30)\\\\适当随机应变是有好处的，奈特。",
+					"tc": "//(0,30)\\\\適量的隨機應變是非常有用的，奈特。",
+					"jp": "//(0,30)\\\\即興もほどほどにすれば有効なんだよ。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34017_ms3helporhurt.sweetdialog?/ds34017_ms3helporhurt_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34017_ms3helporhurt_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34017_ms3helporhurt_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34017_ms3helporhurt_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\There's our journalist. Taking him down could be a way to get close to Cane. Then again, so could working with him.",
+			"fr": "//(0,1.4)\\\\Voilà notre journaliste...//(1.4,4.9)\\\\Son élimination vous rapprochera instantanément de Cane,//(4.9,34.9)\\\\mais collaborer avec lui également.",
+			"it": "//(0,1.3)\\\\Ecco il nostro giornalista.//(1.3,31.3)\\\\Se lo elimini, potresti avvicinarti a Cane. Ma anche collaborare con lui potrebbe essere un'idea.",
+			"de": "//(0,1.45)\\\\Da ist unser Journalist.//(1.65,4.9)\\\\Ihn auszuschalten, könnte ein Weg sein, um nah an Cane heranzukommen.//(5.2,35.2)\\\\Allerdings ginge dies vielleicht auch mit einer Zusammenarbeit.",
+			"es": "//(0,1.4)\\\\Ahí está nuestro periodista.//(1.65,4.8)\\\\Si lo inmovilizas, quizá logres acercarte a Cane.//(5.2,35.2)\\\\Colaborar con el periodista también puede valer.",
+			"ru": "//(0,1.61)\\\\А вот и наш журналист.//(1.61,5.3)\\\\Нейтрализовав его, ты сможешь подобраться к Кейну.//(5.3,35.3)\\\\Как, впрочем, и помогая ему.",
+			"cn": "//(0,5.2)\\\\那就是我们要找的记者。想办法制伏他，就能借机接近凯恩。//(5.2,35.2)\\\\不过话说回来，和他合作也是个办法。",
+			"tc": "//(0,30)\\\\我們的記者就在那邊。制伏他可以是一個接近凱恩的途徑，不過跟他合作也未嘗不可。",
+			"jp": "//(0,1.418)\\\\あそこに目標の記者がいるわ。//(1.418,5.155)\\\\彼を潰せば、ケインに近づく手立てになるかもしれないわ。//(5.155,35.155)\\\\とはいえ、彼と協力するという手もあるわね。"
+		}
+	}
+}

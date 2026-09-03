@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4305_bgbssid.sweetdialog?/ds4305_bgbssid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4305_bgbssid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4305_bgbssid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4305_bgbssid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.1)\\\\That... is Jiaolong Wu, leader of Concord Union//(4.1,7.62)\\\\and a man of considerable criminal influence.//(7.62,10.7)\\\\If Lee could get close to him somehow, it could be//(10.7,13.6)\\\\an opportunity to cut off the organization's head//(13.6,43.6)\\\\before he even infiltrates...",
+			"fr": "//(0,4.1)\\\\Voilà Jiaolong Wu, le chef de Concord Union.//(4.1,7.45)\\\\C'est un homme dont l'influence criminelle dépasse les frontières...//(7.45,9.706257)\\\\Si Lee parvient à s'en approcher,//(9.706257,39.70626)\\\\il aurait une chance de trancher la tête de l'organisation avant même de l'avoir infiltrée.",
+			"it": "//(0,30)\\\\Quello è Jiaolong Wu, leader supremo della Concord Union e personaggio di spicco nel panorama criminale. Se Lee riuscisse ad avvicinarlo, potrebbe essere l'occasione per tagliare la testa all'organizzazione prima ancora di infiltrarsi...",
+			"de": "//(0,7.4)\\\\Das ... ist Jiaolong Wu, Anführer des Eintrachtsbunds und jemand mit ungeheurem kriminellen Einfluss.//(7.4,11.5)\\\\Wenn Lee irgendwie an ihn herankommen könnte, wäre das eine Gelegenheit,//(11.5,41.5)\\\\der Organisation den Kopf abzuschlagen, noch bevor er sie überhaupt infiltriert hat ...",
+			"es": "//(0,30)\\\\Ese... es Jiaolong Wu, líder de Concord Union y un hombre con una influencia considerable en el mundo criminal. Si Lee logra acercarse a él, podría ser una oportunidad para cortarle la cabeza a la organización antes siquiera de infiltrarse...",
+			"ru": "//(0,7.8)\\\\Это... Цзяолун У, лидер «Конкорд Юнион» и крупный криминальный авторитет.//(7.8,10.3)\\\\Если Ли удастся каким-то образом к нему подобраться,//(10.3,40.3)\\\\агент сможет обезглавить организацию, даже не внедряясь в нее...",
+			"cn": "//(0,30)\\\\那人......就是吴蛟龙，和联社的头目，拥有强大的犯罪影响力。若李特工能设法靠近他，说不定就有机会直接来个斩首行动，而不用大费周章地搞渗透了......",
+			"tc": "//(0,4.1)\\\\那是......吳蛟龍，協和聯會的領袖，//(4.1,7.7)\\\\一個具有相當大犯罪影響力的人物。//(7.7,10.2)\\\\如果李特務能設法接近他，//(10.2,40.2)\\\\這或許是個在他滲透前就斬草除根的機會......",
+			"jp": "//(0,30)\\\\あの男は... コンコード連合のリーダー、ジャオロン・ウー。犯罪世界において、相当な影響力を持っているわ。リーが何とか彼に近づければ、組織に潜入する前にリーダーを排除する好機となるかもしれないわね..."
+		}
+	}
+}

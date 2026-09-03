@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02.sweetdialog?/ds2717_puzzlefinal02_et_belini_004.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2717_puzzlefinal02_et_belini_004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02_et_belini_004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02_et_belini_004.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\What happened? I could see and hear, but no communication...",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\Qu'est-ce que c'était ? Je voyais, j'entendais, mais impossible de communiquer...",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Cos'è successo? Riuscivo a vedere e sentire tutto, ma non a comunicare...",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Was war los? Ich konnte alles sehen und hören, aber mich nicht verständigen ...",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\¿Qué ha pasado? Podía veros y oíros, pero no comunicarme con vosotros...",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Что случилось? Я все видел и слышал, но не мог говорить...",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\出什么事了？我能看到听到，但没有交流......",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\發生了什麼事？我能看到也能聽到，但無法通訊......",
+			"jp": "//[ET_BELINI]\\\\//(0,2.477)\\\\何が起きたんだ？見たり、聞いたりすることはできたけど、//(2.477,32.477)\\\\コミュニケーションを取ることができなかった..."
+		}
+	}
+}

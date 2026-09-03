@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41885_slherb47.sweetdialog?/dr41885_slherb47_h_e_r_b__001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41885_slherb47_h_e_r_b__001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41885_slherb47_h_e_r_b__001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41885_slherb47_h_e_r_b__001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.082883)\\\\Sorry it's not very cozy, we weren't expecting people.//(3.082883,33.08288)\\\\It's been years since Zachary left. It's fine! I'm fine.",
+			"fr": "//(0,3.1)\\\\Désolé, nous n'attentions pas de visites, c'est un peu le bazar...//(3.1,5.2)\\\\Cela fait des années que Zachary est parti.//(5.2,35.2)\\\\Mais tout va bien ! Je vais bien.",
+			"it": "//(0,3.21908)\\\\Mi dispiace che non sia molto accogliente, non ci aspettavamo ospiti.//(3.21908,33.21908)\\\\Sono passati anni da quando Zachary se n'è andato. Ma va tutto bene! Sto bene.",
+			"de": "//(0,3.005)\\\\Entschuldigung, dass es nicht sehr gemütlich ist. Wir hatten nicht mit Besuch gerechnet.//(3.005,33.005)\\\\Es ist schon Jahre her, seit Zachary fortging. Es ist in Ordnung! Ich bin in Ordnung.",
+			"es": "//(0,5.1)\\\\Lamento que esté todo patas arriba, no esperábamos visitas. Hace años que Zachary se fue.//(5.1,35.1)\\\\¡No pasa nada! Estoy bien.",
+			"ru": "//(0,3.196687)\\\\Извиняюсь за беспорядок, мы не ждали гостей.//(3.196687,33.19669)\\\\Закари уже много лет сюда не заходил. Но все в порядке! Я в порядке.",
+			"cn": "//(0,3.4)\\\\抱歉招待不周，我们并没想过会有人类到来。//(3.4,33.4)\\\\自从扎切里离开这里已经过去很多年了。没关系！我没事。",
+			"tc": "//(0,30)\\\\抱歉，這裡不太舒服，我們沒想到會有人來。札卡里離開已經很多年了。我沒事的！我還行。",
+			"jp": "//(0,3.239)\\\\あまり居心地が良くなくて申し訳ありません。 人が来るとは思っていなかったので。//(3.239,5.347)\\\\ザカリーが去ってから何年も経つんです。//(5.347,35.347)\\\\いえ、私は大丈夫ですよ！"
+		}
+	}
+}

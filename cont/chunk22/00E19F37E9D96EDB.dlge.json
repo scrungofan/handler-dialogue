@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2706_thrpyphonecall.sweetdialog?/ds2706_thrpyphonecall_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2706_thrpyphonecall_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2706_thrpyphonecall_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2706_thrpyphonecall_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Interesting. Weaponized music? This \"testing\" session could be worth attending.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Intéressant. De la musique nocive... Cela pourrait valoir le coup de participer à ce \"test\".",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Interessante. Musica trasformata in arma? Potrebbe valere la pena partecipare alla sessione di \"test\".",
+			"de": "//[DIANA]\\\\//(0,3.1)\\\\Interessant. Waffenfähige Musik?//(3.1,33.1)\\\\Es könnte sich lohnen, an dieser „Test“-Sitzung teilzunehmen.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Qué interesante. ¿Música armamentística? Puede que merezca la pena asistir a esta sesión «de pruebas».",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Любопытно. Музыка в роли оружия? Не стоит пропускать этот сеанс «испытаний».",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\有意思。武器化音乐？这次“测试”疗程倒是值得参加。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\有趣。音樂武器化？這場「測試」會議或許值得參加。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\音楽を兵器化？興味深いわね。実験セッションに参加する価値があるかも。"
+		}
+	}
+}

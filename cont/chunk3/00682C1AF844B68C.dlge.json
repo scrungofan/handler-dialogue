@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab.sweetdialog?/ds41829_dscvrlab_diana_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41829_dscvrlab_diana_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_diana_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_diana_005.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\And... And you can hear me?",
+			"fr": "//(0,2)\\\\Et...//(2,32)\\\\tu peux m'entendre ?",
+			"it": "//(0,30)\\\\E puoi... sentirmi?",
+			"de": "//(0,30)\\\\Und du kannst mich ... hören?",
+			"es": "//(0,30)\\\\¿Y... puedes oírme?",
+			"ru": "//(0,30)\\\\Ты меня... слышишь?",
+			"cn": "//(0,30)\\\\你能......听到我说话？",
+			"tc": "//(0,30)\\\\你能......聽見我？",
+			"jp": "//(0,30)\\\\私たちのことが... 聞こえるの？"
+		}
+	}
+}

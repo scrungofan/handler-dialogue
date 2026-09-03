@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41835_etherlckdwn.sweetdialog?/ds41835_etherlckdwn_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41835_etherlckdwn_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41835_etherlckdwn_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41835_etherlckdwn_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Ether's backup has arrived. They're locking down the manor – plan accordingly, 47.",
+			"fr": "//(0,1.5)\\\\Les renforts d'Ether sont arrivés.//(1.5,31.5)\\\\Ils vont placer le manoir en quarantaine... Adaptez-vous, 47.",
+			"it": "//(0,30)\\\\Sono arrivati i rinforzi della Ether. Stanno isolando il maniero. Prendi le dovute precauzioni, 47.",
+			"de": "//(0,3.044785)\\\\Ether-Unterstützung ist eingetroffen. Sie riegelt das Herrenhaus ab.//(3.044785,33.04478)\\\\Planen Sie entsprechend, 47.",
+			"es": "//(0,30)\\\\Han llegado los refuerzos de Ether. Van a cerrar la mansión, así que planifica en consonancia, 47.",
+			"ru": "//(0,1.5)\\\\Прибыли подкрепления «Эфира».//(1.5,31.5)\\\\Они занимают особняк, имейте это в виду, 47-й.",
+			"cn": "//(0,30)\\\\苍穹公司的增援部队来了。他们正在封锁庄园——做好准备，47。",
+			"tc": "//(0,30)\\\\乙太的支援已經到。他們正在封鎖庄園—— 根據計劃行事，47。",
+			"jp": "//(0,30)\\\\エーテルの援軍が到着したわ。彼らは屋敷を封鎖してる。47、慎重にね。"
+		}
+	}
+}

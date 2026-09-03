@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4306_assn1down.sweetdialog?/ds4306_assn1down_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4306_assn1down_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4306_assn1down_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4306_assn1down_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.6)\\\\Well done, 47. Roland Chau has been eliminated,//(3.6,33.6)\\\\and no longer poses a risk to Agent Lee.",
+			"fr": "//(0,30)\\\\Bon travail, 47. Roland Chau a été éliminé et ne présente plus de risque pour l'agent Lee.",
+			"it": "//(0,30)\\\\Bravo, 47. Roland Chau è stato eliminato e non rappresenta più un rischio per l'agente Lee.",
+			"de": "//(0,30)\\\\Gut gemacht, 47. Roland Chau wurde eliminiert und stellt kein Risiko mehr für Agent Lee dar.",
+			"es": "//(0,30)\\\\Buen trabajo, 47. Roland Chau ha sido eliminado y ya no supone una amenaza para el agente Lee.",
+			"ru": "//(0,1.356196)\\\\Отлично, 47-й.//(1.356196,31.3562)\\\\Роланд Чау устранен и больше не представляет угрозы агенту Ли.",
+			"cn": "//(0,30)\\\\干得好，47。罗兰·周已被消灭，他无法对李特工构成威胁了。",
+			"tc": "//(0,3.7)\\\\做得好，47。周羅蘭已經被消滅，//(3.7,33.7)\\\\不再對李特務構成威脅。",
+			"jp": "//(0,30)\\\\よくやったわ、47。ローランド・チャウは排除され、エージェント・リーへの脅威はなくなったわ。"
+		}
+	}
+}

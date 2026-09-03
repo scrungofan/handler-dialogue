@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4319_assn1idalt.sweetdialog?/ds4319_assn1idalt_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4319_assn1idalt_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4319_assn1idalt_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4319_assn1idalt_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.432883)\\\\That... is Roland Chau, one of today's tournament contestants.//(4.432883,34.43288)\\\\They may pose a risk to the mission.",
+			"fr": "//(0,30)\\\\Voici... Roland Chau, l'un des combattants du jour qui pourrait mettre en péril la mission.",
+			"it": "//(0,30)\\\\Quello è... Roland Chau. Parteciperà al torneo di oggi e potrebbe rappresentare un rischio per la missione.",
+			"de": "//(0,30)\\\\Das ... ist Roland Chau, einer der Teilnehmer des heutigen Turniers, der für die Mission gefährlich werden könnte.",
+			"es": "//(0,30)\\\\Ese... es Roland Chau, uno de los participantes del torneo de hoy que podrían suponer un problema para la misión.",
+			"ru": "//(0,30)\\\\Это... Роланд Чау, один из участников сегодняшнего турнира, представляющий потенциальную угрозу.",
+			"cn": "//(0,30)\\\\那人......就是罗兰·周，也是今天的一名参会选手，且可能会对任务构成威胁。",
+			"tc": "//(0,30)\\\\那......是羅蘭．周，今天錦標賽的參賽者之一，可能會對任務構成風險。",
+			"jp": "//(0,30)\\\\あれは... ローランド・チャウ。トーナメント出場者の一人であり、任務に脅威をもたらす可能性があるわ。"
+		}
+	}
+}

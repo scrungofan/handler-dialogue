@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2708_subcnshintpost.sweetdialog?/ds2708_subcnshintpost_et_belini_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2708_subcnshintpost_et_belini_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2708_subcnshintpost_et_belini_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2708_subcnshintpost_et_belini_001.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\Man, he's such an asshole...",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\C'est un gros connard, quand même...",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Cavolo, è proprio un idiota...",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Mann, er ist so ein Arschloch ...",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\Tío, es que es un capullo de la hostia...",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Ох, какой же он говнюк...",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\老天，他简直是个超级混蛋......",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\老天，他真是個王八蛋......",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\ちっ、本当にクソ野郎だぜ..."
+		}
+	}
+}

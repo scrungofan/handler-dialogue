@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat.sweetdialog?/ds41837_herbchat_diana_010.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41837_herbchat_diana_010",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_diana_010.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_diana_010.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Well, that takes care of that. I... I'm not used to such an emotional reaction, I must say.",
+			"fr": "//(0,2.55)\\\\Bon, eh bien voilà qui est fait.//(3.95,33.95)\\\\Je dois avouer que... je n'ai guère l'habitude de ce genre de réaction émotionnelle.",
+			"it": "//(0,2.978589)\\\\Beh, e anche questa è risolta.//(2.978589,32.97859)\\\\Devo ammettere che... non sono abituata a reazioni così emotive.",
+			"de": "//(0,2.260491)\\\\So, damit wäre das erledigt.//(3.210491,33.21049)\\\\Ich ... bin solche Gefühlsausbrüche nicht gewohnt, muss ich sagen.",
+			"es": "//(0,2.5)\\\\Bueno, pues una cosa menos.//(3.9,33.9)\\\\He de admitir que... no estoy acostumbrada a una reacción tan emocional.",
+			"ru": "//(0,3.1)\\\\Что ж, с этим разобрались.//(3.1,33.1)\\\\Я... не привыкла к таким эмоциональным реакциям, честно сказать.",
+			"cn": "//(0,30)\\\\嗯，这样就行了。说实话......我还不太习惯这种情绪化的反应。",
+			"tc": "//(0,30)\\\\嗯，這就解決了。 我......不得不說，我太不習慣如此情緒化的反應。",
+			"jp": "//(0,2.77)\\\\まあ、これで一件落着ね。//(2.77,32.77)\\\\まさか... そこまで感情的な反応をするとはね。 こういうのには慣れていないわ。"
+		}
+	}
+}

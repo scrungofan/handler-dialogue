@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41834_targetdownvirus.sweetdialog?/ds41834_targetdownvirus_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41834_targetdownvirus_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41834_targetdownvirus_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41834_targetdownvirus_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target down. Lilith Devereux is no more, but we still need to contain the virus.",
+			"fr": "//(0,7.377668)\\\\Cible éliminée. Lilith Devereux n'est plus de ce monde, mais il reste encore à contenir le virus.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Lilith Devereux non c'è più, ma dobbiamo ancora contenere il virus.",
+			"de": "//(0,30)\\\\Ziel neutralisiert. Lilith Devereux war einmal, doch wir müssen immer noch das Virus eindämmen.",
+			"es": "//(0,30)\\\\Objetivo abatido. Lilith Devereux es historia, pero aún tenemos que contener el virus.",
+			"ru": "//(0,1.236196)\\\\Цель устранена.//(1.236196,31.2362)\\\\С Лилит Деверье покончено, но вирус до сих пор на свободе.",
+			"cn": "//(0,30)\\\\目标已消灭。莉莉丝·德弗鲁已死，但我们还需要隔离病毒。",
+			"tc": "//(0,30)\\\\目標已被消滅莉莉絲·德維洛已經不在了，但我們仍然需要控制病毒。",
+			"jp": "//(0,1.177)\\\\ターゲット排除。//(1.177,31.177)\\\\リリス・デヴルーはもういないけど、 まだウイルスを封じ込めないといけないわ。"
+		}
+	}
+}

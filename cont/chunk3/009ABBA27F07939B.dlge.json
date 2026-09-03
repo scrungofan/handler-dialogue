@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab.sweetdialog?/ds41829_dscvrlab_h_e_r_b__004.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41829_dscvrlab_h_e_r_b__004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_h_e_r_b__004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_h_e_r_b__004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Oh, I should introduce myself! I am H. E. R. B. , resident intelligence system here at the lab.",
+			"fr": "//(0,1.5)\\\\Pardon, je ne me suis pas présenté !//(1.5,31.5)\\\\Je suis HERB, l'intelligence artificielle du laboratoire.",
+			"it": "//(0,30)\\\\Oh, non mi sono presentato! Io sono H. E. R. B. , il sistema di intelligenza artificiale di questo laboratorio.",
+			"de": "//(0,30)\\\\Oh, ich sollte mich vorstellen! Ich bin H. E. R. B. , das Intelligenzsystem hier im Labor.",
+			"es": "//(0,30)\\\\Ay, permitid que me presente. Soy H. E. R. B. , el sistema de inteligencia residente del laboratorio.",
+			"ru": "//(0,1.3)\\\\Ох, позвольте представиться!//(1.3,31.3)\\\\Я ГЕРБ, система искусственного интеллекта лаборатории.",
+			"cn": "//(0,30)\\\\噢，我应该先自我介绍一下的！我是H.E.R.B.，实验室的本地智能系统。",
+			"tc": "//(0,30)\\\\哦，我應該自我介紹一下！我是 H. E. R. B. ，實驗室的智慧型系統。",
+			"jp": "//(0,1.597)\\\\ああ、自己紹介が遅れました。//(1.597,31.597)\\\\私はH. E. R. B. 、この研究所の人工知能システムです。"
+		}
+	}
+}

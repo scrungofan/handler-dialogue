@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach.sweetdialog?/dr41894_slbreach_h_e_r_b__003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41894_slbreach_h_e_r_b__003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach_h_e_r_b__003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach_h_e_r_b__003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.340491)\\\\What's with the security breach?//(2.340491,32.34049)\\\\I thought we were friends... Now I've got to kill you. That's awful.",
+			"fr": "//(0,2.5)\\\\Une faille de sécurité ?//(2.5,3.9)\\\\Mais je pensais que nous étions amis...//(3.9,33.9)\\\\Je dois vous tuer, maintenant. Quel dommage.",
+			"it": "//(0,30)\\\\Cos'è questa falla nella sicurezza? Pensavo fossimo amici... Ora dovrò eliminarti. È terribile.",
+			"de": "//(0,30)\\\\Was ist mit dem Sicherheitsverstoß? Ich dachte, wir wären Freunde ... Jetzt muss ich Sie töten. Wie grässlich.",
+			"es": "//(0,2.3)\\\\¿A qué viene esta brecha de seguridad?//(2.3,32.3)\\\\Creía que éramos amigos... Ahora voy a tener que matarte. Qué horror.",
+			"ru": "//(0,2.340491)\\\\Ну зачем было нарушать карантин?//(2.340491,3.9)\\\\Я думал, что мы друзья...//(3.9,33.9)\\\\Теперь мне придется вас убить. Какая досада.",
+			"cn": "//(0,2.5)\\\\安全入侵是怎么回事？//(2.5,32.5)\\\\我还以为我们是朋友......现在我只能杀了你们。太糟糕了。",
+			"tc": "//(0,30)\\\\安全漏洞是怎麼回事？我還以為我們是朋友......現在我必須殺了你。太糟糕了。",
+			"jp": "//(0,3.938)\\\\セキュリティ侵害？なぜですか？友達だと思ってたのに...//(3.938,33.938)\\\\あなたを殺さないといけないじゃないですか。なんということでしょう。"
+		}
+	}
+}

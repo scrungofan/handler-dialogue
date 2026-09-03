@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_014.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_014",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_014.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_014.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Your odds just went down, 47. Consider how you want to proceed.",
+			"fr": "//(0,2.1)\\\\Votre main vient de perdre en force, 47.//(2.1,32.1)\\\\Réfléchissez bien à ce que vous voulez faire.",
+			"it": "//(0,30)\\\\Le tue probabilità di vittoria sono appena scese, 47. Pensa bene a come vuoi procedere.",
+			"de": "//(0,2.25)\\\\Ihre Chancen sind gerade gesunken, 47.//(2.25,32.25)\\\\Überdenken Sie Ihr Vorgehen.",
+			"es": "//(0,30)\\\\Han bajado tus posibilidades, 47. Piensa bien cómo quieres proceder.",
+			"ru": "//(0,30)\\\\Шансы ухудшились, 47-й. Подумай, как действовать.",
+			"cn": "//(0,30)\\\\你的胜率刚刚下降了，47。慎重考虑下一步行动。",
+			"tc": "//(0,30)\\\\你的勝率降低了，47。好好考慮下一步。",
+			"jp": "//(0,30)\\\\47、勝率が下がったわ。慎重に進んでね。"
+		}
+	}
+}

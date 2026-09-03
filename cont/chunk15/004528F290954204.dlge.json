@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29756_rplcquinn.sweetdialog?/dh29756_rplcquinn_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dh29756_rplcquinn_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29756_rplcquinn_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29756_rplcquinn_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.208589)\\\\47. You need to protect Quinn.//(3.208589,5.6)\\\\I suggest you break up the round and lure him away//(5.6,7.75)\\\\from the cage so you can \"help\" him//(7.75,37.75)\\\\by invoking The Right of Second.",
+			"fr": "//(0,3.2)\\\\Vous devez protéger Quinn, 47.//(3.2,4.85)\\\\Je vous suggère d'interrompre le round//(4.85,7.8)\\\\et de l'attirer hors de la cage pour « l'aider »//(7.8,37.8)\\\\en invoquant le droit de remplacement.",
+			"it": "//(0,3.2)\\\\47. Devi proteggere Quinn.//(3.2,6.2)\\\\Ti consiglio di interrompere il round e attirarlo lontano dalla gabbia.//(6.2,36.2)\\\\In questo modo potrai \"aiutarlo\" invocando il Diritto di sostituzione.",
+			"de": "//(0,3)\\\\47. Sie müssen Quinn schützen.//(3,6.3)\\\\Ich schlage vor, Sie unterbrechen die Runde und locken ihn vom Käfig weg,//(6.3,36.3)\\\\damit Sie sich auf das Sekundantenanrecht berufen und ihm „helfen“ können.",
+			"es": "//(0,3.2)\\\\47, tienes que proteger a Quinn.//(3.2,6.2)\\\\Te sugiero que detengas el asalto y lo hagas salir de la jaula//(6.2,36.2)\\\\para intentar «ayudarlo» invocando el derecho de reemplazo.",
+			"ru": "//(0,2.8)\\\\47-й, ты должен защитить Куинна.//(3.2,6.2)\\\\Рекомендую прервать раунд, увести его подальше от ринга//(6.2,36.2)\\\\и «оказать помощь» через его право на секунданта.",
+			"cn": "//(0,3.2)\\\\47。你需要保护奎恩。//(3.2,6.2)\\\\我建议你中止回合，把他从擂台上引开，//(6.2,36.2)\\\\这样你就可以援引“代打权”来“帮助”他了。",
+			"tc": "//(0,3)\\\\47，你需要保護奎恩才行。//(3,33)\\\\我建議你想辦法中斷比賽，讓他離開鐵籠，這樣你才能行使替身權來「幫助」他。",
+			"jp": "//(0,2.975)\\\\47。クインを守らないといけないわ。//(2.975,6.325)\\\\ラウンドを終わらせて、彼をケージから離れるようにして。//(6.325,36.325)\\\\そうすれば、「セコンド権」を行使することによって彼を「助ける」ことができるわ。"
+		}
+	}
+}

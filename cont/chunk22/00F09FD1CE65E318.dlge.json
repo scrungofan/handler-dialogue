@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02.sweetdialog?/ds2717_puzzlefinal02_diana_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2717_puzzlefinal02_diana_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02_diana_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02_diana_005.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Only the depths of your dreamscape can explain that.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Cela, seuls les tréfonds de votre esprit pourront l'expliquer.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Solo le profondità del suo mondo onirico possono spiegarlo.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Nur die Tiefen Ihrer Traumwelt können das erklären.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Solo las profundidades de tu mundo onírico pueden explicarlo.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Объяснение этому сокрыто в глубине ваших снов.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\只有你梦境的深渊能解释这一点。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\這只有你夢境的深處才能解釋了。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\その答えは、あなたの夢の世界の奥底に行かないとわからないわ。"
+		}
+	}
+}

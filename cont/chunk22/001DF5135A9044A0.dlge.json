@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02.sweetdialog?/ds2717_puzzlefinal02_et_belini_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2717_puzzlefinal02_et_belini_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02_et_belini_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02_et_belini_002.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\Miss B? Where the fuck are you?",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\Miss B ? Vous êtes où, bordel ?",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Signorina B? Dove cazzo sei?",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Miss B? Wo zum Teufel sind Sie?",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\¿Señorita B? ¿Dónde coño estás?",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Мисс Б? Черт, куда вы пропали?",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\B女士？你他妈在哪？",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\B 小姐？你他媽的在哪？",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\ダイアナ？一体どこにいるんだ？"
+		}
+	}
+}

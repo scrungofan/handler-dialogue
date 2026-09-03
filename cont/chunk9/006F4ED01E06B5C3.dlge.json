@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20116_mp_targetsremaining3_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20116_mp_targetsremaining3_knight_knight_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20116_mp_targetsremaining3_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20116_mp_targetsremaining3_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Almost there, Stone. Three baddies left.",
+					"fr": "//(0,30)\\\\Tu y es presque, Stone. Encore trois ennemis.",
+					"it": "//(0,30)\\\\È quasi fatta, Stone. Rimangono tre cattivi.",
+					"de": "//(0,30)\\\\Bald ist es geschafft, Stone. Drei böse Buben übrig.",
+					"es": "//(0,30)\\\\Casi has terminado, Stone. Quedan tres malos.",
+					"ru": "//(0,30)\\\\Почти готово, Стоун. Еще три злодея.",
+					"cn": "//(0,30)\\\\还差一点了，斯通。剩下三个坏蛋。",
+					"tc": "//(0,30)\\\\快完成了，斯通。剩三個壞蛋。",
+					"jp": "//(0,30)\\\\もう少しだわ。残りあと3人よ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20116_mp_targetsremaining3_knight_knight_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20116_mp_targetsremaining3_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20116_mp_targetsremaining3_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Three tangos left to dance with, Stone.",
+					"fr": "//(0,30)\\\\Encore trois tangos à emmener danser, Stone.",
+					"it": "//(0,30)\\\\Restano in pista ancora tre bersagli, Stone.",
+					"de": "//(0,30)\\\\Drei Zulus wollen noch tanzen, Stone.",
+					"es": "//(0,30)\\\\Solo te quedan tres amiguitos para jugar, Stone.",
+					"ru": "//(0,30)\\\\Осталось разобраться еще с троими, Стоун.",
+					"cn": "//(0,30)\\\\还剩下三个要料理的目标，斯通。",
+					"tc": "//(0,30)\\\\剩下三個目標，斯通。",
+					"jp": "//(0,30)\\\\ターゲットは残り3人よ、ストーン。"
+				}
+			}
+		]
+	}
+}

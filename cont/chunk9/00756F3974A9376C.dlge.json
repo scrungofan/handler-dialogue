@@ -1,0 +1,106 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20060_mp_headshotstreak_stone_stone_001",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good thing we're not in a competition here, Knight.",
+					"fr": "//(0,30)\\\\Heureusement que ce n'est pas un concours, Knight.",
+					"it": "//(0,30)\\\\Meno male che non stiamo facendo una gara, Knight.",
+					"de": "//(0,30)\\\\Gut, dass wir nicht im Wettbewerb miteinander liegen, Knight.",
+					"es": "//(0,30)\\\\Menos mal que esto no es una competición, Knight.",
+					"ru": "//(0,30)\\\\Хорошо, что мы сейчас не соревнуемся, да, Найт?",
+					"cn": "//(0,30)\\\\奈特，还好我们没在比赛。",
+					"tc": "//(0,30)\\\\還好我們沒有在比槍法，奈特。",
+					"jp": "//(0,30)\\\\俺が味方で良かったな、ナイト。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20060_mp_headshotstreak_stone_stone_002",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Well, I guess we know what my favorite body part is.",
+					"fr": "//(0,30)\\\\Je crois qu'on sait tous les deux quelle partie du corps je préfère.",
+					"it": "//(0,30)\\\\Beh, ormai l'hanno capito tutti qual è la mia parte del corpo preferita.",
+					"de": "//(0,30)\\\\Tja, ich schätze, wir wissen, welches mein Lieblingskörperteil ist.",
+					"es": "//(0,30)\\\\Bueno, pues está claro cuál es mi parte favorita del cuerpo.",
+					"ru": "//(0,30)\\\\Похоже, мы выяснили, какую часть тела я люблю больше всего.",
+					"cn": "//(0,30)\\\\嗯，现在我们都知道我最喜欢打的是哪个部位了吧。",
+					"tc": "//(0,30)\\\\嗯，我看我知道我最喜歡的身體部位是哪裡了。",
+					"jp": "//(0,30)\\\\俺が惹かれるパーツがどこかは明確だな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20060_mp_headshotstreak_stone_stone_003",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'm cracking a lot of eggs here, Knight.",
+					"fr": "//(0,30)\\\\Je suis en train de casser beaucoup d'œufs.",
+					"it": "//(0,30)\\\\Sto fracassando un bel po' di zucche, Knight.",
+					"de": "//(0,30)\\\\Ich sorge hier für eine ganze Menge kaputter Köpfe, Knight.",
+					"es": "//(0,30)\\\\Estoy abriendo la mente de mucha gente, Knight.",
+					"ru": "//(0,30)\\\\Прострелил несколько черепушек, Найт.",
+					"cn": "//(0,30)\\\\奈特，我打爆了好多脑袋啊。",
+					"tc": "//(0,30)\\\\我在這裡殺了真多人，奈特。",
+					"jp": "//(0,30)\\\\バンバンいってるぜ、ナイト。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20060_mp_headshotstreak_stone_stone_004",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone_stone_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone_stone_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Heads are rolling left and right here.",
+					"fr": "//(0,30)\\\\Les têtes roulent à droite et à gauche.",
+					"it": "//(0,30)\\\\Le teste rotolano a destra e a sinistra.",
+					"de": "//(0,30)\\\\Hier rollen links und rechts die Köpfe.",
+					"es": "//(0,30)\\\\Ruedan cabezas por todas partes.",
+					"ru": "//(0,30)\\\\И покатились головы...",
+					"cn": "//(0,30)\\\\我这头爆的飞起啊。",
+					"tc": "//(0,30)\\\\人頭不斷落地。",
+					"jp": "//(0,30)\\\\頭が転がりまくってるぜ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20060_mp_headshotstreak_stone_stone_005",
+				"weight": 0.2,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone_stone_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20060_mp_headshotstreak_stone_stone_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'm on a roll here!",
+					"fr": "//(0,30)\\\\Je suis inarrêtable !",
+					"it": "//(0,30)\\\\Sto andando alla grande!",
+					"de": "//(0,30)\\\\Ich bin hier richtig in Fahrt!",
+					"es": "//(0,30)\\\\¡Estoy en racha!",
+					"ru": "//(0,30)\\\\Да я сегодня в ударе!",
+					"cn": "//(0,30)\\\\根本停不下来！",
+					"tc": "//(0,30)\\\\我可真是好運連連！",
+					"jp": "//(0,30)\\\\ノッてきた！"
+				}
+			}
+		]
+	}
+}

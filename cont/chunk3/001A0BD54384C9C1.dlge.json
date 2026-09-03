@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts.sweetdialog?/dr41886_slherbfunfacts_h_e_r_b__004.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41886_slherbfunfacts_h_e_r_b__004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts_h_e_r_b__004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts_h_e_r_b__004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.16908)\\\\Did you know that the virus is over 5000 years old,//(4.16908,9.172454)\\\\and was originally used to wipe out an entire local population for their land?//(9.172454,39.17245)\\\\You probably did not, as that is classified information.",
+			"fr": "//(0,4.54908)\\\\Trois : Saviez-vous que le virus existe depuis 5 000 ans et fut initialement//(4.54908,9.1)\\\\utilisé pour éradiquer une civilisation tout entière ?//(9.1,39.1)\\\\Cela m'étonnerait, puisqu'il s'agit là d'un secret d'État.",
+			"it": "//(0,6.021472)\\\\Lo sapevi che questo virus ha più di 5. 000 anni e che in origine//(6.021472,10.93865)\\\\era stato impiegato per sterminare un'intera popolazione e impossessarsi delle loro terre?//(10.93865,40.93865)\\\\Probabilmente no, dato che si tratta di informazioni riservate.",
+			"de": "//(0,5.393374)\\\\Wussten Sie, dass das Virus mehr als 5000 Jahre alt ist und ursprünglich verwendet wurde,//(5.393374,8.770061)\\\\um die gesamte Bevölkerung eines Landes auszulöschen?//(8.770061,38.77006)\\\\Das wussten Sie bestimmt nicht, denn das sind vertrauliche Informationen.",
+			"es": "//(0,4.04908)\\\\¿Sabías que el virus tiene más de 5000 años de antigüedad//(4.04908,9.2)\\\\y que, originalmente, se usó para exterminar a un pueblo entero para apropiarse de sus tierras?//(9.2,39.2)\\\\Seguramente no, puesto que es información confidencial.",
+			"ru": "//(0,4.5)\\\\Вы знали, что этому вирусу больше 5000 лет?//(4.5,9.2)\\\\И он впервые был использован для истребления коренного населения этих земель?//(9.2,39.2)\\\\Вряд ли, ведь это засекреченная информация!",
+			"cn": "//(0,4.2)\\\\你知道吗？这种病毒已有五千多年的历史，//(4.2,9.2)\\\\最初被用来消灭整个当地族群，只为夺取他们的土地。//(9.2,39.2)\\\\你大概不知道，因为这是机密信息。",
+			"tc": "//(0,30)\\\\你知道這病毒已經有 5000 多年的歷史，最初是用來消滅整個地區的人口來奪得他們的土地的嗎？你可能不知道，因為那是機密資訊。",
+			"jp": "//(0,4.342)\\\\ご存知でしたか？ このウイルスは5000年以上も前から存在し、//(4.342,8.816)\\\\もともとある場所に住む現住民を全滅させるために使われていたのです。//(8.816,38.816)\\\\おそらくご存じなかったでしょう。 それは機密情報ですからね。"
+		}
+	}
+}

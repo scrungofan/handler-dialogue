@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34020_ms3helporhurt2.sweetdialog?/ds34020_ms3helporhurt2_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34020_ms3helporhurt2_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34020_ms3helporhurt2_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34020_ms3helporhurt2_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Another way to get close to Cane, perhaps? Hans Lucht's fate is in your hands, 47.",
+			"fr": "//(0,2.6)\\\\Peut-être une autre façon d'approcher Cane ?//(2.6,32.6)\\\\À vous de décider du sort de Hans Lucht, 47.",
+			"it": "//(0,30)\\\\Potrebbe essere un altro modo per avvicinarti a Cane... Il destino di Hans Lucht è nelle tue mani, 47.",
+			"de": "//(0,2.6)\\\\Eine andere Art, um an Cane heranzukommen, vielleicht?//(2.9,32.9)\\\\Hans Luchts Schicksal liegt in Ihren Händen, 47.",
+			"es": "//(0,2.55)\\\\¿Se te ocurre otra forma de acercarte a Cane?//(2.9,32.9)\\\\La vida de Hans Lucht está en tus manos, 47.",
+			"ru": "//(0,3)\\\\Возможно, есть другой способ подобраться к Кейну?//(3,33)\\\\Судьба Ганса Люхта в твоих руках, 47-й.",
+			"cn": "//(0,30)\\\\也许还有其他办法接近凯恩？汉斯·卢奇的命运就掌握在你手中了，47。",
+			"tc": "//(0,30)\\\\或許這是另一種接近凱恩的方式？漢斯·盧赫特的命運就掌握在你手裡，47。",
+			"jp": "//(0,2.58)\\\\これもまた、ケインに近づくための方法になるかも。//(2.58,32.58)\\\\ハンス・ルフトの運命は、あなたの手に委ねられているわ、47。"
+		}
+	}
+}

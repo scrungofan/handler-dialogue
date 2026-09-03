@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34010_ms1poisonwarn.sweetdialog?/ds34010_ms1poisonwarn_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34010_ms1poisonwarn_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34010_ms1poisonwarn_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34010_ms1poisonwarn_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Careful, 47. If the rumors are true, some of these could contain poison.",
+			"fr": "//(0,30)\\\\Attention, 47. À en croire les rumeurs, certains de ces cookies seraient empoisonnés.",
+			"it": "//(0,30)\\\\Attento, 47. Se le voci sono vere, alcuni potrebbero contenere del veleno.",
+			"de": "//(0,30)\\\\Vorsicht, 47. Wenn die Gerüchte stimmen, könnte einige von denen Gift enthalten.",
+			"es": "//(0,30)\\\\Cuidado, 47, si los rumores son ciertos, puede que tengan veneno.",
+			"ru": "//(0,30)\\\\Осторожно, 47-й. Если слухи верны, некоторые из них могут быть ядовитыми.",
+			"cn": "//(0,30)\\\\小心点，47。如果传言属实的话，这其中某些被下毒了。",
+			"tc": "//(0,30)\\\\小心點，47。如果傳言屬實，這些餅乾裡面可能有一些會有毒。",
+			"jp": "//(0,30)\\\\気を付けて、47。噂が本当なら、毒が入ってるものもあるはず。"
+		}
+	}
+}

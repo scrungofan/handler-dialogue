@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4315_failbaijudown.sweetdialog?/ds4315_failbaijudown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4315_failbaijudown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4315_failbaijudown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4315_failbaijudown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.4)\\\\47, Agent Lee is down.//(3.4,6)\\\\The client will have something to say about this.//(6,36)\\\\You've put me in a very difficult position.",
+			"fr": "//(0,3.208589)\\\\47 ? L'agent Lee a été éliminé.//(3.208589,33.20859)\\\\Croyez bien que le client ne laissera pas passer cela... Je me retrouve dans une situation bien délicate.",
+			"it": "//(0,30)\\\\47, l'agente Lee è a terra. Il cliente sarà deluso. Mi hai messo in una brutta posizione.",
+			"de": "//(0,30)\\\\47, Agent Lee ist am Boden. Dem Klienten wird das nicht gefallen. Sie bringen mich da in eine heikle Lage.",
+			"es": "//(0,30)\\\\47, el agente Lee ha caído. El cliente tendrá algo que decir al respecto. Me has puesto en una posición muy delicada.",
+			"ru": "//(0,3.2)\\\\47-й, агент Ли убит.//(3.2,33.2)\\\\Клиенту это не понравится. Ты здорово усложнил мне жизнь.",
+			"cn": "//(0,30)\\\\47，李特工已丧命。客户要骂人了。你让我很难办啊。",
+			"tc": "//(0,5.8)\\\\47，李特務倒下了。客戶對此肯定有話要說。//(5.8,35.8)\\\\你陷我於非常困難的處境。",
+			"jp": "//(0,30)\\\\47、エージェント・リーがやられたわ。クライアントはこの件について不満でしょうね。あなたは私を非常に苦しい立場に追い込んでくれたわ。"
+		}
+	}
+}

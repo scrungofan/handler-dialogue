@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat.sweetdialog?/ds41837_herbchat_diana_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41837_herbchat_diana_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_diana_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_diana_005.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Yes, and some time after, he died.",
+			"fr": "//(0,30)\\\\Exact, et il est mort quelque temps après.",
+			"it": "//(0,30)\\\\Sì, poi a un certo punto è morto.",
+			"de": "//(0,30)\\\\Ja, und kurz danach ist er gestorben.",
+			"es": "//(0,30)\\\\Sí, pero... murió un tiempo después de eso.",
+			"ru": "//(0,30)\\\\Да, а вскоре после этого он погиб.",
+			"cn": "//(0,30)\\\\是的，随后的某个时间，他不幸去世了。",
+			"tc": "//(0,30)\\\\是的，之後不久，他就去世了。",
+			"jp": "//(0,30)\\\\ええ、そしてその後、亡くなったわ。"
+		}
+	}
+}

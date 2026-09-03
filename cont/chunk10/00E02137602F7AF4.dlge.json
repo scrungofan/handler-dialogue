@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34003_trgtdwnbutcrops.sweetdialog?/ds34003_trgtdwnbutcrops_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34003_trgtdwnbutcrops_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34003_trgtdwnbutcrops_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34003_trgtdwnbutcrops_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target eliminated. Good work, 47. Now to destroy the crops.",
+			"fr": "//(0,30)\\\\Cible éliminée. Bien joué, 47. Et maintenant, les cultures.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Ottimo lavoro, 47. Ora distruggi il raccolto.",
+			"de": "//(0,3)\\\\Ziel neutralisiert. Gute Arbeit, 47.//(3,33)\\\\Jetzt müssen wir die Ernte zerstören.",
+			"es": "//(0,3.05)\\\\Objetivo eliminado. Bien hecho, 47.//(3.05,33.05)\\\\Ahora, destruye los cultivos.",
+			"ru": "//(0,30)\\\\Цель устранена. Отлично, 47-й. Осталось лишь уничтожить посевы.",
+			"cn": "//(0,30)\\\\目标已消灭。干得好，47。现在该去销毁作物了。",
+			"tc": "//(0,30)\\\\目標已消滅，幹得好，47。現在去毀掉那些作物。",
+			"jp": "//(0,30)\\\\ターゲット排除。よくやったわ、47。あとは作物を破壊するだけね。"
+		}
+	}
+}

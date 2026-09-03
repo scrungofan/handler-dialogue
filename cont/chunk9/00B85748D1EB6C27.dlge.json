@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20077_mp_accidentkill2reaction_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20077_mp_accidentkill2reaction_knight_knight_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20077_mp_accidentkill2reaction_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20077_mp_accidentkill2reaction_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Target down. You've started to improvise, Stone! It suits you.",
+					"fr": "//(0,30)\\\\Cible éliminée. Tu improvises, maintenant, Stone ? Ça te va bien.",
+					"it": "//(0,30)\\\\Bersaglio a terra. Hai cominciato a improvvisare, Stone! Ti si addice.",
+					"de": "//(0,30)\\\\Ziel neutralisiert. Jetzt fangen Sie zu improvisieren an, Stone! Steht Ihnen gut.",
+					"es": "//(0,30)\\\\Objetivo abatido. ¡Has empezado a improvisar, Stone! Te pega.",
+					"ru": "//(0,30)\\\\Цель уничтожена. Да ты начал импровизировать, Стоун. Тебе идет.",
+					"cn": "//(0,30)\\\\目标已被消灭。斯通，你已经开始学会随机应变了！这样才对。",
+					"tc": "//(0,30)\\\\目標倒地。你開始隨機應變了，斯通！很適合你。",
+					"jp": "//(0,30)\\\\ターゲットダウン。即興がうまいのね。あなたらしいわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20077_mp_accidentkill2reaction_knight_knight_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20077_mp_accidentkill2reaction_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20077_mp_accidentkill2reaction_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Kill confirmed, Stone.",
+					"fr": "//(0,30)\\\\Élimination confirmée, Stone.",
+					"it": "//(0,30)\\\\Uccisione confermata, Stone.",
+					"de": "//(0,30)\\\\Abschuss bestätigt, Stone.",
+					"es": "//(0,30)\\\\Muerte confirmada, Stone.",
+					"ru": "//(0,30)\\\\Подтверждаю ликвидацию, Стоун.",
+					"cn": "//(0,30)\\\\击杀已确认，斯通。",
+					"tc": "//(0,30)\\\\確認擊殺，斯通。",
+					"jp": "//(0,30)\\\\死亡を確認したわ、ストーン。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20077_mp_accidentkill2reaction_knight_knight_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20077_mp_accidentkill2reaction_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20077_mp_accidentkill2reaction_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Well, well, Stone. Color me impressed.",
+					"fr": "//(0,30)\\\\Eh bien, eh bien... Tu m'impressionnes.",
+					"it": "//(0,30)\\\\Bene bene, Stone. Sono proprio colpita.",
+					"de": "//(0,30)\\\\Schön, schön, Stone. Ich zeige mich beeindruckt.",
+					"es": "//(0,30)\\\\Vaya, vaya, Stone. Me has impresionado.",
+					"ru": "//(0,30)\\\\Неплохо, неплохо, Стоун. Я побелела от зависти.",
+					"cn": "//(0,30)\\\\哎呀呀，斯通。真厉害，我服你。",
+					"tc": "//(0,30)\\\\嘖嘖，斯通。真是了不起。",
+					"jp": "//(0,30)\\\\あらストーン、やるじゃない。"
+				}
+			}
+		]
+	}
+}

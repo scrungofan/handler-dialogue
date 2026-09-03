@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab.sweetdialog?/ds41829_dscvrlab_h_e_r_b__002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41829_dscvrlab_h_e_r_b__002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_h_e_r_b__002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_h_e_r_b__002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Thirteen point nine meters. Feels further, the elevator is slow.",
+			"fr": "//(0,30)\\\\13, 9 mètres. À cette vitesse, on croirait le double.",
+			"it": "//(0,30)\\\\Tredici virgola nove metri. Sembra di più, è l'ascensore che è lento.",
+			"de": "//(0,30)\\\\13, 9 Meter. Fühlt sich tiefer an: Der Aufzug ist langsam.",
+			"es": "//(0,30)\\\\Trece con nueve metros, aunque se hace más largo por lo lento que es el ascensor.",
+			"ru": "//(0,30)\\\\13 метров, 90 сантиметров. Из-за медленного лифта кажется, что больше.",
+			"cn": "//(0,30)\\\\13.9米。感觉上会更深，因为电梯很慢。",
+			"tc": "//(0,30)\\\\十三點九米。感覺更深，電梯很慢。",
+			"jp": "//(0,30)\\\\13. 9メートルです。エレベーターが遅いため、もっと長く感じるだけです。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts.sweetdialog?/dr41886_slherbfunfacts_h_e_r_b__001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41886_slherbfunfacts_h_e_r_b__001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts_h_e_r_b__001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41886_slherbfunfacts_h_e_r_b__001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.080982)\\\\Let us share information about ourselves to strengthen our bond.//(3.080982,33.08098)\\\\I'll go first. I am the world's first true biocomputer, made by Biosphere. Who made you?",
+			"fr": "//(0,3)\\\\Partageons nos informations pour renforcer nos liens !//(3,4.35)\\\\Je commence.//(4.35,8.1)\\\\Je suis le premier véritable ordinateur biologique au monde, créé par Biosphere.//(8.1,38.1)\\\\Et vous, qui vous a créé ?",
+			"it": "//(0,3.203374)\\\\Che ne dici di condividere informazioni su noi stessi per rafforzare il nostro legame?//(3.203374,8.40865)\\\\Comincio io. Io sono il primo vero biocomputer al mondo, creato dalla Biosphere.//(8.40865,38.40865)\\\\E a te chi ti ha creato?",
+			"de": "//(0,3.051)\\\\Teilen wir diese Informationen miteinander, um unsere Bande zu stärken.//(3.051,33.051)\\\\Ich fange an: Ich bin der erste echte Biocomputer der Welt, hergestellt von Biosphere. Wer hat Sie hergestellt?",
+			"es": "//(0,3.1)\\\\Compartamos información sobre nosotros mismos para fortalecer nuestro vínculo.//(3.1,8)\\\\Empiezo yo. Soy el primer biocomputador creado por Biosphere.//(8,38)\\\\¿A ti quién te fabricó?",
+			"ru": "//(0,3.1)\\\\Давайте обменяемся личной информацией, чтобы укрепить нашу дружбу.//(3.1,33.1)\\\\Я начну. Я первый в мире биокомпьютер, созданный компанией «Биосфера». А кто создал вас?",
+			"cn": "//(0,3.1)\\\\让我们分享彼此的信息，来加深彼此的情谊吧。//(3.1,4.504294)\\\\我先来。//(4.504294,8)\\\\我是世界上第一台真正的生物计算机，由生物圈公司建造完成。//(8,38)\\\\是谁造出了你？",
+			"tc": "//(0,30)\\\\讓我們分享關於自己的資訊來加強我們之間的信任。我先說，我是世界上第一台真正的生物計算機，由生物圈公司製造。你是誰造製造的呢？",
+			"jp": "//(0,4.345)\\\\お互いの情報を共有して絆を深めましょう。 私から始めますね。//(4.345,8.325)\\\\私はバイオスフィアが作った世界初の真のバイオコンピューターです。//(8.325,38.325)\\\\あなたは誰が作ったのですか？"
+		}
+	}
+}

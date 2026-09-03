@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2724_puzzleexit.sweetdialog?/ds2724_puzzleexit_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2724_puzzleexit_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2724_puzzleexit_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2724_puzzleexit_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Good work 47. Return to the testing room. You know what to do.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Bien joué, 47. Retournez dans la salle de test. Vous savez quoi faire.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Hai fatto un buon lavoro, 47. Torna alla stanza di test. Sai cosa fare.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Gute Arbeit, 47. Kehren Sie zum Testraum zurück. Sie wissen, was zu tun ist.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Buen trabajo, 47. Regresa a la sala de pruebas. Ya sabes lo que tienes que hacer.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Молодчина, 47-й. Возвращайся в тестовый зал. Ты знаешь что делать.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\干得好，47。返回测试疗程地点。你知道该怎么办。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\幹得好，47。回到測試室，你知道該怎麼做。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\よくやったわ、47。実験室へ戻って。何をすればいいか、わかっているわね。"
+		}
+	}
+}

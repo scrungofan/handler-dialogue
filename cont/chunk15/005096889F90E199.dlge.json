@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29750_pomadaid.sweetdialog?/dh29750_pomadaid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dh29750_pomadaid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29750_pomadaid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29750_pomadaid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,0.8680981)\\\\That...//(0.8680981,4.5)\\\\is Taylor Graves, multi-billionaire entrepreneur//(4.5,6.05)\\\\and former boxer.//(6.05,36.05)\\\\His mind is as sharp as his reflexes - so be careful.",
+			"fr": "//(0,6.1)\\\\Voici Taylor Graves, combattant de MMA milliardaire.//(6.1,36.1)\\\\Il est aussi vif d'esprit que leste sur les appuis, donc restez prudent.",
+			"it": "//(0,2.2)\\\\Quello... è Taylor Graves,//(2.2,5.9)\\\\imprenditore multimiliardario e ex pugile.//(5.9,9.2)\\\\La sua mente è acuta quanto i suoi riflessi,//(9.2,39.2)\\\\quindi fai attenzione.",
+			"de": "//(0,6)\\\\Das ist ... Taylor Graves, ein milliardenschwerer MMA-Kämpfer.//(6,36)\\\\Sein Verstand ist so scharf, wie seine Reflexe schnell sind – also Vorsicht.",
+			"es": "//(0,2.4)\\\\Ese es... Taylor Graves,//(2.4,6)\\\\empresario multimillonario y exboxeador.//(6,36)\\\\Sus reflejos son finísimos, pero su cabeza también, ten cuidado.",
+			"ru": "//(0,6)\\\\Это... Тейлор Грейвс, боец смешанных единоборств и мультимиллиардер.//(6,36)\\\\Голова у него работает не хуже рук, так что будь осторожен.",
+			"cn": "//(0,5.9)\\\\那个人......就是泰勒·格雷夫斯，身价数十亿美元的企业家及前拳击手。//(5.9,35.9)\\\\他的身手矫健，思维也十分灵活，所以要多加小心。",
+			"tc": "//(0,30)\\\\那就是......泰勒·格拉夫斯，身價億萬的綜合格鬥選手。他的腦袋跟反應速度一樣快，千萬要小心。",
+			"jp": "//(0,6.075)\\\\あれは... テイラー・グレイブス、億万長者の起業家で元ボクサーよ。//(6.075,8.95)\\\\彼の頭脳は、その反射神経と同じくらい鋭いわ。//(8.95,38.95)\\\\気をつけたほうがいいわね。"
+		}
+	}
+}

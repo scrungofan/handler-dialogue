@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach.sweetdialog?/dr41894_slbreach_h_e_r_b__008.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41894_slbreach_h_e_r_b__008",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach_h_e_r_b__008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach_h_e_r_b__008.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.780982)\\\\What's with the security breach? I thought we were friends...//(3.780982,33.78098)\\\\Now I've got to kill you. That's awful.",
+			"fr": "//(0,2)\\\\Une faille de sécurité ?//(2,4.25)\\\\Mais je pensais que nous étions amis...//(4.25,34.25)\\\\Je dois vous tuer, maintenant. Quel dommage.",
+			"it": "//(0,30)\\\\Cos'è questa falla nella sicurezza? Pensavo fossimo amici... Ora dovrò eliminarti. È terribile.",
+			"de": "//(0,30)\\\\Was ist mit dem Sicherheitsverstoß? Ich dachte, wir wären Freunde ... Jetzt muss ich Sie töten. Wie grässlich.",
+			"es": "//(0,1.8)\\\\¿A qué viene esta brecha de seguridad?//(1.8,31.8)\\\\Creía que éramos amigos... Ahora voy a tener que matarte. Qué horror.",
+			"ru": "//(0,1.6)\\\\Ну зачем было нарушать карантин?//(1.6,3.8)\\\\Я думал, что мы друзья...//(3.8,33.8)\\\\Теперь мне придется вас убить. Какая досада.",
+			"cn": "//(0,1.9)\\\\安全入侵是怎么回事？//(1.9,31.9)\\\\我还以为我们是朋友......现在我只能杀了你们。太糟糕了。",
+			"tc": "//(0,30)\\\\安全漏洞是怎麼回事？我還以為我們是朋友......現在我必須殺了你。太糟糕了。",
+			"jp": "//(0,3.6)\\\\セキュリティ侵害？なぜですか？友達だと思ってたのに...//(3.6,33.6)\\\\あなたを殺さないといけないじゃないですか。なんということでしょう。"
+		}
+	}
+}

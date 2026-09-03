@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4301_agentid.sweetdialog?/ds4301_agentid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4301_agentid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4301_agentid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4301_agentid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.8)\\\\That... is Agent Bruce Lee,//(2.8,4.8)\\\\our client's undercover operative//(4.8,7.3)\\\\and a critical asset to this mission.//(7.3,37.3)\\\\I suggest you introduce yourself when the opportunity arises.",
+			"fr": "//(0,7.023374)\\\\Voici l'agent Bruce Lee, envoyé en secret par notre client pour cette mission capitale.//(7.023374,37.02337)\\\\Vous devriez aller faire connaissance.",
+			"it": "//(0,30)\\\\Quello è l'agente Bruce Lee, è sotto copertura per conto del nostro cliente ed è una risorsa fondamentale per la missione. Al posto tuo mi presenterei.",
+			"de": "//(0,2.8)\\\\Das ... ist Agent Bruce Lee,//(2.8,7.2)\\\\der Undercover-Agent unseres Klienten und ein kritischer Bestandteil dieser Mission.//(7.2,37.2)\\\\Ich würde vorschlagen, Sie stellen sich ihm vor.",
+			"es": "//(0,30)\\\\Ese... es el agente Bruce Lee, el operativo encubierto de nuestro cliente y un activo fundamental en esta misión. Te sugiero que te presentes.",
+			"ru": "//(0,4.971)\\\\Это... Брюс Ли, секретный агент нашего клиента,//(4.971,7)\\\\которому ты будешь помогать в рамках этого задания.//(7,37)\\\\Думаю, пора представиться.",
+			"cn": "//(0,30)\\\\那位......就是李小龙特工。他是我们客户的卧底干员，也是这项任务的关键所在。我建议你去做一下自我介绍。",
+			"tc": "//(0,2.7)\\\\那是......「李小龍」特務，//(2.7,7.2)\\\\我們客戶的臥底人員，也是這次任務的關鍵人物。//(7.2,37.2)\\\\我建議你自我介紹一下。",
+			"jp": "//(0,30)\\\\あの人が... エージェント・ブルース・リー。クライアントの潜入工作員で、今回の任務において極めて重要な戦力。挨拶した方がいいわよ。"
+		}
+	}
+}

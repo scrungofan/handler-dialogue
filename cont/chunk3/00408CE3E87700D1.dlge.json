@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41840_virusdowntarget.sweetdialog?/ds41840_virusdowntarget_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41840_virusdowntarget_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41840_virusdowntarget_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41840_virusdowntarget_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Virus eliminated. Now for Lilith Devereux.",
+			"fr": "//(0,30)\\\\Virus éliminé. Place à Lilith Devereux.",
+			"it": "//(0,30)\\\\Virus eliminato. Ora pensiamo a Lilith Devereux.",
+			"de": "//(0,30)\\\\Virus eliminiert. Jetzt geht es an Lilith Devereux.",
+			"es": "//(0,30)\\\\Virus eliminado. Ahora, a por Lilith Devereux.",
+			"ru": "//(0,1.75)\\\\Вирус обезврежен.//(1.75,31.75)\\\\Пришла очередь Лилит Деверье.",
+			"cn": "//(0,30)\\\\已消灭病毒。现在去处理莉莉丝·德弗鲁吧。",
+			"tc": "//(0,30)\\\\病毒已消除。現在輪到莉莉絲·德維洛了。",
+			"jp": "//(0,30)\\\\ウイルスは排除したわ。次はリリス・デヴルーね。"
+		}
+	}
+}

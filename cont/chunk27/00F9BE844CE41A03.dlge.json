@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_017.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_017",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_017.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_017.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Another win 47 - You're a natural.",
+			"fr": "//(0,30)\\\\Encore un joli coup. Vous avez ça dans le sang, 47.",
+			"it": "//(0,30)\\\\Un'altra vittoria, 47! Sei un vero talento.",
+			"de": "//(0,30)\\\\Noch ein Sieg, 47 ... Sie sind ein Naturtalent.",
+			"es": "//(0,30)\\\\Otra victoria, 47. Tienes un don.",
+			"ru": "//(0,30)\\\\Еще одна победа, 47-й. Да ты мастер покера.",
+			"cn": "//(0,30)\\\\又赢一局，47——你真是天生的高手。",
+			"tc": "//(0,30)\\\\又贏了，47，你可真厲害。",
+			"jp": "//(0,30)\\\\またあなたの勝ちね。才能があるんじゃないかしら。"
+		}
+	}
+}

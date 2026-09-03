@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4311_assn3lost.sweetdialog?/ds4311_assn3lost_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4311_assn3lost_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4311_assn3lost_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4311_assn3lost_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.7)\\\\That's Xiao Hu out of the fight.//(2.7,32.7)\\\\Agent Lee's chances of winning just increased.",
+			"fr": "//(0,30)\\\\Voilà Xiao Hu hors compétition. Les chances de gagner de l'agent Lee viennent de grimper en flèche.",
+			"it": "//(0,30)\\\\Xiao Hu è fuori combattimento. L'agente Lee ha ancora più possibilità di vincere.",
+			"de": "//(0,30)\\\\Damit ist Xiao Hu ausgeschieden. Agent Lees Chancen, den Sieg davonzutragen, sind damit gestiegen.",
+			"es": "//(0,2.9)\\\\Xiao Hu se ha quedado fuera de la pelea.//(2.9,32.9)\\\\Con esto, aumentan las probabilidades de victoria del agente Lee.",
+			"ru": "//(0,30)\\\\Сяо Ху выбыла из борьбы. Шансы на победу агента Ли значительно выросли.",
+			"cn": "//(0,30)\\\\小虎已经出局。李特工的胜算又提高了。",
+			"tc": "//(0,30)\\\\蕭虎出局了。李特務獲勝的機率剛才又提高了。",
+			"jp": "//(0,2.45)\\\\シャオ・フーが戦線離脱。//(2.45,32.45)\\\\エージェント・リーの勝利の可能性がさらに高まったわ。"
+		}
+	}
+}

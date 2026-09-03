@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34001_targetid.sweetdialog?/ds34001_targetid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34001_targetid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34001_targetid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34001_targetid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That... is Dr. Cyrus Cane. The big dog, as it were.",
+			"fr": "//(0,30)\\\\Voilà Dr Cyrus Cane... votre cible principale.",
+			"it": "//(0,30)\\\\Quello... è il dottor Cyrus Cane. Il pezzo grosso, per così dire.",
+			"de": "//(0,2.6)\\\\Das ist ... Dr.  Cyrus Cane.//(2.6,32.6)\\\\Der Big Dog sozusagen.",
+			"es": "//(0,2.6)\\\\Ese es... el doctor Cyrus Cane.//(2.6,32.6)\\\\El pez gordo, vamos.",
+			"ru": "//(0,30)\\\\Это... доктор Сайрус Кейн. Очень важная птица.",
+			"cn": "//(0,30)\\\\那个人......就是赛勒斯·凯恩博士。果然是个显眼包。",
+			"tc": "//(0,30)\\\\那就是賽勒斯·凱恩博士—— 可以說是這裡的老大。",
+			"jp": "//(0,30)\\\\あれが... サイラス・ケイン博士ね。さすが、大物と言った感じね。"
+		}
+	}
+}

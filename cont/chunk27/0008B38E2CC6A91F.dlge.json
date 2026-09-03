@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_015.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_015",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_015.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_015.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, your odds just went up.",
+			"fr": "//(0,30)\\\\47, votre main vient de gagner en valeur.",
+			"it": "//(0,30)\\\\47, le tue probabilità di vittoria sono appena aumentate.",
+			"de": "//(0,30)\\\\47, Ihre Chancen sind gerade gestiegen.",
+			"es": "//(0,30)\\\\47, tus posibilidades han aumentado.",
+			"ru": "//(0,30)\\\\Шансы улучшились, 47-й.",
+			"cn": "//(0,30)\\\\47，你的胜率回升了。",
+			"tc": "//(0,30)\\\\47，你的勝率提高了。",
+			"jp": "//(0,30)\\\\47、勝率が上がったわ。"
+		}
+	}
+}

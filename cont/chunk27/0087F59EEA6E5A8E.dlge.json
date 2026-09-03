@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4)\\\\47, Your hand is at 41% odds to win.//(4,34)\\\\Consider raising to see if you can scare the weaker players into folding...",
+			"fr": "//(0,3.932883)\\\\Votre main a 41 % de chances de l'emporter, 47.//(3.932883,33.93288)\\\\Vous devriez relancer pour encourager les joueurs plus faibles à se coucher...",
+			"it": "//(0,4.2)\\\\47, hai il 41% di probabilità di vincere.//(4.2,34.2)\\\\Potresti provare a rilanciare per vedere se riesci a spaventare i giocatori più deboli e farli passare...",
+			"de": "//(0,4.1)\\\\47, Ihre Hand hat eine Gewinnchance von 41 %.//(4.1,34.1)\\\\Vielleicht können Sie mit einem Raise die schwächeren Spieler zum Folden bringen ...",
+			"es": "//(0,4.300982)\\\\47, tu mano tiene un 41 % de probabilidades de ganar.//(4.300982,34.30098)\\\\Puedes subir la apuesta para ver si asustas a los jugadores más débiles y los fuerzas a pasar...",
+			"ru": "//(0,4.1)\\\\47-й, с такими картами твои шансы на победу — 41%.//(4.1,34.1)\\\\Попробуй повысить. Может, слабые игроки сбросят...",
+			"cn": "//(0,4)\\\\47，你的手牌胜率为41%。//(4,34)\\\\建议考虑加注，看能不能迫使心理素质较差的对手弃牌......",
+			"tc": "//(0,4)\\\\47，你手上的牌有 41% 勝率。//(4,34)\\\\考慮加注來嚇嚇較弱的玩家，讓他們蓋牌......",
+			"jp": "//(0,3.95)\\\\47、その手で勝つ確率は41%。//(3.95,33.95)\\\\弱いプレイヤーをフォールドさせるため、レイズして様子を見てみるのをお勧めするわ。"
+		}
+	}
+}

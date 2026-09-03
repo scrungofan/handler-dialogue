@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4318_femcontsus.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds4318_femcontsus_diana_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4318_femcontsus_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4318_femcontsus_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.15)\\\\47?//(1.15,5.15)\\\\Your disqualification has aroused a contestant's suspicion.//(5.15,35.15)\\\\You should resolve this if you're to continue overseeing matches.",
+					"fr": "//(0,5)\\\\On dirait que la dernière disqualification a éveillé les soupçons d'un combattant, 47.//(5,35)\\\\Occupez-vous-en sans tarder si vous voulez continuer l'arbitrage.",
+					"it": "//(0,5.05)\\\\47? La tua squalifica ha destato sospetti in un concorrente.//(5.05,35.05)\\\\Devi risolvere la questione se vuoi continuare a gestire gli incontri.",
+					"de": "//(0,5.1)\\\\47? Ihre Disqualifizierung macht Sie für einen der Teilnehmer verdächtig.//(5.1,35.1)\\\\Sie sollten das klären, wenn Sie weiter Kampfrichter sein wollen.",
+					"es": "//(0,1.15)\\\\47,//(1.15,5.15)\\\\tus descalificaciones han levantado sospechas en un contendiente.//(5.15,35.15)\\\\Resuelve la situación si quieres seguir valorando los combates.",
+					"ru": "//(0,5.2)\\\\47-й? Твое решение вызвало подозрение у одного из участников.//(5.2,35.2)\\\\Разберись с ним, если собираешься и дальше судить поединки.",
+					"cn": "//(0,30)\\\\47？你取消资格的决定引起了一名选手的怀疑。如果你想继续监督比赛，就应该去解决这个问题。",
+					"tc": "//(0,5)\\\\47？你取消資格這件事引起了一名參賽者的懷疑。//(5,35)\\\\如果你要繼續監督比賽，你應該解決這個問題。",
+					"jp": "//(0,5.095)\\\\47、あなたの失格処分が、出場者の疑念を招いたわ。//(5.095,35.095)\\\\試合の審判を続けるつもりなら、この問題を解決すべきよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds4318_femcontsus_diana_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4318_femcontsus_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4318_femcontsus_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1)\\\\Hm.//(1,3.45)\\\\You've attracted too much attention with that decision,//(3.45,6.5)\\\\47, and a contestant is suspicious.//(6.5,36.5)\\\\You'll have to find a solution.",
+					"fr": "//(0.7,6.25)\\\\Cette décision attire un peu trop l'attention, 47, et un combattant semble soupçonneux...//(6.25,36.25)\\\\Trouvez une solution, et vite.",
+					"it": "//(0.9,6.261473)\\\\Hai attirato troppa attenzione con quella decisione, 47, e anche i sospetti di un concorrente.//(6.261473,36.26147)\\\\Dovrai trovare una soluzione.",
+					"de": "//(0,6.4)\\\\Sie haben mit dieser Entscheidung zu viel Aufmerksamkeit auf sich gezogen, 47, und ein Teilnehmer ist misstrauisch.//(6.4,36.4)\\\\Sie werden eine Lösung finden müssen.",
+					"es": "//(0,1)\\\\47,//(1,3.45)\\\\con esa decisión has llamado demasiado la atención//(3.45,6.5)\\\\y un contendiente ha empezado a sospechar.//(6.5,36.5)\\\\Tendrás que encontrar una solución.",
+					"ru": "//(0,4.5)\\\\Твое решение привлекло слишком много внимания, 47-й,//(4.5,5.893374)\\\\и один из участников начал что-то подозревать.//(5.893374,35.89338)\\\\Срочно найди решение этой проблемы.",
+					"cn": "//(0,30)\\\\47，你的那个决定引起了太多的注意，一名选手起了疑心。你得想出解决方案。",
+					"tc": "//(0,4.2)\\\\你的決定引起了太多注意，47，//(4.2,34.2)\\\\有名參賽者感到懷疑。你得想個辦法解決。",
+					"jp": "//(0,6.17)\\\\うーん。その判断は注目を集めすぎたわ、47。ある出場者が怪しんでる。//(6.17,36.17)\\\\解決策を見つけないといけないわ。"
+				}
+			}
+		]
+	}
+}

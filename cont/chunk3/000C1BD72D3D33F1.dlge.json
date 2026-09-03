@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41846_targetdownshort.sweetdialog?/ds41846_targetdownshort_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41846_targetdownshort_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41846_targetdownshort_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41846_targetdownshort_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Target down. Lilith Devereux is no more.",
+			"fr": "//(0,30)\\\\Cible éliminée. Lilith Devereux n'est plus de ce monde.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Lilith Devereux non c'è più.",
+			"de": "//(0,30)\\\\Ziel neutralisiert. Lilith Devereux war einmal.",
+			"es": "//(0,30)\\\\Objetivo abatido. Lilith Devereux es historia.",
+			"ru": "//(0,30)\\\\Цель устранена. С Лилит Деверье покончено.",
+			"cn": "//(0,30)\\\\目标已消灭。莉莉丝·德弗鲁已被消灭。",
+			"tc": "//(0,30)\\\\目標已被消滅。莉莉絲·德維洛已經不在了。",
+			"jp": "//(0,30)\\\\ターゲット排除。リリス・デヴルーはもういない。"
+		}
+	}
+}

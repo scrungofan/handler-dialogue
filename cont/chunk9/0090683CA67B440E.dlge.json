@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20110_mp_targetsremaining10_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20110_mp_targetsremaining10_knight_knight_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20110_mp_targetsremaining10_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20110_mp_targetsremaining10_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\This is going well. We’re down to ten targets.",
+					"fr": "//(0,30)\\\\Ça se passe bien. Encore dix cibles à abattre.",
+					"it": "//(0,30)\\\\Sta andando bene. Ci mancano dieci bersagli.",
+					"de": "//(0,30)\\\\Das läuft alles gut. Wir sind bei noch zehn Zielen.",
+					"es": "//(0,30)\\\\La cosa va bien. Ya solo quedan diez objetivos.",
+					"ru": "//(0,30)\\\\Всё идет как надо. Еще десять целей.",
+					"cn": "//(0,30)\\\\进展顺利。我们还剩下十个目标。",
+					"tc": "//(0,30)\\\\這樣很順利。我們剩下十名目標了。",
+					"jp": "//(0,30)\\\\うまくいってるわね。あと10人よ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20110_mp_targetsremaining10_knight_knight_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20110_mp_targetsremaining10_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20110_mp_targetsremaining10_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Ten targets left, Stone.",
+					"fr": "//(0,30)\\\\Encore dix cibles, Stone.",
+					"it": "//(0,30)\\\\Ancora dieci bersagli, Stone.",
+					"de": "//(0,30)\\\\Zehn Ziele übrig, Stone.",
+					"es": "//(0,30)\\\\Quedan diez objetivos, Stone.",
+					"ru": "//(0,30)\\\\Стоун, еще десять целей.",
+					"cn": "//(0,30)\\\\剩下十个目标，斯通。",
+					"tc": "//(0,30)\\\\剩下十名目標了，斯通。",
+					"jp": "//(0,30)\\\\残りあと10人よ、ストーン。"
+				}
+			}
+		]
+	}
+}

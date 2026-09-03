@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20109_mp_targetsleft10_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20109_mp_targetsleft10_stone_stone_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20109_mp_targetsleft10_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20109_mp_targetsleft10_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good work so far. We are down to ten remaining targets.",
+					"fr": "//(0,30)\\\\C'est parfait jusqu'ici. Il ne reste que dix cibles.",
+					"it": "//(0,30)\\\\Ottimo lavoro, finora. Ci restano dieci bersagli.",
+					"de": "//(0,30)\\\\Gute Arbeit bisher. Wir sind bei zehn verbleibenden Zielen.",
+					"es": "//(0,30)\\\\Por ahora vamos bien. Ya solo nos quedan diez objetivos.",
+					"ru": "//(0,30)\\\\Пока всё идет неплохо. Осталось всего десять целей.",
+					"cn": "//(0,30)\\\\目前为止还不错，奈特。我们还剩下十个目标。",
+					"tc": "//(0,30)\\\\你目前做得很好。我們剩下十名目標了。",
+					"jp": "//(0,30)\\\\この調子でいこう。ターゲットはあと10人だ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20109_mp_targetsleft10_stone_stone_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20109_mp_targetsleft10_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20109_mp_targetsleft10_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Alright, ten targets remaining.",
+					"fr": "//(0,30)\\\\Très bien, plus que dix cibles.",
+					"it": "//(0,30)\\\\Va bene, ancora dieci bersagli.",
+					"de": "//(0,30)\\\\Fein. Es bleiben noch zehn Ziele.",
+					"es": "//(0,30)\\\\Vale, quedan diez objetivos.",
+					"ru": "//(0,30)\\\\Хорошо, еще десять целей.",
+					"cn": "//(0,30)\\\\很好，还剩下10个目标。",
+					"tc": "//(0,30)\\\\好，剩十個目標。",
+					"jp": "//(0,30)\\\\よし、残り10人だ。"
+				}
+			}
+		]
+	}
+}

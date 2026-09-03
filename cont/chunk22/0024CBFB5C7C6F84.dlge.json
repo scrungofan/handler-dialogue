@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01.sweetdialog?/ds2710_mzwelcome01_diana_008.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2710_mzwelcome01_diana_008",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_diana_008.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_diana_008.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Mr. M? Can you hear me? 47? I think we are on our own. This place must have some strange effect on our client.",
+			"fr": "//[DIANA]\\\\//(0,3.460491)\\\\Vous m'entendez, M.  Em ? 47 ?//(3.460491,33.46049)\\\\C'est à nous de jouer. Cet endroit agit étrangement sur notre client.",
+			"it": "//[DIANA]\\\\//(0,6)\\\\Signor Em? Riesci a sentirmi? 47? Credo che siamo rimasti soli.//(6,36)\\\\Questo posto deve avere uno strano effetto sul nostro cliente.",
+			"de": "//[DIANA]\\\\//(0,3.2)\\\\Mr.  M? Können Sie mich hören?//(3.2,6)\\\\47? Ich glaube, wir sind auf uns gestellt.//(6,36)\\\\Dieser Ort hat seltsame Auswirkungen auf unseren Klienten.",
+			"es": "//[DIANA]\\\\//(0,2.472393)\\\\¿Señor M? ¿Puedes oírme?//(3.4,6)\\\\¿47? Creo que estamos solos.//(6,36)\\\\Este sitio debe de ejercer algún efecto extraño sobre nuestro cliente.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Мистер М? Вы меня слышите? 47-й? Боюсь, дальше мы сами. Это место оказывает странное влияние на нашего клиента.",
+			"cn": "//[DIANA]\\\\//(0,3.5)\\\\M先生？听到了吗？//(3.5,33.5)\\\\47？看来只能靠我们自己了。这地方肯定对我们的客户有某种奇特的效应。",
+			"tc": "//[DIANA]\\\\//(0,3.4)\\\\M 先生？你聽得到我嗎？//(3.4,33.4)\\\\47？我想我們得靠自己了。這地方一定對我們的客戶產生了奇怪的影響。",
+			"jp": "//[DIANA]\\\\//(0,2.843)\\\\エミネム？聞こえる？//(2.843,5.875)\\\\47？どうやら彼との連絡が取れないようね。//(5.875,35.875)\\\\この場所は、クライアントに不思議な影響があるみたい。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr.sweetdialog?/ds2722_targetdownspdrnr_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2722_targetdownspdrnr_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,7)\\\\Hold that thought. Well done, 47... your money is bla-bla-bla. You know the drill. Sorry. Erm...//(7,37)\\\\Player does what player does. Impressive, though.",
+			"fr": "//[DIANA]\\\\//(0,1.486)\\\\Ah, attendez.//(1.486,5.449)\\\\Excellent, 47. Virement, sortie, blablabla... Vous connaissez la chanson.//(5.449,35.449)\\\\Désolée, mais... les joueurs font bien ce qu'ils veulent ! Enfin, ça reste impressionnant.",
+			"it": "//[DIANA]\\\\//(0,7)\\\\Aspetta un attimo. Ben fatto, 47. Il denaro è... bla bla bla... Ormai lo sai. Scusa. Ehm...//(7,37)\\\\Chi gioca deve fare quello che deve fare. È stato notevole, comunque.",
+			"de": "//[DIANA]\\\\//(0,1.5)\\\\Behalten Sie das im Hinterkopf.//(1.5,5.3)\\\\Gut gemacht, 47 ... Ihr Geld wird bla, bla, bla. Sie kennen das ja.//(5.3,35.3)\\\\Sorry. Ähm ... Ein Player macht, was ein Player eben so macht. Aber schon beeindruckend.",
+			"es": "//[DIANA]\\\\//(0,5.7)\\\\Espera un momento. Buen trabajo, 47... El dinero, bla, bla, bla, ya sabes cómo va esto.//(5.7,35.7)\\\\Disculpa. Mmm... El jugador hace lo que hace. Aunque ha sido impresionante.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Минутку. Молодец, 47-й... Деньги уже, бла-бла-бла. Ты и так все знаешь. Простите. Э-э... Игроку не прикажешь. Но впечатляет же?",
+			"cn": "//[DIANA]\\\\//(0,1.472393)\\\\别惦记了。//(1.472393,5.47)\\\\做得好，47......你的钱已经那啥了。你懂的。//(5.47,35.47)\\\\抱歉。呃......玩家就该做玩家的事。不过非常精彩。",
+			"tc": "//[DIANA]\\\\//(0,1.6)\\\\先別急。//(1.6,5.6)\\\\幹得好，47......你的錢，諸如此類的，你懂規矩。//(5.6,35.6)\\\\抱歉，嗯......玩家嘛，就是這樣。不過很厲害。",
+			"jp": "//[DIANA]\\\\//(0,2.669)\\\\ちょっと待って。 よくやったわ、47。//(2.669,5.393)\\\\報酬は振り込む... ってもうわかってるわよね。//(5.393,35.393)\\\\悪いわね。プレイヤーは凄腕だから、こうなることもあるのよ。すごいでしょ。"
+		}
+	}
+}

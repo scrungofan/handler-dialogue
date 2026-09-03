@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29761_escapenow.sweetdialog?/dh29761_escapenow_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dh29761_escapenow_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29761_escapenow_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29761_escapenow_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.276687)\\\\47! You need to eliminate the target//(2.276687,32.27669)\\\\before it's too late.",
+			"fr": "//(0,30)\\\\47 ! Vous devez éliminer la cible avant qu'il ne soit trop tard.",
+			"it": "//(0,30)\\\\47! Devi eliminare il bersaglio prima che sia troppo tardi.",
+			"de": "//(0,0.9)\\\\47!//(0.9,30.9)\\\\Sie müssen das Ziel ausschalten, bevor es zu spät ist.",
+			"es": "//(0,1)\\\\¡47!//(1,31)\\\\Tienes que eliminar al objetivo antes de que sea demasiado tarde.",
+			"ru": "//(0,30)\\\\47-й! Ты должен устранить цель, пока еще не поздно.",
+			"cn": "//(0,30)\\\\47！抓紧时间消灭目标。",
+			"tc": "//(0,30)\\\\47！你得趁現在趕快消滅目標。",
+			"jp": "//(0,30)\\\\47！手遅れになる前にターゲットを排除するのよ。"
+		}
+	}
+}

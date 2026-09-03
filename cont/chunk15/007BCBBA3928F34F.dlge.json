@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29757_ringbellcomp.sweetdialog?/dh29757_ringbellcomp_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dh29757_ringbellcomp_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29757_ringbellcomp_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29757_ringbellcomp_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.709)\\\\That's the end of the round.//(1.709,4.37)\\\\Quinn will most likely head back to his locker room.//(4.37,7.4)\\\\A perfect chance to \"convince\" him to stand down//(7.4,37.4)\\\\and take his place?",
+			"fr": "//(0,1.8)\\\\Fin du round.//(1.8,4.45)\\\\Quinn va certainement prendre la direction des vestiaires.//(4.45,6.7)\\\\Peut-être aurez-vous l'occasion de le « convaincre »//(6.7,36.7)\\\\de vous laisser sa place ?",
+			"it": "//(0,1.85)\\\\È la fine del round.//(1.85,4.45)\\\\Probabilmente, Quinn tornerà nel suo spogliatoio.//(4.45,6.641472)\\\\Un'opportunità ideale per \"convincerlo\"//(6.641472,36.64147)\\\\a farsi da parte e lasciare che tu lo sostituisca, no?",
+			"de": "//(0,2)\\\\Das ist das Ende der Runde.//(2,4.4)\\\\Quinn wird wahrscheinlich wieder in die Umkleide gehen.//(4.4,34.4)\\\\Die ideale Gelegenheit, um ihn davon zu „überzeugen“, sich zurückzuziehen, und seinen Platz einzunehmen?",
+			"es": "//(0,1.8)\\\\Se ha acabado el asalto.//(1.8,4.5)\\\\Es muy probable que Quinn regrese al vestuario.//(4.5,6.6)\\\\Podría ser la oportunidad perfecta para «convencerlo»//(6.6,36.6)\\\\de que se haga a un lado y así poder ocupar su lugar.",
+			"ru": "//(0,1.7)\\\\Раунд завершен.//(1.7,4.3)\\\\Куинн сейчас наверняка отправится в раздевалку.//(4.3,34.3)\\\\Выглядит как отличная возможность «убедить» его отступиться и занять его место.",
+			"cn": "//(0,4.4)\\\\回合结束。奎恩大概率会回更衣室。//(4.4,34.4)\\\\也许这是“说服”他退位让贤的绝佳机会？",
+			"tc": "//(0,4.1)\\\\這一回合結束了，奎恩應該會回到他的休息室。//(4.1,34.1)\\\\這應該是個「說服」他讓你代替他比賽的大好機會？",
+			"jp": "//(0,4.36)\\\\今のでラウンド終了ね。クインはロッカールームに戻るはず。//(4.36,34.36)\\\\代わりにあなたが闘うよう彼を「説得」するいい機会じゃないかしら？"
+		}
+	}
+}

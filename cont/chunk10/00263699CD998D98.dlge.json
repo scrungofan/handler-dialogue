@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34007_ms1invtgunk.sweetdialog?/ds34007_ms1invtgunk_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34007_ms1invtgunk_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34007_ms1invtgunk_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34007_ms1invtgunk_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,6.521472)\\\\Looks like this belongs to Elliot Gunk. He's a food industrialist. You do look similar...//(6.521472,36.52147)\\\\But perhaps you're feeling charitable, 47.",
+			"fr": "//(0,4.8)\\\\Ceci semble appartenir à Elliot Gunk, un industriel de l'agroalimentaire.//(4.8,7.12957)\\\\Vous avez une certaine ressemblance, d'ailleurs...//(7.12957,37.12957)\\\\à moins que vous n'ayez l'âme charitable aujourd'hui, 47.",
+			"it": "//(0,4.65)\\\\Pare che questo appartenga a Elliot Gunk. È un imprenditore del settore alimentare.//(4.65,34.65)\\\\In effetti gli assomigli... Ma forse oggi ti senti magnanimo, 47.",
+			"de": "//(0,6.51)\\\\Sieht aus, als würde das Elliot Gunk gehören. Er ist Lebensmittelunternehmer. Sie sehen einander schon ähnlich ...//(6.51,36.51)\\\\Aber vielleicht wollen Sie auch Gnade vor Recht ergehen lassen, 47.",
+			"es": "//(0,4.7)\\\\Parece que es la invitación de Elliot Gunk, un empresario de la industria alimentaria.//(4.9,34.9)\\\\La verdad es que os parecéis, aunque lo mismo prefieres devolvérsela, 47.",
+			"ru": "//(0,4.84)\\\\Похоже, его отправили пищевому магнату Эллиоту Ганку.//(4.84,6.45)\\\\Вы с ним очень похожи...//(6.45,36.45)\\\\Но, возможно, ты отнесешься к нему со снисхождением, 47-й.",
+			"cn": "//(0,4.95)\\\\看来这东西属于艾略特·冈克。他是一位食品业大亨。//(4.95,34.95)\\\\你们确实长得挺像......不过，47，也许你今天会想做点慈善吧。",
+			"tc": "//(0,3)\\\\看來這是艾略特·岡克的東西。//(3,6.6)\\\\他是食品業大亨。你跟他確實有幾分神似......//(6.6,36.6)\\\\或許你想去湊湊熱鬧，47。",
+			"jp": "//(0,4.73)\\\\これはエリオット・ガンクのものみたい。彼は食品業界の実業家よ。//(4.73,6.575)\\\\確かにあなたと似ているわね...//(6.575,36.575)\\\\あなたも人助けをする気になったんじゃないかしら、47？"
+		}
+	}
+}

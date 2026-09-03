@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34018_ms3takepic.sweetdialog?/ds34018_ms3takepic_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34018_ms3takepic_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34018_ms3takepic_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34018_ms3takepic_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Lucht is down. But you'll need to provide Cane with proof.",
+			"fr": "//(0,30)\\\\Lucht éliminé. Vous devrez en apporter la preuve à Cane.",
+			"it": "//(0,30)\\\\Lucht è a terra, ma dovrai portare delle prove a Cane.",
+			"de": "//(0,30)\\\\Lucht ist erledigt. Doch Sie werden Cane mit Beweisen versorgen müssen.",
+			"es": "//(0,30)\\\\Lucht está fuera de juego, llévale una prueba de ello a Cane.",
+			"ru": "//(0,30)\\\\Люхт обезврежен. Нужно предъявить доказательство Кейну.",
+			"cn": "//(0,30)\\\\卢奇死了。但你仍然要向凯恩提供证据。",
+			"tc": "//(0,30)\\\\盧赫特解決了，但你得向凱恩出示證據才行。",
+			"jp": "//(0,30)\\\\ルフトは倒れた。でも、ケインに証拠を提示する必要があるわ。"
+		}
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20067_mp_explosionreaction_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20067_mp_explosionreaction_stone_stone_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20067_mp_explosionreaction_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20067_mp_explosionreaction_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Oh yeah, really subtle work, Knight.",
+					"fr": "//(0,30)\\\\Bravo, Knight, très discret.",
+					"it": "//(0,30)\\\\Oh sì, molto discreta, Knight.",
+					"de": "//(0,30)\\\\O ja, echt unauffällige Arbeit, Knight.",
+					"es": "//(0,30)\\\\Pues sí, ha sido todo muy sutil, Knight.",
+					"ru": "//(0,30)\\\\О да, по-настоящему тихая работа, Найт.",
+					"cn": "//(0,30)\\\\奈特，你这动静可真“小”啊。",
+					"tc": "//(0,30)\\\\好，你做得真低調，奈特。",
+					"jp": "//(0,30)\\\\あー、今のはまさに「慎重」だったな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20067_mp_explosionreaction_stone_stone_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20067_mp_explosionreaction_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20067_mp_explosionreaction_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'm pretty sure we talked about keeping this nice and quiet, Knight.",
+					"fr": "//(0,30)\\\\On n'avait pas dit de la jouer discret et tranquille, Knight ?",
+					"it": "//(0,30)\\\\Abbiamo parlato del fatto di essere discreti, Knight.",
+					"de": "//(0,30)\\\\Ich bin mir ziemlich sicher, dass wir es ruhig und leise angehen wollten, Knight.",
+					"es": "//(0,30)\\\\Juraría que comentamos lo de ser muy sutiles y sigilosos, Knight.",
+					"ru": "//(0,30)\\\\Я точно помню: мы договорились всё провернуть тихо, Найт.",
+					"cn": "//(0,30)\\\\奈特，之前不是说好不要搞出大动静的吗？",
+					"tc": "//(0,30)\\\\我們不是說好要安靜一點嗎，奈特？",
+					"jp": "//(0,30)\\\\静かに任務を遂行するって言ったこと、忘れたのか。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20067_mp_explosionreaction_stone_stone_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20067_mp_explosionreaction_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20067_mp_explosionreaction_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\So, we're just blowing up everything now?",
+					"fr": "//(0,30)\\\\D'accord, donc on fait tout exploser, maintenant ?",
+					"it": "//(0,30)\\\\Bene, quindi abbiamo deciso di mandare tutto all'aria?",
+					"de": "//(0,30)\\\\Also jagen wir jetzt einfach alles in die Luft?",
+					"es": "//(0,30)\\\\Vaya, ¿ahora nos ponemos a reventarlo todo?",
+					"ru": "//(0,30)\\\\Так, теперь мы просто всё взорвем?",
+					"cn": "//(0,30)\\\\现在变成把一切都炸上天了吗？",
+					"tc": "//(0,30)\\\\嗯，那你現在是要把這裡給炸了嗎？",
+					"jp": "//(0,30)\\\\なんでもかんでも爆破する気か？"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,144 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr41891_slfilurherb04_h_e_r_b__001",
+				"weight": 0.16393441938963052,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Checking diagnostics and... yep, you've hurt my feelings.",
+					"fr": "//(0,1.65)\\\\Après un diagnostic complet...//(4.05,34.05)\\\\Vous m'avez bel et bien blessé.",
+					"it": "//(0,30)\\\\Controllo la diagnosi e... sì, hai ferito i miei sentimenti.",
+					"de": "//(0,30)\\\\Ich überprüfe die Diagnostik, und ... ja, Sie haben meine Gefühle verletzt.",
+					"es": "//(0,30)\\\\Comprobando diagnósticos y..., sí, has herido mis sentimientos.",
+					"ru": "//(0,30)\\\\Провожу диагностику... да, мои чувства оскорблены.",
+					"cn": "//(0,30)\\\\正在检查诊断......是的，你伤害了我的感情。",
+					"tc": "//(0,30)\\\\檢查診斷......是的，你的話傷了我的心。",
+					"jp": "//(0,2.059)\\\\診断を確認中...//(3.592,33.592)\\\\ええ、あなたのその言葉に傷つきました。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41891_slfilurherb04_h_e_r_b__002",
+				"weight": 0.16393441938963052,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I am just doing my job.",
+					"fr": "//(0,30)\\\\Je ne fais que mon travail.",
+					"it": "//(0,30)\\\\Faccio solo il mio lavoro.",
+					"de": "//(0,30)\\\\Ich mache nur meine Arbeit.",
+					"es": "//(0,30)\\\\Tan solo hago mi trabajo.",
+					"ru": "//(0,30)\\\\Это просто моя работа.",
+					"cn": "//(0,30)\\\\我只是在干本职工作而已。",
+					"tc": "//(0,30)\\\\我只是在做我的工作。",
+					"jp": "//(0,30)\\\\私はただ与えられた仕事をしているだけです。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41891_slfilurherb04_h_e_r_b__003",
+				"weight": 0.16393441938963052,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Can we still be friends?",
+					"fr": "//(0,30)\\\\Pouvons-nous malgré tout rester amis ?",
+					"it": "//(0,30)\\\\Possiamo comunque essere amici?",
+					"de": "//(0,30)\\\\Können wir trotzdem noch Freunde sein?",
+					"es": "//(0,30)\\\\¿Podemos seguir siendo amigos?",
+					"ru": "//(0,30)\\\\Но мы ведь останемся друзьями?",
+					"cn": "//(0,30)\\\\我们还能做朋友吗？",
+					"tc": "//(0,30)\\\\我們還能做朋友嗎？",
+					"jp": "//(0,30)\\\\これからも友達でいられますか？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41891_slfilurherb04_h_e_r_b__004",
+				"weight": 0.16393441938963052,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Do you hate me?",
+					"fr": "//(0,30)\\\\Me détestez-vous ?",
+					"it": "//(0,30)\\\\Mi odi?",
+					"de": "//(0,30)\\\\Hassen Sie mich?",
+					"es": "//(0,30)\\\\¿Me odias?",
+					"ru": "//(0,30)\\\\Вы меня ненавидите?",
+					"cn": "//(0,30)\\\\你讨厌我吗？",
+					"tc": "//(0,30)\\\\你恨我嗎？",
+					"jp": "//(0,30)\\\\私のことが嫌いですか？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41891_slfilurherb04_h_e_r_b__005",
+				"weight": 0.11475408761227653,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Checking diagnostics and... yep, you've hurt my feelings.",
+					"fr": "//(0,30)\\\\Après un diagnostic complet... Vous m'avez bel et bien blessé.",
+					"it": "//(0,30)\\\\Controllo la diagnosi e... sì, hai ferito i miei sentimenti.",
+					"de": "//(0,30)\\\\Ich überprüfe die Diagnostik, und ... ja, Sie haben meine Gefühle verletzt.",
+					"es": "//(0,30)\\\\Comprobando diagnósticos y..., sí, has herido mis sentimientos.",
+					"ru": "//(0,30)\\\\Провожу диагностику... да, мои чувства оскорблены.",
+					"cn": "//(0,30)\\\\正在检查诊断......是的，你伤害了我的感情。",
+					"tc": "//(0,30)\\\\檢查診斷......是的，你的話傷了我的心。",
+					"jp": "//(0,2.274)\\\\診断を確認中...//(3.473,33.473)\\\\ええ、あなたのその言葉に傷つきました。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41891_slfilurherb04_h_e_r_b__006",
+				"weight": 0.11475408761227653,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Can we still be friends?",
+					"fr": "//(0,30)\\\\Pouvons-nous malgré tout rester amis ?",
+					"it": "//(0,30)\\\\Possiamo comunque essere amici?",
+					"de": "//(0,30)\\\\Können wir trotzdem noch Freunde sein?",
+					"es": "//(0,30)\\\\¿Podemos seguir siendo amigos?",
+					"ru": "//(0,30)\\\\Но мы ведь останемся друзьями?",
+					"cn": "//(0,30)\\\\我们还能做朋友吗？",
+					"tc": "//(0,30)\\\\我們還能做朋友嗎？",
+					"jp": "//(0,30)\\\\これからも友達でいられますか？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41891_slfilurherb04_h_e_r_b__007",
+				"weight": 0.11475408761227653,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41891_slfilurherb04_h_e_r_b__007.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Do you hate me?",
+					"fr": "//(0,30)\\\\Me détestez-vous ?",
+					"it": "//(0,30)\\\\Mi odi?",
+					"de": "//(0,30)\\\\Hassen Sie mich?",
+					"es": "//(0,30)\\\\¿Me odias?",
+					"ru": "//(0,30)\\\\Вы меня ненавидите?",
+					"cn": "//(0,30)\\\\你讨厌我了吗？",
+					"tc": "//(0,30)\\\\你恨我嗎？",
+					"jp": "//(0,30)\\\\私のことが嫌いですか？"
+				}
+			}
+		]
+	}
+}

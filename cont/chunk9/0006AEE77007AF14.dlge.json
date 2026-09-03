@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20114_mp_targetsremaining5_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20114_mp_targetsremaining5_knight_knight_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20114_mp_targetsremaining5_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20114_mp_targetsremaining5_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Five tangos left.",
+					"fr": "//(0,30)\\\\Il reste cinq tangos.",
+					"it": "//(0,30)\\\\Ancora cinque bersagli.",
+					"de": "//(0,30)\\\\Fünf Zulus übrig.",
+					"es": "//(0,30)\\\\Quedan cinco enemigos.",
+					"ru": "//(0,30)\\\\Осталось пять целей.",
+					"cn": "//(0,30)\\\\剩下五个目标。",
+					"tc": "//(0,30)\\\\剩五個目標了。",
+					"jp": "//(0,30)\\\\ターゲットはあと5人。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20114_mp_targetsremaining5_knight_knight_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20114_mp_targetsremaining5_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20114_mp_targetsremaining5_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Only a handful of bad people left to shoot, Stone. I’m counting five of them.",
+					"fr": "//(0,30)\\\\Plus que cinq cibles à supprimer, Stone. Il en reste cinq.",
+					"it": "//(0,30)\\\\Resta solo una manciata di cattivi a cui sparare, Stone. Io ne conto cinque.",
+					"de": "//(0,30)\\\\Nur eine Handvoll böser Buben muss noch erschossen werden, Stone. Ich zähle noch fünf.",
+					"es": "//(0,30)\\\\Ya solo te queda un puñado de malos, Stone. Cuento a cinco enemigos.",
+					"ru": "//(0,30)\\\\Осталась горстка недобитых плохишей, Стоун. Я насчитала еще пятерых.",
+					"cn": "//(0,30)\\\\斯通，只剩下几个要击杀的目标了。我数了数，还剩五个。",
+					"tc": "//(0,30)\\\\只剩下一些人得殺了，斯通。算算有五個。",
+					"jp": "//(0,30)\\\\ターゲット残りわずか。あと5人ね。"
+				}
+			}
+		]
+	}
+}

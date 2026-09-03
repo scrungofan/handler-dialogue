@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41844_tkantdt.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds41844_tkantdt_diana_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41844_tkantdt_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41844_tkantdt_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Be sure to get all of it into your system, 47.",
+					"fr": "//(0,30)\\\\Veillez à ne pas en laisser une goutte, 47.",
+					"it": "//(0,30)\\\\Assicurati di assumerlo tutto, 47.",
+					"de": "//(0,30)\\\\Achten Sie darauf, alles einzunehmen, 47.",
+					"es": "//(0,30)\\\\Debes introducirlo por completo en tu sistema, 47.",
+					"ru": "//(0,30)\\\\Обязательно введи его в свое тело весь, 47-й.",
+					"cn": "//(0,30)\\\\一定要将其全部服下，47。",
+					"tc": "//(0,30)\\\\記得把全部都用完，47。",
+					"jp": "//(0,30)\\\\いい、47... 残さず全部、体に取り込むのよ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds41844_tkantdt_diana_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41844_tkantdt_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41844_tkantdt_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I advise you to take it all, 47.",
+					"fr": "//(0,30)\\\\Je vous suggère de tout prendre, 47.",
+					"it": "//(0,30)\\\\Ti consiglio di prenderlo tutto, 47.",
+					"de": "//(0,30)\\\\Ich würde dazu raten, alles einzunehmen, 47.",
+					"es": "//(0,30)\\\\Será mejor que lo absorbas por completo, 47.",
+					"ru": "//(0,30)\\\\Советую принять полную дозу, 47-й.",
+					"cn": "//(0,30)\\\\我建议你全部服下，47。",
+					"tc": "//(0,30)\\\\我建議你全部用完，47。",
+					"jp": "//(0,30)\\\\47、全部取り込みなさい。"
+				}
+			}
+		]
+	}
+}

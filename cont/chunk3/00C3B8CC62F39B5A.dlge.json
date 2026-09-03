@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat.sweetdialog?/ds41837_herbchat_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41837_herbchat_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\That's very sweet. Look, I have some difficult news. Zachary Carlisle is... no longer with us.",
+			"fr": "//(0,1.68)\\\\C'est très gentil.//(1.68,4.614785)\\\\Écoutez, j'ai une mauvaise nouvelle.//(4.614785,34.61478)\\\\Zachary Carlisle... n'est plus des nôtres.",
+			"it": "//(0,1.804294)\\\\Sei... molto dolce.//(1.804294,4.700982)\\\\Senti, ho una brutta notizia da darti.//(4.700982,34.70098)\\\\Zachary Carlisle... non è più tra noi.",
+			"de": "//(0,4.112883)\\\\Das ist sehr süß. Hör zu: Ich habe schlechte Neuigkeiten.//(4.112883,34.11288)\\\\Zachary Carlisle ... weilt nicht mehr unter uns.",
+			"es": "//(0,1.736196)\\\\Qué... amable.//(1.736196,31.7362)\\\\Mira, tengo que darte una dura noticia... Zachary Carlisle ya... no está con nosotros...",
+			"ru": "//(0,1.75)\\\\Как... приятно.//(1.75,4.45)\\\\Но у меня печальные вести.//(4.45,34.45)\\\\Закари Карлайл... больше не с нами.",
+			"cn": "//(0,30)\\\\你还......挺会说话。我有个不幸的消息告诉你。扎切里·卡莱尔......已经离开了我们。",
+			"tc": "//(0,30)\\\\你......嘴真甜。不過，我有一些難以啟齒的消息。札卡里·卡爾西爾......已經不在了。",
+			"jp": "//(0,4.727)\\\\それは... 嬉しいわね。 実は良くない知らせがあるの。//(4.727,34.727)\\\\ザカリー・カーライルは... もうこの世にいないわ。"
+		}
+	}
+}

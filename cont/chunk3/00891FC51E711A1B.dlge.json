@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41885_slherb47.sweetdialog?/dr41885_slherb47_h_e_r_b__002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41885_slherb47_h_e_r_b__002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41885_slherb47_h_e_r_b__002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41885_slherb47_h_e_r_b__002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.064785)\\\\You're also here to study the virus, then?//(2.064785,5.720061)\\\\Hate to be a bore, but please follow containment protocol at all times.//(5.720061,35.72006)\\\\The rules are in place for everyone's safety.",
+			"fr": "//(0,2)\\\\Comptez-vous travailler sur le virus vous aussi ?//(2,5.6)\\\\Je vais vous embêter, mais vous devez suivre le protocole de confinement à la lettre.//(5.6,35.6)\\\\Le règlement est là pour la sécurité de tous.",
+			"it": "//(0,2.282883)\\\\Dunque, sei qui anche tu per studiare il virus?//(2.282883,5.906257)\\\\Odio fare il precisino, ma devo chiederti di seguire sempre il protocollo di contenimento.//(5.906257,35.90626)\\\\Le regole servono a garantire la sicurezza di tutti.",
+			"de": "//(0,1.651)\\\\Sie sind also auch hier, um das Virus zu studieren?//(1.651,5.438)\\\\Ich will nicht nerven, aber bitte halten Sie immer das Eindämmungsprotokoll ein.//(5.438,35.438)\\\\Die Regeln dienen der allgemeinen Sicherheit.",
+			"es": "//(0,2)\\\\Entonces, ¿tú también has venido a estudiar el virus?//(2,5.6)\\\\Detesto cortarte el rollo, pero es importante respetar en todo momento el protocolo de contención.//(5.6,35.6)\\\\Las normas se establecieron por el bien de todos.",
+			"ru": "//(0,2.460491)\\\\Тоже пришли вирус изучать, значит?//(2.460491,32.46049)\\\\Не хочу быть занудой, но не забывайте про карантинные меры. Техника безопасности написана кровью.",
+			"cn": "//(0,1.9)\\\\你也是来这里研究病毒的吗？//(1.9,5.4)\\\\请别怪我多嘴，但还请务必时刻遵守隔离协议。//(5.4,35.4)\\\\这些规定是为了每个人的安全着想。",
+			"tc": "//(0,30)\\\\你也來研究病毒，對嗎？我不想煩你，但請務必時刻遵循封鎖協議。這些規則是為了每個人的安全而制定的。",
+			"jp": "//(0,2.083)\\\\あなたもウイルスを研究するためにきたのですか？//(2.083,5.762)\\\\鬱陶しいでしょうが、安全プロトコルに従ってください。//(5.762,35.762)\\\\規則は皆の安全のために設けられています。"
+		}
+	}
+}

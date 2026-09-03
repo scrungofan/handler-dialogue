@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20075_mp_accidentkill1reaction_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20075_mp_accidentkill1reaction_stone_stone_001",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20075_mp_accidentkill1reaction_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20075_mp_accidentkill1reaction_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Clever use of the environment, Knight. I see you been reviewing my mission portfolio for inspiration.",
+					"fr": "//(0,30)\\\\Excellente adaptation, Knight. Je vois que tu t'es inspirée du carnet de missions.",
+					"it": "//(0,2.460491)\\\\Saggio utilizzo dell'ambiente circostante, Knight.//(2.460491,32.46049)\\\\Vedo che hai dato un'occhiata al portfolio delle mie missioni per prendere spunto.",
+					"de": "//(0,30)\\\\Ein kluger Einsatz der Umgebung, Knight. Ich merke schon, Sie haben sich wohl von meinem Missionsportfolio inspirieren lassen.",
+					"es": "//(0,30)\\\\Has aprovechado bien el entorno, Knight. Veo que te has inspirado viendo el portfolio de mis misiones.",
+					"ru": "//(0,3.502883)\\\\Умно, Найт. Ты подстроила несчастный случай. Я смотрю, ты//(3.502883,33.50288)\\\\почитала отчеты о моих операциях для вдохновения.",
+					"cn": "//(0,30)\\\\你非常巧妙地利用了环境，奈特。看来你温习了我的任务档案，从中获取了灵感。",
+					"tc": "//(0,30)\\\\真是善用環境，奈特。我知道你在看我的任務記錄來尋找靈感。",
+					"jp": "//(0,30)\\\\環境をうまく利用したな。俺のミッションファイルを見て学んだか。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20075_mp_accidentkill1reaction_stone_stone_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20075_mp_accidentkill1reaction_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20075_mp_accidentkill1reaction_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Impressive, Knight.",
+					"fr": "//(0,30)\\\\Impressionnant, Knight.",
+					"it": "//(0,30)\\\\Impressionante, Knight.",
+					"de": "//(0,30)\\\\Beeindruckend, Knight.",
+					"es": "//(0,30)\\\\Impresionante, Knight.",
+					"ru": "//(0,30)\\\\Впечатляет, Найт.",
+					"cn": "//(0,30)\\\\了不起，奈特。",
+					"tc": "//(0,30)\\\\了不起，奈特。",
+					"jp": "//(0,30)\\\\すごいぞ、ナイト。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20075_mp_accidentkill1reaction_stone_stone_003",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20075_mp_accidentkill1reaction_stone_stone_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20075_mp_accidentkill1reaction_stone_stone_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Well done. I would have done the exact same thing.",
+					"fr": "//(0,30)\\\\Bien joué. C'est exactement ce que j'aurais fait.",
+					"it": "//(0,30)\\\\Complimenti. Avrei fatto esattamente la stessa cosa.",
+					"de": "//(0,30)\\\\Gut gemacht. Ich hätte genau das Gleiche getan.",
+					"es": "//(0,30)\\\\Buen trabajo. Yo hubiese hecho exactamente lo mismo.",
+					"ru": "//(0,30)\\\\Отлично. Я бы также поступил.",
+					"cn": "//(0,30)\\\\不错。换了我也会那么干。",
+					"tc": "//(0,30)\\\\做得好。我也會這麼做。",
+					"jp": "//(0,30)\\\\よくやった。俺も同じことをしただろう。"
+				}
+			}
+		]
+	}
+}

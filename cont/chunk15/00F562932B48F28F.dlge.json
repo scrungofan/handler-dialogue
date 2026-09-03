@@ -1,8 +1,8 @@
 {
 	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
 	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_handler/29750_flyin.sweetdialog?/29750_flyin_diana_001.sweetdialogitem].pc_dialogevent",
-	"DITL": "00B7E83B2B5BFE20",
-	"CLNG": "00E3CBB0725ED16C",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
 	"rootContainer": {
 		"type": "WavFile",
 		"wavName": "29750_flyin_diana_001",

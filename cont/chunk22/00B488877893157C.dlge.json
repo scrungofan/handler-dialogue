@@ -1,8 +1,8 @@
 {
 	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
 	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/12750_white_spider/12750_flu/12750_handler/ds12760_virusspreadremind.sweetdialog?/ds12760_virusspreadremind_diana_ws_001.sweetdialogitem].pc_dialogevent",
-	"DITL": "00B7E83B2B5BFE20",
-	"CLNG": "00E3CBB0725ED16C",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
 	"rootContainer": {
 		"type": "WavFile",
 		"wavName": "ds12760_virusspreadremind_diana_ws_001",
@@ -18,7 +18,7 @@
 			"ru": "//(0,30)\\\\47-й, в клинике все еще есть зараженные. Перед уходом убедись, что разобрался со всеми. Мы не можем позволить вирусу распространиться.",
 			"cn": "//(0,30)\\\\47，医院中仍有受感染者。务必在离开前将其解决。我们决不能让病毒传播。",
 			"tc": "//(0,30)\\\\47，醫院中仍有受感染者。務必在離開前將其解決。我們決不能讓病毒傳播。",
-			"jp": "//(0,30)\\\\47、 また院内で 感染者が 見つかった。 脱出する前に 始末して。 ウイルスの 拡散を 許すわけには いかないわ。"
+			"jp": "//(0,5.308589)\\\\47、 また院内で 感染者が 見つかった。 脱出する前に 始末して。//(5.308589,35.30859)\\\\ウイルスの 拡散を 許すわけには いかないわ。"
 		}
 	}
 }

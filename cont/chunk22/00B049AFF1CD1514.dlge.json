@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01.sweetdialog?/ds2710_mzwelcome01_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2710_mzwelcome01_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\A house?",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Une maison ?",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Una casa?",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Ein Haus?",
+			"es": "//[DIANA]\\\\//(0,30)\\\\¿Una casa?",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Дом?",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\一栋房子？",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\一棟房子？",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\家かしら？"
+		}
+	}
+}

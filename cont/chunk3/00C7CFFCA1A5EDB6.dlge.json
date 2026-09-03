@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41896_slantidote.sweetdialog?/dr41896_slantidote_h_e_r_b__003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41896_slantidote_h_e_r_b__003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41896_slantidote_h_e_r_b__003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41896_slantidote_h_e_r_b__003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.662883)\\\\Fine! I didn't want to be your friend anyway.//(3.362883,10.35865)\\\\If you don't want everyone to die, there might be something for the virus in Zachary's room. Maybe.//(11.10865,41.10865)\\\\Whatever.",
+			"fr": "//(0,3.5)\\\\Tant pis ! Je ne voulais pas être votre ami, de toute façon.//(3.5,9.5)\\\\Si vous voulez sauver les autres, il y a peut-être un antidote dans la chambre de Zachary.//(9.5,11.15)\\\\Probablement.//(11.15,41.15)\\\\Peu importe.",
+			"it": "//(0,3.330982)\\\\E va bene! Tanto non volevo più essere tuo amico.//(3.330982,7.618159)\\\\Se non vuoi che muoiano tutti, potresti trovare qualcosa per il virus//(7.618159,37.61816)\\\\nella stanza di Zachary. Forse. Sai che ne me importa.",
+			"de": "//(0,2.813)\\\\Gut! Ich wollte auch gar nicht Ihr Freund sein.//(2.813,5.479687)\\\\Wenn Sie nicht wollen, dass alle sterben,//(5.479687,9.07877)\\\\könnten Sie vielleicht etwas gegen das Virus in Zacharys Zimmer finden.//(9.07877,39.07877)\\\\Vielleicht. Aber egal.",
+			"es": "//(0,3.5)\\\\¡Vale! Tampoco quería ser tu amigo.//(3.5,9.1)\\\\Si no quieres que todo el mundo muera, quizás encuentres algo contra el virus en la habitación de Zachary.//(9.1,39.1)\\\\Tal vez. Yo qué sé.",
+			"ru": "//(0,2.8)\\\\Не очень-то и хотелось с вами дружить!//(3.6,8.83816)\\\\Если не хотите, чтобы все умерли, то способ остановить вирус может быть в комнате Закари.//(8.83816,38.83816)\\\\А может не быть. Мне без разницы.",
+			"cn": "//(0,3)\\\\好吧！反正我也不想做你的朋友。//(3,9.2)\\\\如果你不想让所有人都死掉的话，扎切里的房间可能还有病毒的解药。//(9.2,39.2)\\\\或许吧。随便了。",
+			"tc": "//(0,3.5)\\\\好吧！反正我也不想做你的朋友。//(3.5,9)\\\\如果你不想讓所有人死亡，札卡里房間裡可能有一些針對病毒的東西。//(9,39)\\\\或許吧。隨你便。",
+			"jp": "//(0,3.059)\\\\ふん！どうせあなたの友達になんてなりたくなかったので。//(3.059,5.614)\\\\みんな死なせたくないなら、//(5.614,9.177)\\\\ザカリーの部屋にウイルスに対抗するための手がかりがあるかもしれません。//(9.177,39.177)\\\\まあ、どうでもいいですけど。"
+		}
+	}
+}

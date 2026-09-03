@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20113_mp_targetsleft5_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20113_mp_targetsleft5_stone_stone_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20113_mp_targetsleft5_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20113_mp_targetsleft5_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Only five targets left standing, Knight.",
+					"fr": "//(0,30)\\\\Tu as encore cinq cibles sur la liste, Knight.",
+					"it": "//(0,30)\\\\Restano in piedi solo cinque bersagli, Knight.",
+					"de": "//(0,30)\\\\Nur noch fünf Ziele auf den Beinen, Knight.",
+					"es": "//(0,30)\\\\Solo quedan cinco objetivos, Knight.",
+					"ru": "//(0,30)\\\\Осталось убрать пять целей, Найт.",
+					"cn": "//(0,30)\\\\奈特，还剩五个目标。",
+					"tc": "//(0,30)\\\\剩下五個目標了，奈特。",
+					"jp": "//(0,30)\\\\あと5人だけだ、ナイト。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20113_mp_targetsleft5_stone_stone_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20113_mp_targetsleft5_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20113_mp_targetsleft5_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\This should be over soon. Just five targets remaining.",
+					"fr": "//(0,30)\\\\On a bientôt terminé. Encore cinq cibles à traiter.",
+					"it": "//(0,30)\\\\Presto sarà finita. Rimangono soltanto cinque bersagli.",
+					"de": "//(0,30)\\\\Das hier sollte bald vorbei sein. Es sind noch fünf Ziele übrig.",
+					"es": "//(0,30)\\\\Pronto habremos acabado. Solo quedan cinco objetivos.",
+					"ru": "//(0,30)\\\\Скоро всё закончится. Осталось всего пять целей.",
+					"cn": "//(0,30)\\\\应该很快就能搞定。还剩下五个目标。",
+					"tc": "//(0,30)\\\\這應該快要結束了。剩下五個目標了。",
+					"jp": "//(0,30)\\\\あと少しだ。ターゲットはあと5人。"
+				}
+			}
+		]
+	}
+}

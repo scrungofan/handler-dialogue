@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4312_bgbssdown.sweetdialog?/ds4312_bgbssdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4312_bgbssdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4312_bgbssdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4312_bgbssdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.4)\\\\Target down.//(1.4,6.2)\\\\Dragon Head Jiaolong Wu's reign at Concord is over.//(6.2,7.8)\\\\With their leader out of the way,//(7.8,10.9)\\\\the organization is now particularly vulnerable.//(10.9,40.9)\\\\Nicely done, 47.",
+			"fr": "//(0,6)\\\\Cible éliminée. Le règne de Jiaolong Wu, la tête de dragon de Concord Union, s'achève.//(6,36)\\\\L'organisation sera particulièrement vulnérable sans leur chef. Bien joué, 47.",
+			"it": "//(0,30)\\\\Bersaglio eliminato. Il regno di Jiaolong Wu è finito. Con la sua Testa di Drago fuori dai giochi, la Concord Union sarà ancora più vulnerabile. Ben fatto, 47.",
+			"de": "//(0,6)\\\\Ziel ausgeschaltet. Die Herrschaft von Drachenkopf Jiaolong Wu ist zu Ende.//(6,10.9)\\\\Da ihr Anführer aus dem Weg geräumt wurde, ist die Organisation jetzt besonders angreifbar.//(10.9,40.9)\\\\Gut gemacht, 47.",
+			"es": "//(0,30)\\\\Objetivo abatido. Con esto, se pone fin al reinado de Jiaolong Wu, la cabeza del dragón, al frente de Concord Union. Una vez eliminado el líder, la organización queda especialmente vulnerable. Buen trabajo, 47.",
+			"ru": "//(0,3.576687)\\\\Цель устранена. «Конкорд Юнион» осталась без правителя.//(3.576687,6.761473)\\\\Теперь, когда Головы дракона Цзяолуна У больше нет,//(6.761473,10.966)\\\\организация стала чрезвычайно уязвима.//(10.966,40.966)\\\\Хорошо сработано, 47-й.",
+			"cn": "//(0,30)\\\\目标已消灭。龙头吴蛟龙对和联社的统治结束了。现在组织群龙无首，一击即溃。47，干得漂亮。",
+			"tc": "//(0,6)\\\\目標已被消滅。龍頭吳蛟龍在協和聯會的統治結束了。//(6,10.9)\\\\少了他們的領袖，這個組織現在特別脆弱。//(10.9,40.9)\\\\幹得漂亮，47。",
+			"jp": "//(0,30)\\\\標的排除。ドラゴンヘッドのジャオロン・ウーがコンコード連合を支配する日々は終わったわ。リーダーを失った組織は今、特に脆弱な状態よ。よくやったわ、47。"
+		}
+	}
+}

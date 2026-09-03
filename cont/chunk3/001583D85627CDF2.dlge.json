@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat.sweetdialog?/ds41837_herbchat_h_e_r_b__004.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41837_herbchat_h_e_r_b__004",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_h_e_r_b__004.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_h_e_r_b__004.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Well, yes. My records show he left the lab nine thousand, six hundred and fourteen days ago.",
+			"fr": "//(0,30)\\\\Je veux bien vous croire. D'après mon registre, il a quitté le laboratoire il y a 9 614 jours.",
+			"it": "//(0,30)\\\\Beh, sì. Dai miei registri risulta che ha lasciato il laboratorio 9. 614 giorni fa.",
+			"de": "//(0,30)\\\\Nun, ja. Laut meinen Aufzeichnungen verließ er das Labor vor neuntausendsechshundertvierzehn Tagen.",
+			"es": "//(0,1.25)\\\\Sí, sé que no está aquí.//(1.25,31.25)\\\\Mis registros indican que salió del laboratorio hace nueve mil seiscientos catorce días.",
+			"ru": "//(0,1)\\\\Все верно.//(1,31)\\\\Согласно моим записям, он покинул лабораторию девять тысяч шестьсот четырнадцать дней назад.",
+			"cn": "//(0,30)\\\\呃，是的。我的记录显示，他在九千六百一十四天前离开了实验室。",
+			"tc": "//(0,30)\\\\呃，還真是......我的記錄顯示，他離開實驗室已經九千六百十四天了。",
+			"jp": "//(0,1.068)\\\\ええ、そうでしょうね。//(1.068,31.068)\\\\私の記録によれば、彼は9614日前に研究室を去りました。"
+		}
+	}
+}

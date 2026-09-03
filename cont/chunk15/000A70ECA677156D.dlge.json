@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29758_quinndead.sweetdialog?/dh29758_quinndead_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dh29758_quinndead_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29758_quinndead_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29758_quinndead_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.092393)\\\\This is unfortunate, 47.//(2.092393,4.500982)\\\\You were meant to protect Quinn.//(4.500982,6.6)\\\\Our client won't be happy.//(6.6,36.6)\\\\Finish the mission and I'll fix this mess.",
+			"fr": "//(0,2.4)\\\\Voilà qui est fâcheux, 47.//(2.4,6.65)\\\\Vous étiez censé protéger Quinn, cela ne ravira pas notre client.//(6.65,36.65)\\\\Terminez la mission, je règle tout ça.",
+			"it": "//(0,2.3)\\\\Che disdetta, 47.//(2.3,4.7)\\\\Avresti dovuto proteggere Quinn.//(4.7,6.6)\\\\Il nostro cliente non sarà felice.//(6.6,36.6)\\\\Porta a termine la missione e io penserò a risolvere questo problema.",
+			"de": "//(0,4.5)\\\\Das ist Pech, 47. Sie sollten Quinn beschützen.//(4.5,6.5)\\\\Unser Klient wird nicht glücklich darüber sein.//(6.5,36.5)\\\\Bringen Sie die Mission zu Ende und ich räume diesen Schlamassel auf.",
+			"es": "//(0,2.2)\\\\Qué mal, 47.//(2.2,4.4)\\\\Se suponía que tenías que proteger a Quinn.//(4.4,6.5)\\\\Nuestro cliente no va a estar nada satisfecho.//(6.5,36.5)\\\\Completa la misión y ya me encargaré yo de arreglar este desastre.",
+			"ru": "//(0,4.4)\\\\Очень жаль, 47-й. Ты должен был защищать Куинна.//(4.4,6.2)\\\\Клиенту это не понравится.//(6.6,36.6)\\\\Заверши задание, а я улажу проблемы.",
+			"cn": "//(0,4.6)\\\\非常遗憾，47。你的任务本该是保护奎恩。//(4.6,34.6)\\\\我们的客户不会高兴的。先完成任务，我会收拾这个烂摊子。",
+			"tc": "//(0,4.4)\\\\真是不幸，47，你應該要保護奎恩才對。//(4.4,34.4)\\\\我們的客戶不會太高興的。將任務完成吧，我待會再來處理。",
+			"jp": "//(0,4.395)\\\\これはまずいわね、47。あなたはクインを守るはずだったのに。//(4.395,6.675)\\\\クライアントは怒るでしょうね。//(6.675,36.675)\\\\とにかく任務を終わらせて、後始末は私に任せて。"
+		}
+	}
+}

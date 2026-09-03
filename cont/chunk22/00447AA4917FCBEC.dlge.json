@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr.sweetdialog?/ds2722_targetdownspdrnr_diana_005.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2722_targetdownspdrnr_diana_005",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr_diana_005.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2722_targetdownspdrnr_diana_005.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Same to you, Mr. M. You know where to find me.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\De même, M.  Em. Vous avez notre contact.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Il piacere è stato mio, signor Em. Sai dove trovarmi.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Gleichfalls, Mr.  M. Sie wissen ja, wo Sie mich finden.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Lo mismo digo, señor M. Ya sabes dónde encontrarme.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\И вам того же, мистер Эм. Обращайтесь.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\你也是，M先生。欢迎随时来找我。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\彼此彼此，M 先生。你知道哪裡可以找到我。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\私も楽しかったわ。いつでも連絡ちょうだいね。"
+		}
+	}
+}

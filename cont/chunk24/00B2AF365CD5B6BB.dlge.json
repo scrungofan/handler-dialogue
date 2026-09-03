@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4320_assn2idalt.sweetdialog?/ds4320_assn2idalt_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4320_assn2idalt_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4320_assn2idalt_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4320_assn2idalt_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.472393)\\\\That... is Xiang Weisheng.//(2.472393,5.3)\\\\He's one of the contenders Agent Lee may fight today;//(5.3,35.3)\\\\this may pose a risk to the mission.",
+			"fr": "//(0,30)\\\\Voici... Xiang Weisheng. Il fait partie des combattants que l'agent Lee affrontera aujourd'hui, et pourrait présenter un risque pour la mission.",
+			"it": "//(0,30)\\\\Quello è... Xiang Weisheng. È uno dei combattenti che l'agente Lee potrebbe affrontare oggi e potrebbe rappresentare un rischio per la missione.",
+			"de": "//(0,30)\\\\Das ... ist Xiang Weisheng. Er ist einer der Teilnehmer des heutigen Turniers, der für die Mission gefährlich werden könnte.",
+			"es": "//(0,30)\\\\Ese... es Xiang Weisheng, uno de los participantes a los que podría tener que enfrentarse hoy el agente Lee. Podría ser un problema.",
+			"ru": "//(0,30)\\\\Это... Сян Вэйшэн, один из участников, с которым может сегодня выйти на бой агент Ли. Он представляет потенциальную угрозу.",
+			"cn": "//(0,30)\\\\那人......就是项伟盛。他可能是李特工今天的比武对手之一，且可能会对任务构成威胁。",
+			"tc": "//(0,30)\\\\那......是向偉生。他是李特務今天可能對上的選手之一，可能會對任務構成風險。",
+			"jp": "//(0,30)\\\\あれは... シアン・ウェイシェン。今日エージェント・リーが対戦するかもしれない相手で、任務に脅威をもたらす可能性があるわ。"
+		}
+	}
+}

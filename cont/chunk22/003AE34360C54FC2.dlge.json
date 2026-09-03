@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2705_targetid.sweetdialog?/ds2705_targetid_et_belini_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2705_targetid_et_belini_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2705_targetid_et_belini_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2705_targetid_et_belini_003.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\You're no fun. Never heard of a speedrun?",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\Tss, on se fait chier ! Le speedrun, ça vous parle ?",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Che palle. Non hai mai sentito parlare delle speedrun?",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Du bist ein Spielverderber. Noch nie von Speedruns gehört?",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\Eres un rollo. ¿No sabes lo que es una «speedrun»?",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\С вами скучно. Про быстрые прохождения не слышали, что ли?",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\真无聊。没听说过速通挑战吗？",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\你真無趣。沒聽過速通嗎？",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\つまらないな。速攻で終わらしたくないのか？"
+		}
+	}
+}

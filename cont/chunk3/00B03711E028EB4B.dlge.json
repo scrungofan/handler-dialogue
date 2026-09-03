@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat.sweetdialog?/ds41837_herbchat_h_e_r_b__002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41837_herbchat_h_e_r_b__002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_h_e_r_b__002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_h_e_r_b__002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Diana! I missed your voice.",
+			"fr": "//(0,30)\\\\Diana ! Quel plaisir d'entendre votre voix.",
+			"it": "//(0,30)\\\\Diana! Mi è mancata la tua voce.",
+			"de": "//(0,30)\\\\Diana! Ich habe Ihre Stimme vermisst.",
+			"es": "//(0,30)\\\\¡Diana! Ya echaba de menos tu voz.",
+			"ru": "//(0,30)\\\\Диана! Я скучал по вашему голосу.",
+			"cn": "//(0,30)\\\\戴安娜！我很想念你的声音。",
+			"tc": "//(0,30)\\\\戴安娜！我想你了。",
+			"jp": "//(0,30)\\\\ダイアナ！あなたの声がまた聞くことができて嬉しいです！"
+		}
+	}
+}

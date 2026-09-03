@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41887_sldeadscientist.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr41887_sldeadscientist_h_e_r_b__001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41887_sldeadscientist_h_e_r_b__001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41887_sldeadscientist_h_e_r_b__001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,3.71908)\\\\Oh, er - rest assured that the virus is safely contained!//(3.71908,8.86485)\\\\There was an attempted breach some time ago, but I took the necessary steps to lock it down.//(8.86485,38.86485)\\\\It's just what I do.",
+					"fr": "//(0,3.714785)\\\\Oh... Le virus est parfaitement maîtrisé, n'ayez crainte !//(3.714785,6.33)\\\\Nous avons un jour connu une brèche de sécurité, mais j'ai pris les//(6.33,8.75)\\\\mesures nécessaires pour contenir la menace.//(8.75,38.75)\\\\C'est mon travail.",
+					"it": "//(0,3.902883)\\\\Oh, ehm... non temere, il virus è sotto controllo!//(3.902883,6.385766)\\\\Qualche tempo fa c'è stato un tentativo di violazione,//(6.385766,36.38577)\\\\ma ho preso le misure necessarie per contenerlo. È il mio lavoro.",
+					"de": "//(0,3.582883)\\\\Oh, äh ... Keine Sorge: Das Virus wird sicher verwahrt!//(3.582883,8.531)\\\\Es gab vor einiger Zeit einen versuchten Verstoß, aber ich unternahm die nötigen Schritte, um alles abzuriegeln.//(8.531,38.531)\\\\Das ist meine Aufgabe.",
+					"es": "//(0,3.6)\\\\Ah, bueno, no te preocupes, ¡el virus está contenido de forma segura!//(3.6,8.75)\\\\Hubo un conato de fuga hace un tiempo, pero di los pasos necesarios para contenerlo.//(8.75,38.75)\\\\Ese es mi trabajo.",
+					"ru": "//(0,1.356196)\\\\Ой, это...//(1.356196,3.316687)\\\\Не переживайте, вирус надежно изолирован!//(3.316687,8.353865)\\\\Некоторое время назад была попытка выкрасть его, но я предпринял необходимые меры.//(8.353865,38.35387)\\\\Такая работа.",
+					"cn": "//(0,3.6)\\\\噢，请放心，病毒已被安全隔离！//(3.6,8.7)\\\\前阵子曾有人试图入侵，但我已采取必要措施将其封锁。//(8.7,38.7)\\\\这就是我的职责。",
+					"tc": "//(0,3.5)\\\\哦，呃—— 請放心，病毒已被安全控制！//(3.5,8.6)\\\\前段時間有人試圖入侵，但我已採取必要措施將其封鎖。//(8.6,38.6)\\\\這就是我該做的事情。",
+					"jp": "//(0,3.989)\\\\ああ、でも... ウイルスは安全に管理されているのでご安心ください！//(3.989,8.468)\\\\以前誰かが持ち出そうとしましたが、必要な対策を講じて対処しました。//(8.468,38.468)\\\\私の仕事ですから。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr41887_sldeadscientist_h_e_r_b__002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41887_sldeadscientist_h_e_r_b__002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41887_sldeadscientist_h_e_r_b__002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.56908)\\\\Oh, er - rest assured that the virus is safely contained!//(4.56908,9.115)\\\\There was an attempted breach some time ago, but I took the necessary steps to lock it down.//(9.115,39.115)\\\\It's just what I do.",
+					"fr": "//(0,4.8)\\\\Oh... Le virus est parfaitement maîtrisé, n'ayez crainte !//(4.8,7.5)\\\\Nous avons un jour connu une brèche de sécurité, mais j'ai pris//(7.5,9.35)\\\\les mesures nécessaires pour contenir la menace.//(9.35,39.35)\\\\C'est mon travail.",
+					"it": "//(0,4.902883)\\\\Oh, ehm... non temere, il virus è sotto controllo!//(4.902883,7.435766)\\\\Qualche tempo fa c'è stato un tentativo di violazione,//(7.435766,37.43577)\\\\ma ho preso le misure necessarie per contenerlo. È il mio lavoro.",
+					"de": "//(0,4.482883)\\\\Oh, äh ... Keine Sorge: Das Virus wird sicher verwahrt!//(4.482883,9.331)\\\\Es gab vor einiger Zeit einen versuchten Verstoß, aber ich unternahm die nötigen Schritte, um alles abzuriegeln.//(9.331,39.331)\\\\Das ist meine Aufgabe.",
+					"es": "//(0,4.7)\\\\Ah, bueno, no te preocupes, ¡el virus está contenido de forma segura!//(4.7,9.2)\\\\Hubo un conato de fuga hace un tiempo, pero di los pasos necesarios para contenerlo.//(9.2,39.2)\\\\Ese es mi trabajo.",
+					"ru": "//(0,1.356196)\\\\Ой, это...//(1.356196,5.1)\\\\Не переживайте, вирус надежно изолирован!//(5.1,9.4)\\\\Некоторое время назад была попытка выкрасть его, но я предпринял необходимые меры.//(9.4,39.4)\\\\Такая работа.",
+					"cn": "//(0,4.8)\\\\噢，请放心，病毒已被安全隔离！//(4.8,9.3)\\\\前阵子曾有人试图入侵，但我已采取必要措施将其封锁。//(9.3,39.3)\\\\这就是我的职责。",
+					"tc": "//(0,4.6)\\\\哦，呃—— 請放心，病毒已被安全控制！//(4.6,9.1)\\\\前段時間有人試圖入侵，但我已採取必要措施將其封鎖。//(9.1,39.1)\\\\這就是我該做的事情。",
+					"jp": "//(0,4.886)\\\\ああ、でも... ウイルスは安全に管理されているのでご安心ください！//(4.886,9.148)\\\\以前誰かが持ち出そうとしましたが、必要な対策を講じて対処しました。//(9.148,39.148)\\\\私の仕事ですから。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2719_puzzlertrn.sweetdialog?/ds2719_puzzlertrn_et_belini_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2719_puzzlertrn_et_belini_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2719_puzzlertrn_et_belini_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2719_puzzlertrn_et_belini_001.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\Aight, let's fucking do this. Show him what you got.",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\Allez, putain, c'est parti ! Mettez-lui ce qu'il mérite.",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Dai, andiamo, cazzo. Fagli vedere cosa sai fare.",
+			"de": "//[ET_BELINI]\\\\//(0,30)\\\\Alles klar. Machen wir es verfickt noch mal. Zeig ihm, was du draufhast.",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\Vamos allá, hostias. Demuéstrale de lo que eres capaz.",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Что ж, ладно, приступим. Покажи ему, на что ты способен.",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\好吧，我们开干。让他看看你的本事。",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\好了，我們他媽的來吧。讓他見識你的厲害。",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\よし、やってやるぞ。あいつにお前の力を見せてやれ。"
+		}
+	}
+}

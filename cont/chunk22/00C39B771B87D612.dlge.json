@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2715_puzzlephs4cmplt.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds2715_puzzlephs4cmplt_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2715_puzzlephs4cmplt_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2715_puzzlephs4cmplt_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Oh, I think we did it, 47! I was afraid I was losing my mind... but now what?",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Je crois qu'on a réussi, 47 ! J'avais bien peur de perdre la tête... mais... et maintenant ?",
+					"it": "//[DIANA]\\\\//(0,30)\\\\È fatta, 47! Credevo che avrei perso il senno... E ora che si fa?",
+					"de": "//[DIANA]\\\\//(0,2.3)\\\\Ich glaube, wir haben es geschafft, 47!//(2.3,32.3)\\\\Ich hatte Angst, dass ich den Verstand verliere ... aber was jetzt?",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡Creo que lo hemos conseguido, 47! Me daba miedo estar volviéndome loca..., pero ¿ahora qué?",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\Похоже, мы справились, 47-й! Я боялась, что сойду с ума... Но что теперь?",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\我想我们做到了，47！我还害怕我会失去理智......但现在怎么办？",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\我想我們辦到了，47！我還怕我會發瘋......但現在呢？",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\やったわ、47！頭がおかしくなったかと思ったけど... 次はどうなるの？"
+				}
+			}
+		]
+	}
+}

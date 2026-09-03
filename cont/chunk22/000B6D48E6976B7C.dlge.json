@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2721_targetdown.sweetdialog?/ds2721_targetdown_et_belini_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2721_targetdown_et_belini_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2721_targetdown_et_belini_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2721_targetdown_et_belini_001.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\You did it, 47! I can finally get some decent sleep. Take it away, Miss B – this is your line, not mine.",
+			"fr": "//[ET_BELINI]\\\\//(0,2.03)\\\\Vous avez réussi, bordel de merde !//(2.03,4.519)\\\\Je vais enfin pouvoir dormir...//(4.519,34.519)\\\\À vous, Miss B. C'est votre réplique, pas la mienne.",
+			"it": "//[ET_BELINI]\\\\//(0,4.7)\\\\Ce l'hai fatta, 47! Finalmente potrò dormire sonni tranquilli.//(4.7,34.7)\\\\Qui abbiamo finito, signorina B. Questa è la tua battuta, non la mia.",
+			"de": "//[ET_BELINI]\\\\//(0,4.3)\\\\Du hast es geschafft, 47! Ich kann endlich mal ausschlafen.//(4.3,34.3)\\\\Übernimm du das, Miss B – das ist dein Text, nicht meiner.",
+			"es": "//[ET_BELINI]\\\\//(0,4.25)\\\\¡Lo has conseguido, 47! Por fin puedo dormir en condiciones.//(4.25,34.25)\\\\Sigue tú, señorita B... Esta es tu frase, no la mía.",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Ты справился, 47-й! Наконец-то я посплю как человек. Вам слово, мисс Б — это ваша реплика, а не моя.",
+			"cn": "//[ET_BELINI]\\\\//(0,4.44)\\\\你做到了，47！我总算能好好睡个觉了。//(4.44,34.44)\\\\开始吧，B女士——这话更适合你来说。",
+			"tc": "//[ET_BELINI]\\\\//(0,4.5)\\\\你辦到了，47！我終於可以好好睡一覺了。//(4.5,34.5)\\\\交給你了，B 小姐──這是你的台詞，不是我的。",
+			"jp": "//[ET_BELINI]\\\\//(0,4.237)\\\\やったな、47！これでやっとぐっすり寝れるよ。//(4.237,34.237)\\\\ダイアナ、次のセリフはあんたのものだ。任せたぞ。"
+		}
+	}
+}

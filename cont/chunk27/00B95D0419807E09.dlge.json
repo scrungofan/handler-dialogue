@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_013.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_013",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_013.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_013.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, your position is strong, but don't play too fast or you'll give it away.",
+			"fr": "//(0,30)\\\\Vous êtes dans une position idéale, 47, mais ne jouez pas trop vite, ou vous dévoilerez votre main.",
+			"it": "//(0,30)\\\\47, sei in una posizione forte, ma non avere fretta o ti farai scoprire.",
+			"de": "//(0,30)\\\\47, Sie stehen gut da, aber spielen Sie nicht zu schnell. Sonst verraten Sie sich.",
+			"es": "//(0,30)\\\\47, estás en una muy buena posición, pero mantén la calma al jugar; que no se te note ansioso.",
+			"ru": "//(0,30)\\\\У тебя хорошая позиция, 47-й. Но не торопись, чтобы не выдать себя.",
+			"cn": "//(0,30)\\\\47，你的位置有利，但别操之过急，以免暴露意图。",
+			"tc": "//(0,30)\\\\47，你的情況很好，動作別太快，否則會露陷。",
+			"jp": "//(0,2.2)\\\\47、あなたを強い立ち位置にいるわ。//(2.2,32.2)\\\\でも強気に出過ぎると、手の内がバレてしまうわよ。"
+		}
+	}
+}

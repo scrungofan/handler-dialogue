@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29763_escaped.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds29763_escaped_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29763_escaped_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_penicillin/29000_penicillin_handler/ds29763_escaped_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,1.5)\\\\We lost them, 47.//(1.5,31.5)\\\\Our clients won't be pleased.",
+					"fr": "//(0,1.8)\\\\Nous les avons perdus, 47.//(1.8,31.8)\\\\Nos clients ne seront pas contents.",
+					"it": "//(0,1.5)\\\\Li abbiamo persi, 47.//(1.5,31.5)\\\\I nostri clienti saranno furiosi.",
+					"de": "//(0,1.6)\\\\Wir haben ihn verloren, 47.//(1.6,31.6)\\\\Unsere Kunden werden darüber nicht erfreut sein.",
+					"es": "//(0,1.5)\\\\Lo perdimos, 47.//(1.5,31.5)\\\\Nuestros clientes no estarán contentos.",
+					"ru": "//(0,1.5)\\\\Мы упустили их, 47-й.//(1.5,31.5)\\\\Наши клиенты будут недовольны.",
+					"cn": "//(0,30)\\\\目标已逃跑，47。客户会不高兴的。",
+					"tc": "//(0,30)\\\\我們跟丟了他們，47。客人不會高興的。",
+					"jp": "//(0,1.5)\\\\逃げられたわ、47。//(1.5,31.5)\\\\クライアントは失望するでしょうね。"
+				}
+			}
+		]
+	}
+}

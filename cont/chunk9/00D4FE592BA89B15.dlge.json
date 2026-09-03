@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20118_mp_targetsremaining1_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20118_mp_targetsremaining1_knight_knight_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20118_mp_targetsremaining1_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20118_mp_targetsremaining1_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Just a single target left, Stone.",
+					"fr": "//(0,30)\\\\Il ne reste qu'une cible, Stone.",
+					"it": "//(0,30)\\\\Manca un solo bersaglio, Stone.",
+					"de": "//(0,30)\\\\Nur noch ein Ziel übrig, Stone.",
+					"es": "//(0,30)\\\\Ya solo queda un objetivo, Stone.",
+					"ru": "//(0,30)\\\\Осталась всего одна цель, Стоун.",
+					"cn": "//(0,30)\\\\斯通，只剩下一个目标了。",
+					"tc": "//(0,30)\\\\只剩一個目標了，斯通。",
+					"jp": "//(0,30)\\\\最後の1人ね、ストーン。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20118_mp_targetsremaining1_knight_knight_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20118_mp_targetsremaining1_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20118_mp_targetsremaining1_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Alright, just one more target left.",
+					"fr": "//(0,30)\\\\Très bien, plus qu'un.",
+					"it": "//(0,30)\\\\Va bene, un altro bersaglio e poi è fatta.",
+					"de": "//(0,30)\\\\Na schön. Nur noch ein Ziel übrig.",
+					"es": "//(0,30)\\\\Vale, ya solo queda un objetivo.",
+					"ru": "//(0,30)\\\\Отлично, последняя цель.",
+					"cn": "//(0,30)\\\\很好，只剩下一个了。",
+					"tc": "//(0,30)\\\\好了，只剩下一個目標了。",
+					"jp": "//(0,30)\\\\よし、残りあと1人ね。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.4)\\\\A little warmup before you face Le Chiffre?//(2.4,32.4)\\\\Good idea 47... I'll provide analysis to assist.",
+			"fr": "//(0,2.708589)\\\\Un échauffement avant d'affronter Le Chiffre ?//(2.708589,3.944785)\\\\Bonne idée...//(3.944785,33.94479)\\\\Je vais vous aider un peu avec des analyses.",
+			"it": "//(0,30)\\\\Un po' di riscaldamento prima di affrontare Le Chiffre? Ottima idea, 47... Ti darò una mano con l'analisi.",
+			"de": "//(0,2.5)\\\\Ein kleines Warm-up, bevor Sie sich Le Chiffre stellen?//(2.5,32.5)\\\\Gute Idee, 47 ... Ich versorge Sie mit einer Analyse, um Ihnen zu helfen.",
+			"es": "//(0,30)\\\\¿Vas a calentar un poco antes de enfrentarte a Le Chiffre? Buena idea, 47... Te pasaré análisis para ayudarte.",
+			"ru": "//(0,2.5)\\\\Небольшая разминка перед встречей с Лё Шиффром?//(2.5,32.5)\\\\Хорошая идея, 47-й. Я пока проведу анализ для подстраховки.",
+			"cn": "//(0,2.6)\\\\在去见勒齐弗之前，先来点热身？//(2.6,32.6)\\\\好主意，47......我会提供分析以协助决策。",
+			"tc": "//(0,4)\\\\對付勒西弗前先來暖身一下？好主意，47......//(4,34)\\\\我來提供分析來協助你。",
+			"jp": "//(0,2.5)\\\\ル・シッフルの相手をする前にウォーミングアップってとこかしら？//(2.5,32.5)\\\\いい考えね... 私も分析して手伝うわ。"
+		}
+	}
+}

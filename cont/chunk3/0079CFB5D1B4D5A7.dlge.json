@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41827_trgtdsper.sweetdialog?/ds41827_trgtdsper_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41827_trgtdsper_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41827_trgtdsper_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41827_trgtdsper_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47? The target has disappeared from the library... But how? There must be a room we don't know about.",
+			"fr": "//(0,3.594785)\\\\47 ? La cible a disparu de la bibliothèque...//(3.594785,4.55)\\\\Mais comment ?//(4.55,34.55)\\\\Il doit y avoir une pièce cachée.",
+			"it": "//(0,3.544785)\\\\47? Il segnale è scomparso all'improvviso nella biblioteca...//(3.544785,33.54478)\\\\Ma come? Dev'esserci una stanza segreta.",
+			"de": "//(0,3.212883)\\\\47? Das Ziel ist aus der Bibliothek verschwunden ...//(3.212883,33.21288)\\\\Aber wie? Es muss einen Raum geben, von dem wir nichts wussten.",
+			"es": "//(0,3.55)\\\\¿47? El objetivo ha desaparecido en la biblioteca...//(3.55,33.55)\\\\¿Pero cómo? Debe haber una sala de la que no tengamos constancia.",
+			"ru": "//(0,3.5)\\\\47-й? Мы потеряли цель из виду в библиотеке...//(3.5,4.5)\\\\Но как?//(4.5,34.5)\\\\Полагаю, где-то там есть потайная комната.",
+			"cn": "//(0,4.6)\\\\47？目标突然在图书馆消失了......怎么做到的？//(4.6,34.6)\\\\肯定有某个我们不知道的暗室。",
+			"tc": "//(0,3.5)\\\\47？目標在圖書館突然消失了......//(3.5,33.5)\\\\但怎麼可能？一定有一個我們不知道的房間。",
+			"jp": "//(0,3.438)\\\\47、ターゲットを見失ったわ。 図書館で急に信号が途絶えたの...//(3.438,33.438)\\\\でも、どうやって...？ きっと私たちが知らない部屋があるに違いないわ。"
+		}
+	}
+}

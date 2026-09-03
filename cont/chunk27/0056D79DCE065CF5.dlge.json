@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3701_player1id.sweetdialog?/ds3701_player1id_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3701_player1id_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3701_player1id_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3701_player1id_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,8.2)\\\\That... is Abhijeet Rangan, notorious gambler and playboy, as well as being the estranged brother of Dawood Rangan.//(8.2,38.2)\\\\He will have an invitation.",
+			"fr": "//(0,2.4)\\\\C'est... Abhijeet Rangan,//(2.4,7.985767)\\\\joueur invétéré et playboy, et frère lointain de Dawood Rangan, si vous avez bonne mémoire.//(7.985767,37.98577)\\\\Il aura son invitation.",
+			"it": "//(0,2.35)\\\\Quello... è Abhijeet Rangan.//(2.35,4.55)\\\\È noto per essere un giocatore d'azzardo e un playboy//(4.55,34.55)\\\\oltre che il fratello di Dawood Rangan, da cui si è allontanato. Avrà un invito.",
+			"de": "//(0,2.3)\\\\Das ... ist Abhijeet Rangan,//(2.3,8.3)\\\\notorischer Spieler und Playboy sowie der entfremdete Bruder von Dawood Rangan.//(8.3,38.3)\\\\Er dürfte eine Einladung haben.",
+			"es": "//(0,4.5)\\\\Ese... es Abhijeet Rangan, famoso playboy y jugador.//(4.5,34.5)\\\\También es hermano de Dawood Rangan, aunque no tienen mucha relación. Seguro que tiene una invitación.",
+			"ru": "//(0,2.3)\\\\А это Абхиджит Ранжан.//(2.3,8.205276)\\\\Известный игрок и плейбой, а также брат Давуда Ранжана. Они давно не общаются.//(8.205276,38.20528)\\\\У него точно есть приглашение.",
+			"cn": "//(0,4.5)\\\\这位......是阿布吉特·朗甘，声名狼藉的赌徒兼花花公子，//(4.5,8.3)\\\\同时也是达伍德·朗甘的胞弟，但俩人的关系并不亲密。//(8.3,38.3)\\\\他必定持有邀请函。",
+			"tc": "//(0,4.6)\\\\那......就是阿比吉特·朗甘，知名的賭徒兼花花公子，//(4.6,34.6)\\\\也是達伍德·朗甘的離異兄弟。他身上會有邀請函。",
+			"jp": "//(0,4.6)\\\\あれは... アビジート・ランガン。悪名高いギャンブラーとプレイボーイよ。//(4.6,8.3)\\\\同時にダウッド・ランガンと疎遠中の兄弟でもあるわ。//(8.3,38.3)\\\\彼なら招待状を持っているはず。"
+		}
+	}
+}

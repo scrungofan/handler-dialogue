@@ -1,8 +1,8 @@
 {
 	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
 	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_seabreeze/2000_seabreeze_handler/dr2601_diana.sweetdialog?/dr2601_diana_diana_et_002.sweetdialogitem].pc_dialogevent",
-	"DITL": "00B7E83B2B5BFE20",
-	"CLNG": "00E3CBB0725ED16C",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
 	"rootContainer": {
 		"type": "WavFile",
 		"wavName": "dr2601_diana_diana_et_002",

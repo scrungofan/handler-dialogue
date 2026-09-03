@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20117_mp_targetsleft1_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20117_mp_targetsleft1_stone_stone_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20117_mp_targetsleft1_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20117_mp_targetsleft1_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Just one left now, Knight. It’s been, well, a pleasure.",
+					"fr": "//(0,30)\\\\Il n'en reste qu'un, Knight. C'était... un plaisir.",
+					"it": "//(0,30)\\\\Ora ne manca solo uno, Knight. Beh... è stato un piacere.",
+					"de": "//(0,30)\\\\Jetzt ist nur noch einer übrig, Knight. Es war mir, na ja, ein Vergnügen.",
+					"es": "//(0,30)\\\\Ya solo te queda uno, Knight. Ha sido un placer.",
+					"ru": "//(0,30)\\\\Найт, остался всего один. А что, мне понравилось.",
+					"cn": "//(0,30)\\\\奈特，只剩下一个了。很高兴能与你共事。",
+					"tc": "//(0,30)\\\\剩下一個了，奈特。這，嗯，挺不錯的。",
+					"jp": "//(0,30)\\\\あと1人だ、ナイト。一緒に仕事できて楽しかったぜ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20117_mp_targetsleft1_stone_stone_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20117_mp_targetsleft1_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20117_mp_targetsleft1_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Last one, Knight. Do you want the honors?",
+					"fr": "//(0,30)\\\\Plus qu'un, Knight. Je te le laisse ?",
+					"it": "//(0,30)\\\\Ecco l'ultimo, Knight. Vuoi tu l'onore?",
+					"de": "//(0,30)\\\\Das letzte Ziel, Knight. Soll ich Ihnen den Vortritt lassen?",
+					"es": "//(0,30)\\\\Es el último, Knight. ¿Quieres hacer los honores?",
+					"ru": "//(0,30)\\\\Последняя цель, Найт. Оставить тебе?",
+					"cn": "//(0,30)\\\\最后一个了，奈特。那就有劳你了？",
+					"tc": "//(0,30)\\\\最後一個了，奈特。交給你怎麼樣？",
+					"jp": "//(0,30)\\\\最後の1人だ、ナイト。お前が殺るか？"
+				}
+			}
+		]
+	}
+}

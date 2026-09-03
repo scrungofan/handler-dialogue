@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_010.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_010",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_010.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_010.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.9)\\\\47, your odds are low.//(1.9,31.9)\\\\Either you fold now, or try your hand at bluffing.",
+			"fr": "//(0,2.2)\\\\Vos chances sont faibles, 47.//(2.2,32.2)\\\\Vous devriez vous coucher, ou tenter un bluff héroïque...",
+			"it": "//(0,30)\\\\47, le tue probabilità sono basse. O passi o provi a bluffare.",
+			"de": "//(0,2)\\\\47, Ihre Chancen stehen schlecht.//(2,32)\\\\Entweder Sie folden oder Sie versuchen es mit Bluffen.",
+			"es": "//(0,30)\\\\47, tienes muy pocas posibilidades. Tus opciones son pasar o intentar tirarte un farol.",
+			"ru": "//(0,30)\\\\47-й, шансов мало. Или сбрасывай, или пытайся блефовать.",
+			"cn": "//(0,30)\\\\47，你的胜算渺茫。要么立刻弃牌，要么尝试虚张声势。",
+			"tc": "//(0,30)\\\\47，你的勝率很低。你可以蓋牌，或試試偷雞。",
+			"jp": "//(0,1.9)\\\\47、あなたの勝率は低いわよ。//(1.9,31.9)\\\\フォールドするか、ブラフをかけてみるのも悪くないわね。"
+		}
+	}
+}

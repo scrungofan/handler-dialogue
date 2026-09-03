@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4324_assn3introoutro.sweetdialog?/ds4324_assn3introoutro_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4324_assn3introoutro_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4324_assn3introoutro_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4324_assn3introoutro_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.1)\\\\47, that was Xiao Hu,//(3.1,6.2)\\\\a confirmed threat to Agent Lee's mission.//(6.2,36.2)\\\\You dealt with that swiftly.",
+			"fr": "//(0,6.15)\\\\L'agent Lee avait confirmé Xiao Hu comme menace pour sa mission.//(6.15,36.15)\\\\Bien joué, vous lui avez rapidement ôté cette épine du pied.",
+			"it": "//(0,6)\\\\47, quella era Xiao Hu, una minaccia certa per la missione dell'agente Lee.//(6,36)\\\\Hai risolto prontamente la situazione.",
+			"de": "//(0,30)\\\\47, das war Xiao Hu, eine bestätigte Bedrohung für Agent Lees Mission. Sie haben sich rasch darum gekümmert.",
+			"es": "//(0,3.1)\\\\47, esa era Xiao Hu,//(3.1,6.2)\\\\a quien habíamos confirmado como amenaza para la misión del agente Lee.//(6.2,36.2)\\\\Te has encargado de ella con rapidez.",
+			"ru": "//(0,5.525276)\\\\47-й, это была Сяо Ху, которая ставила под угрозу все задание агента Ли.//(5.525276,35.52528)\\\\Быстро ты с ней расправился!",
+			"cn": "//(0,30)\\\\47，那人是小虎，李特工已确认她会威胁到任务。你这么快就把她搞定了。",
+			"tc": "//(0,6)\\\\47，那是蕭虎，已確認對李特務的任務構成威脅。//(6,36)\\\\你處理得很快。",
+			"jp": "//(0,3.11)\\\\47、さっきのはシャオ・フー。//(3.11,5.915)\\\\エージェント・リーの任務にとって脅威として確認されていた人物よ。//(5.915,35.915)\\\\素早く対処してくれたわね。"
+		}
+	}
+}

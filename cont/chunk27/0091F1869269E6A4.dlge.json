@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3711_targetescaping.sweetdialog?/ds3711_targetescaping_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3711_targetescaping_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3711_targetescaping_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3711_targetescaping_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47! Le Chiffre is trying to escape. Go after him!",
+			"fr": "//(0,2.328589)\\\\Le Chiffre tente de s'échapper, 47 !//(2.328589,32.32859)\\\\Dépêchez-vous de le rattraper !",
+			"it": "//(0,30)\\\\47! Le Chiffre sta cercando di scappare. Inseguilo!",
+			"de": "//(0,2.5)\\\\47! Le Chiffre versucht zu entkommen.//(2.5,32.5)\\\\Sie müssen ihn erwischen! Schnell!",
+			"es": "//(0,30)\\\\¡47, Le Chiffre intenta escapar! ¡Ve a por él, rápido!",
+			"ru": "//(0,30)\\\\47-й! Лё Шиффр пытается сбежать. Нужно его остановить!",
+			"cn": "//(0,30)\\\\47！勒齐弗想要逃跑。马上干掉他！快！",
+			"tc": "//(0,30)\\\\47！勒西弗正在試圖逃跑。快追上他！",
+			"jp": "//(0,30)\\\\47！ル・シッフルが逃げようとしてるわ。急いで捕まえて！"
+		}
+	}
+}

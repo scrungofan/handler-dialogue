@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3716_pokerintro.sweetdialog?/ds3716_pokerintro_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3716_pokerintro_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3716_pokerintro_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3716_pokerintro_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.2)\\\\Ah, there's Le Chiffre...//(3.2,33.2)\\\\I think you should introduce yourself.",
+			"fr": "//(0,3.5)\\\\Ah, Le Chiffre...//(3.5,33.5)\\\\Vous devriez vous présenter.",
+			"it": "//(0,30)\\\\Ah, Le Chiffre... Credo che dovresti presentarti.",
+			"de": "//(0,3.2)\\\\Ah, Le Chiffre ...//(3.2,33.2)\\\\Ich glaube, Sie sollten sich vorstellen.",
+			"es": "//(0,30)\\\\Ah, Le Chiffre... Creo que deberías presentarte.",
+			"ru": "//(0,30)\\\\Лё Шиффр... Думаю, пора представиться.",
+			"cn": "//(0,30)\\\\啊，勒齐弗就在那里......你也是时候出场了。",
+			"tc": "//(0,30)\\\\啊，勒西弗......我想你應該跟他自我介紹一下。",
+			"jp": "//(0,30)\\\\あ、ル・シッフルね... 自己紹介するべきよ。"
+		}
+	}
+}

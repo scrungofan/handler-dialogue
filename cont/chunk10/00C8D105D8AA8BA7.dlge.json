@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34013_ms3journrvl.sweetdialog?/ds34013_ms3journrvl_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34013_ms3journrvl_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34013_ms3journrvl_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34013_ms3journrvl_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\A certain party guest seems to be particularly concerned with Cane's product tests... Worth looking into, 47?",
+			"fr": "//(0,3.4)\\\\L'un des invités semble porter un intérêt tout particulier aux//(3.4,5)\\\\tests des produits de Cane.//(5,35)\\\\Peut-être une piste, 47 ?",
+			"it": "//(0,30)\\\\Un certo ospite della festa è particolarmente interessato ai test sui prodotti di Cane... Vale la pena indagare, 47?",
+			"de": "//(0,4.85)\\\\Ein gewisser Partygast scheint sich besondere Sorgen um Canes Produkttest zu machen ...//(5.3,35.3)\\\\Lohnt es sich, dem nachzugehen, 47?",
+			"es": "//(0,4.8)\\\\A uno de los invitados le preocupan las muestras del producto...//(5.27,35.27)\\\\Puede que merezca la pena indagar, 47.",
+			"ru": "//(0,5.22)\\\\Одного из гостей очень интересуют испытания продукции Кейна...//(5.22,35.22)\\\\Может, стоит разузнать побольше, 47-й?",
+			"cn": "//(0,30)\\\\某位派对宾客似乎对凯恩的产品测试特别感兴趣......47，这值得调查一下吗？",
+			"tc": "//(0,30)\\\\有位賓客似乎對凱恩的產品測試特別擔心......要不深入調查，47？",
+			"jp": "//(0,5.2)\\\\パーティーのゲストの一人が、ケインの製品テストに特に強い関心を示しているみたい...//(5.2,35.2)\\\\調べてみる価値はありそうじゃない、47？"
+		}
+	}
+}

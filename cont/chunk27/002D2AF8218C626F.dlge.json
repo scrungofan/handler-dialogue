@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3702_player2id.sweetdialog?/ds3702_player2id_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3702_player2id_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3702_player2id_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3702_player2id_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.6)\\\\That... is Bai Siyu. Hong Kong socialite and heir to the Bai Fortune.//(5.6,10)\\\\She has an unquenchable thirst in all manner of speaking.//(10,40)\\\\She and Le Chiffre have a past – If she is here, she must have an invitation.",
+			"fr": "//(0,2.104294)\\\\Voilà... Bai Siyu.//(2.104294,6.025276)\\\\Membre de la scène mondaine hongkongaise, héritière d'une immense fortune,//(6.025276,10.20626)\\\\elle montre un appétit vorace dans tout ce qu'elle entreprend.//(10.20626,13.28294)\\\\Elle a déjà traité avec Le Chiffre...//(13.28294,43.28294)\\\\Si elle est là, c'est qu'elle a dû recevoir une invitation.",
+			"it": "//(0,5.65)\\\\Quella... è Bai Siyu. È ben nota nell'ambiente mondano di Hong Kong ed è l'erede della Bai Fortune.//(5.65,12.45)\\\\Si dice che abbia una sete inestinguibile per tutto. Lei e Le Chiffre si conoscono da molto tempo...//(12.45,42.45)\\\\Se è qui, deve aver ricevuto un invito.",
+			"de": "//(0,2.25)\\\\Das ... ist Bai Siyu.//(2.25,5.6)\\\\Teil der Highsociety von Hongkong und Erbin des Bai-Vermögens.//(5.6,10)\\\\Sie ist ungeheuer hungrig nach vielen Dingen.//(10,40)\\\\Sie und Le Chiffre kennen sich – wenn sie hier ist, dürfte sie auch eine Einladung haben.",
+			"es": "//(0,5.498)\\\\Esa... es Bai Siyu, miembro de la alta sociedad de Hong Kong y heredera de la fortuna de los Bai.//(5.498,12.222)\\\\Tiene una sed implacable, en todos los posibles sentidos de la palabra. Le Chiffre y ella tienen un pasado...//(12.222,42.222)\\\\Si está aquí, es porque tiene invitación.",
+			"ru": "//(0,5.511)\\\\Бай Сыюй. Светская тусовщица из Гонконга, наследница империи Бай.//(5.511,12.2)\\\\Из тех, кто всегда ищет повод выпить — и не только. С Лё Шиффром у нее был роман.//(12.2,42.2)\\\\Раз уж она здесь, значит, приглашение у нее есть.",
+			"cn": "//(0,5.6)\\\\这位是......白思雨。香港名媛兼白氏财团继承人。//(5.6,9.8)\\\\无论从哪个层面而言，她都有着永不满足的渴求。//(9.8,39.8)\\\\她与勒齐弗有段渊源——既然现身于此，必然手握邀请函。",
+			"tc": "//(0,5.7)\\\\那......就是白思語，香港名媛，也是白家的掌上明珠。//(5.7,9.8)\\\\無論從哪種層面來說，她都稱得上是貪得無厭。//(9.8,39.8)\\\\她和勒西弗有著一段歷史，既然她在這裡，那她一定有邀請函。",
+			"jp": "//(0,5.45)\\\\あれは... バイ・シーユー。香港の社交界の名士で、バイ財閥の跡取り娘。//(5.45,9.85)\\\\あらゆることに貪欲な人間よ。//(9.85,39.85)\\\\彼女とル・シッフルは過去に関係を持っていたみたい。もし彼女がここにいるなら、必ず招待状を持っているはず。"
+		}
+	}
+}

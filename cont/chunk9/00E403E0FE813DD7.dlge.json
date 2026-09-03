@@ -1,0 +1,144 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20056_mp_headshot_knight_knight_001",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That's a confirmed headshot.",
+					"fr": "//(0,30)\\\\Et voilà un tir à la tête confirmé.",
+					"it": "//(0,30)\\\\Colpo alla testa confermato.",
+					"de": "//(0,30)\\\\Das ist ein bestätigter Kopfschuss.",
+					"es": "//(0,30)\\\\Confirmo el tiro a la cabeza.",
+					"ru": "//(0,30)\\\\Точно в голову.",
+					"cn": "//(0,30)\\\\已确认命中头部。",
+					"tc": "//(0,30)\\\\那確認是一記爆頭。",
+					"jp": "//(0,30)\\\\ヘッドショット命中。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20056_mp_headshot_knight_knight_002",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\May not be the easiest shot but it sure is the most gratifying one.",
+					"fr": "//(0,30)\\\\Ce n'est pas le tir le plus simple, mais c'est le plus gratifiant.",
+					"it": "//(0,30)\\\\Non sarà il tiro più semplice, ma di certo è il più gratificante.",
+					"de": "//(0,30)\\\\Es mag zwar kein leichter Schuss gewesen sein, aber zweifelsohne war es ein befriedigender.",
+					"es": "//(0,30)\\\\Puede que no sea el tiro más fácil, pero sin duda es el más satisfactorio.",
+					"ru": "//(0,30)\\\\Не самый простой выстрел, но мне понравилось.",
+					"cn": "//(0,30)\\\\这一枪虽然有些难度，但满足感无与伦比。",
+					"tc": "//(0,30)\\\\這一槍或許不是很簡單，不過卻是非常令人滿足。",
+					"jp": "//(0,30)\\\\成功は難しいけど、決まれば最高。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20056_mp_headshot_knight_knight_003",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\At this distance and with this rifle, it's hardly a challenge.",
+					"fr": "//(0,30)\\\\À cette distance et avec ce fusil, ce n'est pas vraiment un défi.",
+					"it": "//(0,30)\\\\A questa distanza e con questo fucile non è poi così difficile.",
+					"de": "//(0,30)\\\\Auf diese Entfernung mit so einem Gewehr ist das wohl kaum ein Problem.",
+					"es": "//(0,30)\\\\No es que sea muy difícil a esta distancia y con este fusil.",
+					"ru": "//(0,30)\\\\На таком расстоянии и с таким оружием — плевое дело.",
+					"cn": "//(0,30)\\\\这种距离用这种枪，算不上什么难事。",
+					"tc": "//(0,30)\\\\在這種距離用這種步槍，不算什麼。",
+					"jp": "//(0,30)\\\\この距離でこのライフルじゃ、当然ね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20056_mp_headshot_knight_knight_004",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\It's the only way to go.",
+					"fr": "//(0,30)\\\\La plus belle façon de partir.",
+					"it": "//(0,30)\\\\È l'unico modo possibile.",
+					"de": "//(0,30)\\\\Die einzig richtige Art zu sterben.",
+					"es": "//(0,30)\\\\Es el único modo.",
+					"ru": "//(0,30)\\\\Только так и надо.",
+					"cn": "//(0,30)\\\\只有这一种办法。",
+					"tc": "//(0,30)\\\\只能這樣了。",
+					"jp": "//(0,30)\\\\やっぱりこれよね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20056_mp_headshot_knight_knight_005",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That's one less head to worry about.",
+					"fr": "//(0,30)\\\\Une tête de moins à compter.",
+					"it": "//(0,30)\\\\Una testa in meno di cui preoccuparsi.",
+					"de": "//(0,30)\\\\Ein Kopf weniger, um den man sich Gedanken machen muss.",
+					"es": "//(0,30)\\\\Una cabeza menos de la que preocuparnos.",
+					"ru": "//(0,30)\\\\Одна голова хорошо, а ни одной лучше.",
+					"cn": "//(0,30)\\\\要担心的目标又少了一个。",
+					"tc": "//(0,30)\\\\又解決了一個人了。",
+					"jp": "//(0,30)\\\\これで1人頭片付いたわね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20056_mp_headshot_knight_knight_006",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Boom!",
+					"fr": "//(0,30)\\\\Boum !",
+					"it": "//(0,30)\\\\Bang!",
+					"de": "//(0,30)\\\\Bumm!",
+					"es": "//(0,30)\\\\¡Bum!",
+					"ru": "//(0,30)\\\\Бум!",
+					"cn": "//(0,30)\\\\砰！",
+					"tc": "//(0,30)\\\\轟！",
+					"jp": "//(0,30)\\\\バン！"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20056_mp_headshot_knight_knight_007",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20056_mp_headshot_knight_knight_007.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\He's dead. He's definitely dead.",
+					"fr": "//(0,30)\\\\Il est mort. Il est bien mort, là.",
+					"it": "//(0,30)\\\\È morto. È decisamente morto.",
+					"de": "//(0,30)\\\\Er ist tot. Er ist auf jeden Fall tot.",
+					"es": "//(0,30)\\\\Está muerto. Muerto y bien muerto.",
+					"ru": "//(0,30)\\\\Готов. Он точно готов.",
+					"cn": "//(0,30)\\\\他死了。他死透了。",
+					"tc": "//(0,30)\\\\他死了。他絕對死了。",
+					"jp": "//(0,30)\\\\死んだわ。絶対。"
+				}
+			}
+		]
+	}
+}

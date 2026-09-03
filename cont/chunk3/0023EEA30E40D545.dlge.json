@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41839_cultintel.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds41839_cultintel_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41839_cultintel_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41839_cultintel_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,4.282883)\\\\47, Devereux mentioned Thailand - now I know why.//(4.282883,7.645767)\\\\She was part of the Liberation cult you neutralized.//(7.645767,37.64577)\\\\We need to be extremely delicate here.",
+					"fr": "//(0,2.828589)\\\\47, Devereux a mentionné la Thaïlande.//(2.828589,4.65)\\\\Maintenant, je sais pourquoi.//(4.65,7.7)\\\\Elle était membre du culte Libération que vous avez neutralisé là-bas.//(7.7,37.7)\\\\Vous allez devoir faire très attention.",
+					"it": "//(0,4.650982)\\\\47, Devereux ha menzionato la Thailandia... e ora so perché.//(4.650982,7.863865)\\\\Faceva parte del culto della Liberazione che hai neutralizzato.//(7.863865,37.86386)\\\\Dobbiamo agire con estrema delicatezza.",
+					"de": "//(0,4.284785)\\\\47, Devereux erwähnte Thailand – jetzt wissen wir, warum.//(4.284785,34.28479)\\\\Sie war Teil des Liberation-Kults, den Sie neutralisierten. Wir müssen hier mit äußerster Vorsicht vorgehen.",
+					"es": "//(0,4.5)\\\\47, Devereux dijo algo de Tailandia... Ahora ya sé por qué.//(4.5,34.5)\\\\Formaba parte de la secta Liberación, esa que neutralizaste. Debemos actuar con sumo cuidado.",
+					"ru": "//(0,4.5)\\\\47-й, теперь я знаю, почему Деверье упомянула Таиланд.//(4.5,7.55)\\\\Она состояла в культе «Освобождения», который вы устранили.//(7.55,37.55)\\\\Будьте предельно осторожны.",
+					"cn": "//(0,4.6)\\\\47，德弗鲁提到了泰国——现在我知道原因了。//(4.6,34.6)\\\\她曾是你消灭的那个“解放会”的成员。你一定要万分小心。",
+					"tc": "//(0,4.3)\\\\47，德維洛提到泰國—— 現在我知道為什麼了。//(4.3,34.3)\\\\她是你們消滅的解放邪教組織的一員。我們得非常小心。",
+					"jp": "//(0,4.544)\\\\47、デヴルーがタイについて言及していたわ。 そして今ならその理由がわかる。//(4.544,7.618)\\\\彼女はあなたが排除した解放教団の一員だったの。//(7.618,37.618)\\\\ここでの行動は極めて慎重にね。"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4309_assn2lost.sweetdialog?/ds4309_assn2lost_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4309_assn2lost_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4309_assn2lost_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4309_assn2lost_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.85)\\\\With that, Zen is no longer in the running.//(2.85,32.85)\\\\Agent Lee is one step closer to victory.",
+			"fr": "//(0,30)\\\\Voilà qui va calmer Zen. L'agent Lee se rapproche un peu plus de la victoire.",
+			"it": "//(0,30)\\\\Zen è fuori dai giochi. La vittoria dell'agente Lee è sempre più vicina.",
+			"de": "//(0,30)\\\\Damit ist Zen nicht mehr im Rennen. Agent Lee ist dem Sieg einen Schritt näher.",
+			"es": "//(0,2.85)\\\\Con eso, Zen deja de estar en la competición.//(2.85,32.85)\\\\El agente Lee está un paso más cerca de la victoria.",
+			"ru": "//(0,30)\\\\Похоже, Дзен выбывает из гонки. Агент Ли стал на шаг ближе к победе.",
+			"cn": "//(0,30)\\\\这样一来，禅师就无法继续参会了。李特工向着胜利又迈进了一步。",
+			"tc": "//(0,30)\\\\這樣一來，禪就出局了。李特務離勝利又近了一步。",
+			"jp": "//(0,2.72)\\\\これで、ゼンは脱落。//(2.72,32.72)\\\\エージェント・リーは勝利に一歩近づいたわ。"
+		}
+	}
+}

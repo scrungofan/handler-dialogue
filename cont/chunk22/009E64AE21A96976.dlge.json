@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01.sweetdialog?/ds2710_mzwelcome01_et_belini_007.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2710_mzwelcome01_et_belini_007",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_et_belini_007.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2710_mzwelcome01_et_belini_007.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\Sorry, I can't hear you. Miss B? Miss B? I can't...",
+			"fr": "//[ET_BELINI]\\\\//(0,30)\\\\Hein ? J'entends pas... Miss B ? Miss B ? Je...",
+			"it": "//[ET_BELINI]\\\\//(0,30)\\\\Ehi? non sento più niente. Signorina B? Signorina B? Non...",
+			"de": "//[ET_BELINI]\\\\//(0,2.6)\\\\Entschuldigung? Ich kann Sie nicht hören. Miss B?//(2.6,32.6)\\\\Miss B? Ich kann sie nicht ...",
+			"es": "//[ET_BELINI]\\\\//(0,30)\\\\¿Cómo dices? No te oigo. ¿Señorita B? ¿Señorita B? No te...",
+			"ru": "//[ET_BELINI]\\\\//(0,30)\\\\Что-что? Я вас не слышу. Мисс Б? Мисс Б? Я не...",
+			"cn": "//[ET_BELINI]\\\\//(0,30)\\\\什么？我听不到你说话。B女士？B女士？我不能......",
+			"tc": "//[ET_BELINI]\\\\//(0,30)\\\\抱歉？我聽不到。B 小姐？B 小姐？我沒辦法......",
+			"jp": "//[ET_BELINI]\\\\//(0,30)\\\\もしもし！聞こえない。ダイアナ？ダイアナ、何も..."
+		}
+	}
+}

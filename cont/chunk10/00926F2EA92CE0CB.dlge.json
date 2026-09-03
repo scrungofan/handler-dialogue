@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34006_ms1tourrvl.sweetdialog?/ds34006_ms1tourrvl_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34006_ms1tourrvl_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34006_ms1tourrvl_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34006_ms1tourrvl_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Cane is conducting a VIP tour... This could be a chance to get close to the target and the crops simultaneously.",
+			"fr": "//(0,2.6)\\\\Cane anime une visite pour quelques VIP...//(2.6,32.6)\\\\Une belle occasion de vous rapprocher de votre cible et des cultures.",
+			"it": "//(0,30)\\\\Cane sta facendo fare un tour ai VIP... È la tua occasione per avvicinarti sia a lui che al raccolto.",
+			"de": "//(0,2.4)\\\\Cane macht eine VIP-Führung ...//(2.7,32.7)\\\\Das könnte die Gelegenheit sein, um gleichzeitig an das Ziel und die Ernte heranzukommen.",
+			"es": "//(0,2.35)\\\\Cane va a hacer una visita VIP...//(2.7,32.7)\\\\Puede que sea el momento ideal para que te acerques al objetivo y a los cultivos.",
+			"ru": "//(0,2.340491)\\\\Кейн проводит экскурсию для VIP-гостей...//(2.340491,32.34049)\\\\Это удачная возможность добраться и до цели, и до посевов.",
+			"cn": "//(0,30)\\\\凯恩正在举办一场VIP参观活动......你可以借此机会同时接近目标和作物。",
+			"tc": "//(0,30)\\\\凱恩正在進行 VIP 導覽......這可能是個接近目標和作物的好機會。",
+			"jp": "//(0,2.73)\\\\ケインがVIPツアーを主催している...//(2.73,32.73)\\\\これはターゲットと作物の両方に同時に近づくチャンスかもしれないわ。"
+		}
+	}
+}

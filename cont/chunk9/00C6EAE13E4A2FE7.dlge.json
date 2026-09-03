@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20112_mp_targetsremaining7_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20112_mp_targetsremaining7_knight_knight_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20112_mp_targetsremaining7_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20112_mp_targetsremaining7_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good teamwork. There’s just seven of them left.",
+					"fr": "//(0,30)\\\\Très bon travail. Il n'en reste plus que sept à éliminer.",
+					"it": "//(0,30)\\\\Ottimo lavoro di squadra. Ne restano soltanto sette.",
+					"de": "//(0,30)\\\\Gute Teamarbeit. Es sind nur noch sieben von ihnen übrig.",
+					"es": "//(0,30)\\\\Buen trabajo en equipo. Ya solo quedan siete.",
+					"ru": "//(0,30)\\\\Хорошая командная работа. Их осталось всего семеро.",
+					"cn": "//(0,30)\\\\精彩的配合。他们只剩七个了。",
+					"tc": "//(0,30)\\\\合作的真好。只剩下七個了。",
+					"jp": "//(0,30)\\\\いいチームワークね。あと7人よ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20112_mp_targetsremaining7_knight_knight_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20112_mp_targetsremaining7_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20112_mp_targetsremaining7_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\We’re down to seven bad guys, Stone.",
+					"fr": "//(0,30)\\\\Encore sept cibles sur la liste, Stone.",
+					"it": "//(0,30)\\\\I cattivi restanti si sono ridotti a sette, Stone.",
+					"de": "//(0,30)\\\\Wir sind schon bei sieben bösen Buben, Stone.",
+					"es": "//(0,30)\\\\Nos quedan siete malos, Stone.",
+					"ru": "//(0,30)\\\\Еще семь плохишей, Стоун.",
+					"cn": "//(0,30)\\\\斯通，坏蛋还剩七个。",
+					"tc": "//(0,30)\\\\我們剩下七個壞蛋了，斯通。",
+					"jp": "//(0,30)\\\\悪党も残り7人ね、ストーン。"
+				}
+			}
+		]
+	}
+}

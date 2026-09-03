@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41838_47rcgnised.sweetdialog?/ds41838_47rcgnised_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41838_47rcgnised_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41838_47rcgnised_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41838_47rcgnised_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.54908)\\\\She recognizes you? We're in more dangerous territory than I thought.//(4.54908,34.54908)\\\\Keep her in your sights – I'll try to find out more.",
+			"fr": "//(0,1.972393)\\\\Elle vous a reconnu ?//(1.972393,4.8)\\\\Les eaux sont plus troubles que je ne pensais.//(4.8,34.8)\\\\Tâchez de la garder en visuel. Je vais me renseigner.",
+			"it": "//(0,4.84908)\\\\Ti ha riconosciuto? La situazione è più grave di quanto pensassi.//(4.84908,34.84908)\\\\Tienila d'occhio, cercherò di scoprire qualcosa di più.",
+			"de": "//(0,4.137178)\\\\Sie erkennt sie? Der Boden ist hier heißer, als ich gedacht hätte.//(4.137178,34.13718)\\\\Behalten Sie sie im Auge – ich versuche, mehr herauszufinden.",
+			"es": "//(0,4.6)\\\\¿Te ha reconocido? Este lugar es más peligroso de lo que creía.//(4.6,34.6)\\\\No la pierdas de vista mientras intento conseguir más información.",
+			"ru": "//(0,1.9)\\\\Она вас узнала?//(1.9,4.6)\\\\Дело опаснее, чем мы думали.//(4.6,34.6)\\\\Приглядывайте за ней, пока я навожу справки.",
+			"cn": "//(0,30)\\\\她认出你了？看来那里的情况比我想象中更危险。你负责盯紧她，我会继续挖些情报。",
+			"tc": "//(0,30)\\\\她認出你了嗎？我們所處的危險程度比我想像的要高。請密切監視她—— 我會盡量找出更多資訊。",
+			"jp": "//(0,4.314)\\\\彼女はあなたのことを認識してたの？ 思っていた以上に危険な状況のようね。//(4.314,34.314)\\\\彼女から目を離さないで。 私はもっと情報を集めてみる。"
+		}
+	}
+}

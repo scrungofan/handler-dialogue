@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4321_assn3idalt.sweetdialog?/ds4321_assn3idalt_diana_002.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4321_assn3idalt_diana_002",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4321_assn3idalt_diana_002.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4321_assn3idalt_diana_002.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.1)\\\\That... is Xiao Hu, a contender for recruitment via the tournament.//(4.1,34.1)\\\\They may pose a risk to the mission.",
+			"fr": "//(0,30)\\\\Voici Xiao Hu. Elle espère intégrer l'organisation avec ce tournoi, et pourrait mettre en danger la mission.",
+			"it": "//(0,30)\\\\Quella è... Xiao Hu. Parteciperà al torneo di oggi e potrebbe rappresentare un rischio per la missione.",
+			"de": "//(0,30)\\\\Das ... ist Xiao Hu, einer der Anwärter für die Rekrutierung über das Turnier, der für die Mission gefährlich werden könnte.",
+			"es": "//(0,30)\\\\Esa... es Xiao Hu, una aspirante a ser reclutada a través del torneo. Podría llegar a suponer un problema para la misión.",
+			"ru": "//(0,30)\\\\Это... Сяо Ху, одна из участниц турнира и претендентка, представляющая потенциальную угрозу.",
+			"cn": "//(0,30)\\\\那人......就是小虎，也是此次招新比武大会的选手，且可能会对任务构成威胁。",
+			"tc": "//(0,30)\\\\那......是蕭虎，透過錦標賽招募的潛在人選，可能會對任務構成風險。",
+			"jp": "//(0,30)\\\\あれは... シャオ・フー。トーナメントを通して人材を探そうとしている出場者で、任務に脅威をもたらす可能性があるわ。"
+		}
+	}
+}

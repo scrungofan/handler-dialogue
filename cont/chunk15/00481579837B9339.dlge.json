@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29760_tryescape.sweetdialog?/dh29760_tryescape_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dh29760_tryescape_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29760_tryescape_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29760_tryescape_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.6)\\\\47. The target is trying to escape.//(2.6,32.6)\\\\Don't let them get away.",
+			"fr": "//(0,30)\\\\47. La cible tente de s'échapper. Empêchez cela à tout prix.",
+			"it": "//(0,2.6)\\\\47. Il bersaglio sta cercando di fuggire.//(2.6,32.6)\\\\Non permetterglielo.",
+			"de": "//(0,2.5)\\\\47. Das Ziel versucht zu fliehen.//(2.5,32.5)\\\\Lassen Sie es nicht entkommen.",
+			"es": "//(0,2.6)\\\\47, el objetivo trata de escapar.//(2.6,32.6)\\\\No dejes que se salga con la suya.",
+			"ru": "//(0,30)\\\\47-й. Цель пытается сбежать. Не дай ей уйти.",
+			"cn": "//(0,30)\\\\47。目标正在逃跑。不要让对方跑了。",
+			"tc": "//(0,30)\\\\47。目標正在嘗試逃走。不要讓他們跑掉。",
+			"jp": "//(0,30)\\\\47。ターゲットが逃走を図っているわ。逃がさないように。"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41830_esclab.sweetdialog?/ds41830_esclab_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41830_esclab_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41830_esclab_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41830_esclab_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, you need to find a way out. Quickly!",
+			"fr": "//(0,30)\\\\Sortez de là, 47, et vite !",
+			"it": "//(0,30)\\\\47, devi trovare una via d'uscita. Presto!",
+			"de": "//(0,30)\\\\47, Sie müssen einen Weg da raus finden. Schnell!",
+			"es": "//(0,30)\\\\47, tienes que encontrar una salida, ¡rápido!",
+			"ru": "//(0,30)\\\\47-й, выбирайтесь оттуда. Поскорее!",
+			"cn": "//(0,30)\\\\47，你得想办法逃出去。要快！",
+			"tc": "//(0,30)\\\\47，你需要找到一條出路。快！",
+			"jp": "//(0,30)\\\\47、急いで出口を探さないと！"
+		}
+	}
+}

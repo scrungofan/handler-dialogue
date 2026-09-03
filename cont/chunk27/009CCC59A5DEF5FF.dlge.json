@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3715_postmonolog.sweetdialog?/ds3715_postmonolog_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3715_postmonolog_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3715_postmonolog_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3715_postmonolog_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,1.65)\\\\47! Can you hear me?//(1.65,4)\\\\Le Chiffre is going to come back and kill you.//(4,34)\\\\You need to get out of there! Use any means possible.",
+			"fr": "//(0,2.092393)\\\\47, vous me recevez ?//(2.092393,3.8)\\\\Le Chiffre revient pour vous éliminer.//(3.8,5.4)\\\\Vous devez partir, et vite.//(5.4,35.4)\\\\Procédez comme vous voulez, mais quittez les lieux !",
+			"it": "//(0,30)\\\\47! Mi senti? Le Chiffre sta tornando per eliminarti. Devi andartene da lì. Usa qualsiasi mezzo possibile.",
+			"de": "//(0,1.7)\\\\47! Können Sie mich hören?//(1.7,4.15)\\\\Le Chiffre wird zurückkommen und Sie töten.//(4.15,34.15)\\\\Sie müssen da raus. Tun Sie alles, was nötig ist.",
+			"es": "//(0,30)\\\\¿Me recibes, 47? Le Chiffre va a volver y te va a matar. Tienes que salir de ahí. Haz lo que haga falta.",
+			"ru": "//(0,1.6)\\\\47! Ты меня слышишь?//(1.6,31.6)\\\\Лё Шиффр вернется и попытается убить тебя. Нужно выбираться. Любой ценой.",
+			"cn": "//(0,4)\\\\47！听到了吗？勒齐弗正打算回来杀你。//(4,34)\\\\你得赶紧离开。不惜一切手段撤出来。",
+			"tc": "//(0,30)\\\\47！你聽得見嗎？勒西弗會回來殺你。你得想辦法趕快離開。",
+			"jp": "//(0,4.15)\\\\47！聞こえる？ル・シッフルが戻ってあなたを殺すつもりよ。//(4.15,34.15)\\\\どんな手段を使っても構わない。今すぐそこから逃げて。"
+		}
+	}
+}

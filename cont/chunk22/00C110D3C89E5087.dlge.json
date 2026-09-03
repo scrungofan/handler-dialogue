@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2729_ninjasmith.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds2729_ninjasmith_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2729_ninjasmith_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2729_ninjasmith_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Oh dear, 47. Good thing this is just a dream...",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Dieu merci 47, tout cela n'est qu'un rêve...",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Oh, cavolo, 47. Per fortuna è soltanto un sogno...",
+					"de": "//[DIANA]\\\\//(0,30)\\\\Oje, 47. Gut, dass das nur ein Traum ist ...",
+					"es": "//[DIANA]\\\\//(0,30)\\\\Dios mío, 47. Menos mal que esto no es más que un sueño...",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\О боже, 47-й. Хорошо, что это всего лишь сон...",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\老天，47。还好这只是一场梦......",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\噢，天啊，47。幸好這只是一場夢......",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\ああ、47。これが夢だけでよかったわ..."
+				}
+			}
+		]
+	}
+}

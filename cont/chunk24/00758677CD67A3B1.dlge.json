@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4307_assn1lost.sweetdialog?/ds4307_assn1lost_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds4307_assn1lost_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4307_assn1lost_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/bangkok/4000_elusive/4000_baiju/4300_baiju_handler/ds4307_assn1lost_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.9)\\\\Nicely done. Roland Chau is now out of the tournament...//(3.9,33.9)\\\\Good news for Agent Lee.",
+			"fr": "//(0,30)\\\\Finement joué. Roland Chau est hors concours, ce qui va aider l'agent Lee.",
+			"it": "//(0,30)\\\\Ben fatto. Roland Chau è fuori dal torneo. Un'ottima notizia per l'agente Lee.",
+			"de": "//(0,30)\\\\Gut gemacht. Roland Chau ist jetzt aus dem Turnier – gute Nachrichten für Agent Lee.",
+			"es": "//(0,30)\\\\Buen trabajo. Roland Chau se ha quedado fuera del torneo... Buenas noticias para el agente Lee.",
+			"ru": "//(0,1.236196)\\\\Хорошо сработано.//(1.236196,31.2362)\\\\Роланд Чау выбыл из турнира — агент Ли будет доволен.",
+			"cn": "//(0,30)\\\\干得漂亮。罗兰·周已经出局了，这对李特工而言是好消息。",
+			"tc": "//(0,3.9)\\\\幹得漂亮。周羅蘭現在退出比賽了，//(3.9,33.9)\\\\這對李特務來說是個好消息。",
+			"jp": "//(0,30)\\\\よくやったわ。これでローランド・チャウはトーナメントから脱落エージェント・リーにとっては朗報ね。"
+		}
+	}
+}

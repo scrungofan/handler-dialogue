@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02.sweetdialog?/ds2717_puzzlefinal02_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2717_puzzlefinal02_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2717_puzzlefinal02_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\Good to have you back, Mr. M.",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Ravie de vous entendre à nouveau, M.  Em.",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Che bello riaverla fra noi, Signor Em.",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Schön, dass Sie wieder da sind, Mr.  M.",
+			"es": "//[DIANA]\\\\//(0,30)\\\\Me alegra que hayas vuelto, señor M.",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\Рада вашему возвращению, мистер Эм.",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\M先生，你回来真是太好了。",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\很高興你回來了，M 先生。",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\エミネム、連絡が取れてよかったわ。"
+		}
+	}
+}

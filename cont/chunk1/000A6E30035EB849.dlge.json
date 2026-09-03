@@ -1,0 +1,153 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/diana_all_levels/diana_interupt.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "diana_interupt_diana_001",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/diana_all_levels/diana_interupt_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/diana_all_levels/diana_interupt_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Oh."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "diana_interupt_diana_002",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/diana_all_levels/diana_interupt_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/diana_all_levels/diana_interupt_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I see."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "diana_interupt_diana_003",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/diana_all_levels/diana_interupt_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/diana_all_levels/diana_interupt_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Okay."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "diana_interupt_diana_005",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/diana_all_levels/diana_interupt_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/diana_all_levels/diana_interupt_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Right."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "diana_interupt_diana_006",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/diana_all_levels/diana_interupt_diana_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/diana_all_levels/diana_interupt_diana_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\On with it then, okay."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "diana_interupt_diana_008",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/diana_all_levels/diana_interupt_diana_008.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/diana_all_levels/diana_interupt_diana_008.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Fine."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "diana_interupt_diana_009",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/diana_all_levels/diana_interupt_diana_009.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/diana_all_levels/diana_interupt_diana_009.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Hm."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "diana_interupt_diana_011",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/diana_all_levels/diana_interupt_diana_011.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/diana_all_levels/diana_interupt_diana_011.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Yes."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "5EDCE992",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": null,
+				"defaultFfx": null,
+				"languages": {}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "C0B87C31",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": null,
+				"defaultFfx": null,
+				"languages": {}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "B7BF4CA7",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": null,
+				"defaultFfx": null,
+				"languages": {}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "2EB61D1D",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": null,
+				"defaultFfx": null,
+				"languages": {}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "59B12D8B",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": null,
+				"defaultFfx": null,
+				"languages": {}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "C90E301A",
+				"weight": 0.07142854162624726,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": null,
+				"defaultFfx": null,
+				"languages": {}
+			}
+		]
+	}
+}

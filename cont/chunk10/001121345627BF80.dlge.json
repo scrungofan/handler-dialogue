@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_handler/ds34014_ms3bdygrdjourn.sweetdialog?/ds34014_ms3bdygrdjourn_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds34014_ms3bdygrdjourn_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34014_ms3bdygrdjourn_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/opulent/34000_elusive/34000_greentini/greentini_handler/ds34014_ms3bdygrdjourn_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.689571)\\\\Dr. Cane is offering a reward to the first bodyguard to incapacitate an undercover journalist –//(5.689571,35.68957)\\\\provided they have proof. We could use this, 47.",
+			"fr": "//(0,4.2)\\\\Dr Cane offre une récompense au premier garde du corps capable de neutraliser//(4.2,7.8)\\\\un journaliste sous couverture, à condition d'avoir une preuve.//(7.8,37.8)\\\\Cela pourrait nous servir, 47.",
+			"it": "//(0,2)\\\\Il dottor Cane offre una ricompensa//(2,5.25)\\\\alla prima guardia del corpo che riuscirà a neutralizzare un giornalista sotto copertura,//(5.25,7.85)\\\\a condizione che ne abbia le prove.//(7.85,37.85)\\\\Ci farebbe comodo, 47.",
+			"de": "//(0,4.3)\\\\Dr.  Cane bietet dem ersten Leibwächter, der einen Undercover-Journalisten ausschaltet,//(4.3,7)\\\\eine Belohnung – sofern er Beweise hat.//(7.8,37.8)\\\\Das könnten wir ausnutzen, 47.",
+			"es": "//(0,4.18)\\\\Hay un periodista encubierto y el doctor Cane ha ofrecido una recompensa//(4.18,7.5)\\\\para el primer guardaespaldas que demuestre que lo ha neutralizado.//(7.9,37.9)\\\\Esto podría servirnos, 47.",
+			"ru": "//(0,3.12)\\\\Доктор Кейн предлагает награду телохранителю.//(3.12,5.8)\\\\Который первым обезвредит журналиста под прикрытием.//(5.8,7.9)\\\\И сможет предоставить доказательства.//(7.9,37.9)\\\\Это может нам пригодиться, 47-й.",
+			"cn": "//(0,5.78)\\\\凯恩博士已下令，哪个保镖能先制伏某位卧底记者，就能得到奖励——//(5.78,35.78)\\\\前提是拿出相应的证据。我们可以利用这一点，47。",
+			"tc": "//(0,5.8)\\\\凱恩博士會給第一個制伏臥底記者的保鏢一筆獎金——//(5.8,35.8)\\\\前提是要有證據。我們可以利用這點，47。",
+			"jp": "//(0,3.255)\\\\ケイン博士は潜入取材中のジャーナリストを行動不能にした//(3.255,5.7)\\\\最初のボディーガードに報奨金を支払うと申し出ているわ。//(5.7,7.82)\\\\ただし、証拠がある場合に限るけど。//(7.82,37.82)\\\\これは役に立ちそうね、47。"
+		}
+	}
+}

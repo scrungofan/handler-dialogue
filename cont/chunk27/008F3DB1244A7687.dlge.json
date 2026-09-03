@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_018.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_018",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_018.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_018.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\You're beat 47. Let's hope we can do better when you face Le Chiffre.",
+			"fr": "//(0,1.356196)\\\\Terminé, 47.//(1.356196,31.3562)\\\\Espérons que vous vous en sortirez mieux face à notre cible.",
+			"it": "//(0,30)\\\\Hai perso 47. Speriamo di fare meglio quando affronterai Le Chiffre.",
+			"de": "//(0,30)\\\\Sie wurden geschlagen, 47. Hoffentlich läuft es gegen Le Chiffre besser.",
+			"es": "//(0,30)\\\\Has perdido, 47. Esperemos que lo hagas mejor a la hora de hacer frente a Le Chiffre.",
+			"ru": "//(0,30)\\\\Проиграл, 47-й. Надеюсь, с Лё Шиффром будет лучше.",
+			"cn": "//(0,30)\\\\47，你输了。但愿下次对阵勒齐弗时能有好运。",
+			"tc": "//(0,30)\\\\你輸了，47。希望面對勒西弗時你會有更好的表現。",
+			"jp": "//(0,30)\\\\あなたの負けよ、47。ル・シッフル相手にはもっとうまく行くことを祈ってるわ。"
+		}
+	}
+}

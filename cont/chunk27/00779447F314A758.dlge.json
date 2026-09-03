@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice.sweetdialog?/ds3717_pokeradvice_diana_012.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3717_pokeradvice_diana_012",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_012.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3717_pokeradvice_diana_012.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\47, your hand is strong. Lure the other players into betting big.",
+			"fr": "//(0,2.2)\\\\Vous avez une belle main, 47.//(2.2,32.2)\\\\Faites en sorte que les autres joueurs misent gros.",
+			"it": "//(0,30)\\\\47, hai una buona mano, spingi gli altri giocatori a puntare alto.",
+			"de": "//(0,2.2)\\\\47, Ihr Blatt ist stark.//(2.2,32.2)\\\\Verleiten Sie die anderen Spieler zu einem hohen Einsatz.",
+			"es": "//(0,30)\\\\47, tienes una buena mano. Consigue que los demás jugadores apuesten fuerte.",
+			"ru": "//(0,30)\\\\47-й, у тебя сильная комбинация. Попробуй развести остальных на высокие ставки.",
+			"cn": "//(0,30)\\\\47，你的手牌很强，引诱其他玩家加大下注。",
+			"tc": "//(0,30)\\\\47，你手上的牌很好，引誘其他玩家加注。",
+			"jp": "//(0,30)\\\\47、あなたの手札は強いわ。他のプレイヤーが大きく賭けるように誘い込んで。"
+		}
+	}
+}

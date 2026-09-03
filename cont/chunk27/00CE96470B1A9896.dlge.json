@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3703_agentid.sweetdialog?/ds3703_agentid_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3703_agentid_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3703_agentid_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3703_agentid_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.3)\\\\Well, that's a surprise. That's our old friend Agent Smith.//(4.3,34.3)\\\\I wonder what he is doing here? Probably best to find out. We can't have any interference.",
+			"fr": "//(0,4.3)\\\\Je ne m'attendais pas à cela... notre vieil ami, l'agent Smith !//(4.3,6.273374)\\\\Que fait-il ici ?//(6.273374,8)\\\\Vous devriez vous renseigner.//(8,38)\\\\Nous devons éviter toute interférence avec notre mission du jour.",
+			"it": "//(0,6)\\\\Beh, questa sì che è una sorpresa. Lui è il nostro vecchio amico, l'agente Smith. Chissà cosa ci fa qui.//(6,36)\\\\Meglio scoprirlo. Non possiamo lasciare che interferisca con l'incarico che ci è stato assegnato.",
+			"de": "//(0,1.6)\\\\Na, das ist eine Überraschung.//(1.6,4.4)\\\\Das ist unser alter Freund Agent Smith.//(4.4,6.1)\\\\Ich frage mich, was er hier treibt.//(6.1,7.85)\\\\Wir sollten es wohl lieber herausfinden.//(7.85,37.85)\\\\Es darf keine Einmischung beim derzeitigen Auftrag geben.",
+			"es": "//(0,5.762)\\\\Vaya, qué sorpresa, pero si es nuestro viejo amigo el agente Smith. Me pregunto qué estará haciendo aquí.//(5.762,35.762)\\\\Deberíamos comprobarlo. No nos podemos permitir injerencias en esta misión.",
+			"ru": "//(0,4.2)\\\\Сюрприз. Наш старый знакомый — агент Смит.//(4.2,7.9)\\\\Интересно, что он тут делает? Стоит выяснить.//(7.9,37.9)\\\\В нашем задании лишние люди не нужны.",
+			"cn": "//(0,4.2)\\\\呵，真是意外之喜啊。这不是咱们的老朋友史密斯探员么？//(4.2,6)\\\\我倒是好奇，他怎么会出现在这里？//(6,36)\\\\最好查清楚。绝不能让任何人干扰当前任务。",
+			"tc": "//(0,4.4)\\\\嗯，真令人意外。那是我們的老朋友，史密斯特務。//(4.4,7.8)\\\\不知道他怎麼會在這裡？或許我們應該調查一下。//(7.8,37.8)\\\\可不能讓他干擾我們目前的任務。",
+			"jp": "//(0,5.9)\\\\驚いた。あれはエージェント・スミスね。一体何の用でここにいるのかしら？//(5.9,35.9)\\\\調べてみた方がいいでしょうね。任務の邪魔があってはいけないわ。"
+		}
+	}
+}

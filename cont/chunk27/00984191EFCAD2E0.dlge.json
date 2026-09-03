@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3706_poison.sweetdialog?/ds3706_poison_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3706_poison_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3706_poison_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3706_poison_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,4.75)\\\\47! I detect poison on your biomarkers! Le Chiffre's signature poison.//(4.75,34.75)\\\\Keep calm. We've prepared for this. We have an antidote in the stash point in the parking lot. Now go!",
+			"fr": "//(0,1)\\\\47 !//(1,3.29)\\\\Nous détectons des toxines dans votre sang !//(3.29,5.2)\\\\C'est le poison signature du Chiffre.//(5.2,7.3)\\\\Surtout, restez calme, nous l'avions anticipé.//(7.3,9)\\\\L'antidote se trouve dans la cache du parking.//(9,39)\\\\Dépêchez-vous !",
+			"it": "//(0,4.9)\\\\47! Ho trovato del veleno nei tuoi biomarcatori! È il veleno tipico di Le Chiffre.//(4.9,6.85)\\\\Stai calmo, siamo preparati a questa evenienza.//(6.85,36.85)\\\\Abbiamo messo l'antidoto nella scorta segreta del parcheggio. Ora vai!",
+			"de": "//(0,30)\\\\47! Ich habe Gift bei Ihren Biomarkern entdeckt! Das ist Le Chiffres typisches Gift. Bleiben Sie einfach ruhig. Wir sind darauf vorbereitet. Wir haben ein Gegenmittel beim Versteck am Parkplatz hinterlegt, aber sie haben nur 45 Sekunden. Also los!",
+			"es": "//(0,4.601)\\\\¡47, detecto veneno en tus biomarcadores! Es el veneno tradicional de Le Chiffre.//(4.601,9.2)\\\\Mantén la calma, estamos preparados para esto. Te hemos dejado un antídoto en el alijo del aparcamiento.//(9.2,39.2)\\\\¡Ve rápido!",
+			"ru": "//(0,4.714)\\\\47-й! У тебя в крови следы яда! Это фирменный яд Лё Шиффра.//(4.714,34.714)\\\\Спокойно. Мы были к этому готовы. Антидот в тайнике на парковке. Вперед!",
+			"cn": "//(0,4.6)\\\\47！生物标记显示你已中毒！是勒齐弗的招牌毒药。//(4.6,6.6)\\\\保持冷静。我们早有预案。//(6.6,36.6)\\\\停车场补给箱里有解毒剂，快去！",
+			"tc": "//(0,4.9)\\\\47！我在你的生物特徵中偵測到了毒素！這是勒西弗的知名毒藥。//(4.9,34.9)\\\\保持冷靜，我們有所準備。解藥就存放在停車場的庫存中。快去！",
+			"jp": "//(0,2.9)\\\\47！あなたのバイオマーカーに毒を検知したわ！//(2.9,6.85)\\\\これはル・シッフルが得意とする毒よ。でも落ち着いて。このような事態に備えてきたから。//(6.85,36.85)\\\\駐車場の隠し場所に解毒剤を保管してるわ。今すぐ行って！"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3707_30sec.sweetdialog?/ds3707_30sec_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds3707_30sec_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_Dream",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3707_30sec_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3707_30sec_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\You need to pick up your pace, 47. You have 20 seconds left!",
+			"fr": "//(0,30)\\\\Accélérez le mouvement, 47. Plus que 20 secondes !",
+			"it": "//(0,30)\\\\Devi darti una mossa, 47. Ti restano solo 20 secondi!",
+			"de": "//(0,1.95)\\\\Sie müssen sich sputen, 47.//(1.95,31.95)\\\\Sie haben nur 20 Sekunden übrig!",
+			"es": "//(0,30)\\\\Tienes que darte más vidilla, 47. ¡Tan solo te quedan 20 segundos!",
+			"ru": "//(0,30)\\\\Быстрее, 47-й! Осталось всего 20 секунд!",
+			"cn": "//(0,30)\\\\你得加快脚步了，47。只剩20秒！",
+			"tc": "//(0,30)\\\\你得加快腳步，47。只剩 20 秒了！",
+			"jp": "//(0,30)\\\\47、急いで。残り20秒よ！"
+		}
+	}
+}

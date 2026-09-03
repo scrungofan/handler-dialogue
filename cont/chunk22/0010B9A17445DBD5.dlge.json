@@ -1,0 +1,68 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2714_puzzlephs3cmplt.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds2714_puzzlephs3cmplt_diana_002",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2714_puzzlephs3cmplt_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2714_puzzlephs3cmplt_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Ohhh! We are close, 47... But be careful, we might unleash a pandora’s box...",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Nous touchons au but, 47... mais restez vigilant. Et si nous ouvrions une boîte de Pandore ?",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Oooh, ci siamo quasi, 47... Fa' attenzione, potremmo accidentalmente scoperchiare il vaso di Pandora...",
+					"de": "//[DIANA]\\\\//(0,3.5)\\\\Ohhh! Wir sind dicht dran, 47 ... Aber seien Sie vorsichtig://(3.5,33.5)\\\\Wir könnten hier die Büchse der Pandora öffnen ...",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡Oooh! Ya falta poco, 47... Pero ten cuidado, no sea que abramos una caja de Pandora...",
+					"ru": "//[DIANA]\\\\//(0,30)\\\\О-о-о! Мы почти у цели, 47-й... Но будь осторожен, мы рискуем открыть ящик Пандоры...",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\噢！我们很接近了，47......但要小心，我们也许会打开潘多拉的匣子......",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\喔！我們快成功了，47......但要小心，我們可能會打開潘朵拉的盒子......",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\わあ！あと少しよ、47... でも気を付けて、何が起こるかわからないから..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2714_puzzlephs3cmplt_diana_004",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2714_puzzlephs3cmplt_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2714_puzzlephs3cmplt_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Oh ho ho! We are close, 47... But be careful, we might unleash a pandora's box...",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Oh ho ho ! Nous touchons au but, 47... mais restez vigilant. Et si nous ouvrions une boîte de Pandore ?",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Oh, oh, oh, ci siamo quasi, 47... Fa' attenzione, potremmo accidentalmente scoperchiare il vaso di Pandora...",
+					"de": "//[DIANA]\\\\//(0,4.3)\\\\Ohhh! Wir sind dicht dran, 47 ... Aber seien Sie vorsichtig://(4.3,34.3)\\\\Wir könnten hier die Büchse der Pandora öffnen ...",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡Jo, jo, jo! Ya falta poco, 47... Pero ten cuidado, no sea que abramos una caja de Pandora...",
+					"ru": "//[DIANA]\\\\//(0,3.05)\\\\О-о-о! Мы почти у цели, 47-й...//(3.05,33.05)\\\\Но будь осторожен, мы рискуем открыть ящик Пандоры...",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\哦嚯嚯！我们很接近了，47......但要小心，我们也许会打开潘多拉的匣子......",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\喔齁齁！我們快成功了，47......但要小心，我們可能會打開潘朵拉的盒子......",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\アハハ！あと少しよ、47... でも気を付けて、何が起こるかわからないから..."
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds2714_puzzlephs3cmplt_diana_005",
+				"weight": 0.3333333333333333,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2714_puzzlephs3cmplt_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2714_puzzlephs3cmplt_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//[DIANA]\\\\//(0,30)\\\\Ohhh! We are close, 47... But be careful, we might unleash a pandora's box...",
+					"fr": "//[DIANA]\\\\//(0,30)\\\\Nous touchons au but, 47... mais restez vigilant. Et si nous ouvrions une boîte de Pandore ?",
+					"it": "//[DIANA]\\\\//(0,30)\\\\Oooh, ci siamo quasi, 47... Fa' attenzione, potremmo accidentalmente scoperchiare il vaso di Pandora...",
+					"de": "//[DIANA]\\\\//(0,4.1)\\\\Ohhh! Wir sind dicht dran, 47 ... Aber seien Sie vorsichtig://(4.1,34.1)\\\\Wir könnten hier die Büchse der Pandora öffnen ...",
+					"es": "//[DIANA]\\\\//(0,30)\\\\¡Oooh! Ya falta poco, 47... Pero ten cuidado, no sea que abramos una caja de Pandora...",
+					"ru": "//[DIANA]\\\\//(0,2.8)\\\\О-о-о! Мы почти у цели, 47-й...//(2.8,32.8)\\\\Но будь осторожен, мы рискуем открыть ящик Пандоры...",
+					"cn": "//[DIANA]\\\\//(0,30)\\\\噢！我们很接近了，47......但要小心，我们也许会打开潘多拉的匣子......",
+					"tc": "//[DIANA]\\\\//(0,30)\\\\喔！我們快成功了，47......但要小心，我們可能會打開潘朵拉的盒子......",
+					"jp": "//[DIANA]\\\\//(0,30)\\\\わあ！あと少しよ、47... でも気を付けて、何が起こるかわからないから..."
+				}
+			}
+		]
+	}
+}

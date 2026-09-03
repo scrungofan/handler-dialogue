@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41845_47cured.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds41845_47cured_diana_001",
+				"weight": 1.0,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41845_47cured_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41845_47cured_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\That was close, 47.",
+					"fr": "//(0,30)\\\\De justesse, 47.",
+					"it": "//(0,30)\\\\C'è mancato poco, 47.",
+					"de": "//(0,30)\\\\Das war knapp, 47.",
+					"es": "//(0,30)\\\\Ha faltado poco, 47.",
+					"ru": "//(0,30)\\\\Ты успел вовремя, 47-й.",
+					"cn": "//(0,30)\\\\好险啊，47。",
+					"tc": "//(0,30)\\\\真驚險，47。",
+					"jp": "//(0,30)\\\\危なかったわね、47。"
+				}
+			}
+		]
+	}
+}

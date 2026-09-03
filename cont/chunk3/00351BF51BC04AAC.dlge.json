@@ -1,0 +1,163 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "ds41843_virusspread_diana_001",
+				"weight": 0.12820506860047987,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47? I'm still registering infected. We cannot allow this virus to spread.",
+					"fr": "//(0,30)\\\\47 ? Il semblerait qu'il reste des infectés. Ce virus ne peut pas se propager.",
+					"it": "//(0,30)\\\\47? Rilevo ancora degli infetti. Non possiamo permettere che il virus si diffonda.",
+					"de": "//(0,30)\\\\47? Ich registiere immer noch Infizierte. Dieses Virus darf sich nicht ausbreiten.",
+					"es": "//(0,30)\\\\¿47? Sigo detectando infectados, no podemos dejar que este virus se propague.",
+					"ru": "//(0,30)\\\\47-й? Я до сих пор вижу зараженных. Нельзя допустить распространения этого вируса.",
+					"cn": "//(0,30)\\\\47？感染者数量仍在上升。我们不能让这种病毒继续扩散。",
+					"tc": "//(0,30)\\\\47？我還是有看到感染者。我們不能讓病毒擴散。",
+					"jp": "//(0,30)\\\\47？こっちはまだ感染者を登録してる。これ以上ウイルスを拡散させてはいけない。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds41843_virusspread_diana_002",
+				"weight": 0.12820506860047987,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47? We've registered a rather large rise in the number of infected.",
+					"fr": "//(0,30)\\\\47 ? Nous relevons une forte hausse du nombre de personnes infectées.",
+					"it": "//(0,30)\\\\47? Abbiamo rilevato un incremento notevole di infetti.",
+					"de": "//(0,30)\\\\47? Wir registrieren einen recht deutlichen Anstieg in der Zahl der Infizierten.",
+					"es": "//(0,30)\\\\¿47? Hemos detectado un aumento importante en el número de infectados.",
+					"ru": "//(0,30)\\\\47-й? Мы заметили весьма резкий рост количества зараженных.",
+					"cn": "//(0,30)\\\\47？我们发现感染者数量大幅上升。",
+					"tc": "//(0,30)\\\\47？我發現感染者數量提升了許多。",
+					"jp": "//(0,30)\\\\47？感染者数が急上昇している。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds41843_virusspread_diana_003",
+				"weight": 0.12820506860047987,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47. We've registered a rather large rise in the number of infected... This could become messy.",
+					"fr": "//(0,30)\\\\Nous relevons une forte hausse du nombre d'infectés, 47... La situation pourrait dégénérer.",
+					"it": "//(0,30)\\\\47? Abbiamo rilevato un incremento notevole di infetti... Le cose potrebbero mettersi male.",
+					"de": "//(0,30)\\\\47, wir registrieren einen recht deutlichen Anstieg in der Zahl der Infizierten ... Das könnte übel werden.",
+					"es": "//(0,30)\\\\47, ha habido un aumento importante en el número de infectados... La cosa podría ponerse fea.",
+					"ru": "//(0,30)\\\\47-й? Мы заметили весьма резкий рост количества зараженных... Это может стать проблемой.",
+					"cn": "//(0,30)\\\\47。我们发现感染者数量大幅上升......情况可能会变得很棘手。",
+					"tc": "//(0,30)\\\\47，我發現感染者數量提升了許多......情況可能會惡化。",
+					"jp": "//(0,30)\\\\47？感染者数が急上昇している... 先が思いやられるわね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds41843_virusspread_diana_004",
+				"weight": 0.12820506860047987,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\There is an increased number of infected, 47. Time to roll up your sleeves.",
+					"fr": "//(0,30)\\\\Les infectés sont de plus en plus nombreux, 47. C'est l'heure de retrousser vos manches.",
+					"it": "//(0,30)\\\\Il numero di infetti è in aumento, 47. È ora di rimboccarsi le maniche.",
+					"de": "//(0,30)\\\\Es gibt eine wachsende Zahl von Infizierten, 47. Zeit, die Ärmel hochzukrempeln.",
+					"es": "//(0,30)\\\\Las cifras de infectados van en aumento, 47. Va a tocar ponerse el mono de trabajo.",
+					"ru": "//(0,30)\\\\Численность зараженных увеличилась, 47-й. Пора браться за работу.",
+					"cn": "//(0,30)\\\\47，感染者数量上升了。你千万不能大意。",
+					"tc": "//(0,30)\\\\感染者數量提升了，47。好好幹。",
+					"jp": "//(0,30)\\\\47、感染者数が増えている。ここからが正念場よ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds41843_virusspread_diana_005",
+				"weight": 0.12820506860047987,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47? I've registered another infected.",
+					"fr": "//(0,30)\\\\On me signale un nouvel infecté, 47.",
+					"it": "//(0,30)\\\\47? Ho rilevato un altro infetto.",
+					"de": "//(0,30)\\\\47? Ich registriere noch jemand Infiziertes.",
+					"es": "//(0,30)\\\\¿47? He detectado otro infectado.",
+					"ru": "//(0,30)\\\\47-й? Я обнаружила еще одного зараженного.",
+					"cn": "//(0,30)\\\\47？我又发现一个感染者。",
+					"tc": "//(0,30)\\\\47？又發現了一個感染者。",
+					"jp": "//(0,30)\\\\47？また感染者を登録したわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds41843_virusspread_diana_006",
+				"weight": 0.12820506860047987,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\The virus is spreading.",
+					"fr": "//(0,30)\\\\Le virus se propage.",
+					"it": "//(0,30)\\\\Il virus si sta diffondendo.",
+					"de": "//(0,30)\\\\Das Virus breitet sich aus.",
+					"es": "//(0,30)\\\\El virus se está propagando.",
+					"ru": "//(0,30)\\\\Вирус распространяется.",
+					"cn": "//(0,30)\\\\病毒正在扩散。",
+					"tc": "//(0,30)\\\\病毒正在擴散。",
+					"jp": "//(0,30)\\\\ウイルスが広がっているようね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds41843_virusspread_diana_007",
+				"weight": 0.12820506860047987,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_007.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47? The virus is spreading.",
+					"fr": "//(0,30)\\\\47 ? Le virus se propage.",
+					"it": "//(0,30)\\\\47? Il virus si sta diffondendo.",
+					"de": "//(0,30)\\\\47? Das Virus breitet sich aus.",
+					"es": "//(0,30)\\\\¿47? El virus se está propagando.",
+					"ru": "//(0,30)\\\\47-й? Вирус распространяется.",
+					"cn": "//(0,30)\\\\47？病毒正在扩散。",
+					"tc": "//(0,30)\\\\47？病毒正在擴散。",
+					"jp": "//(0,30)\\\\47？ウイルスが広がっているようね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "ds41843_virusspread_diana_008",
+				"weight": 0.10256410256410256,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_008.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41843_virusspread_diana_008.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\47? We must contain the virus here.",
+					"fr": "//(0,30)\\\\47 ! Vous devez contenir le virus ici !",
+					"it": "//(0,30)\\\\47? Dobbiamo contenere il virus qui.",
+					"de": "//(0,30)\\\\47? Wir müssen das Virus hier eindämmen.",
+					"es": "//(0,30)\\\\¿47? Tenemos que contener el virus aquí.",
+					"ru": "//(0,30)\\\\47-й? Мы должны сдержать распространение вируса.",
+					"cn": "//(0,30)\\\\47？我们必须控制住这里的病毒。",
+					"tc": "//(0,30)\\\\47？我們得將病毒封鎖在此。",
+					"jp": "//(0,30)\\\\47？ここでウイルスを封じ込めないと。"
+				}
+			}
+		]
+	}
+}

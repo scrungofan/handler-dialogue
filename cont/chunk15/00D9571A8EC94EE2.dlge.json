@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29755_missiondoneko.sweetdialog?/dh29755_missiondoneko_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dh29755_missiondoneko_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29755_missiondoneko_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/island/29000_elusive/29000_pomada/29000_pomada_handler/dh29755_missiondoneko_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,2.27)\\\\Impressive punch, 47.//(2.27,4.832883)\\\\Target eliminated. Head for an exit.//(4.832883,34.83288)\\\\Your money is being wired to your account.",
+			"fr": "//(0,3.9)\\\\Jolie technique, 47. Cible éliminée.//(3.9,33.9)\\\\Trouvez une issue à présent, je m'occupe du transfert sur votre compte.",
+			"it": "//(0,3.9)\\\\Bel pugno, 47. Bersaglio eliminato.//(3.9,33.9)\\\\Dirigiti verso un'uscita. Il denaro è in fase di trasferimento.",
+			"de": "//(0,3.8)\\\\Eindrucksvoller Schlag, 47. Ziel eliminiert.//(3.8,33.8)\\\\Gehen Sie zu einem Ausgang. Ihr Geld wird jetzt auf Ihr Konto überwiesen.",
+			"es": "//(0,2.3)\\\\Qué puñetazos tan impresionantes, 47.//(2.3,4.8)\\\\Objetivo eliminado. Busca una salida.//(4.8,34.8)\\\\Ya se te está transfiriendo el dinero a tu cuenta.",
+			"ru": "//(0,3.7)\\\\Впечатляющий удар, 47-й. Цель устранена.//(3.7,33.7)\\\\Иди к выходу. Деньги уже переводят на твой счет.",
+			"cn": "//(0,3.8)\\\\精彩的一拳，47。目标已消灭。//(3.8,33.8)\\\\前往出口。我们正在把钱转给你。",
+			"tc": "//(0,3.8)\\\\打得真漂亮，47。目標已消滅。//(3.8,33.8)\\\\找出口離開吧，我們馬上把錢匯到你的帳戶。",
+			"jp": "//(0,2.285)\\\\見事なパンチだったわ、47。//(2.285,32.285)\\\\ターゲット排除完了。出口を探して。口座に報酬を送金中よ。"
+		}
+	}
+}

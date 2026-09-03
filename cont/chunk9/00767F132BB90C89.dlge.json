@@ -1,0 +1,144 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20073_mp_killstreak_knight_knight_001",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Better hurry up if you want a piece of this, Stone.",
+					"fr": "//(0,30)\\\\Ne traîne pas si tu veux qu'il t'en reste, Stone.",
+					"it": "//(0,30)\\\\Sarà meglio che ti muovi se vuoi che ti lasci qualcosa, Stone.",
+					"de": "//(0,30)\\\\Beeilen Sie sich lieber, wenn Sie auch mitmachen wollen, Stone.",
+					"es": "//(0,30)\\\\Si quieres marcarte a ese, tendrás que darte prisa, Stone.",
+					"ru": "//(0,30)\\\\Поторопись, если хочешь поучаствовать, Стоун.",
+					"cn": "//(0,30)\\\\斯通，如果你也想收几个人头的话就得赶快了。",
+					"tc": "//(0,30)\\\\想要加入你得動作快，斯通。",
+					"jp": "//(0,30)\\\\急がないと皆殺っちゃうわよ、ストーン。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20073_mp_killstreak_knight_knight_002",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Are you going to let me do all the work here, Stone?",
+					"fr": "//(0,30)\\\\Tu vas tout me laisser faire, Stone ?",
+					"it": "//(0,30)\\\\Hai intenzione di lasciarmi fare tutto il lavoro, Stone?",
+					"de": "//(0,30)\\\\Überlassen Sie mir die ganze Arbeit hier, Stone?",
+					"es": "//(0,30)\\\\¿En serio me va a tocar a mí hacer todo el trabajo, Stone?",
+					"ru": "//(0,30)\\\\Ты так и будешь ждать, пока я со всем управлюсь, Стоун?",
+					"cn": "//(0,30)\\\\斯通，你打算把所有活儿都推给我干吗？",
+					"tc": "//(0,30)\\\\你要把工作全都交給我嗎，斯通？",
+					"jp": "//(0,30)\\\\私に全部やらせるつもり？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20073_mp_killstreak_knight_knight_003",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_003.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_003.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Another one bites the dust.",
+					"fr": "//(0,30)\\\\Et encore un au tapis.",
+					"it": "//(0,30)\\\\Ecco un altro che tira le cuoia.",
+					"de": "//(0,30)\\\\„Another one bites the dust. “",
+					"es": "//(0,30)\\\\Y otro que muerde el polvo.",
+					"ru": "//(0,30)\\\\Еще один откинулся.",
+					"cn": "//(0,30)\\\\又一个下地狱去了。",
+					"tc": "//(0,30)\\\\又一個倒下了。",
+					"jp": "//(0,30)\\\\もう1人ダウン。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20073_mp_killstreak_knight_knight_004",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_004.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_004.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Is your rifle malfunctioning, Stone? Or did you just give up already?",
+					"fr": "//(0,30)\\\\Ton arme est enrayée, Stone ? Ou bien tu jettes l'éponge ?",
+					"it": "//(0,30)\\\\Il tuo fucile ha qualcosa che non va, Stone? O hai già deciso di mollare?",
+					"de": "//(0,30)\\\\Klemmt Ihr Gewehr, Stone? Oder haben Sie einfach schon aufgegeben?",
+					"es": "//(0,30)\\\\¿Acaso te funciona mal el fusil, Stone? ¿O es que ya has tirado la toalla?",
+					"ru": "//(0,30)\\\\У тебя винтовка сломалась, Стоун? Или ты уже сдался?",
+					"cn": "//(0,30)\\\\斯通，你的枪卡壳了吗？还是你已经放弃了？",
+					"tc": "//(0,30)\\\\你的步槍壞了嗎，斯通？還是說你已經放棄了？",
+					"jp": "//(0,30)\\\\ライフルが壊れたの？それとももう諦めた？"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20073_mp_killstreak_knight_knight_005",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_005.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_005.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I feel like I'm doing all the work over here.",
+					"fr": "//(0,30)\\\\J'ai l'impression de faire tout le boulot, ici.",
+					"it": "//(0,30)\\\\Ho come l'impressione di star facendo tutto io.",
+					"de": "//(0,30)\\\\Ich habe das Gefühl, als würde ich hier die ganze Arbeit machen.",
+					"es": "//(0,30)\\\\Tengo la sensación de que aquí solo trabajo yo.",
+					"ru": "//(0,30)\\\\Кажется, сегодня я работаю за двоих.",
+					"cn": "//(0,30)\\\\我感觉只有我一个人在干活啊。",
+					"tc": "//(0,30)\\\\我感覺工作都是我在做。",
+					"jp": "//(0,30)\\\\なんか、1人で仕事してる気がするわ。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20073_mp_killstreak_knight_knight_006",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_006.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_006.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Good thing for you we're not keeping score here.",
+					"fr": "//(0,30)\\\\Heureusement pour toi qu'on ne compte pas.",
+					"it": "//(0,30)\\\\E ti va bene che non stiamo tenendo i punti.",
+					"de": "//(0,30)\\\\Gut, dass wir hier keine Punkte zählen.",
+					"es": "//(0,30)\\\\Tienes suerte de que no lleve la cuenta.",
+					"ru": "//(0,30)\\\\Тебе повезло, что мы счет не ведем.",
+					"cn": "//(0,30)\\\\你运气不错，我们没在比赛。",
+					"tc": "//(0,30)\\\\還好你沒有在計分。",
+					"jp": "//(0,30)\\\\私が敵じゃなくて良かったわね。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20073_mp_killstreak_knight_knight_007",
+				"weight": 0.14285714285714285,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_007.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20073_mp_killstreak_knight_knight_007.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\I'm guessing you're glad it's not a competition, Stone?",
+					"fr": "//(0,30)\\\\Une chance que ce ne soit pas un concours, hein, Stone ?",
+					"it": "//(0,30)\\\\Sei fortunato che non è una gara, eh, Stone?",
+					"de": "//(0,30)\\\\Ich schätze, Sie sind froh, dass das hier kein Wettbewerb ist, Stone?",
+					"es": "//(0,30)\\\\Stone, supongo que te alegrarás de que esto no sea una competición.",
+					"ru": "//(0,30)\\\\Думаю, ты рад, что мы соревнуемся, Стоун?",
+					"cn": "//(0,30)\\\\斯通，你是不是庆幸我们没在比赛啊？",
+					"tc": "//(0,30)\\\\我看你應該很高興這不是競賽吧，斯通？",
+					"jp": "//(0,30)\\\\私が味方で安心してるんでしょ？"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach.sweetdialog?/dr41894_slbreach_h_e_r_b__001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41894_slbreach_h_e_r_b__001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach_h_e_r_b__001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41894_slbreach_h_e_r_b__001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\I won't lie to you – you're going to die down here. I have to prevent the virus from spreading.",
+			"fr": "//(0,3.95)\\\\Je vais être honnête avec vous : vous allez mourir ici.//(3.95,33.95)\\\\Je dois empêcher la propagation du virus.",
+			"it": "//(0,30)\\\\Non ti mentirò: tu morirai qui. Devo impedire che il virus si diffonda.",
+			"de": "//(0,30)\\\\Ich werde Sie nicht anlügen: Sie werden hier unten sterben. Ich muss die Ausbreitung des Virus verhindern.",
+			"es": "//(0,30)\\\\No voy a mentirte: vas a morir aquí abajo. Tengo que impedir que el virus se propague.",
+			"ru": "//(0,30)\\\\Не буду скрывать — вам придется умереть тут. Я не дам вирусу распространиться.",
+			"cn": "//(0,30)\\\\我不会说谎——你们都会死在这里。我必须阻止病毒扩散。",
+			"tc": "//(0,30)\\\\我不會騙你—— 你會死在這裡面。我必須阻止病毒傳播。",
+			"jp": "//(0,3.729)\\\\申し訳ありませんが、あなたはここで死にます。//(3.729,33.729)\\\\ウイルスの拡散を防がないといけないので。"
+		}
+	}
+}

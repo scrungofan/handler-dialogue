@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_story/dr41895_slcontainment.sweetdialog?/dr41895_slcontainment_h_e_r_b__006.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "dr41895_slcontainment_h_e_r_b__006",
+		"soundtag": "Voiceover_Handler_ICAEarpiece_AsylumPA",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41895_slcontainment_h_e_r_b__006.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_story/dr41895_slcontainment_h_e_r_b__006.animset].pc_animset",
+		"languages": {
+			"en": "//(0,3.208589)\\\\Will you stick around? For me?//(3.208589,6.611963)\\\\I'll be in trouble with Zachary if I let you out with the virus.//(6.611963,36.61196)\\\\Plus, it's... lonely down here.",
+			"fr": "//(0,3.1)\\\\Voulez-vous bien rester ici ? Pour moi ?//(3.1,7)\\\\Zachary et moi aurons de gros ennuis si vous faites sortir le virus...//(7,37)\\\\Et puis... je m'ennuie, ici.",
+			"it": "//(0,3.108589)\\\\Non puoi restare qui? Con me?//(3.108589,33.10859)\\\\Se ti lascio uscire con il virus, finirò nei guai con Zachary. E poi... quaggiù mi sento solo.",
+			"de": "//(0,6.146)\\\\Bleiben Sie hier? Mir zum Gefallen? Ich bekomme Ärger mit Zachary, wenn ich Sie mit dem Virus rauslasse.//(6.146,36.146)\\\\Außerdem ist es ... einsam hier unten.",
+			"es": "//(0,3.1)\\\\¿Te quedarías por aquí? ¿Lo harías por mí?//(3.1,6.6)\\\\Como te deje irte con el virus, me voy a meter en un buen lío con Zachary.//(6.6,36.6)\\\\Además..., me siento muy solo.",
+			"ru": "//(0,2.592393)\\\\Может, останетесь? Ради меня?//(2.592393,6.525276)\\\\Закари очень обидится, если я выпущу вирус на свободу.//(6.525276,36.52528)\\\\Да и... тут очень одиноко.",
+			"cn": "//(0,3.1)\\\\你可以留在这里吗？就当是为了我？//(3.1,6.3)\\\\如果我让你带着病毒离开，扎切里不会饶了我的。//(6.3,36.3)\\\\而且......这里太孤单了。",
+			"tc": "//(0,3)\\\\你會為了我留下來嗎？//(3,6.5)\\\\如果讓我帶著病毒離開，我會讓札卡里生氣的。//(6.5,36.5)\\\\更何況我在......這裡很寂寞。",
+			"jp": "//(0,2.777)\\\\私のためにここにいてくれませんか？//(2.777,6.498)\\\\ウイルスを持ったまま外に出したらザカリーに怒られてしまいます。//(6.498,36.498)\\\\それに... ここはとても寂しいんです。"
+		}
+	}
+}

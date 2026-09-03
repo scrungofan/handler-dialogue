@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41833_targetdown.sweetdialog?/ds41833_targetdown_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41833_targetdown_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41833_targetdown_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41833_targetdown_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,5.977668)\\\\Target down. Devereux is no longer a threat to the Carlisles – or anyone, for that matter.//(5.977668,35.97767)\\\\Find an exit. I'm transferring the funds now.",
+			"fr": "//(0,5.8)\\\\Cible éliminée. Devereux n'est plus une menace pour les Carlisle, ni personne d'autre.//(5.8,35.8)\\\\Trouvez une sortie, je transfère les fonds.",
+			"it": "//(0,1.286196)\\\\Bersaglio eliminato.//(1.286196,4.34908)\\\\Devereux non è più una minaccia per i Carlisle.//(4.34908,6.059571)\\\\Né per nessun altro, direi.//(6.059571,36.05957)\\\\Trova un'uscita. Sto trasferendo ora i fondi.",
+			"de": "//(0,5.585276)\\\\Ziel neutralisiert. Devereux ist keine Bedrohung mehr für die Carlisles – oder sonst irgendjemanden.//(5.585276,35.58528)\\\\Suchen Sie einen Ausgang. Ich überweise jetzt die Mittel.",
+			"es": "//(0,5.85)\\\\Objetivo abatido. Devereux ya no es una amenaza para los Carlisle... ni para nadie, la verdad.//(5.85,35.85)\\\\Busca una salida mientras te transfiero el dinero.",
+			"ru": "//(0,1.3)\\\\Цель устранена.//(1.3,5.8)\\\\Деверье больше не угрожает Карлайлам... да и всем окружающим.//(5.8,35.8)\\\\Ищите выход, пока я перевожу деньги на ваш счет.",
+			"cn": "//(0,4.3)\\\\目标已消灭。德弗鲁不会再威胁到卡莱尔家族，//(4.3,34.3)\\\\或者其他任何人了。想办法脱身。我正在把钱转给你。",
+			"tc": "//(0,4.1)\\\\目標已被消滅，德維洛不再對卡爾西爾人構成威脅——//(4.1,34.1)\\\\或者說，對任何人都不再構成威脅。去找出口。我正在轉帳。",
+			"jp": "//(0,4.459)\\\\ターゲット排除。 デヴルーはもはやカーライル家にとって脅威ではないわ。//(4.459,34.459)\\\\他の人にとってもね。 出口を探して。報酬を送金したわ。"
+		}
+	}
+}

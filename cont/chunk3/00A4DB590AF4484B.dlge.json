@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab.sweetdialog?/ds41829_dscvrlab_diana_003.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41829_dscvrlab_diana_003",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_diana_003.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_diana_003.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Good lord, who's that?!",
+			"fr": "//(0,30)\\\\Tiens donc, mais qui est-ce ?!",
+			"it": "//(0,30)\\\\Cosa? Sta usando il nostro canale!",
+			"de": "//(0,30)\\\\Was? Wer ist das?",
+			"es": "//(0,30)\\\\¿Qué? ¿Quién ha hablado?",
+			"ru": "//(0,30)\\\\Боже, это еще кто?!",
+			"cn": "//(0,30)\\\\我的天，这是谁啊？！",
+			"tc": "//(0,30)\\\\什麼？它在使用我們的頻道！",
+			"jp": "//(0,30)\\\\どういうこと？ 誰なの？"
+		}
+	}
+}

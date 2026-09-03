@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat.sweetdialog?/ds41837_herbchat_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41837_herbchat_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41837_herbchat_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\Let me try and talk to the system... H. E. R. B.? It's Diana.",
+			"fr": "//(0,2.1)\\\\Je vais essayer de discuter avec cette intelligence...//(3.1,33.1)\\\\HERB ? Ici Diana.",
+			"it": "//(0,2.908589)\\\\Provo a parlare con il sistema...//(2.908589,32.90859)\\\\H. E. R. B.? Sono Diana.",
+			"de": "//(0,30)\\\\Lassen Sie mich mit dem System sprechen ... H. E. R. B.? Hier ist Diana.",
+			"es": "//(0,2)\\\\Espera, voy a intentar hablar con el sistema...//(3,33)\\\\¿H. E. R. B.? Soy Diana.",
+			"ru": "//(0,1.9)\\\\Попробую-ка поговорить с этой системой...//(2.85,32.85)\\\\ГЕРБ? Это Диана.",
+			"cn": "//(0,30)\\\\让我试着和系统聊聊......H.E.R.B.？我是戴安娜。",
+			"tc": "//(0,30)\\\\讓我嘗試與系統通話...... H. E. R. B. ？我是戴安娜。",
+			"jp": "//(0,1.947)\\\\私がシステムと話してみるわ...//(2.898,32.898)\\\\H. E. R. B. ？ダイアナよ。"
+		}
+	}
+}

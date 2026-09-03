@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2707_subcnshintpre.sweetdialog?/ds2707_subcnshintpre_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2707_subcnshintpre_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2707_subcnshintpre_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2707_subcnshintpre_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//[DIANA]\\\\//(0,30)\\\\What's she talking about - a manual?",
+			"fr": "//[DIANA]\\\\//(0,30)\\\\Mais de quoi parle-t-elle ? Quel manuel ?",
+			"it": "//[DIANA]\\\\//(0,30)\\\\Di cosa sta parlando? Un manuale?",
+			"de": "//[DIANA]\\\\//(0,30)\\\\Wovon redet sie da? Ein Handbuch?",
+			"es": "//[DIANA]\\\\//(0,30)\\\\¿De qué está hablando? ¿Un manual?",
+			"ru": "//[DIANA]\\\\//(0,30)\\\\О каком еще руководстве она говорит?",
+			"cn": "//[DIANA]\\\\//(0,30)\\\\她在说什么？手册？",
+			"tc": "//[DIANA]\\\\//(0,30)\\\\她在說什麼—— 手冊？",
+			"jp": "//[DIANA]\\\\//(0,30)\\\\彼女は何を言ってるの？マニュアル？"
+		}
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/sniper_maps/global/global_20000_story/dr20111_mp_targetsleft7_stone.sweetdialog].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "Random",
+		"containers": [
+			{
+				"type": "WavFile",
+				"wavName": "dr20111_mp_targetsleft7_stone_stone_001",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20111_mp_targetsleft7_stone_stone_001.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20111_mp_targetsleft7_stone_stone_001.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Alright, down to seven targets. Nicely done.",
+					"fr": "//(0,30)\\\\Parfait, il reste sept cibles. Bien négocié.",
+					"it": "//(0,30)\\\\Bene, mancano sette bersagli. Ben fatto.",
+					"de": "//(0,30)\\\\Alles klar. Noch sieben Ziele. Schön gemacht.",
+					"es": "//(0,30)\\\\Vale, ya solo quedan siete objetivos. Buen trabajo.",
+					"ru": "//(0,30)\\\\Хорошо, осталось семеро. Хорошо сработано.",
+					"cn": "//(0,30)\\\\很好，还剩下七个目标。干得漂亮。",
+					"tc": "//(0,30)\\\\好了，剩下七個目標。做得很好。",
+					"jp": "//(0,30)\\\\あと7人だ。いい感じだな。"
+				}
+			},
+			{
+				"type": "WavFile",
+				"wavName": "dr20111_mp_targetsleft7_stone_stone_002",
+				"weight": 0.49999997019767584,
+				"soundtag": "Voiceover_Handler_ICAEarpiece",
+				"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/sniper_maps/global/global_20000_story/dr20111_mp_targetsleft7_stone_stone_002.wav].pc_wes",
+				"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/sniper_maps/global/global_20000_story/dr20111_mp_targetsleft7_stone_stone_002.animset].pc_animset",
+				"languages": {
+					"en": "//(0,30)\\\\Over half of the targets are taken care of. Seven left.",
+					"fr": "//(0,30)\\\\C'est déjà plus de la moitié des cibles éliminées. Encore sept.",
+					"it": "//(0,30)\\\\Più della metà dei bersagli sono stati fatti fuori. Ancora sette.",
+					"de": "//(0,30)\\\\Über die Hälfte der Ziele wurde erledigt. Noch sieben übrig.",
+					"es": "//(0,30)\\\\Hemos acabado con más de la mitad de los objetivos. Quedan siete.",
+					"ru": "//(0,30)\\\\Больше половины целей ликвидировано. Семеро осталось.",
+					"cn": "//(0,30)\\\\已经消灭半数目标了。剩下七个。",
+					"tc": "//(0,30)\\\\解決超過一半的目標了。剩七個。",
+					"jp": "//(0,30)\\\\半分以上は始末したな。残り7人だ。"
+				}
+			}
+		]
+	}
+}

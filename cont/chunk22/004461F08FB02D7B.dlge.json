@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2704_welcome.sweetdialog?/ds2704_welcome_et_belini_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds2704_welcome_et_belini_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2704_welcome_et_belini_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/hokkaido/2000_elusive/2000_bellini/2700_handler/ds2704_welcome_et_belini_001.animset].pc_animset",
+		"languages": {
+			"en": "//[ET_BELINI]\\\\//(0,30)\\\\Well, that was weird... But whatever. Let's get down to business, 47. Find Slim and get his ass. But watch yours. He's fucking insane...",
+			"fr": "//[ET_BELINI]\\\\//(0,2.098)\\\\Nom de dieu, c'était chelou...//(2.098,5.817)\\\\Peu importe. Bon, 47, au boulot.//(5.817,7.401)\\\\Trouvez Slim et faites-lui la peau.//(7.401,37.401)\\\\Mais gaffe à votre cul. Il est complètement taré...",
+			"it": "//[ET_BELINI]\\\\//(0,3.6)\\\\Beh, è stato strano... Ma non importa.//(3.6,33.6)\\\\Mettiamoci al lavoro, 47. Trova Slim e fagli il culo. Ma stai attento. Quello lì è fuori di testa...",
+			"de": "//[ET_BELINI]\\\\//(0,3.5)\\\\Also, das war schräg ... Aber egal.//(3.5,5.5)\\\\Kommen wir zum Geschäftlichen, 47.//(5.5,35.5)\\\\Such Slim und reiß ihm den Arsch auf. Aber pass dabei auf deinen auf. Der ist total irre ...",
+			"es": "//[ET_BELINI]\\\\//(0,2)\\\\Vaya, qué raro ha sido eso...//(2,3.45)\\\\En fin, tanto da.//(3.45,5.45)\\\\Pongámonos manos a la obra, 47.//(5.45,7.55)\\\\Encuentra a Slim y dale una patada en el culo.//(7.55,15.54534)\\\\Pero ten cuidado, está como una puta cabra...",
+			"ru": "//[ET_BELINI]\\\\//(0,3.45)\\\\Хм, очень странно... Впрочем, ладно.//(3.45,7.4)\\\\Перейдем к делу, 47-й. Найди Слима и надери ему задницу.//(7.4,37.4)\\\\Но берегись. Он больной на голову...",
+			"cn": "//[ET_BELINI]\\\\//(0,5.73)\\\\怪了......不过无所谓了。我们直入主题吧，47。//(5.73,35.73)\\\\找到Slim，然后弄死他。但你自己得小心。他简直是个疯子......",
+			"tc": "//[ET_BELINI]\\\\//(0,5.8)\\\\嗯，那真是奇怪......但無所謂。言歸正傳，47。//(5.8,35.8)\\\\找到 Slim 然後幹掉他。但小心點。他他媽的瘋了......",
+			"jp": "//[ET_BELINI]\\\\//(0,5.553)\\\\さっきのは何だったんだ... まあいい。 47、仕事の話としよう。//(5.553,35.553)\\\\スリムを見つけて、殺してくれ。 でも気を付けろ。あいつはイカれてるからな。"
+		}
+	}
+}

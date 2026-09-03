@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/dlge.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab.sweetdialog?/ds41829_dscvrlab_diana_001.sweetdialogitem].pc_dialogevent",
+	"DITL": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
+	"CLNG": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
+	"rootContainer": {
+		"type": "WavFile",
+		"wavName": "ds41829_dscvrlab_diana_001",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
+		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_diana_001.wav].pc_wes",
+		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/ancestral/41001_elusive/41825_filur/41825_handler/ds41829_dscvrlab_diana_001.animset].pc_animset",
+		"languages": {
+			"en": "//(0,30)\\\\This is quite something. How far down does this go?",
+			"fr": "//(0,30)\\\\Impressionnant. Jusqu'où cela descend-il ?",
+			"it": "//(0,30)\\\\Davvero niente male. A che profondità arriva?",
+			"de": "//(0,30)\\\\Das ist schon beeindruckend. Wie tief hinunter geht das?",
+			"es": "//(0,30)\\\\Esto es una barbaridad. ¿Qué profundidad tiene?",
+			"ru": "//(0,1.1)\\\\Вот это да.//(1.1,31.1)\\\\Какая глубина у этой шахты?",
+			"cn": "//(0,30)\\\\这可真不一般。这下面有多深？",
+			"tc": "//(0,30)\\\\這真是太厲害了。這有多深？",
+			"jp": "//(0,30)\\\\これはすごいわね。どこまで続くのかしら？"
+		}
+	}
+}
