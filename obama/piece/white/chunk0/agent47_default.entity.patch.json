@@ -22,11 +22,18 @@
 					"factory": "[assembly:/_pro/items/geometry/quest/ica_earpiece_a.wl2?/ica_earpiece_a.prim].pc_entitytype",
 					"blueprint": "[assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].pc_entityblueprint",
 					"properties": {
-						"m_bEnableCollision": { "type": "bool", "value": false },
+						"m_bEnableCollision": {
+							"type": "bool",
+							"value": false
+						},
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 174.354, "y": -7.748, "z": 174.354 },
+								"rotation": {
+									"x": 174.354,
+									"y": -7.748,
+									"z": 174.354
+								},
 								"position": {
 									"x": 0.058,
 									"y": 0.01,
@@ -34,62 +41,29 @@
 								}
 							}
 						},
-						"m_eRoomBehaviour": { "type": "ZSpatialEntity.ERoomBehaviour", "value": "ROOM_DYNAMIC" },
-						"m_bRemovePhysics": { "type": "bool", "value": true },
+						"m_eRoomBehaviour": {
+							"type": "ZSpatialEntity.ERoomBehaviour",
+							"value": "ROOM_DYNAMIC"
+						},
+						"m_bRemovePhysics": {
+							"type": "bool",
+							"value": true
+						},
 						"m_bKinematic": { "type": "bool", "value": false },
-						"m_bIgnoreCharacters": { "type": "bool", "value": true },
-						"m_PrimitiveScale": { "type": "SVector3", "value": { "x": 0.8, "y": 0.8, "z": 0.8 } },
-						"m_bVisible": { "type": "bool", "value": true },
-						"m_eidParent": { "type": "SEntityTemplateReference", "value": "0ff5798a35665af2" }
+						"m_bIgnoreCharacters": {
+							"type": "bool",
+							"value": true
+						},
+						"m_PrimitiveScale": {
+							"type": "SVector3",
+							"value": { "x": 0.8, "y": 0.8, "z": 0.8 }
+						},
+						"m_bVisible": { "type": "bool", "value": false },
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "0ff5798a35665af2"
+						}
 					}
-				}
-			]
-		},
-		{
-			"AddEntity": [
-				"feedc33675a6bc7d",
-				{
-					"parent": "feedbbe92e907ba2",
-					"name": "Give the earpiece",
-					"factory": "[modules:/zheroitemaction.class].pc_entitytype",
-					"blueprint": "[modules:/zheroitemaction.class].pc_entityblueprint",
-					"properties": {
-						"m_rHitmanCharacter": { "type": "SEntityTemplateReference", "value": "158cb860b1fce56d" },
-						"m_rKeywordsToFind": { "type": "SEntityTemplateReference", "value": "feedf10529f27dc5" }
-					}
-				}
-			]
-		},
-		{
-			"AddEntity": [
-				"feed88e3d81cd751",
-				{
-					"parent": "feedc33675a6bc7d",
-					"name": "Itemspawner",
-					"factory": "[modules:/zitemspawner.class].pc_entitytype",
-					"blueprint": "[modules:/zitemspawner.class].pc_entityblueprint",
-					"properties": {
-						"m_bSpawnOnStart": { "type": "bool", "value": false },
-						"m_rMainItemKey": { "type": "SEntityTemplateReference", "value": "feedf10529f27dc5" },
-						"m_eRoomBehaviour": { "type": "ZSpatialEntity.ERoomBehaviour", "value": "ROOM_DYNAMIC" },
-						"m_eidParent": { "type": "SEntityTemplateReference", "value": "158cb860b1fce56d" }
-					},
-					"events": {
-						"Item": { "SetItem": ["feedc33675a6bc7d"] },
-						"ItemReady": { "PickupIntoPocket": ["feedc33675a6bc7d"] }
-					}
-				}
-			]
-		},
-		{
-			"AddEntity": [
-				"feedf10529f27dc5",
-				{
-					"parent": "feedc33675a6bc7d",
-					"name": "Itemkey_Earpiece",
-					"factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
-					"blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
-					"properties": { "m_RepositoryId": { "type": "ZGuid", "value": "fa2b936a-7c8c-4e30-a495-6f2e95ae03a7" } }
 				}
 			]
 		},
@@ -102,10 +76,7 @@
 					"factory": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
 					"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
 					"events": {
-						"EventOccurred": {
-							"GetCurrentContractID": ["cafee55c553460a9"],
-							"In": ["cafe84a25a0d1757"]
-						}
+						"EventOccurred": { "In": ["cafe84a25a0d1757"] }
 					}
 				}
 			]
@@ -122,11 +93,13 @@
 						"m_rCondition": {
 							"type": "SEntityTemplateReference",
 							"value": "cafe1644d122775c"
-						},
-						"m_bEnabled": { "type": "bool", "value": true }
+						}
 					},
 					"events": {
-						"Out": { "SpawnItem": ["feed88e3d81cd751"] }
+						"Out": {
+							"GetKeyword": ["cafe7d1e55ca704c"],
+							"Get": ["cafe2c42975c3822"]
+						}
 					}
 				}
 			]
@@ -135,7 +108,7 @@
 			"AddEntity": [
 				"cafee55c553460a9",
 				{
-					"parent": "cafe8f4d71d56bdc",
+					"parent": "feedbbe92e907ba2",
 					"name": "ContractIdComparerEntity",
 					"factory": "[modules:/zcontractidcomparerentity.class].pc_entitytype",
 					"blueprint": "[modules:/zcontractidcomparerentity.class].pc_entityblueprint",
@@ -143,12 +116,6 @@
 						"m_sContractId": {
 							"type": "ZString",
 							"value": "ebcd14b2-0786-4ceb-a2a4-e771f60d0125"
-						}
-					},
-					"events": {
-						"ContractIDsIdentical": {
-							"SetTrue": ["cafe8f4d71d56bdc"],
-							"In": ["cafe84a25a0d1757"]
 						}
 					}
 				}
@@ -165,7 +132,7 @@
 					"properties": {
 						"m_rCondition": {
 							"type": "SEntityTemplateReference",
-							"value": "cafe8f4d71d56bdc"
+							"value": "cafee55c553460a9"
 						}
 					}
 				}
@@ -173,15 +140,90 @@
 		},
 		{
 			"AddEntity": [
-				"cafe8f4d71d56bdc",
+				"cafe7d1e55ca704c",
 				{
-					"parent": "feedbbe92e907ba2",
-					"name": "Is berlin",
-					"factory": "[modules:/zvalueboolbasic.class].pc_entitytype",
-					"blueprint": "[modules:/zvalueboolbasic.class].pc_entityblueprint",
-					"properties": {
-						"m_bValue": { "type": "bool", "value": false }
+					"parent": "cafe84a25a0d1757",
+					"name": "Keyword_QUESTITEM_EARPIECE_ON",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_earpiece_on.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_earpiece_on.entitytemplate].pc_entityblueprint",
+					"events": {
+						"Keyword": {
+							"AddKeyword": ["cafeee175aeb75f7"],
+							"True": ["cafe91547444276b"]
+						}
 					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeee175aeb75f7",
+				{
+					"parent": "cafe7d1e55ca704c",
+					"name": "HeroKeywordProxy",
+					"factory": "[modules:/zherokeywordproxyentity.class].pc_entitytype",
+					"blueprint": "[modules:/zherokeywordproxyentity.class].pc_entityblueprint",
+					"properties": {
+						"m_rHitmanCharacter": {
+							"type": "SEntityTemplateReference",
+							"value": "158cb860b1fce56d"
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe2c42975c3822",
+				{
+					"parent": "feedbcaf74e45f0f",
+					"name": "Has keyword",
+					"factory": "[modules:/zherokeywordcondition.class].pc_entitytype",
+					"blueprint": "[modules:/zherokeywordcondition.class].pc_entityblueprint",
+					"properties": {
+						"m_rRequirements": {
+							"type": "SEntityTemplateReference",
+							"value": "cafe7d1e55ca704c"
+						},
+						"m_rHitmanCharacter": {
+							"type": "SEntityTemplateReference",
+							"value": "158cb860b1fce56d"
+						},
+						"m_bUseInventory": {
+							"type": "bool",
+							"value": true
+						},
+						"m_bCheckLeftHand": {
+							"type": "bool",
+							"value": true
+						},
+						"m_bCheckRightHand": {
+							"type": "bool",
+							"value": true
+						},
+						"m_bShouldSubscribe": {
+							"type": "bool",
+							"value": true
+						},
+						"m_bIncludeItemHiddenInInventory": {
+							"type": "bool",
+							"value": true
+						}
+					},
+					"events": {
+						"OnTrue": { "MakeVisible": ["feedbcaf74e45f0f"] }
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe91547444276b",
+				{
+					"parent": "cafe84a25a0d1757",
+					"name": "hasicaearpiece",
+					"factory": "[assembly:/sound/wwise/exportedwwisedata/states/ai_dialogue_states/hasicaearpiece.wwisestategroup].pc_entitytype",
+					"blueprint": "[assembly:/sound/wwise/exportedwwisedata/states/ai_dialogue_states/hasicaearpiece.wwisestategroup].pc_entityblueprint"
 				}
 			]
 		}

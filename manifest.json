@@ -7,6 +7,7 @@
 	"authors": ["invalid"],
 	"frameworkVersion": "2.33.20",
 	"contentFolders": ["cont"],
+	"dependencies": ["00484C51D383FDAD"],
 	"updateCheck": "https://github.com/scrungofan/handler-dialogue/releases/latest/download/updates.json",
 	"options": [
 		{
