@@ -145,9 +145,9 @@ jobs:
 
             - name: Format
               if: ${{ steps.newVersion.outputs.new-release-version }}
-              uses: actionsx/prettier@v2
+              uses: creyD/prettier_action@v4.6
               with:
-                  args: --write .
+                  prettier_options: --write .
 
             - name: Commit changes
               if: ${{ steps.newVersion.outputs.new-release-version }}
