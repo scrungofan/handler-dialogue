@@ -6,7 +6,7 @@
 	"rootContainer": {
 		"type": "WavFile",
 		"wavName": "pdlc43700_introlevel01_diana_001",
-		"soundtag": "Voiceover_Handler_Dream",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
 		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/wet/makoyana/43700_story/pdlc43700_introlevel01_diana_001.wav].pc_wes",
 		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/wet/makoyana/43700_story/pdlc43700_introlevel01_diana_001.animset].pc_animset",
 		"languages": {

@@ -6,7 +6,7 @@
 	"rootContainer": {
 		"type": "WavFile",
 		"wavName": "ds3707_30sec_diana_001",
-		"soundtag": "Voiceover_Handler_ICAEarpiece_Dream",
+		"soundtag": "Voiceover_Handler_ICAEarpiece",
 		"defaultWav": "[assembly:/sound/wwise/originals/voices/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3707_30sec_diana_001.wav].pc_wes",
 		"defaultFfx": "[assembly:/_pro/facefx/exported_animation/english(us)/paris/3000_elusive/3700_frenchmartini/3700_handler/ds3707_30sec_diana_001.animset].pc_animset",
 		"languages": {
